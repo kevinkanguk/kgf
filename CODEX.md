@@ -18,6 +18,7 @@ Codex는 실행될 때마다 이 문서를 읽고 아래 순서를 **한 번** �
 | `data/raw/catalog/**` | 수집 스크립트(`scripts/scrapers/*.py`)가 쓴다. 새 소스는 새 스크립트를 만들어 쓴다 |
 | `data/raw/prices/**`, `data/verified/**` | 3단계 결과. 형식은 `schema/item.schema.json` |
 | `scripts/scrapers/` | 새 소스용 스크립트를 **추가**할 수 있다. 기존 스크립트는 사이트 구조가 바뀌어 깨졌을 때만 고친다 |
+| `data/kgf_scope.json` | 인증표에 보일 코그페 소스 목록. 새 코그페 소스를 찾으면 `tier`("코그페 표시" 또는 "코그페 공식 링크"), `why`, `evidence`(근거 URL)와 함께 **추가**한다. 여기 없는 소스 품목은 표에 안 나온다 |
 | `output/` | `scripts/build_report.py`만 쓴다. 손으로 고치지 않는다 |
 | `scripts/*.py`(scrapers 제외), `scripts/template.html`, `schema/`, `agents/`, 이 문서 | **수정 금지.** 버그는 `.tmp/codex-report.txt`에 적고 넘어간다 |
 | `.tmp/`, `data/cache/html/` | 임시. 커밋하지 않는다 (gitignore됨) |

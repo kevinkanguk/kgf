@@ -1,0 +1,336 @@
+{
+  "_note": "인증표에 보일 코그페 범위 (2026-10-31 사용자 지시: 코그페 표시가 있는 것만). 여기 없는 소스는 '범위 밖'으로 숨긴다. 제외 근거 예: 몰 메인·전체 목록, 농할·수산대전·추석전(코그페 표시 없음), 지그재그 '대국민 소비축제'(코그페 표시 없음), 오아시스 소상공인 일반 카테고리, LG·삼성·전자랜드 10월 자체 기획전.",
+  "sources": {
+    "appliance-11st-kgf": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/detail"
+    },
+    "appliance-gmarket-kgf-digital": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "appliance-hmall-kgf": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083"
+    },
+    "appliance-lge-blackfriday-kgf": {
+      "tier": "코그페 표시",
+      "why": "LGE.COM 블랙프라이데이 with 코리아 그랜드 페스티벌",
+      "evidence": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01036002"
+    },
+    "appliance-lotteon-kgf": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "appliance-skstoa-kgf": {
+      "tier": "코그페 표시",
+      "why": "SK스토아 코리아 그랜드페스티벌 기획전",
+      "evidence": "https://www.skstoa.com/plan/event/detail/2026103519"
+    },
+    "appliance-ssg-kgf": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "fashion_beauty-epost-kgf-apparel-beauty": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "food-hmall-kgf": {
+      "tier": "코그페 표시",
+      "why": "H몰 코그페 배너 기획전",
+      "evidence": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=3107994"
+    },
+    "food-hmall-price-stability": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083"
+    },
+    "food-oasis-kgf": {
+      "tier": "코그페 표시",
+      "why": "오아시스 코리아그랜드페스티벌 이벤트 페이지(26년 매칭업체 탭만)",
+      "evidence": "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
+      "channel_contains": "26년 매칭업체"
+    },
+    "food-skstoa-kgf-food": {
+      "tier": "코그페 표시",
+      "why": "SK스토아 코리아 그랜드페스티벌 기획전",
+      "evidence": "https://www.skstoa.com/plan/event/detail/2026103519"
+    },
+    "food-ssg-kgf-tab1": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-ssg-kgf-tab2": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-ssg-kgf-tab3": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-ssg-kgf-tab4": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-ssg-kgf-tab5": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-ssg-kgf-tab6": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-ssg-kgf-tab7": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-11st-sosang-baby": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756469/products"
+    },
+    "mall-11st-sosang-beauty": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757689/products"
+    },
+    "mall-11st-sosang-fashion": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757690/products"
+    },
+    "mall-11st-sosang-fresh": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756462/products"
+    },
+    "mall-11st-sosang-health": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756468/products"
+    },
+    "mall-11st-sosang-living": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757688/products"
+    },
+    "mall-11st-sosang-processed": {
+      "tier": "코그페 공식 링크",
+      "why": "11번가 소상공인 온라인 판로지원 기획전 (코그페 공식 홈 링크)",
+      "evidence": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756467/products"
+    },
+    "mall-epost-kgf-p1": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p2": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p3": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p4": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p5": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p6": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p7": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p8": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-epost-kgf-p9": {
+      "tier": "코그페 표시",
+      "why": "우체국쇼핑 코그페 기획전(10027801)",
+      "evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801"
+    },
+    "mall-gmarket-kgf-beauty-fashion": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "mall-gmarket-kgf-digital": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "mall-gmarket-kgf-fresh": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "mall-gmarket-kgf-health": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "mall-gmarket-kgf-living": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "mall-gmarket-kgf-processed": {
+      "tier": "코그페 표시",
+      "why": "G마켓 코리아그랜드세일페스타 기획전",
+      "evidence": "https://rpp.gmarket.co.kr/?exhib=280311"
+    },
+    "mall-hmall-sosang-coupon-beauty-fashion": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-coupon-food": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-coupon-living": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-reco-1": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-reco-2": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-reco-3": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-reco-4": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-reco-5": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-hmall-sosang-reco-6": {
+      "tier": "코그페 공식 링크",
+      "why": "현대Hmall 물가안정 프로젝트 (코그페 공식 홈 링크)",
+      "evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1"
+    },
+    "mall-lotteon-sosang-beauty": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-lotteon-sosang-fashion": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-lotteon-sosang-fresh-fruit": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-lotteon-sosang-fresh-meat": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-lotteon-sosang-hobby-kids-pet": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-lotteon-sosang-living": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-lotteon-sosang-processed": {
+      "tier": "코그페 공식 링크",
+      "why": "롯데온 소상공인 가을맞이 쇼핑특별전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.lotteon.com/display/planV2/planDetail/112088"
+    },
+    "mall-skstoa-kgf": {
+      "tier": "코그페 표시",
+      "why": "SK스토아 코리아 그랜드페스티벌 기획전",
+      "evidence": "https://www.skstoa.com/plan/event/detail/2026103519"
+    },
+    "mall-ssg-sosang-drink-dairy": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-health-honey": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-md-pick": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-meal-kimchi": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-meat-fish": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-seasoning-noodle": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-snack-bakery": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "mall-ssg-sosang-veg-fruit-grain": {
+      "tier": "코그페 공식 링크",
+      "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
+      "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    }
+  }
+}

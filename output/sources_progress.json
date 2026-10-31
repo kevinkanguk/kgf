@@ -5,9 +5,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/samsung-tv/",
   "est_items": 13,
-  "items": 48,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-refrigerator",
@@ -17,7 +17,7 @@
   "est_items": 8,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-kimchi",
@@ -25,9 +25,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/kimchi-refrigerator/",
   "est_items": 13,
-  "items": 21,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-kitchen",
@@ -35,9 +35,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/kitchen-appliance/",
   "est_items": 45,
-  "items": 25,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-clothcare",
@@ -45,9 +45,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/bespoke-grande-ai/",
   "est_items": 49,
-  "items": 27,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-aircon",
@@ -55,9 +55,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/air-conditioners-inhome/",
   "est_items": null,
-  "items": 29,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-systemaircon",
@@ -65,9 +65,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/system-air-conditioners-inhome/",
   "est_items": null,
-  "items": 68,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-vacuum",
@@ -75,9 +75,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/vacuum-cleaner/",
   "est_items": null,
-  "items": 51,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-aircleaner",
@@ -85,9 +85,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/air-cleaner/",
   "est_items": null,
-  "items": 51,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-monitor",
@@ -95,9 +95,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/samsung-monitor/",
   "est_items": null,
-  "items": 67,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-movingstyle",
@@ -105,9 +105,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/samsung-movingstyle/",
   "est_items": null,
-  "items": 15,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-waterpurifier",
@@ -115,9 +115,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/ai-subs-kitchen/water-purifier/",
   "est_items": null,
-  "items": 3,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-tvsubs",
@@ -125,9 +125,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/2026TV/",
   "est_items": null,
-  "items": 48,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-galaxybook",
@@ -135,9 +135,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/galaxybook6_campusfesta/",
   "est_items": null,
-  "items": 1,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-kitchenfit",
@@ -147,7 +147,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-odyssey",
@@ -155,9 +155,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/2026-oled-benefit/",
   "est_items": null,
-  "items": 27,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-samsung-jbl",
@@ -165,9 +165,9 @@
   "channel": "삼성닷컴",
   "url": "https://www.samsung.com/sec/event/harman-kardon/",
   "est_items": null,
-  "items": 30,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-blackfriday-kgf",
@@ -185,9 +185,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01027006",
   "est_items": null,
-  "items": 77,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-waterpurifier-clean",
@@ -195,9 +195,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01037002",
   "est_items": null,
-  "items": 38,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01014011",
@@ -205,9 +205,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01014011",
   "est_items": null,
-  "items": 53,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00969003",
@@ -215,9 +215,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00969003",
   "est_items": null,
-  "items": 16,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00996013",
@@ -225,9 +225,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00996013",
   "est_items": null,
-  "items": 27,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01011005",
@@ -235,9 +235,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011005",
   "est_items": null,
-  "items": 27,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00998001",
@@ -245,9 +245,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00998001",
   "est_items": null,
-  "items": 10,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00983007",
@@ -255,9 +255,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
   "est_items": null,
-  "items": 4,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00980007",
@@ -265,9 +265,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00980007",
   "est_items": null,
-  "items": 75,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00923012",
@@ -275,9 +275,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00923012",
   "est_items": null,
-  "items": 62,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00984001",
@@ -285,9 +285,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00984001",
   "est_items": null,
-  "items": 17,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01003006",
@@ -295,9 +295,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01003006",
   "est_items": null,
-  "items": 3,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01000002",
@@ -305,9 +305,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01000002",
   "est_items": null,
-  "items": 27,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00968003",
@@ -315,9 +315,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00968003",
   "est_items": null,
-  "items": 11,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01011002",
@@ -325,9 +325,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011002",
   "est_items": null,
-  "items": 8,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01011001",
@@ -335,9 +335,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011001",
   "est_items": null,
-  "items": 3,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01011003",
@@ -345,9 +345,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011003",
   "est_items": null,
-  "items": 1,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01015002",
@@ -355,9 +355,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01015002",
   "est_items": null,
-  "items": 17,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00869002",
@@ -365,9 +365,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00869002",
   "est_items": null,
-  "items": 37,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00714002",
@@ -375,9 +375,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00714002",
   "est_items": null,
-  "items": 133,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe00356001",
@@ -385,9 +385,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00356001",
   "est_items": null,
-  "items": 430,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-pe01018005",
@@ -395,9 +395,9 @@
   "channel": "LGE.COM",
   "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01018005",
   "est_items": null,
-  "items": 56,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-bestshop-events",
@@ -407,7 +407,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-lge-newsroom",
@@ -417,7 +417,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-eland-kimchi-fridge",
@@ -425,9 +425,9 @@
   "channel": "전자랜드",
   "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12192",
   "est_items": null,
-  "items": 15,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-eland-winter",
@@ -435,9 +435,9 @@
   "channel": "전자랜드",
   "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12190",
   "est_items": null,
-  "items": 67,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-eland-legend",
@@ -445,9 +445,9 @@
   "channel": "전자랜드",
   "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12187",
   "est_items": null,
-  "items": 139,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-eland-review",
@@ -455,9 +455,9 @@
   "channel": "전자랜드",
   "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12186",
   "est_items": null,
-  "items": 121,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-eland-galaxybook",
@@ -467,7 +467,7 @@
   "est_items": 1,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-eland-main",
@@ -475,9 +475,9 @@
   "channel": "전자랜드",
   "url": "https://www.etlandmall.co.kr/",
   "est_items": null,
-  "items": 257,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-gmarket-kgf-digital",
@@ -497,7 +497,7 @@
   "est_items": 144,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-himart",
@@ -507,7 +507,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-11st-kgf",
@@ -567,7 +567,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "appliance-naver-kgf",
@@ -577,7 +577,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-hyundai-oct",
@@ -585,9 +585,9 @@
   "channel": "카눈(판매조건 집계)",
   "url": "https://www.carnoon.co.kr/newcar/discount/111",
   "est_items": 45,
-  "items": 43,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-kia-oct",
@@ -597,7 +597,7 @@
   "est_items": 35,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-chevrolet-oct",
@@ -607,7 +607,7 @@
   "est_items": 2,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-gmc-oct",
@@ -617,7 +617,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-kgm-oct",
@@ -627,7 +627,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-renault-oct",
@@ -637,7 +637,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-genesis-oct",
@@ -647,7 +647,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-carnoon-delivery-term",
@@ -657,7 +657,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-getcha-monthly-promo-2026",
@@ -667,7 +667,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-wikitree-oct-promo",
@@ -675,9 +675,9 @@
   "channel": "위키트리",
   "url": "https://www.wikitree.co.kr/articles/989061",
   "est_items": null,
-  "items": 41,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-sateconomy-kgf-5makers",
@@ -687,7 +687,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-hyundai-certified-used",
@@ -695,9 +695,9 @@
   "channel": "현대 인증중고차",
   "url": "https://certified.hyundai.com",
   "est_items": null,
-  "items": 1582,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-kia-certified-used",
@@ -707,7 +707,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-hyundai-official-benefit",
@@ -717,7 +717,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-kia-official-benefit",
@@ -727,7 +727,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-kgf-discountcate",
@@ -737,7 +737,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-kgf-sme",
@@ -747,7 +747,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "auto-kgf-regional",
@@ -757,7 +757,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-outer",
@@ -765,9 +765,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059",
   "est_items": 294,
-  "items": 296,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-blouse",
@@ -777,7 +777,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-pants",
@@ -787,7 +787,7 @@
   "est_items": 166,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-skirt-onepiece",
@@ -797,7 +797,7 @@
   "est_items": 250,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-top-a",
@@ -807,7 +807,7 @@
   "est_items": 250,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-top-b",
@@ -817,7 +817,7 @@
   "est_items": 236,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-denim",
@@ -827,7 +827,7 @@
   "est_items": 53,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-innerwear-homewear",
@@ -837,7 +837,7 @@
   "est_items": 101,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-jewelry",
@@ -847,7 +847,7 @@
   "est_items": 167,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-bag",
@@ -857,7 +857,7 @@
   "est_items": 79,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-shoes",
@@ -867,7 +867,7 @@
   "est_items": 90,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-fashion-acc",
@@ -877,7 +877,7 @@
   "est_items": 120,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-etc",
@@ -887,7 +887,7 @@
   "est_items": 24,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-zigzag-kgf-stores",
@@ -897,7 +897,7 @@
   "est_items": 354,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-wconcept-kgf-beauty-coupon",
@@ -907,7 +907,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-wconcept-kgf-wpick-makeup",
@@ -917,7 +917,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-wconcept-kgf-wpick-skincare",
@@ -927,7 +927,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-wconcept-kgf-wpick-hairbody-scent",
@@ -937,7 +937,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-wconcept-kgf-wpick-innerbeauty-food",
@@ -947,7 +947,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-gmarket-kgf-fashionbeauty",
@@ -957,7 +957,7 @@
   "est_items": 360,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-11st-sme-fashion",
@@ -967,7 +967,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-11st-sme-beautyhealth",
@@ -977,7 +977,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-skstoa-kgf-fashionbeauty",
@@ -987,7 +987,7 @@
   "est_items": 71,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-epost-kgf-apparel-beauty",
@@ -1007,7 +1007,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-hmall-kgf-price",
@@ -1017,7 +1017,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-nsmall-kgf",
@@ -1027,7 +1027,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-naver-kgf-shoppingfesta",
@@ -1037,7 +1037,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-kshoppingfesta-dongsaeng",
@@ -1047,7 +1047,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-grip-kgf",
@@ -1057,7 +1057,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-kgf-sme-online",
@@ -1067,7 +1067,7 @@
   "est_items": 94,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-kgf-sme-offline-fashion",
@@ -1077,7 +1077,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-kodufe-dutyfree",
@@ -1085,9 +1085,9 @@
   "channel": "듀티프리페스타",
   "url": "http://kodufe.kr/index_ko.html",
   "est_items": 12,
-  "items": 12,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "fashion_beauty-ksalefesta-official",
@@ -1097,7 +1097,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kgf-sme-store",
@@ -1107,7 +1107,7 @@
   "est_items": 54,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kgf-regional-hubs",
@@ -1117,7 +1117,7 @@
   "est_items": 40,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kgf-discountcate",
@@ -1127,7 +1127,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-foodnuri-nonghal-weekly",
@@ -1135,9 +1135,9 @@
   "channel": "농할 누리집(aT)",
   "url": "https://sale.foodnuri.go.kr/ft/ftSale/list.do",
   "est_items": 17,
-  "items": 17,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-foodnuri-nonghal-participants",
@@ -1145,9 +1145,9 @@
   "channel": "농할 누리집(aT)",
   "url": "https://sale.foodnuri.go.kr/ft/ftCmpn/list.do",
   "est_items": 120,
-  "items": 89,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-foodnuri-nonghal-voucher",
@@ -1155,9 +1155,9 @@
   "channel": "농할 누리집(aT)",
   "url": "https://sale.foodnuri.go.kr/ft/market/list.do",
   "est_items": 0,
-  "items": 9104,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nonghyupmall-nonghal-daejeon",
@@ -1165,9 +1165,9 @@
   "channel": "농협몰",
   "url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
   "est_items": 300,
-  "items": 133,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nonghyupmall-pickled-cabbage",
@@ -1175,9 +1175,9 @@
   "channel": "농협몰",
   "url": "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004943&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
   "est_items": 40,
-  "items": 55,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nonghyupmall-main-nonghal",
@@ -1185,9 +1185,9 @@
   "channel": "농협몰",
   "url": "https://www.nonghyupmall.com/",
   "est_items": 150,
-  "items": 3,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-inthemarket-nonghal",
@@ -1195,9 +1195,9 @@
   "channel": "인더마켓(온누리몰)",
   "url": "https://inthemarket.co.kr/?pn=product.list&cuid=763",
   "est_items": 300,
-  "items": 1096,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-inthemarket-soosan",
@@ -1205,9 +1205,9 @@
   "channel": "인더마켓(온누리몰)",
   "url": "https://inthemarket.co.kr/?pn=product.list&cuid=1481",
   "est_items": 250,
-  "items": 1186,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-all",
@@ -1215,9 +1215,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh",
   "est_items": 240,
-  "items": 872,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh01",
@@ -1225,9 +1225,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh01",
   "est_items": 30,
-  "items": 65,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh15",
@@ -1235,9 +1235,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh15",
   "est_items": 30,
-  "items": 55,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh35",
@@ -1245,9 +1245,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh35",
   "est_items": 20,
-  "items": 1,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh45",
@@ -1255,9 +1255,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh45",
   "est_items": 60,
-  "items": 270,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh60",
@@ -1265,9 +1265,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh60",
   "est_items": 20,
-  "items": 16,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh55",
@@ -1275,9 +1275,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh55",
   "est_items": 60,
-  "items": 153,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh65",
@@ -1285,9 +1285,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh65",
   "est_items": 60,
-  "items": 138,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-nonghal-nh75",
@@ -1295,9 +1295,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh75",
   "est_items": 40,
-  "items": 127,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-kimjang",
@@ -1305,9 +1305,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh85",
   "est_items": 70,
-  "items": 47,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nurimarket-hanwoo",
@@ -1315,9 +1315,9 @@
   "channel": "온누리마켓(비케이물산)",
   "url": "https://nurimarket.co.kr/shop/list.php?ca_id=5010",
   "est_items": 50,
-  "items": 953,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-saenong-nonghal",
@@ -1325,9 +1325,9 @@
   "channel": "새농(친환경몰)",
   "url": "https://www.saenong.com/benefit/nonghwal.html",
   "est_items": 100,
-  "items": 43,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-mggoon-nonghal-coupon",
@@ -1335,9 +1335,9 @@
   "channel": "포라(mggoon)",
   "url": "https://mggoon.co.kr/Goods/List?cno=39&pageType=DEFAULT",
   "est_items": 100,
-  "items": 9,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-mggoon-soosan",
@@ -1345,9 +1345,9 @@
   "channel": "포라(mggoon)",
   "url": "https://mggoon.co.kr/Goods/List?cno=38&pageType=DEFAULT",
   "est_items": 100,
-  "items": 29,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-iksanmall-nonghal",
@@ -1355,9 +1355,9 @@
   "channel": "익산몰",
   "url": "https://www.iksanmall.com/",
   "est_items": 60,
-  "items": 17,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-icoop-kimjang",
@@ -1365,9 +1365,9 @@
   "channel": "자연드림(icoop)",
   "url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
   "est_items": 60,
-  "items": 6,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-megamart-kimjang",
@@ -1375,9 +1375,9 @@
   "channel": "메가마트",
   "url": "https://www.megamart.com/exhibition/1905864",
   "est_items": 40,
-  "items": 36,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hansalim-main",
@@ -1397,7 +1397,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-001",
@@ -1407,7 +1407,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-002",
@@ -1417,7 +1417,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-003",
@@ -1427,7 +1427,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-004",
@@ -1437,7 +1437,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-005",
@@ -1447,7 +1447,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-006",
@@ -1457,7 +1457,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboardmarket-part-007",
@@ -1467,7 +1467,7 @@
   "est_items": 15,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hanwooboard-sopurise",
@@ -1475,9 +1475,9 @@
   "channel": "한우자조금(소프라이즈 한우세일)",
   "url": "https://www.hanwooboard.or.kr/",
   "est_items": 0,
-  "items": 9,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-fsale-online-malls",
@@ -1485,9 +1485,9 @@
   "channel": "수산대전 공식(fsale.kr 온라인쇼핑몰)",
   "url": "https://www.fsale.kr/bbs/board.php?bo_table=coupon&sca=%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0",
   "est_items": 22,
-  "items": 22,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-fsale-offline-markets",
@@ -1495,9 +1495,9 @@
   "channel": "수산대전 공식(fsale.kr 오프라인)",
   "url": "https://www.fsale.kr/bbs/board.php?bo_table=coupon&sca=%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8",
   "est_items": 24,
-  "items": 24,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-fsale-direct-market",
@@ -1505,9 +1505,9 @@
   "channel": "수산대전 공식(직거래장터)",
   "url": "https://www.fsale.kr/bbs/board.php?bo_table=directmarket",
   "est_items": 94,
-  "items": 94,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-oasis-soosan",
@@ -1515,9 +1515,9 @@
   "channel": "오아시스마켓",
   "url": "https://www.oasis.co.kr/event/2026/soosanKorea_0909",
   "est_items": 60,
-  "items": 417,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hmall-soosan",
@@ -1525,9 +1525,9 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/pd/dpa/searchSpexSectItem?sectId=2829600",
   "est_items": 60,
-  "items": 1427,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-lotteon-soosan",
@@ -1535,9 +1535,9 @@
   "channel": "롯데ON",
   "url": "https://www.lotteon.com/display/planV2/planDetail/116786",
   "est_items": 60,
-  "items": 415,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-ssg-soosan",
@@ -1545,9 +1545,9 @@
   "channel": "SSG닷컴",
   "url": "https://event.ssg.com/eventDetail.ssg?nevntId=1000000024632&domainSiteNo=6005",
   "est_items": 60,
-  "items": 364,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-epost-soosan",
@@ -1555,9 +1555,9 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027888",
   "est_items": 30,
-  "items": 419,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-hnsmall-soosan",
@@ -1565,9 +1565,9 @@
   "channel": "홈앤쇼핑",
   "url": "https://m.hnsmall.com/category/planshop/2026087149",
   "est_items": 48,
-  "items": 549,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-jnmall-soosan",
@@ -1575,9 +1575,9 @@
   "channel": "남도장터",
   "url": "https://www.jnmall.kr/category/promotion/exhibition?&code=0d4tUTg4&name=%EC%88%98%EC%82%B0%EB%8C%80%EC%A0%84%20%EC%B6%94%EC%84%9D%20%ED%8A%B9%EB%B3%84%EC%A0%84-3%EC%A3%BC%EC%B0%A8&promotionSeq=308",
   "est_items": 78,
-  "items": 857,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-farmerstore88-soosan",
@@ -1585,9 +1585,9 @@
   "channel": "농가살리기",
   "url": "https://www.farmerstore88.com/Goods/List?cno=460&pageType=DEFAULT&ch_idx=407",
   "est_items": 50,
-  "items": 36,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-dolfarmer-soosan",
@@ -1595,9 +1595,9 @@
   "channel": "돌쇠네농산물",
   "url": "https://www.dolfarmer.com/Goods/Coupon_New?cp_idx=22",
   "est_items": 40,
-  "items": 35,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-tongsusan-soosan",
@@ -1605,9 +1605,9 @@
   "channel": "통수산",
   "url": "https://www.tong-susan.com/Goods/List?sval=%EC%88%98%EC%82%B0%EB%8C%80%EC%A0%84&nocache=Y",
   "est_items": 60,
-  "items": 19,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-cuma-soosan",
@@ -1615,9 +1615,9 @@
   "channel": "오늘과일(cuma)",
   "url": "https://www.cuma.co.kr/?main=270",
   "est_items": 20,
-  "items": 14,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kakao-soosan",
@@ -1625,9 +1625,9 @@
   "channel": "카카오 톡딜",
   "url": "https://store.kakao.com/promotion/2435?ad=0401_sales_fishmarket&area=br",
   "est_items": 30,
-  "items": 104,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-iseamarket-soosan",
@@ -1637,7 +1637,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-thecrab44-soosan",
@@ -1647,7 +1647,7 @@
   "est_items": 20,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-gdbs-soosan",
@@ -1657,7 +1657,7 @@
   "est_items": 20,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-thankyoufarmers-soosan",
@@ -1667,7 +1667,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-vikingsmarket-soosan",
@@ -1677,7 +1677,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-nambufood-soosan",
@@ -1687,7 +1687,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-bbsusan-soosan",
@@ -1697,7 +1697,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-soombi-soosan",
@@ -1707,7 +1707,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-koreasusan1-soosan",
@@ -1717,7 +1717,7 @@
   "est_items": 30,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-lottemart-soosan",
@@ -1725,9 +1725,9 @@
   "channel": "롯데마트",
   "url": "https://www.lottemart.com/",
   "est_items": 40,
-  "items": 73,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-gmarket-kgf-fresh",
@@ -1737,7 +1737,7 @@
   "est_items": 120,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-gmarket-kgf-processed",
@@ -1747,7 +1747,7 @@
   "est_items": 120,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-gmarket-kgf-health",
@@ -1757,7 +1757,7 @@
   "est_items": 96,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-oasis-kgf",
@@ -1765,7 +1765,7 @@
   "channel": "오아시스마켓",
   "url": "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
   "est_items": 100,
-  "items": 6424,
+  "items": 1080,
   "verified": 0,
   "status": "수집완료"
  },
@@ -1777,7 +1777,7 @@
   "est_items": 60,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-epost-category-food",
@@ -1785,9 +1785,9 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/main/main.do",
   "est_items": 1000,
-  "items": 24696,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-11st-kgf-fresh",
@@ -1797,7 +1797,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-11st-kgf-processed",
@@ -1807,7 +1807,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-11st-kgf-health",
@@ -1817,7 +1817,7 @@
   "est_items": 60,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-11st-onnuri-market",
@@ -1825,9 +1825,9 @@
   "channel": "11번가 온누리마켓",
   "url": "https://plan.11st.co.kr/plan/front/exhibitions/221",
   "est_items": 100,
-  "items": 967,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-ssg-kgf-tab1",
@@ -1937,7 +1937,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-nsmall-kgf",
@@ -1947,7 +1947,7 @@
   "est_items": 40,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-naver-kgf100",
@@ -1957,7 +1957,7 @@
   "est_items": 200,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-onnuri-sijang-kgf",
@@ -1965,9 +1965,9 @@
   "channel": "온누리 전통시장(현대이지웰)",
   "url": "https://www.onnuri-sijang.com/onnuri/main",
   "est_items": 200,
-  "items": 25495,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-noljang-onnuri",
@@ -1975,9 +1975,9 @@
   "channel": "마켓트리(온누리놀장)",
   "url": "https://mall.noljang.co.kr/",
   "est_items": 100,
-  "items": 21494,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-lotteon-onnuri-market",
@@ -1987,7 +1987,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kimsclub-nonghal",
@@ -1995,9 +1995,9 @@
   "channel": "킴스클럽(이랜드몰)",
   "url": "https://kimsclub.elandmall.co.kr/",
   "est_items": 100,
-  "items": 349,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-emart-nonghal",
@@ -2005,9 +2005,9 @@
   "channel": "이마트(SSG 이마트몰)",
   "url": "https://store.emart.com/main/main.do",
   "est_items": 100,
-  "items": 189,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-lottemart-nonghal",
@@ -2017,7 +2017,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-homeplus",
@@ -2025,9 +2025,9 @@
   "channel": "홈플러스",
   "url": "https://front.homeplus.co.kr/",
   "est_items": 100,
-  "items": 56,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kurly",
@@ -2035,9 +2035,9 @@
   "channel": "마켓컬리",
   "url": "https://www.kurly.com/main",
   "est_items": 100,
-  "items": 262,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-gsthefresh",
@@ -2047,7 +2047,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-baemin-bmart-5th-market",
@@ -2057,7 +2057,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-ilovegohyang",
@@ -2065,9 +2065,9 @@
   "channel": "고향사랑e음 답례품",
   "url": "https://www.ilovegohyang.go.kr/goods/index-main.html",
   "est_items": 300,
-  "items": 14368,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-epost-hometown-mall",
@@ -2075,9 +2075,9 @@
   "channel": "우체국쇼핑 지역특산물몰",
   "url": "https://mall.epost.kr",
   "est_items": 500,
-  "items": 25090,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "food-kgf-news-khan",
@@ -2087,7 +2087,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-kgf-sme-online",
@@ -2097,7 +2097,7 @@
   "est_items": 47,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-kgf-discountcate",
@@ -2107,7 +2107,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-kgf-event-etc",
@@ -2117,7 +2117,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-kgf-event-regional",
@@ -2127,7 +2127,7 @@
   "est_items": 0,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-11st-sosang-fresh",
@@ -2155,7 +2155,7 @@
   "channel": "11번가",
   "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756468/products",
   "est_items": 84,
-  "items": 85,
+  "items": 73,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2175,7 +2175,7 @@
   "channel": "11번가",
   "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757688/products",
   "est_items": 24,
-  "items": 24,
+  "items": 22,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2185,7 +2185,7 @@
   "channel": "11번가",
   "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757689/products",
   "est_items": 29,
-  "items": 29,
+  "items": 26,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2195,7 +2195,7 @@
   "channel": "11번가",
   "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757690/products",
   "est_items": 32,
-  "items": 33,
+  "items": 32,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2215,9 +2215,9 @@
   "channel": "G마켓",
   "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870406",
   "est_items": 120,
-  "items": 437,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "대기"
  },
  {
   "source_id": "mall-gmarket-kgf-health",
@@ -2235,7 +2235,7 @@
   "channel": "G마켓",
   "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870410",
   "est_items": null,
-  "items": 31,
+  "items": 7,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2245,7 +2245,7 @@
   "channel": "G마켓",
   "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870412",
   "est_items": 144,
-  "items": 1796,
+  "items": 876,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2295,7 +2295,7 @@
   "channel": "롯데온",
   "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=living",
   "est_items": 539,
-  "items": 539,
+  "items": 535,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2325,7 +2325,7 @@
   "channel": "롯데온",
   "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=hobby-kids-pet",
   "est_items": 192,
-  "items": 192,
+  "items": 172,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2345,9 +2345,9 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=food",
   "est_items": 164,
-  "items": 164,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "대기"
  },
  {
   "source_id": "mall-hmall-sosang-coupon-living",
@@ -2355,9 +2355,9 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=living",
   "est_items": 139,
-  "items": 139,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "대기"
  },
  {
   "source_id": "mall-hmall-sosang-coupon-beauty-fashion",
@@ -2365,7 +2365,7 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=beauty-fashion",
   "est_items": 135,
-  "items": 2129,
+  "items": 2099,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2405,7 +2405,7 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=901-1200",
   "est_items": 300,
-  "items": 300,
+  "items": 299,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2425,7 +2425,7 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=1501-1739",
   "est_items": 239,
-  "items": 239,
+  "items": 238,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2437,7 +2437,7 @@
   "est_items": 76,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-grip-kgf",
@@ -2447,7 +2447,7 @@
   "est_items": 100,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-ssg-sosang-md-pick",
@@ -2455,7 +2455,7 @@
   "channel": "SSG닷컴",
   "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=md-pick",
   "est_items": 73,
-  "items": 26,
+  "items": 10,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2465,7 +2465,7 @@
   "channel": "SSG닷컴",
   "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=health-honey",
   "est_items": 73,
-  "items": 65,
+  "items": 4,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2475,9 +2475,9 @@
   "channel": "SSG닷컴",
   "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=meat-fish",
   "est_items": 73,
-  "items": 122,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "대기"
  },
  {
   "source_id": "mall-ssg-sosang-veg-fruit-grain",
@@ -2485,7 +2485,7 @@
   "channel": "SSG닷컴",
   "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=veg-fruit-grain",
   "est_items": 73,
-  "items": 77,
+  "items": 2,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2515,9 +2515,9 @@
   "channel": "SSG닷컴",
   "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=meal-kimchi",
   "est_items": 73,
-  "items": 97,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "대기"
  },
  {
   "source_id": "mall-ssg-sosang-seasoning-noodle",
@@ -2525,9 +2525,9 @@
   "channel": "SSG닷컴",
   "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=seasoning-noodle",
   "est_items": 73,
-  "items": 96,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "대기"
  },
  {
   "source_id": "mall-epost-kgf-p1",
@@ -2535,7 +2535,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=1-7",
   "est_items": 280,
-  "items": 280,
+  "items": 277,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2545,7 +2545,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=8-14",
   "est_items": 280,
-  "items": 280,
+  "items": 275,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2555,7 +2555,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=15-21",
   "est_items": 280,
-  "items": 280,
+  "items": 277,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2565,7 +2565,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=22-28",
   "est_items": 280,
-  "items": 280,
+  "items": 275,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2575,7 +2575,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=29-35",
   "est_items": 280,
-  "items": 280,
+  "items": 277,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2585,7 +2585,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=36-42",
   "est_items": 280,
-  "items": 280,
+  "items": 272,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2595,7 +2595,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=43-49",
   "est_items": 280,
-  "items": 280,
+  "items": 268,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2605,7 +2605,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=50-56",
   "est_items": 280,
-  "items": 280,
+  "items": 271,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2615,7 +2615,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=57-60",
   "est_items": 155,
-  "items": 155,
+  "items": 148,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2625,9 +2625,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=cardigan-outer",
   "est_items": 294,
-  "items": 296,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-blouse-shirt",
@@ -2635,9 +2635,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=blouse-shirt",
   "est_items": 100,
-  "items": 101,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-pants",
@@ -2647,7 +2647,7 @@
   "est_items": 166,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-skirt-dress",
@@ -2655,9 +2655,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=skirt-dress",
   "est_items": 250,
-  "items": 251,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-tops",
@@ -2667,7 +2667,7 @@
   "est_items": 486,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-denim",
@@ -2675,9 +2675,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=denim",
   "est_items": 53,
-  "items": 54,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-innerwear-homewear",
@@ -2685,9 +2685,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=innerwear-homewear",
   "est_items": 101,
-  "items": 101,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-jewelry",
@@ -2695,9 +2695,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=jewelry",
   "est_items": 167,
-  "items": 167,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-bag",
@@ -2707,7 +2707,7 @@
   "est_items": 79,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-shoes",
@@ -2715,9 +2715,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=shoes",
   "est_items": 90,
-  "items": 91,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-fashion-acc",
@@ -2725,9 +2725,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=fashion-acc",
   "est_items": 120,
-  "items": 120,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-zigzag-kgf-etc",
@@ -2735,9 +2735,9 @@
   "channel": "지그재그",
   "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=etc",
   "est_items": 24,
-  "items": 24,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-oasis-kgf",
@@ -2747,7 +2747,7 @@
   "est_items": 70,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-wconcept-kgf",
@@ -2757,7 +2757,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-naver-kgf",
@@ -2767,7 +2767,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-kshoppingfesta",
@@ -2777,7 +2777,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-ksalefesta",
@@ -2787,7 +2787,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-ilovegohyang-gift",
@@ -2797,7 +2797,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "mall-khstore-heritage",
@@ -2805,9 +2805,9 @@
   "channel": "K-Heritage 스토어(국가유산진흥원)",
   "url": "https://khstore.or.kr/",
   "est_items": null,
-  "items": 809,
+  "items": 0,
   "verified": 0,
-  "status": "수집완료"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-kto-staysale-official",
@@ -2817,7 +2817,7 @@
   "est_items": 5,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-kgf-discountcate",
@@ -2827,7 +2827,7 @@
   "est_items": 11,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-kodufe-official",
@@ -2837,7 +2837,7 @@
   "est_items": 12,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-11st-staysale",
@@ -2847,7 +2847,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-gmarket-staysale",
@@ -2857,7 +2857,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-kakao-booking-staysale",
@@ -2867,7 +2867,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-myrealtrip-staysale",
@@ -2877,7 +2877,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-nol-staysale",
@@ -2887,7 +2887,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-triptopaz-staysale",
@@ -2897,7 +2897,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-tripbtoz-staysale",
@@ -2907,7 +2907,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-stayfolio-staysale",
@@ -2917,7 +2917,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-webtour-staysale",
@@ -2927,7 +2927,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-privia-staysale",
@@ -2937,7 +2937,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-momgo-staysale",
@@ -2947,7 +2947,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-pet-life-staysale",
@@ -2957,7 +2957,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-ota-goodchoice-staysale",
@@ -2967,7 +2967,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-lotte-dutyfreefesta",
@@ -2977,7 +2977,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-shilla-dutyfreefesta",
@@ -2987,7 +2987,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-shinsegae-dutyfreefesta",
@@ -2997,7 +2997,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-hyundai-dutyfreefesta",
@@ -3007,7 +3007,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-shillaipark-dutyfreefesta",
@@ -3017,7 +3017,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-jdc-dutyfreefesta",
@@ -3027,7 +3027,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-jto-dutyfreefesta",
@@ -3037,7 +3037,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-kbk-dutyfreefesta",
@@ -3047,7 +3047,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-city-dutyfreefesta",
@@ -3057,7 +3057,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-busan-dutyfreefesta",
@@ -3067,7 +3067,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-grand-dutyfreefesta",
@@ -3077,7 +3077,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-dfs-panpan-dutyfreefesta",
@@ -3087,7 +3087,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-jejuair-special",
@@ -3097,7 +3097,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-twayair-special",
@@ -3107,7 +3107,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-jinair-special",
@@ -3117,7 +3117,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-airbusan-special",
@@ -3127,7 +3127,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-myrealtrip-flights-special",
@@ -3137,7 +3137,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-interpark-tour-special",
@@ -3147,7 +3147,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-hanatour-special",
@@ -3157,7 +3157,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-modetour-special",
@@ -3167,7 +3167,7 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  },
  {
   "source_id": "travel_dutyfree-travel-ybtour-special",
@@ -3177,6 +3177,6 @@
   "est_items": null,
   "items": 0,
   "verified": 0,
-  "status": "대기"
+  "status": "범위 밖(코그페 표시 없음)"
  }
 ]

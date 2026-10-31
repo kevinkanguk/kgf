@@ -81,8 +81,28 @@ def load():
                 it["stage"] = stage
                 merged[it["item_id"]] = {**merged.get(it["item_id"], {}), **it}
     items = [enrich(it) for it in merged.values()]
+    if "--all" not in sys.argv:
+        items = kgf_only(items)
     items.sort(key=lambda x: (x["real_discount_pct"] is None, -(x["real_discount_pct"] or 0)))
     return items
+
+
+def kgf_only(items):
+    """코그페 표시(또는 공식 홈 링크) 기획전 품목만 남긴다. 범위: data/kgf_scope.json. 같은 상품 링크는 한 번만."""
+    scope = json.loads((ROOT / "data" / "kgf_scope.json").read_text(encoding="utf-8"))["sources"]
+    kept, seen = [], set()
+    for it in items:
+        sc = scope.get(it.get("source_id"))
+        if not sc or (sc.get("channel_contains") and sc["channel_contains"] not in (it.get("channel") or "")):
+            continue
+        key = it.get("buy_url") or it["item_id"]
+        if key in seen:
+            continue
+        seen.add(key)
+        it["kgf_scope"] = sc["tier"]
+        it["kgf_evidence"] = it.get("kgf_evidence") or sc["evidence"]
+        kept.append(it)
+    return kept
 
 
 def progress(items):
@@ -91,6 +111,7 @@ def progress(items):
         s = by_src.setdefault(it.get("source_id"), {"수집": 0, "가격조사": 0, "검증": 0})
         s[it["stage"]] += 1
     rows = []
+    scope = json.loads((ROOT / "data" / "kgf_scope.json").read_text(encoding="utf-8"))["sources"]
     for f in sorted((ROOT / "data" / "sources").glob("*.json")):
         try:
             doc = json.loads(f.read_text(encoding="utf-8"))
@@ -100,6 +121,7 @@ def progress(items):
             c = by_src.get(s["source_id"], {})
             n = sum(c.values())
             status = ("제외(로그인)" if s.get("access") == "login" else
+                      "범위 밖(코그페 표시 없음)" if not n and s["source_id"] not in scope else
                       "대기" if not n else "검증완료" if c.get("검증") == n else
                       "가격조사중" if c.get("가격조사") or c.get("검증") else "수집완료")
             rows.append({"source_id": s["source_id"], "category": CATEGORY_LABELS.get(doc.get("category"), doc.get("category")),
@@ -115,7 +137,7 @@ COLUMNS = [
     ("price_60d_low", "2개월최저가"), ("real_discount_pct", "실질할인율%"),
     ("vs_low_pct", "최저가대비%"), ("inflation_pct", "정가부풀림%"), ("verdict", "판정"),
     ("conditions", "조건"), ("stage", "진행단계"), ("verify_status", "검증"), ("confidence", "신뢰도"),
-    ("buy_url", "구매링크"), ("image_url", "이미지"), ("basis_note", "비교기준"), ("verify_note", "검증메모"),
+    ("kgf_scope", "코그페근거"), ("kgf_evidence", "코그페페이지"), ("buy_url", "구매링크"), ("image_url", "이미지"), ("basis_note", "비교기준"), ("verify_note", "검증메모"),
 ]
 PCT_KEYS = {"shown_discount_pct", "real_discount_pct", "vs_low_pct", "inflation_pct"}
 WON_KEYS = {"claimed_original_price", "sale_price", "price_60d_typical", "price_60d_low"}
@@ -190,7 +212,7 @@ def write_xlsx(items, summary):
 HTML_KEYS = ["item_id", "category_label", "vendor", "channel", "product", "model_code", "unit", "conditions",
              "claimed_original_price", "sale_price", "shown_discount_pct", "price_60d_typical", "price_60d_low",
              "real_discount_pct", "inflation_pct", "verdict", "basis_note", "stage", "verify_status", "verify_note",
-             "buy_url", "image_url", "rating", "review_count"]
+             "buy_url", "image_url", "rating", "review_count", "kgf_scope", "kgf_evidence"]
 
 
 def write_atomic(path, text):
