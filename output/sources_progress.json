@@ -995,7 +995,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801",
   "est_items": null,
-  "items": 55,
+  "items": 40,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2575,7 +2575,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=1-7",
   "est_items": 280,
-  "items": 277,
+  "items": 279,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2625,7 +2625,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=36-42",
   "est_items": 280,
-  "items": 272,
+  "items": 275,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2635,7 +2635,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=43-49",
   "est_items": 280,
-  "items": 268,
+  "items": 272,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2645,7 +2645,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=50-56",
   "est_items": 280,
-  "items": 271,
+  "items": 274,
   "verified": 0,
   "status": "수집완료"
  },
@@ -2655,7 +2655,7 @@
   "channel": "우체국쇼핑",
   "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=57-60",
   "est_items": 155,
-  "items": 148,
+  "items": 151,
   "verified": 0,
   "status": "수집완료"
  },

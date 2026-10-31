@@ -95,6 +95,10 @@ def kgf_only(items):
         sc = scope.get(it.get("source_id"))
         if not sc or (sc.get("channel_contains") and sc["channel_contains"] not in (it.get("channel") or "")):
             continue
+        if not it.get("sale_price"):  # 할인가 0원·빈 값 = 할인하지 않은 상품 (사용자 정의, 2026-10-31)
+            continue
+        if it.get("rating") and 5 < it["rating"] <= 10:  # 10점 만점으로 들어온 별점을 5점 만점으로
+            it["rating"] = round(it["rating"] / 2, 1)
         key = it.get("buy_url") or it["item_id"]
         if key in seen:
             continue
