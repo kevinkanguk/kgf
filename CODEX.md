@@ -92,3 +92,11 @@ git push
 - 로그인, 캡차, 프록시, 차단 우회. 403·429면 그 사이트는 이번 실행에서 포기.
 - 토큰·쿠키·개인정보를 저장소에 쓰기.
 - 50MB 넘는 파일 커밋 (`output/data.json`은 gitignore됨. 표 데이터는 `output/data-N.js` 조각으로 나뉜다).
+
+## 다음에 할 일 (2026-11-01 사용자 결정: Codex 로 진행)
+
+**타몰 가격 비교 스크립트 `scripts/price_crossmall.py` 만들기** — 품목별로 하나씩 조사하면 비싸므로(20개에 약 16만 토큰) 스크립트로 만든다.
+1. 몰별 표본 10~20개로 에누리·다나와 상품명 검색 결과 구조를 확인한다 (기존 `scripts/scrapers/price_search_batch.py`, `price_enuri_merchants.py` 참고).
+2. 같은 상품 판정 규칙: 브랜드·업체 + 용량·개수·중량이 모두 같아야 함. 결과는 price.md 3번("타몰 평소가:", confidence low) 또는 1번(가격 이력) 형식으로 `data/raw/prices/<category>/<source_id>__crossmall.json` 에 쓴다.
+3. 100~200개로 시험해 오매칭이 없는지 확인한 뒤 전체(약 1.4만 개)를 돌린다. 못 찾은 품목은 "이력 없음:".
+- 1·3단계는 가벼운 모델(`KGF_CODEX_MODEL_PRICE`), 2단계 규칙·스크립트 작성은 기본 모델 권장.
