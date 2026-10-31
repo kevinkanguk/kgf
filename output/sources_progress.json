@@ -1905,9 +1905,9 @@
   "channel": "SK스토아",
   "url": "https://www.skstoa.com/plan/event/detail/2026103519",
   "est_items": 30,
-  "items": 0,
+  "items": 119,
   "verified": 0,
-  "status": "대기"
+  "status": "수집완료"
  },
  {
   "source_id": "food-hmall-kgf",
@@ -1925,9 +1925,9 @@
   "channel": "현대Hmall",
   "url": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083",
   "est_items": 60,
-  "items": 0,
+  "items": 1,
   "verified": 0,
-  "status": "대기"
+  "status": "수집완료"
  },
  {
   "source_id": "food-lotteon-kgf",
@@ -2095,9 +2095,39 @@
   "channel": "우체국쇼핑 / 홍성한우돈직판장",
   "url": "https://mall.epost.go.kr/fo/goods/goodsDetailView.do?goodsCd=EA1064053&goodsDispTypeCd=&goodsDispTypeDtlCd=&pavlnDivCd=02&ctgryCd=103202302&searchTermCd=%ED%99%8D%EC%84%B1%ED%95%9C%EC%9A%B0%EB%8F%88%EC%A7%81%ED%8C%90%EC%9E%A5",
   "est_items": 1,
-  "items": 0,
+  "items": 1,
   "verified": 0,
-  "status": "대기"
+  "status": "수집완료"
+ },
+ {
+  "source_id": "food-kgf-haedong-sesame",
+  "category": "식품·농수축산",
+  "channel": "코그페 공식 / 해동제유소",
+  "url": "https://koreagrandfestival.kr/sme",
+  "est_items": 1,
+  "items": 1,
+  "verified": 0,
+  "status": "수집완료"
+ },
+ {
+  "source_id": "food-kgf-daegwallyeong-sap",
+  "category": "식품·농수축산",
+  "channel": "코그페 공식 / 대관령벌나무농장",
+  "url": "https://koreagrandfestival.kr/sme",
+  "est_items": 1,
+  "items": 1,
+  "verified": 0,
+  "status": "수집완료"
+ },
+ {
+  "source_id": "food-kgf-naepo-sixset",
+  "category": "식품·농수축산",
+  "channel": "코그페 공식 / 내포긴들영농조합법인",
+  "url": "https://koreagrandfestival.kr/sme",
+  "est_items": 1,
+  "items": 1,
+  "verified": 0,
+  "status": "수집완료"
  },
  {
   "source_id": "mall-kgf-sme-online",
@@ -2326,8 +2356,8 @@
   "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=fashion",
   "est_items": 841,
   "items": 841,
-  "verified": 0,
-  "status": "수집완료"
+  "verified": 300,
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-hobby-kids-pet",
@@ -2345,9 +2375,9 @@
   "channel": "SK스토아",
   "url": "https://www.skstoa.com/plan/event/detail/2026103519",
   "est_items": 206,
-  "items": 0,
+  "items": 319,
   "verified": 0,
-  "status": "대기"
+  "status": "수집완료"
  },
  {
   "source_id": "mall-hmall-sosang-coupon-food",

@@ -1000,6 +1000,36 @@
       "est_items": 1,
       "access": "static",
       "note": "공식 코그페 참여기업 /sme의 홍성한우돈직판장 카드에 명시된 국내산 수제 돼지양념갈비 3kg 45,900원→38,900원(약 15%) 행사 1품목만. 몰 전체 제외. kgf_evidence=https://koreagrandfestival.kr/sme. 지정 Python 실행 실패로 catalog 미생성; 다음 실행에서 스크립트 재개 필요."
+    },
+    {
+      "source_id": "food-kgf-haedong-sesame",
+      "category": "food",
+      "channel": "코그페 공식 / 해동제유소",
+      "url": "https://koreagrandfestival.kr/sme",
+      "kind": "listing",
+      "est_items": 1,
+      "access": "static",
+      "note": "공식 참여기업 목록의 해동제유소 카드에 명시된 국내산 참기름 350ml 할인 혜택 1종만. 업체 전체몰 제외. kgf_evidence=https://koreagrandfestival.kr/sme"
+    },
+    {
+      "source_id": "food-kgf-daegwallyeong-sap",
+      "category": "food",
+      "channel": "코그페 공식 / 대관령벌나무농장",
+      "url": "https://koreagrandfestival.kr/sme",
+      "kind": "listing",
+      "est_items": 1,
+      "access": "static",
+      "note": "공식 참여기업 목록의 대관령벌나무농장 카드에 명시된 대관령벌나무순액(즙) 1박스 30포 할인 혜택 1종만. 업체 전체몰 제외. kgf_evidence=https://koreagrandfestival.kr/sme"
+    },
+    {
+      "source_id": "food-kgf-naepo-sixset",
+      "category": "food",
+      "channel": "코그페 공식 / 내포긴들영농조합법인",
+      "url": "https://koreagrandfestival.kr/sme",
+      "kind": "listing",
+      "est_items": 1,
+      "access": "static",
+      "note": "공식 참여기업 목록의 내포긴들영농조합법인 카드에 명시된 6종세트 6종세트 할인 혜택 1종만. 업체 전체몰 제외. kgf_evidence=https://koreagrandfestival.kr/sme"
     }
   ]
 }

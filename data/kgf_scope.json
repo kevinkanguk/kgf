@@ -336,6 +336,21 @@
       "tier": "코그페 표시",
       "why": "공식 참여기업 목록 홍성한우돈직판장 카드가 코그페 기간 돼지양념갈비 3kg 할인 및 해당 상품 구매 링크를 명시. 이 1품목만 수집.",
       "evidence": "https://koreagrandfestival.kr/sme"
+    },
+    "food-kgf-haedong-sesame": {
+      "tier": "코그페 표시",
+      "why": "공식 코그페 참여기업 목록에 해동제유소의 국내산 참기름 350ml 정상가·할인가 명시. 해당 업체 카드의 혜택만 수집.",
+      "evidence": "https://koreagrandfestival.kr/sme"
+    },
+    "food-kgf-daegwallyeong-sap": {
+      "tier": "코그페 표시",
+      "why": "공식 코그페 참여기업 목록에 대관령벌나무농장의 대관령벌나무순액(즙) 1박스 30포 정상가·할인가 명시. 해당 업체 카드의 혜택만 수집.",
+      "evidence": "https://koreagrandfestival.kr/sme"
+    },
+    "food-kgf-naepo-sixset": {
+      "tier": "코그페 표시",
+      "why": "공식 코그페 참여기업 목록에 내포긴들영농조합법인의 6종세트 6종세트 정상가·할인가 명시. 해당 업체 카드의 혜택만 수집.",
+      "evidence": "https://koreagrandfestival.kr/sme"
     }
   }
 }
