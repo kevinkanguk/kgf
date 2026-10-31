@@ -28,7 +28,9 @@ h1 { font-size: 22px; margin: 0 0 4px; }
 .kpi b { display: block; font-size: 22px; font-variant-numeric: tabular-nums; }
 .kpi span { color: var(--muted); font-size: 12px; }
 .summary { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 18px; margin-bottom: 20px; }
-.summary h2 { font-size: 16px; margin: 0 0 6px; }
+.summary > summary { font-size: 15px; font-weight: 600; cursor: pointer; }
+.summary > summary .hint { font-weight: 400; color: var(--muted); font-size: 12px; margin-left: 6px; }
+.summary[open] > summary .hint { display: none; }
 .summary ul { margin: 6px 0 0; padding-left: 18px; }
 .summary .caveat { color: var(--muted); font-size: 13px; }
 .controls { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
@@ -78,7 +80,7 @@ td:first-child { white-space: nowrap; }
   <h1>코그페 할인 인증표</h1>
   <p class="sub">코리아 그랜드 페스티벌(2026.10.29 ~ 11.15) 주장 정가·할인가를 최근 2개월 실제 판매가와 비교 · <span id="updated"></span></p>
   <section class="kpis" id="kpis"></section>
-  <section class="summary" id="summary" hidden></section>
+  <details class="summary" id="summary" hidden></details>
   <details class="progress" id="progress">
     <summary>사이트별 진행 현황 <span id="progsum"></span></summary>
     <div class="tablewrap"><table class="ptable"><thead><tr><th>분야</th><th>판매처 / 소스</th><th>예상</th><th>수집</th><th>검증</th><th>상태</th></tr></thead><tbody id="prows"></tbody></table></div>
@@ -152,7 +154,7 @@ function summaryBox() {
   if (!summary.headline && !(summary.findings || []).length) return;
   const el = $("summary");
   el.hidden = false;
-  el.innerHTML = `<h2>${esc(summary.headline || "결론")}</h2>` +
+  el.innerHTML = `<summary>${esc(summary.headline || "결론")}<span class="hint">펼쳐서 자세히 보기</span></summary>` +
     `<ul>${(summary.findings || []).map(f => `<li>${esc(f)}</li>`).join("")}</ul>` +
     ((summary.caveats || []).length ? `<ul class="caveat">${summary.caveats.map(c => `<li>${esc(c)}</li>`).join("")}</ul>` : "");
 }
