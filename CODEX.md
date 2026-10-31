@@ -35,7 +35,8 @@ Codex는 실행될 때마다 이 문서를 읽고 아래 순서를 **한 번** �
 
 ## 실행 환경
 
-- Python 은 `.venv/Scripts/python.exe -I <스크립트>` 로 실행한다. Codex 샌드박스에서는 `py`·`python` 이 안 된다. 처음 한 번: `py -3 -m venv .venv && .venv\Scripts\pip install -r requirements.txt`.
+- Python 은 `.python/python.exe -I <스크립트>` 로 실행한다. Codex 샌드박스는 AppData 의 Python 실행을 막아서 `py`·`python`·venv 가 모두 안 된다.
+  `.python/` 은 설치된 Python 3.13 폴더를 통째로 복사한 것이다 (requests·openpyxl 포함, gitignore). 새 PC 에서는 `%LOCALAPPDATA%\Programs\Python\Python313` 을 `.python` 으로 복사하고 `.python\python.exe -m pip install -r requirements.txt`.
 - `scripts/codex_tick.py` 가 Codex 를 네트워크 허용(`sandbox_workspace_write.network_access=true`)으로 부른다.
 - Codex 는 Codex 데스크톱 앱의 ChatGPT 로그인을 쓴다. GitHub 시크릿·API 키는 필요 없다. push 는 이 PC 의 git 로그인으로 한다.
 
