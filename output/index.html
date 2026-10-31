@@ -88,7 +88,7 @@ td:first-child { white-space: nowrap; }
   <div class="controls">
     <input id="q" type="search" placeholder="상품·업체·판매처 검색" aria-label="검색">
     <select id="cat" aria-label="분야"><option value="">전체 분야</option></select>
-    <select id="verdict" aria-label="판정"><option value="">전체 판정</option></select>
+    <select id="verdict" aria-label="판정"><option value="">전체 판정</option><option value="@yes">할인인 것 (진짜·소폭 할인)</option><option value="@no">할인 아닌 것 (평소가·할인 아님)</option></select>
     <select id="stage" aria-label="진행단계"><option value="">전체 단계</option></select>
     <select id="sort" aria-label="정렬">
       <option value="real_discount_pct:-1">실질 할인 높은순</option>
@@ -199,10 +199,13 @@ function row(i) {
   </tr>`;
 }
 
+// 판정을 할인/할인 아님 두 묶음으로 보기 (2개월 가격과 비교된 품목만)
+const VD_GROUP = {"@yes": ["진짜 할인", "소폭 할인"], "@no": ["평소가", "할인 아님"]};
+
 function render() {
   const q = $("q").value.trim().toLowerCase(), cat = $("cat").value, vd = $("verdict").value, st = $("stage").value;
   const list = items.filter(i =>
-    (!cat || i.category_label === cat) && (!vd || i.verdict === vd) && (!st || i.stage === st) &&
+    (!cat || i.category_label === cat) && (!vd || (VD_GROUP[vd] ? VD_GROUP[vd].includes(i.verdict) : i.verdict === vd)) && (!st || i.stage === st) &&
     (!q || [i.product, i.vendor, i.channel, i.model_code].join(" ").toLowerCase().includes(q)));
   list.sort((a, b) => {
     const x = a[sortKey], y = b[sortKey];
