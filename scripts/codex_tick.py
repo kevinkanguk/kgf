@@ -8,6 +8,7 @@
   6. commit "codex: run ..." + push (qa 실패면 push 안 함)
 
 Codex CLI 는 Codex 데스크톱 앱에 들어 있는 %LOCALAPPDATA%/OpenAI/Codex/bin/*/codex.exe 또는 KGF_CODEX.
+모델: KGF_CODEX_MODEL (전 단계), KGF_CODEX_MODEL_PRICE (가격 조사만, 반복 작업이라 가벼운 모델 권장). 없으면 Codex 기본 모델.
 Log: .tmp/tick.log
 
   py -3 scripts/codex_tick.py --dry-run    # 무엇을 할지만 출력
@@ -60,7 +61,7 @@ def find_codex():
     return max(found, key=os.path.getmtime) if found else None
 
 
-def codex(prompt_file, out_file, dry):
+def codex(prompt_file, out_file, dry, model=None):
     exe = find_codex()
     if not exe:
         log("  codex.exe not found (Codex 데스크톱 앱 설치·로그인 필요)")
@@ -70,8 +71,11 @@ def codex(prompt_file, out_file, dry):
            # 샌드박스 안에서도 사이트 JSON API 수집(requests)이 되게 네트워크를 연다
            "-c", "sandbox_workspace_write.network_access=true", "-o", TMP / out_file,
            PY_NOTE + (ROOT / prompt_file).read_text(encoding="utf-8")]
+    model = model or os.environ.get("KGF_CODEX_MODEL")
+    if model:
+        cmd[2:2] = ["-m", model]
     if dry:
-        log(f"  [dry] {exe} exec ... {prompt_file}")
+        log(f"  [dry] {exe} exec {'-m ' + model + ' ' if model else ''}... {prompt_file}")
         return True
     try:
         proc = run(cmd, timeout=CODEX_TIMEOUT_S)
@@ -135,7 +139,7 @@ def main():
     # 모델명 있는 품목은 다나와 가격변동으로 먼저 (결정적, Codex 토큰 안 씀)
     step([VENV_PY if VENV_PY.exists() else sys.executable, "-I", "scripts/price_danawa.py"], dry, timeout=60 * 60)
     if not a.no_codex:
-        codex(".github/codex/price.md", "price-report.txt", dry)
+        codex(".github/codex/price.md", "price-report.txt", dry, os.environ.get("KGF_CODEX_MODEL_PRICE"))
     step([sys.executable, "scripts/build_report.py", "--xlsx"], dry, timeout=60 * 60)
     qa_failed = step([sys.executable, "scripts/qa_html.py"], dry) != 0
     step(["git", "add", "data", "output", "scripts/scrapers"], dry)

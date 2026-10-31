@@ -38,6 +38,7 @@ Codex는 실행될 때마다 이 문서를 읽고 아래 순서를 **한 번** �
 - Python 은 `.python/python.exe -I <스크립트>` 로 실행한다. Codex 샌드박스는 AppData 의 Python 실행을 막아서 `py`·`python`·venv 가 모두 안 된다.
   `.python/` 은 설치된 Python 3.13 폴더를 통째로 복사한 것이다 (requests·openpyxl 포함, gitignore). 새 PC 에서는 `%LOCALAPPDATA%\Programs\Python\Python313` 을 `.python` 으로 복사하고 `.python\python.exe -m pip install -r requirements.txt`.
 - `scripts/codex_tick.py` 가 Codex 를 네트워크 허용(`sandbox_workspace_write.network_access=true`)으로 부른다.
+- 모델: 환경변수 `KGF_CODEX_MODEL`(전 단계), `KGF_CODEX_MODEL_PRICE`(가격 조사만)로 고른다. 없으면 Codex 기본 모델. 반복 작업인 가격 조사는 가벼운(mini 계열) 모델로 한도를 아낀다.
 - Codex 는 Codex 데스크톱 앱의 ChatGPT 로그인을 쓴다. GitHub 시크릿·API 키는 필요 없다. push 는 이 PC 의 git 로그인으로 한다.
 
 ## 실행 순서
