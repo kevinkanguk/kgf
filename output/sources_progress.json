@@ -2090,6 +2090,16 @@
   "status": "범위 밖(코그페 표시 없음)"
  },
  {
+  "source_id": "food-epost-hongseong-kgf",
+  "category": "식품·농수축산",
+  "channel": "우체국쇼핑 / 홍성한우돈직판장",
+  "url": "https://mall.epost.go.kr/fo/goods/goodsDetailView.do?goodsCd=EA1064053&goodsDispTypeCd=&goodsDispTypeDtlCd=&pavlnDivCd=02&ctgryCd=103202302&searchTermCd=%ED%99%8D%EC%84%B1%ED%95%9C%EC%9A%B0%EB%8F%88%EC%A7%81%ED%8C%90%EC%9E%A5",
+  "est_items": 1,
+  "items": 0,
+  "verified": 0,
+  "status": "대기"
+ },
+ {
   "source_id": "mall-kgf-sme-online",
   "category": "종합몰·생활",
   "channel": "코그페 스토어(/sme) 온라인입점",

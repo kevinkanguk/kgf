@@ -331,6 +331,11 @@
       "tier": "코그페 공식 링크",
       "why": "SSG 소상공인 브랜드대전 (코그페 공식 홈 링크)",
       "evidence": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146"
+    },
+    "food-epost-hongseong-kgf": {
+      "tier": "코그페 표시",
+      "why": "공식 참여기업 목록 홍성한우돈직판장 카드가 코그페 기간 돼지양념갈비 3kg 할인 및 해당 상품 구매 링크를 명시. 이 1품목만 수집.",
+      "evidence": "https://koreagrandfestival.kr/sme"
     }
   }
 }

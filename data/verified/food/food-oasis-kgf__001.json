@@ -1,0 +1,47 @@
+﻿{
+    "category":  "food",
+    "source_id":  "food-oasis-kgf",
+    "researched_at":  "2026-10-31T14:43:44.9631146+09:00",
+    "period_start":  "2026-09-01",
+    "period_end":  "2026-10-28",
+    "issues":  [
+                   "구매 URL 재조회 실패: 웹 도구 접근 불가 및 PowerShell 연결 종료",
+                   "KAMIS 동일 규격의 기간별 관측값 미확보; 단위 환산 불가",
+                   "Python 지정 실행 파일 프로세스 시작 실패; PowerShell로 저장",
+                   "이번 실행 1품목 처리 후 반복 조회 실패로 중단. 나머지는 다음 실행 대상"
+               ],
+    "items":  [
+                  {
+                      "item_id":  "food-oasis-kgf-0715",
+                      "category":  "food",
+                      "source_id":  "food-oasis-kgf",
+                      "vendor":  "오아시스마켓",
+                      "channel":  "오아시스마켓 코리아그랜드페스티벌(26년 매칭업체)",
+                      "product":  "태양활전복 꼬마전복 40-50미 1kg",
+                      "model_code":  null,
+                      "buy_url":  "https://www.oasis.co.kr/product/detail/56840",
+                      "image_url":  "https://oasisprodproduct.edge.naverncp.com/56840/thumb/999",
+                      "rating":  5.0,
+                      "review_count":  2,
+                      "event_url":  "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
+                      "claimed_original_price":  31000,
+                      "sale_price":  1000,
+                      "claimed_discount_pct":  96.0,
+                      "conditions":  "쿠폰적용가 700원; 오아시스 30% 쿠폰(상품 쿠폰 30%) 다운로드 필요",
+                      "confidence":  "low",
+                      "verify_status":  "unverifiable",
+                      "unit":  "1kg",
+                      "price_60d_typical":  null,
+                      "verify_note":  "표시 할인율 96%로 필수 재검증. 구매 URL을 별도 재접속했으나 열리지 않음. KAMIS 원문과 별도 소스 시세판을 직접 열어 전복 5마리 규격 확인. 상품 규격과 일치하지 않고 2개월 일별 자료가 없어 교차검증 성립 불가. 가격 이력 null, confidence low. 행사 페이지의 코그페 표시는 확인했으나 개별 상품의 현재 가격·쿠폰 조건은 확인 불가.",
+                      "price_history_note":  "조사기간 2026-09-01~2026-10-28. 동일상품 과거가를 찾지 못함. KAMIS 전복 냉장 5마리는 꼬마전복 40~50미/kg과 크기·중량 규격이 달라 환산 불가. 5마리 가격 × (40~50)/5는 동일 크기라는 근거가 없어 적용하지 않음. 해당 기간 일별 관측값 미확보로 최저가·중앙값 null. 구매 페이지 직접 조회 실패; 수집 당시 표시 가격은 기존 sources 근거로 보존하되 현재 확인 불가.",
+                      "sources":  [
+                                      "https://www.oasis.co.kr/product/list?categoryId=5737\u0026rows=60",
+                                      "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
+                                      "https://www.oasis.co.kr/product/detail/56840",
+                                      "https://www.kamis.or.kr/customer/price/agricultureRetail/catalogue.do?action=daily\u0026convert_kg_yn=N",
+                                      "https://www.sisepan.com/nong-some-price?id=6\u0026mode=ca1"
+                                  ],
+                      "price_60d_low":  null
+                  }
+              ]
+}

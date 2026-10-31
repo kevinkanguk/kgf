@@ -1,0 +1,19 @@
+﻿{
+    "commodity":  "전복",
+    "unit":  "1kg",
+    "product_spec":  "꼬마전복 40~50미/kg",
+    "reference_spec":  "냉장 전복 5마리",
+    "period_start":  "2026-09-01",
+    "period_end":  "2026-10-28",
+    "checked_at":  "2026-10-31T14:43:45.0154974+09:00",
+    "status":  "unavailable",
+    "price_60d_low":  null,
+    "price_60d_typical":  null,
+    "conversion_factor":  null,
+    "conversion_note":  "조사기간 2026-09-01~2026-10-28. 동일상품 과거가를 찾지 못함. KAMIS 전복 냉장 5마리는 꼬마전복 40~50미/kg과 크기·중량 규격이 달라 환산 불가. 5마리 가격 × (40~50)/5는 동일 크기라는 근거가 없어 적용하지 않음. 해당 기간 일별 관측값 미확보로 최저가·중앙값 null. 구매 페이지 직접 조회 실패; 수집 당시 표시 가격은 기존 sources 근거로 보존하되 현재 확인 불가.",
+    "sources":  [
+                    "https://www.kamis.or.kr/customer/price/agricultureRetail/catalogue.do?action=daily\u0026convert_kg_yn=N",
+                    "https://www.sisepan.com/nong-some-price?id=6\u0026mode=ca1"
+                ],
+    "retry_required":  true
+}

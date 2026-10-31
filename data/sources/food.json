@@ -990,6 +990,16 @@
       "est_items": 0,
       "access": "static",
       "note": "김장재료 10/29~12/2 최대 40%(300여 업체), 한우 10/28~11/8 최대 50%, 수산물 10/28~11/29 최대 50%, 모바일농할상품권 11/2~15 20%, 디지털온누리 11/2~6 10%"
+    },
+    {
+      "source_id": "food-epost-hongseong-kgf",
+      "category": "food",
+      "channel": "우체국쇼핑 / 홍성한우돈직판장",
+      "url": "https://mall.epost.go.kr/fo/goods/goodsDetailView.do?goodsCd=EA1064053&goodsDispTypeCd=&goodsDispTypeDtlCd=&pavlnDivCd=02&ctgryCd=103202302&searchTermCd=%ED%99%8D%EC%84%B1%ED%95%9C%EC%9A%B0%EB%8F%88%EC%A7%81%ED%8C%90%EC%9E%A5",
+      "kind": "listing",
+      "est_items": 1,
+      "access": "static",
+      "note": "공식 코그페 참여기업 /sme의 홍성한우돈직판장 카드에 명시된 국내산 수제 돼지양념갈비 3kg 45,900원→38,900원(약 15%) 행사 1품목만. 몰 전체 제외. kgf_evidence=https://koreagrandfestival.kr/sme. 지정 Python 실행 실패로 catalog 미생성; 다음 실행에서 스크립트 재개 필요."
     }
   ]
 }
