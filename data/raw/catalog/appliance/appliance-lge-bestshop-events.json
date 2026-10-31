@@ -1,0 +1,7 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-lge-bestshop-events",
+  "collected_at": "2026-10-31",
+  "note": "event list (EV11089001 etc.) has image-banner/coupon/live-alert events only; no priced products in static HTML",
+  "items": []
+}

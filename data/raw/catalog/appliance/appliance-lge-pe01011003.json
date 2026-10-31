@@ -1,0 +1,42 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-lge-pe01011003",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "category": "appliance",
+      "source_id": "appliance-lge-pe01011003",
+      "unit": null,
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG 스타일러 시스템 아이어닝 IY15CT80",
+      "model_code": "IY15CT80.CKOR",
+      "image_url": "https://www.lge.co.kr/kr/images/lg-styler/md10694826/md10694826-450x450.jpg",
+      "rating": 3.7,
+      "review_count": 6,
+      "buy_url": "https://www.lge.co.kr/system-ironing/iy15ct80",
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011003",
+      "claimed_original_price": 2991000,
+      "sale_price": 2990000,
+      "claimed_discount_pct": 0.0,
+      "conditions": "쿠폰 230,000원 적용 시 2,760,000원; 멤버 할인액 1,000원(정가 대비 판매가 반영); 목록유형: thumnail-custom-vertical",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "price_history_note": null,
+      "sources": [
+        "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011003",
+        "https://apiv2.lge.co.kr/itemsvc/ajax/v1/model/retrieveMultipleModelInfo (modelId=MD10694826)"
+      ],
+      "verify_status": null,
+      "verify_note": null,
+      "confidence": null,
+      "_model_id": "MD10694826",
+      "_category": "시스템 아이어닝",
+      "_status": "ACTIVE",
+      "_final_benefit_price": 2760000,
+      "_bundle_price": 2990000,
+      "_obsControlPrice": 1495000,
+      "item_id": "appliance-lge-pe01011003-0001"
+    }
+  ]
+}

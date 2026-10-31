@@ -1,0 +1,140 @@
+{
+  "category": "food",
+  "source_id": "food-icoop-kimjang",
+  "collected_at": "2026-10-31",
+  "page_total_count": 6,
+  "items": [
+    {
+      "item_id": "food-icoop-kimjang-0001",
+      "category": "food",
+      "source_id": "food-icoop-kimjang",
+      "unit": "1kg",
+      "vendor": "자연드림",
+      "channel": "자연드림(icoop) 김장하기 기획전",
+      "product": "(직)Anti-C고춧가루",
+      "model_code": "71950GP000",
+      "buy_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?key=&act=detail&left_ca_name=&gc=71950GP000&gg=&gg2=&large_code=&small_code=",
+      "image_url": "https://www.icoop.or.kr/coopmall/goodimages/71950GP000.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
+      "claimed_original_price": 68000,
+      "sale_price": 59000,
+      "claimed_discount_pct": 13,
+      "conditions": "조합원 특가 ~2026-11-13 / 11/20 ~ 12/19 배송가능",
+      "sources": [
+        "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050"
+      ]
+    },
+    {
+      "item_id": "food-icoop-kimjang-0002",
+      "category": "food",
+      "source_id": "food-icoop-kimjang",
+      "unit": "10kg",
+      "vendor": "쿱농산",
+      "channel": "자연드림(icoop) 김장하기 기획전",
+      "product": "(직)김장절임배추*10kg*쿱농산",
+      "model_code": "00010IS500",
+      "buy_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?key=&act=detail&left_ca_name=&gc=00010IS500&gg=&gg2=&large_code=&small_code=",
+      "image_url": "https://www.icoop.or.kr/coopmall/goodimages/00010IS500.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
+      "claimed_original_price": 44850,
+      "sale_price": 39000,
+      "claimed_discount_pct": 13,
+      "conditions": "조합원 특가 ~2026-11-13 / 11/20 ~ 12/19 배송가능",
+      "sources": [
+        "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050"
+      ]
+    },
+    {
+      "item_id": "food-icoop-kimjang-0003",
+      "category": "food",
+      "source_id": "food-icoop-kimjang",
+      "unit": "10kg",
+      "vendor": "김치공방",
+      "channel": "자연드림(icoop) 김장하기 기획전",
+      "product": "(직)김장포기김치*10kg*김치공방",
+      "model_code": "00001DHJ00",
+      "buy_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?key=&act=detail&left_ca_name=&gc=00001DHJ00&gg=&gg2=&large_code=&small_code=",
+      "image_url": "https://www.icoop.or.kr/coopmall/goodimages/00001DHJ00.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
+      "claimed_original_price": 113900,
+      "sale_price": 99000,
+      "claimed_discount_pct": 13,
+      "conditions": "조합원 특가 ~2026-11-13 / 12/01 ~ 12/24 배송가능",
+      "sources": [
+        "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050"
+      ]
+    },
+    {
+      "item_id": "food-icoop-kimjang-0004",
+      "category": "food",
+      "source_id": "food-icoop-kimjang",
+      "unit": "4kg",
+      "vendor": "김치공방",
+      "channel": "자연드림(icoop) 김장하기 기획전",
+      "product": "(직)김치양념*4kg*김치공방",
+      "model_code": "00002DHJ00",
+      "buy_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?key=&act=detail&left_ca_name=&gc=00002DHJ00&gg=&gg2=&large_code=&small_code=",
+      "image_url": "https://www.icoop.or.kr/coopmall/goodimages/00002DHJ00.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
+      "claimed_original_price": 72500,
+      "sale_price": 63000,
+      "claimed_discount_pct": 13,
+      "conditions": "조합원 특가 ~2026-11-13 / 11/20 ~ 12/19 배송가능",
+      "sources": [
+        "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050"
+      ]
+    },
+    {
+      "item_id": "food-icoop-kimjang-0005",
+      "category": "food",
+      "source_id": "food-icoop-kimjang",
+      "unit": "5개",
+      "vendor": "자연드림",
+      "channel": "자연드림(icoop) 김장하기 기획전",
+      "product": "김장무",
+      "model_code": "9399900000",
+      "buy_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?key=&act=detail&left_ca_name=plan_goods&gc=9399900000&gg=&gg2=&large_code=&small_code=",
+      "image_url": "https://www.icoop.or.kr/coopmall/goodimages/9399900000.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
+      "claimed_original_price": 13300,
+      "sale_price": 11500,
+      "claimed_discount_pct": 14,
+      "conditions": "조합원 특가 ~2026-11-13 / 11/20 ~ 12/19 배송가능",
+      "sources": [
+        "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050"
+      ]
+    },
+    {
+      "item_id": "food-icoop-kimjang-0006",
+      "category": "food",
+      "source_id": "food-icoop-kimjang",
+      "unit": "3포기",
+      "vendor": "자연드림",
+      "channel": "자연드림(icoop) 김장하기 기획전",
+      "product": "김장배추",
+      "model_code": "7024500000",
+      "buy_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?key=&act=detail&left_ca_name=plan_goods&gc=7024500000&gg=&gg2=&large_code=&small_code=",
+      "image_url": "https://www.icoop.or.kr/coopmall/goodimages/7024500000.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050",
+      "claimed_original_price": 14500,
+      "sale_price": 12500,
+      "claimed_discount_pct": 14,
+      "conditions": "조합원 특가 ~2026-11-13 / 11/20 ~ 12/19 배송가능",
+      "sources": [
+        "https://www.icoop.or.kr/coopmall/goodsmall.phtm?link_code=C050"
+      ]
+    }
+  ]
+}

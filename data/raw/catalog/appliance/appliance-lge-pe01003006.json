@@ -1,0 +1,91 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-lge-pe01003006",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "appliance-lge-pe01003006-0001",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe01003006",
+      "unit": "35.5cm",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG 그램북 AI 2026 14U40V-GR3WK",
+      "model_code": "14U40V-GR3WK",
+      "buy_url": "https://www.lge.co.kr/product/notebook/14u40v-gr3wk",
+      "image_url": "https://www.lge.co.kr/kr/images/notebook/md10896826/gallery/medium01.jpg",
+      "rating": 4.9,
+      "review_count": 24,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01003006",
+      "claimed_original_price": 1500000,
+      "sale_price": 1199000,
+      "claimed_discount_pct": 20.1,
+      "conditions": "LGE.COM 판매가 기준(카드/쿠폰 추가혜택 별도)",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "price_history_note": null,
+      "sources": [
+        "https://www.lge.co.kr/notebook/14u40v-gr3wk"
+      ],
+      "verify_status": null,
+      "verify_note": null,
+      "confidence": null
+    },
+    {
+      "item_id": "appliance-lge-pe01003006-0002",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe01003006",
+      "unit": "35.5cm",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG 그램북 AI 2026 14U40V-GA5WK",
+      "model_code": "14U40V-GA5WK",
+      "buy_url": "https://www.lge.co.kr/product/notebook/14u40v-ga5wk",
+      "image_url": "https://www.lge.co.kr/kr/images/notebook/md10896826/gallery/medium01.jpg",
+      "rating": 5.0,
+      "review_count": 26,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01003006",
+      "claimed_original_price": 1800000,
+      "sale_price": 1590000,
+      "claimed_discount_pct": 11.7,
+      "conditions": "LGE.COM 판매가 기준(카드/쿠폰 추가혜택 별도)",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "price_history_note": null,
+      "sources": [
+        "https://www.lge.co.kr/notebook/14u40v-ga5wk"
+      ],
+      "verify_status": null,
+      "verify_note": null,
+      "confidence": null
+    },
+    {
+      "item_id": "appliance-lge-pe01003006-0003",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe01003006",
+      "unit": "35.5cm",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG 그램북 AI 2026 14U40V-GA5ZK",
+      "model_code": "14U40V-GA5ZK",
+      "buy_url": "https://www.lge.co.kr/product/notebook/14u40v-ga5zk",
+      "image_url": "https://www.lge.co.kr/kr/images/notebook/md10897829/gallery/medium01.jpg",
+      "rating": 5.0,
+      "review_count": 6,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01003006",
+      "claimed_original_price": 1800000,
+      "sale_price": 1490000,
+      "claimed_discount_pct": 17.2,
+      "conditions": "LGE.COM 판매가 기준(카드/쿠폰 추가혜택 별도)",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "price_history_note": null,
+      "sources": [
+        "https://www.lge.co.kr/notebook/14u40v-ga5zk"
+      ],
+      "verify_status": null,
+      "verify_note": null,
+      "confidence": null
+    }
+  ]
+}

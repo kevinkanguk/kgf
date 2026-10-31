@@ -1,0 +1,2667 @@
+{
+  "category": "food",
+  "source_id": "food-nonghyupmall-nonghal-daejeon",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0001",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협]국내산 26년 햇 양파 5kg 중대 사이즈",
+      "model_code": "0022761370",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0022761370&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 9900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0002",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[신북농협 Pick!]★햇양파  전남 만능 요리 식재료 3kg-5kg",
+      "model_code": "0039527129",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039527129&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 6550,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 선물하기, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0003",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가5,200원]용인농협조공 달큰달큰 친환경 햇양파 3kg 5kg 중사이즈",
+      "model_code": "0039548357",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039548357&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 6500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0004",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[삼촌밥먹자] 황토 무안 햇 양파(소/중/대) 3kg",
+      "model_code": "1036681302",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1036681302&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 8500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0005",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "2kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[만인산농협] 양파 2kg,4kg",
+      "model_code": "1039570429",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1039570429&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 5000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0006",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[푸른들] 국내산 26년 첫수확 진도 무안 양파 3kg~10kg",
+      "model_code": "6039538716",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6039538716&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 8900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0007",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협]국내산 26년 햇 양파 5kg 특 사이즈",
+      "model_code": "8010985476",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8010985476&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 10900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0008",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송][익산원예농협]국내산 신선한 선별 26년 햇 양파 특 사이즈 5kg",
+      "model_code": "8039569008",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039569008&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 10900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0009",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송][익산원예농협]국내산 신선한 선별 26년 햇 양파 중대 사이즈 5kg",
+      "model_code": "9039569007",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9039569007&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 9900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0010",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "800g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가 4,000원][만인산농협] 대파 800g,1.6kg",
+      "model_code": "3039570430",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3039570430&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 5000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0011",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협] 국내산 제철 선별 신선 뿌리 흙대파 대파 특품",
+      "model_code": "8011589769",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8011589769&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 10900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0012",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "GAP인증 100% 국내산 마늘 깐마늘 5kg(대서/남도) 대용량",
+      "model_code": "0039555386",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039555386&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 54900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0013",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "2.5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농협 본마늘] 국산 깐마늘 2.5kg",
+      "model_code": "3011076435",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3011076435&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 29000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0014",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "GAP인증 100% 국내산 깐마늘 꼭지제거 마늘 1kg(대서/남도)",
+      "model_code": "6039555322",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6039555322&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 14900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0015",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협]국내산 직접선별 알싸한 개운한 깐마늘 특품",
+      "model_code": "7026553929",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7026553929&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 13900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0016",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송][익산원예농협]국내산 직접선별 알싸한 개운한 깐마늘 특품 1kg",
+      "model_code": "9039569010",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9039569010&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 13900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0017",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[나주배원예농협] 햇 나주배 26년산 신고배 3kg가정용 (6-7과)",
+      "model_code": "0039572033",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039572033&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 11900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0018",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "국내산 가정용 나주 신고배 3kg/5kg [FD] #김장용 추천",
+      "model_code": "1039449653",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1039449653&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 15900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0019",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송]★신북농협★26년산 햇 신고 배 GAP 氣영암 신고배 가정용 3kg",
+      "model_code": "1039572032",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1039572032&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 11900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 선물하기, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0020",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[대한민국농수산] 25년산 국내산 생강 흙생강 세척생강 깐생강",
+      "model_code": "8039460008",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039460008&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 10500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 선물하기, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0021",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협] 맛 좋은 직접선별 단단한 아삭아삭 제철 무우 무 특품",
+      "model_code": "0011067768",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0011067768&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 8900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0022",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "2kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[동김제농협]백다다기 오이 2kg 10개 (특품)",
+      "model_code": "0039503215",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039503215&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 14500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0023",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협] 국내산 신선한 상등급 파프리카 가성비 가정용",
+      "model_code": "1024746006",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1024746006&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 16900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0024",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "안동 흙 생강 3kg/5kg/10kg 옵션선택",
+      "model_code": "2013665188",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2013665188&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0025",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "5kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[임실군농협]완숙토마토 5kg #GAP인증",
+      "model_code": "4003468029",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4003468029&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 19900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0026",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[익산원예농협]시시원한 단맛 신선한 제철 국내산 오이 취청오이 청오이 특품",
+      "model_code": "9011079256",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9011079256&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 8900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0027",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "2kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[신북농협 Pick!]★정품 토마토 탱!글탱!글 2kg~ 완숙토마토",
+      "model_code": "9039257102",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9039257102&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 15100,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 선물하기, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0028",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "국내산 세척 생강 1kg~5kg 옵션선택(특품)",
+      "model_code": "4039570905",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4039570905&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 15000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 과일/채소; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0029",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가23,040원][무진장축협] 마이돈포크 삼겹살 1kg (구이/수육)",
+      "model_code": "2027253726",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2027253726&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 28800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0030",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가20,160원][안양축협]참들향한돈 삼겹살 1kg(구이/수육)",
+      "model_code": "3029444611",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3029444611&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25200,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0031",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "(농할)[대전충남양돈농협] 포크빌 삼겹살(구이용) (1kg)",
+      "model_code": "6030845673",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6030845673&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 27500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0032",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가 20,480원][도드람한돈]삼겹살 1kg (구이용/수육용)",
+      "model_code": "6039234434",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6039234434&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25600,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0033",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가 20,480원][도드람한돈] 칼집 삼겹살 구이용 1kg",
+      "model_code": "8039259112",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039259112&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25600,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0034",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "(농할가 23,120원)[나주축협] 한돈 삼겹살 1kg (구이용/수육용/캠핑용 옵션)",
+      "model_code": "9039572034",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9039572034&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 28900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0035",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★10/30농할가19,900원★[무진장축협] 마이돈포크 목살 1kg (구이/수육)",
+      "model_code": "0018283929",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0018283929&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 26400,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0036",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가20,160원][안양축협] 참들향한돈 목살 1kg(구이/수육)",
+      "model_code": "2027149412",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2027149412&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25200,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0037",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가 20,160원][도드람한돈] 목심 1kg (구이용/수육용)",
+      "model_code": "7039493894",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039493894&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25200,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0038",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "(농할)[대전충남양돈농협] 포크빌 목살(구이용) 1kg",
+      "model_code": "8030870798",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8030870798&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 25500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0039",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "(농할가 22,320원)[나주축협] 한돈 목살 1kg (구이용/수육용/캠핑용 옵션)",
+      "model_code": "8039572035",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039572035&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 27900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0040",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가14,320원][안양축협] 참들향한돈 앞다리살 1kg",
+      "model_code": "1030670476",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1030670476&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 17900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0041",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "(농할가 16,720원)[나주축협] 한돈 앞다리살 1kg (옵션선택)",
+      "model_code": "7039572036",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039572036&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 20900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0042",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[농할가14,320원][도드람한돈] 앞다리살 1kg",
+      "model_code": "9012908511",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9012908511&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 17900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 돼지고기; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0043",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 영양농협 안심영양고춧가루 일반 1kg",
+      "model_code": "0000937878",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0000937878&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 29500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0044",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 남영양농협 햇살촌 영양고춧가루 1kg_김치,양념용",
+      "model_code": "8000513472",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8000513472&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 31500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 선물하기, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0045",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 남영양농협 농협 고춧가루 1kg (보통맛)",
+      "model_code": "7000355903",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7000355903&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 31500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0046",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 영월농협 동강마루 청결고춧가루 1kg (보통맛&매운맛 옵션선택)",
+      "model_code": "2011691648",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2011691648&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 34400,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 복수배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0047",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "연두네방앗간 국산고춧가루 1kg",
+      "model_code": "2039572297",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2039572297&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 31000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0048",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[영광농협] 26년산 태양초청결고춧가루 골드 1kg(보통맛)",
+      "model_code": "6038868742",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6038868742&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 42800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0049",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[영광농협] 26년산 태양초청결고춧가루 골드 1kg (매운맛)",
+      "model_code": "9038869359",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9038869359&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 42800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0050",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고춧가루 햇살초골드(보통맛) 1kg",
+      "model_code": "7039388727",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039388727&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 41000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0051",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고춧가루 햇살초골드(매운맛) 1kg",
+      "model_code": "3039417137",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3039417137&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 41000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0052",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고추랑가루랑 (진짜매워) 1kg",
+      "model_code": "1039417139",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1039417139&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 55000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0053",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 영양농협 안심영양고춧가루 일반 3kg",
+      "model_code": "9000937879",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000937879&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 88000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0054",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 남영양농협 햇살촌 영양고춧가루 3kg_김치,양념용",
+      "model_code": "9000513471",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000513471&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 92700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0055",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[영광농협] 26년산 태양초청결고춧가루 골드 3kg (매운맛)",
+      "model_code": "4038869466",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4038869466&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 115000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0056",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[영광농협] 26년산 태양초청결고춧가루 골드 3kg(보통맛)",
+      "model_code": "5038868884",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5038868884&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 115000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0057",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고춧가루 햇살초골드(매운맛) 3kg",
+      "model_code": "2039417138",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2039417138&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 114000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 선물하기, 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0058",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "3kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고춧가루 햇살초골드(보통매운맛) 3kg",
+      "model_code": "3039388734",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3039388734&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 114000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 선물하기, 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0059",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "500g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 영양농협 안심영양고춧가루 일반 500g",
+      "model_code": "2000937876",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2000937876&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 15500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0060",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "500g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 남영양농협 햇살촌 영양고춧가루 500g_김치,양념용",
+      "model_code": "4000546191",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4000546191&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 16200,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 농식품바우처, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0061",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "500g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[26년산] 영월농협 동강마루 청결고춧가루 500g (보통맛&매운맛 옵션선택)",
+      "model_code": "4014151712",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4014151712&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 20400,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 복수배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0062",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "500g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고춧가루 햇살초골드(매운맛)500g",
+      "model_code": "8039417129",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039417129&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 23000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 선물하기, 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0063",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "500g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고춧가루 햇살초골드(보통맛) 500g",
+      "model_code": "8039381332",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039381332&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 23000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 선물하기, 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0064",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "300g",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "청양농협 ☆26년산☆ 고추랑가루랑 (진짜매워) 300g",
+      "model_code": "2039417125",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2039417125&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 20900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 고춧가루; 표기: 선물하기, 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0065",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[출고당일도정] 2026년산 햅쌀 당진해나루 당찬쌀 상등급 20kg",
+      "model_code": "5033431652",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5033431652&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0066",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송] [안정농협] 영주 웃품쌀, 20kg, 2025년산",
+      "model_code": "5039505609",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5039505609&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 71000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0067",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[서해대통] 2026년산 청풍명월 당진쌀 상등급 20kg 1개 [당진해나루][출고당일도정]",
+      "model_code": "0039310727",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039310727&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65300,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0068",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[홍천농협]홍천강수라쌀 20kg(2026년산)",
+      "model_code": "0039477163",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039477163&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 81000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0069",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송] 농협 강화섬쌀(삼광), 20kg, 2026년산",
+      "model_code": "0039541260",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039541260&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0070",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[추풍령농협] 황금물결 맑은쌀 20kg (2025년산)",
+      "model_code": "0039544508",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039544508&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0071",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "안중농협 슈퍼오닝쌀(고시히카리)20kg,2026년산",
+      "model_code": "5000357972",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5000357972&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 87500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0072",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[서해대통] 2026년산 당진로얄삼광쌀 삼광미 특등급 20kg [당진해나루][출고당일도정]",
+      "model_code": "8039310729",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8039310729&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 71700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0073",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "화순 도곡농협 백미(새청무)20kg. 2026년산",
+      "model_code": "1035819003",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1035819003&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0074",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": null,
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[함평농협] 우렁색시미(새청무), 2026년산",
+      "model_code": "1039474022",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1039474022&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0075",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[출고당일도정] 2026년산 햅쌀 당진해나루 당진쌀 상등급 20kg",
+      "model_code": "8033431646",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8033431646&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0076",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[송탄농협] 슈퍼오닝 고시히카리쌀 20kg (2026년산)",
+      "model_code": "2036496987",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2036496987&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 86900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0077",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[아산시농협] 아산맑은쌀(삼광) 20kg, 2026년산(특등급)",
+      "model_code": "2039372275",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2039372275&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 76800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0078",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "땅끝햇살秀 20kg, 26년산",
+      "model_code": "3039524031",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3039524031&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 75900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0079",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 조암농협 고시히카리 쌀 20kg, 2026년산",
+      "model_code": "5038288459",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5038288459&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 85000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0080",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[경남 함양] 함양농협 지리산함양쌀(혼합), 20kg, 2026년산",
+      "model_code": "6000353656",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6000353656&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0081",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "강진군농협 간척지도암쌀(혼합) 20kg, 2025년산",
+      "model_code": "6039268871",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6039268871&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 64700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0082",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송] 농협 강화섬쌀(나들미), 20kg, 2026년산",
+      "model_code": "6039542241",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6039542241&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0083",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송 14시마감][당일도정] 2026년산 햅쌀, 동철원농협 철원오대쌀 20kg",
+      "model_code": "7018523365",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7018523365&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 86900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 선물하기, 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0084",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송] ★햅쌀★ 농협양곡 익산 탑마루쌀 (신동진) 20kg, 2026년산",
+      "model_code": "7020053438",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7020053438&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0085",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "강진군농협 호평(새청무) 20kg, 2025년산",
+      "model_code": "7039268896",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039268896&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 74500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0086",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[합천농협] 수려한 합천 영호진미 20kg(단일미), 2026년산 햅쌀",
+      "model_code": "7039372296",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039372296&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0087",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[원주시농협쌀] 26년산 원주쌀 토토미 추청 20kg",
+      "model_code": "7039372436",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039372436&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 76000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0088",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 경주시농협 한토래 이사금쌀 20kg, 2026년산",
+      "model_code": "7039543553",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=7039543553&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0089",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 만세보령농협 삼광미골드 20kg, 2026년산",
+      "model_code": "8000776004",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8000776004&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 75300,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0090",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[거창군농협]밥맛이거창합니다 (영호진미), 20kg, 2026년산",
+      "model_code": "8000799324",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8000799324&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0091",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "공산농협 신동진쌀, 20kg",
+      "model_code": "8024564951",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8024564951&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 조건별무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0092",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 경주시농협 한토래 단일품종 삼광쌀 20kg, 2026년산",
+      "model_code": "8029581140",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8029581140&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0093",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 조암농협 수향미 (골든퀸3호) 20kg, 2026년산",
+      "model_code": "8034353365",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8034353365&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 86200,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0094",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[구례군농협]청정구례, 햇살머금은쌀 20kg (2025년산)",
+      "model_code": "8038828421",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=8038828421&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 64000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0095",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "농협 물맑은함평쌀(혼합) 20kg,2026년산",
+      "model_code": "9000352270",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000352270&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0096",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[갈산농협]청풍명월쌀(혼합)20kg,26년산",
+      "model_code": "9000362534",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000362534&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0097",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[공덕농협]그린숯미(신동진), 20kg, 2026년산",
+      "model_code": "9000495009",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000495009&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0098",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[공덕농협]상상예찬골드(신동진), 20kg, 2026년산",
+      "model_code": "9000545445",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000545445&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 75000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0099",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[회현농협](특등급)옥토진미골드20kg,2025년산",
+      "model_code": "9000825136",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9000825136&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 73800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0100",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 신김포농협 김포금쌀 고시히카리 20kg, 2026년산",
+      "model_code": "9029461669",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9029461669&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 91700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0101",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "강진군농협 탐진강 찰진쌀(새청무) 20kg, 2025년산",
+      "model_code": "9039268878",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9039268878&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0102",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "강진군농협 강진진미(혼합) 20kg, 2025년산",
+      "model_code": "9039440629",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=9039440629&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 64700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0103",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "2026년산 햅쌀 쌀좋다당진쌀 20kg 1개 [당진해나루][출고당일도정]",
+      "model_code": "5036849539",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5036849539&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0104",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "2025년산 갯벌에여문쌀(새청무 유기농) 20kg",
+      "model_code": "5025404761",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5025404761&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 73000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0105",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "2026년산 어머니고향쌀(새청무) 20kg",
+      "model_code": "5025404758",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5025404758&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0106",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 신김포농협 김포금쌀(추청) 20kg, 2026년산",
+      "model_code": "5000862690",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5000862690&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 80900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0107",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[공덕농협]왕겨숯미(혼합), 20kg, 2026년산",
+      "model_code": "5000374799",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=5000374799&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0108",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[원주시농협쌀] 26년산 원주쌀 토토미 삼광 20kg",
+      "model_code": "4039372442",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4039372442&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 74000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0109",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "곡성농협 기차마을 새청무쌀 20kg, 2026년산",
+      "model_code": "4036705708",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4036705708&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 64000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0110",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 당진시농협 당진해나루쌀(삼광) 20kg, 2026년산",
+      "model_code": "4036152636",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=4036152636&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 75900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0111",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 하동군농협 별천지 하동쌀(영호진미) 20kg, 2026년산",
+      "model_code": "3039532373",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3039532373&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 70500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0112",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 영암군농협 기운찬 신동진 20kg, 2026년산",
+      "model_code": "3029584298",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3029584298&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0113",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[싱씽배송] ★햅쌀★ 이천남부농협 임금님표 이천쌀(알찬) 20kg, 2026년산",
+      "model_code": "3026710883",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3026710883&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 90900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0114",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 농협양곡 안동 영호진미 20kg, 2026년산",
+      "model_code": "3021045735",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3021045735&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0115",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "농협 김해시 가야뜰쌀(단일품종영호진미) 20kg, 2025년산",
+      "model_code": "3003852492",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3003852492&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0116",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "농협양곡 무안뻘 간척지쌀 20kg, 2025년산",
+      "model_code": "3000909689",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3000909689&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67300,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0117",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 경주시농협 이사금 경주 삼광쌀 20kg, 2026년산",
+      "model_code": "2039543587",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2039543587&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0118",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 경주시농협 한토래 이사금 경주삼광쌀 20kg, 2026년산",
+      "model_code": "2039543532",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2039543532&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 68500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0119",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[출고당일도정] 2026년산 햅쌀 금빛너울쌀 삼광미 상등급 20kg (당진해나루농협)",
+      "model_code": "2033431642",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2033431642&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 69800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0120",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[출고당일도정] 2026년산 햅쌀 당진해나루쌀 삼광미 특등급 20kg",
+      "model_code": "2033429803",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2033429803&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 70900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0121",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[유가농협]초록미가20kg 삼광 특등급쌀 2026년산 햅쌀",
+      "model_code": "2028296720",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2028296720&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 73000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0122",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 진천증평농협 생거진천쌀(알찬) 20kg, 2026년산",
+      "model_code": "2000693118",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2000693118&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 77300,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0123",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "영암군농협 달마지쌀(유기농) 20kg, 2025년산",
+      "model_code": "2000516365",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=2000516365&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 78900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0124",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 만세보령농협 빛고운 황진쌀(혼합) 20kg, 2026년산",
+      "model_code": "1039434790",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1039434790&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0125",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "★햅쌀★ 영암군농협 조은쌀(혼합) 20kg, 2026년산",
+      "model_code": "1034891114",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1034891114&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0126",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "흥양농협 고흥 해맞이쌀 20kg,2026년산",
+      "model_code": "1026442834",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1026442834&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 64000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0127",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "큰들쌀 20kg",
+      "model_code": "1012766793",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=1012766793&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 67500,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0128",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[서해대통 당진쌀] 당진 친들미 상등급 20kg 26년산 (출고당일도정)",
+      "model_code": "0039519986",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039519986&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66800,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0129",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "보은농협 보은황토쌀 (삼광) 20kg, 2025년산",
+      "model_code": "0039507093",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0039507093&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 65700,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0130",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "26년 햅쌀 동송농협 철원오대쌀 20kg",
+      "model_code": "0013374439",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0013374439&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 86900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0131",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[갈산농협]청산유수쌀(혼합), 20kg,26년산",
+      "model_code": "0000362533",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0000362533&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 66000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0132",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "함양농협 지리산황토쌀(삼광), 20kg, 2026년산",
+      "model_code": "0000357980",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0000357980&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 70000,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-nonghal-daejeon-0133",
+      "category": "food",
+      "source_id": "food-nonghyupmall-nonghal-daejeon",
+      "unit": "20kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 농할대전(대전환 농할대전)",
+      "product": "[철원농협] 철원오대쌀20kg(2026년산)",
+      "model_code": "0000330358",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0000330358&chanC=1101",
+      "event_url": "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070",
+      "claimed_original_price": null,
+      "sale_price": 87900,
+      "claimed_discount_pct": null,
+      "conditions": "기획전 탭: 쌀20kg(1주1인1포3천원할인); 표기: 복수배송, 무료배송",
+      "sources": [
+        "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004949&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+        "https://www.nonghyupmall.com/BC1B010R/evtDetail.nh?evtNo=EV20260070"
+      ]
+    }
+  ]
+}

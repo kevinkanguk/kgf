@@ -1,0 +1,9 @@
+{
+  "category": "food",
+  "source_id": "food-hanwooboardmarket-part-002",
+  "collected_at": "2026-10-31",
+  "items": [],
+  "issues": [
+    "server-rendered page reports 전체상품 0개 (xcode=040 category empty/hidden from nav; duplicates brand 042)"
+  ]
+}

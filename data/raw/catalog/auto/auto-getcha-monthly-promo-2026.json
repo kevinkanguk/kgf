@@ -1,0 +1,9 @@
+{
+  "category": "auto",
+  "source_id": "auto-getcha-monthly-promo-2026",
+  "collected_at": "2026-10-31",
+  "items": [],
+  "issues": [
+    "requests got 403; WebFetch body has no model/trim discount data (article text only); recommended-content titles are unrelated items, not collected"
+  ]
+}

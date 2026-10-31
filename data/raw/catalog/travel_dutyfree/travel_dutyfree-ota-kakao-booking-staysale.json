@@ -1,0 +1,9 @@
+{
+  "category": "travel_dutyfree",
+  "source_id": "travel_dutyfree-ota-kakao-booking-staysale",
+  "collected_at": "2026-10-31",
+  "items": [],
+  "issues": [
+    "needs_browser: 숙소 목록/쿠폰 대상은 앱·카카오톡 내 JS 렌더링, 웹 셸에 품목 없음"
+  ]
+}

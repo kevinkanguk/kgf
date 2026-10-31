@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "KGF discount item",
+  "type": "object",
+  "required": ["item_id", "category", "vendor", "channel", "product", "buy_url"],
+  "properties": {
+    "item_id": {"type": "string", "description": "<source_id>-NNNN"},
+    "category": {"type": "string"},
+    "source_id": {"type": "string"},
+    "unit": {"type": ["string", "null"], "description": "용량/수량 (예: 1kg, 2개입, 1박)"},
+    "vendor": {"type": "string", "description": "브랜드/업체 (예: 삼성전자)"},
+    "channel": {"type": "string", "description": "판매처/행사 (예: 11번가, 수산대전)"},
+    "product": {"type": "string", "description": "상품명 (모델명 포함)"},
+    "model_code": {"type": ["string", "null"]},
+    "buy_url": {"type": "string"},
+    "image_url": {"type": ["string", "null"], "description": "대표 이미지 URL (http/https 절대경로)"},
+    "rating": {"type": ["number", "null"], "description": "별점 (5점 만점 기준으로 환산)"},
+    "review_count": {"type": ["integer", "null"]},
+    "event_url": {"type": ["string", "null"], "description": "행사 기획전 URL"},
+    "claimed_original_price": {"type": ["integer", "null"], "description": "행사가 주장하는 정가/원가"},
+    "sale_price": {"type": ["integer", "null"], "description": "행사 할인가(쿠폰 등 조건 포함 시 conditions에 기재)"},
+    "claimed_discount_pct": {"type": ["number", "null"]},
+    "conditions": {"type": ["string", "null"], "description": "카드/쿠폰/수량 조건"},
+    "price_60d_low": {"type": ["integer", "null"], "description": "최근 2개월 최저가"},
+    "price_60d_typical": {"type": ["integer", "null"], "description": "최근 2개월 대표가(중앙값/가장 오래 유지된 가격)"},
+    "price_history_note": {"type": ["string", "null"]},
+    "sources": {"type": "array", "items": {"type": "string"}},
+    "verify_status": {"enum": ["confirmed", "corrected", "unverifiable", null]},
+    "verify_note": {"type": ["string", "null"]},
+    "confidence": {"enum": ["high", "medium", "low", null]}
+  }
+}

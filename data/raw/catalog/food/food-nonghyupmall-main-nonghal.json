@@ -1,0 +1,73 @@
+{
+  "category": "food",
+  "source_id": "food-nonghyupmall-main-nonghal",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "food-nonghyupmall-main-nonghal-0001",
+      "category": "food",
+      "source_id": "food-nonghyupmall-main-nonghal",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 메인(농할대전 표시)",
+      "product": "[농할가20,160원][안양축협]참들향한돈 삼겹살 1kg(구이/수육)",
+      "model_code": "3029444611",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=3029444611&chanC=1101",
+      "image_url": "https://img-www.nonghyupmall.com//prdimg/01/004/003/001/001//3029444611_0_320_341891421_20261028103520.png",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.nonghyupmall.com/",
+      "claimed_original_price": 30900,
+      "sale_price": 20160,
+      "claimed_discount_pct": 34.8,
+      "conditions": "표기: 농할대전, 알뜰특가; 상품명 표기 농할가 20,160원 (목록 표시가 25,200원, 농할 쿠폰/할인 적용가 추정 아님-상품명 표기 그대로)",
+      "sources": [
+        "https://www.nonghyupmall.com/"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-main-nonghal-0002",
+      "category": "food",
+      "source_id": "food-nonghyupmall-main-nonghal",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 메인(농할대전 표시)",
+      "product": "[농할가 20,480원][도드람한돈]삼겹살 1kg (구이용/수육용)",
+      "model_code": "6039234434",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=6039234434&chanC=1101",
+      "image_url": "https://img-www.nonghyupmall.com//prdimg/01/004/003/001/001//6039234434_0_320_341572322_20260828163429.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.nonghyupmall.com/",
+      "claimed_original_price": 30800,
+      "sale_price": 20480,
+      "claimed_discount_pct": 33.5,
+      "conditions": "표기: 농할대전, MD추천; 상품명 표기 농할가 20,480원 (목록 표시가 25,600원, 농할 쿠폰/할인 적용가 추정 아님-상품명 표기 그대로)",
+      "sources": [
+        "https://www.nonghyupmall.com/"
+      ]
+    },
+    {
+      "item_id": "food-nonghyupmall-main-nonghal-0003",
+      "category": "food",
+      "source_id": "food-nonghyupmall-main-nonghal",
+      "unit": "1kg",
+      "vendor": "농협몰",
+      "channel": "농협몰 메인(농할대전 표시)",
+      "product": "★10/30농할가19,900원★[무진장축협] 마이돈포크 목살 1kg (구이/수육)",
+      "model_code": "0018283929",
+      "buy_url": "https://www.nonghyupmall.com/BC14010R/viewDetailPage.nh?wrsC=0018283929&chanC=1101",
+      "image_url": "https://img-www.nonghyupmall.com//prdimg/01/004/003/001/002//0018283929_0_320_20250910162928.jpg",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.nonghyupmall.com/",
+      "claimed_original_price": 34300,
+      "sale_price": 19900,
+      "claimed_discount_pct": 42.0,
+      "conditions": "표기: 농할대전, 알뜰특가; 상품명 표기 농할가 19,900원 (목록 표시가 26,400원, 농할 쿠폰/할인 적용가 추정 아님-상품명 표기 그대로)",
+      "sources": [
+        "https://www.nonghyupmall.com/"
+      ]
+    }
+  ]
+}

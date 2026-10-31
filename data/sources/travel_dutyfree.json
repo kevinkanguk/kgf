@@ -1,0 +1,376 @@
+{
+  "category": "travel_dutyfree",
+  "collected_at": "2026-10-31",
+  "sources": [
+    {
+      "source_id": "travel_dutyfree-kto-staysale-official",
+      "category": "travel_dutyfree",
+      "channel": "한국관광공사",
+      "url": "https://ktostay.visitkorea.or.kr/",
+      "kind": "notice",
+      "est_items": 5,
+      "access": "static",
+      "note": "숙박세일페스타 2026 가을편 공식. 발급/숙박 9.22~11.8. 본편 2만(2~7만미만)/3만(7만이상)/연박7만(14만이상), 섬편 3만/5만. 쿠폰=정액할인이라 품목 가격표 없음. 참여OTA 버튼은 JS/이미지"
+    },
+    {
+      "source_id": "travel_dutyfree-kgf-discountcate",
+      "category": "travel_dutyfree",
+      "channel": "코리아그랜드페스티벌",
+      "url": "https://koreagrandfestival.kr/discountcate",
+      "kind": "notice",
+      "est_items": 11,
+      "access": "static",
+      "note": "분야별 할인정보 11개 탭(여행/문화/국가유산/농축산/한우/자동차가전/유통서비스/수산/중소소상공인/면세점/지역특산). 여행탭=ktostay 배너, 면세점탭=kodufe 배너뿐 상품 없음"
+    },
+    {
+      "source_id": "travel_dutyfree-kodufe-official",
+      "category": "travel_dutyfree",
+      "channel": "한국면세점협회 코듀페",
+      "url": "http://kodufe.kr/index_ko.html",
+      "kind": "notice",
+      "est_items": 12,
+      "access": "static",
+      "note": "듀티프리페스타 2026 공식. 12개 운영사 혜택표(달러 구간별 할인 등). 페이지 표기 행사기간 2026.4.25~5.31로 코그페(10.29~11.15)와 불일치 가능"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-11st-staysale",
+      "category": "travel_dutyfree",
+      "channel": "11번가",
+      "url": "https://www.11st.co.kr/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 2025 가을 국내숙박 6만개 기획전 선례. 2026 가을 기획전 URL 미확인(plan.11st.co.kr 검색 필요)"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-gmarket-staysale",
+      "category": "travel_dutyfree",
+      "channel": "G마켓",
+      "url": "https://www.gmarket.co.kr/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 봇차단(403) 가능, 브라우저 필요"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-kakao-booking-staysale",
+      "category": "travel_dutyfree",
+      "channel": "카카오톡 예약하기",
+      "url": "https://booking.kakao.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. URL 미검증(앱/카카오톡 내)"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-myrealtrip-staysale",
+      "category": "travel_dutyfree",
+      "channel": "마이리얼트립",
+      "url": "https://www.myrealtrip.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 숙박 기획전 URL 미확인"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-nol-staysale",
+      "category": "travel_dutyfree",
+      "channel": "NOL(놀유니버스·야놀자)",
+      "url": "https://nol.yanolja.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 2026 가평군 등 지역 숙박세일 선례"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-triptopaz-staysale",
+      "category": "travel_dutyfree",
+      "channel": "트립토파즈",
+      "url": "https://www.triptopaz.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-tripbtoz-staysale",
+      "category": "travel_dutyfree",
+      "channel": "트립비토즈",
+      "url": "https://www.tripbtoz.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-stayfolio-staysale",
+      "category": "travel_dutyfree",
+      "channel": "스테이폴리오",
+      "url": "https://www.stayfolio.com/2026-stay-festa?selectionId=595",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 가을편 안내 페이지 확인(최대5만 쿠폰, 지역별 추천스테이, 숙소목록 없음). 숙소 탐색은 메인 사이트"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-webtour-staysale",
+      "category": "travel_dutyfree",
+      "channel": "웹투어",
+      "url": "https://www.webtour.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-privia-staysale",
+      "category": "travel_dutyfree",
+      "channel": "프리비아 여행",
+      "url": "https://www.priviatravel.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-momgo-staysale",
+      "category": "travel_dutyfree",
+      "channel": "맘맘",
+      "url": "https://www.momgo.kr/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여(도메인 미검증, 접속 실패)"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-pet-life-staysale",
+      "category": "travel_dutyfree",
+      "channel": "반려생활",
+      "url": "https://www.google.com/search?q=반려생활+숙박세일페스타",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 공식 URL 미확인"
+    },
+    {
+      "source_id": "travel_dutyfree-ota-goodchoice-staysale",
+      "category": "travel_dutyfree",
+      "channel": "여기어때",
+      "url": "https://www.goodchoice.kr/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 섬 지역편 참여. 2026 가평군 숙박세일 선례"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-lotte-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "롯데면세점",
+      "url": "https://kor.lottedfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 명동본점·월드타워·부산·제주 시내점 + 김포/김해/제주/인천공항. GOLD 멤버십 최대15%, $100/200/300/500/800 이상 $10/20/30/50/80 할인"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-shilla-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "신라면세점",
+      "url": "https://www.shilladfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 서울·제주·인천공항T1/T2. 관광지 영수증 선불카드 3천원, 택시 영수증 1만원"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-shinsegae-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "신세계면세점",
+      "url": "https://www.ssgdfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 명동·인천공항T1/T2. KOREA2026 코드 쇼핑지원금 1만원권 2종($50이상). 서버 406 응답, 브라우저 필요"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-hyundai-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "현대면세점",
+      "url": "https://www.hddfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 무역센터점·인천공항T1/T2. $50/100/300/500 이상 0.7/1.1/3.3/5.5만원 선불카드"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-shillaipark-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "신라아이파크면세점",
+      "url": "https://www.shillaipark.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 용산점. 최대 1,025만원 선불카드, 블랙패스 최대20%, 네이버페이 5%"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-jdc-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "JDC면세점",
+      "url": "https://www.jdcdutyfree.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 제주공항(내국인 출도) 최대20%, 제주항 최대10%. 약 290브랜드 55,000상품"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-jto-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "JTO 제주관광공사 면세점",
+      "url": "https://www.jejudfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 중문·성산면세점. 10만원 이상 1만원 쿠폰"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-kbk-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "경복궁면세점",
+      "url": "https://www.kbkdfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 인천공항 T1/T2 출·입국장, 김해, 청주. 관광지 영수증 $10($50이상)/$7($100이상)"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-city-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "시티면세점",
+      "url": "https://www.citydfs.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 인천공항 T1/T2. QR 93,000원 쿠폰팩, $30/$80 이상 1만/3만원"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-busan-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "부산면세점",
+      "url": "http://www.busandf.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "듀티프리페스타. 부산항점·용두산점. $50/100/150/200/300 이상 $5/10/15/20/30 할인"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-grand-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "그랜드면세점",
+      "url": "https://www.kodufe.kr/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "듀티프리페스타. 김포공항 입국장, 대구공항 출국장/입국장. 주류·화장품·담배 수량할인. 자체 온라인몰 없음(오프라인 행사표만)"
+    },
+    {
+      "source_id": "travel_dutyfree-dfs-panpan-dutyfreefesta",
+      "category": "travel_dutyfree",
+      "channel": "판판면세점",
+      "url": "http://kodufe.kr/index_ko.html",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "듀티프리페스타. 인천공항 T1/T2 중소기업 제품 전용. 사은품/1+1. 온라인몰 없음"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-jejuair-special",
+      "category": "travel_dutyfree",
+      "channel": "제주항공",
+      "url": "https://www.jejuair.net/ko/main/base/index.do",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "항공권 특가 프로모션 페이지 탐색 필요. 코그페 연계 여부 미확인"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-twayair-special",
+      "category": "travel_dutyfree",
+      "channel": "티웨이항공",
+      "url": "https://www.twayair.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "동일"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-jinair-special",
+      "category": "travel_dutyfree",
+      "channel": "진에어",
+      "url": "https://www.jinair.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "403 봇차단. 동일"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-airbusan-special",
+      "category": "travel_dutyfree",
+      "channel": "에어부산",
+      "url": "https://www.airbusan.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "403 봇차단. 동일"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-myrealtrip-flights-special",
+      "category": "travel_dutyfree",
+      "channel": "마이리얼트립 항공",
+      "url": "https://flights.myrealtrip.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "항공 OTA 특가"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-interpark-tour-special",
+      "category": "travel_dutyfree",
+      "channel": "인터파크 투어",
+      "url": "https://tour.interpark.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "항공/투어 특가 기획전. 코그페 연계 미확인"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-hanatour-special",
+      "category": "travel_dutyfree",
+      "channel": "하나투어",
+      "url": "https://www.hanatour.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "2025 가을 숙박세일 참여 선례, 2026 가을 참여 미확인. 국내여행/숙박 특가"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-modetour-special",
+      "category": "travel_dutyfree",
+      "channel": "모두투어",
+      "url": "https://www.modetour.com/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "국내외 패키지 특가. 코그페 연계 미확인"
+    },
+    {
+      "source_id": "travel_dutyfree-travel-ybtour-special",
+      "category": "travel_dutyfree",
+      "channel": "노랑풍선",
+      "url": "https://www.ybtour.co.kr/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "2026 여름편 참여 보도 있음. 가을 미확인"
+    }
+  ]
+}

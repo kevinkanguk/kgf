@@ -1,0 +1,32 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-samsung-galaxybook",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "appliance-samsung-galaxybook-0001",
+      "category": "appliance",
+      "source_id": "appliance-samsung-galaxybook",
+      "unit": "1개 (GRAPHITE)",
+      "vendor": "스위치(Sweetch)",
+      "channel": "삼성전자 Book적북적 캠퍼스 페스타",
+      "product": "Sweetch CITY BOYS 2WAY RUCKSACK 001",
+      "model_code": null,
+      "buy_url": "https://www.samsung.com/sec/event/galaxybook6_campusfesta/",
+      "image_url": "https://images.samsung.com/kdp/editor/common/202609/2af349f4-f40d-4850-b921-db22e086fae3.png",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.samsung.com/sec/event/galaxybook6_campusfesta/",
+      "claimed_original_price": 199000,
+      "sale_price": 59000,
+      "claimed_discount_pct": 70.4,
+      "conditions": "갤럭시 북 대상 모델 구매 혜택(사은 구매 혜택), 10/01~10/31, 정가는 제조사 공식몰 기준 표기",
+      "sources": [
+        "https://www.samsung.com/sec/event/galaxybook6_campusfesta/"
+      ],
+      "verify_status": null,
+      "verify_note": null,
+      "confidence": "low"
+    }
+  ]
+}

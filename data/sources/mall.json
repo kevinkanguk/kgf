@@ -1,0 +1,725 @@
+{
+  "category": "mall",
+  "sources": [
+    {
+      "source_id": "mall-kgf-sme-online",
+      "category": "mall",
+      "channel": "코그페 스토어(/sme) 온라인입점",
+      "url": "https://koreagrandfestival.kr/sme",
+      "kind": "listing",
+      "est_items": 47,
+      "access": "static",
+      "note": "전체 491개 업체 중 is-online=Y 47곳(스마트스토어/브랜드몰 링크). data-online-url 로 추출, 업체별 상품 목록은 외부몰. 오프라인 397곳은 기념품/음료 증정 등 가격 없음 -> 제외. 'TEST0914' 테스트 데이터 행 포함(제외 필요). 추출 결과 data/cache/html/sme_online.json"
+    },
+    {
+      "source_id": "mall-kgf-discountcate",
+      "category": "mall",
+      "channel": "코그페 공식 분야별 할인정보",
+      "url": "https://koreagrandfestival.kr/discountcate",
+      "kind": "notice",
+      "est_items": 0,
+      "access": "static",
+      "note": "11개 분야 안내 카드(여행/문화/국가유산/농축산물/한우/자동차·가전/유통·서비스/수산물/중소·소상공인/면세점/지역특산물). 가격 품목 없음, 타 카테고리 링크만"
+    },
+    {
+      "source_id": "mall-kgf-event-etc",
+      "category": "mall",
+      "channel": "코그페 기타이벤트(배달앱 쿠폰)",
+      "url": "https://koreagrandfestival.kr/event/etc",
+      "kind": "notice",
+      "est_items": 0,
+      "access": "static",
+      "note": "배달앱(땡겨요, 먹깨비 등) 쿠폰 공지 11건. 상품 가격 없음 -> 수집 제외 권장"
+    },
+    {
+      "source_id": "mall-kgf-event-regional",
+      "category": "mall",
+      "channel": "코그페 지역상권(핵점포) 행사",
+      "url": "https://koreagrandfestival.kr/event/regional",
+      "kind": "notice",
+      "est_items": 0,
+      "access": "static",
+      "note": "오프라인 지역행사 일정. 가격 품목 없음 -> 제외 권장"
+    },
+    {
+      "source_id": "mall-11st-sosang-fresh",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756462/products",
+      "kind": "listing",
+      "est_items": 74,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '신선식품'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-11st-sosang-processed",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756467/products",
+      "kind": "listing",
+      "est_items": 74,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '가공식품'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-11st-sosang-health",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756468/products",
+      "kind": "listing",
+      "est_items": 84,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '건강/다이어트식품/의료용품'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-11st-sosang-baby",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756469/products",
+      "kind": "listing",
+      "est_items": 77,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '출산/유아용품/장난감'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨."
+    },
+    {
+      "source_id": "mall-11st-sosang-living",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757688/products",
+      "kind": "listing",
+      "est_items": 24,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '리빙/생활문화'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨."
+    },
+    {
+      "source_id": "mall-11st-sosang-beauty",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757689/products",
+      "kind": "listing",
+      "est_items": 29,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '뷰티/헬스'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨."
+    },
+    {
+      "source_id": "mall-11st-sosang-fashion",
+      "category": "mall",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1757690/products",
+      "kind": "listing",
+      "est_items": 32,
+      "access": "static",
+      "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '패션'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨."
+    },
+    {
+      "source_id": "mall-gmarket-kgf-fresh",
+      "category": "mall",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870404",
+      "kind": "listing",
+      "est_items": 120,
+      "access": "static",
+      "note": "코리아그랜드세일페스타 기획전 섹션 신선식품1~5(5탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 식품류: food 카테고리와 중복 가능. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+    },
+    {
+      "source_id": "mall-gmarket-kgf-processed",
+      "category": "mall",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870406",
+      "kind": "listing",
+      "est_items": 120,
+      "access": "static",
+      "note": "코리아그랜드세일페스타 기획전 섹션 가공식품1~5(5탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 식품류: food 카테고리와 중복 가능. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+    },
+    {
+      "source_id": "mall-gmarket-kgf-health",
+      "category": "mall",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870408",
+      "kind": "listing",
+      "est_items": 96,
+      "access": "static",
+      "note": "코리아그랜드세일페스타 기획전 섹션 건강식품1~3(3탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 식품류: food 카테고리와 중복 가능. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+    },
+    {
+      "source_id": "mall-gmarket-kgf-digital",
+      "category": "mall",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870410",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "코리아그랜드세일페스타 기획전 섹션 디지털(allitem3, 정적 HTML에 상품 없음-동적 로딩). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+    },
+    {
+      "source_id": "mall-gmarket-kgf-living",
+      "category": "mall",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870412",
+      "kind": "listing",
+      "est_items": 144,
+      "access": "static",
+      "note": "코리아그랜드세일페스타 기획전 섹션 생활용품1·2/건강용품/반려취미기타/육아용품/인테리어(6탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+    },
+    {
+      "source_id": "mall-gmarket-kgf-beauty-fashion",
+      "category": "mall",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870414",
+      "kind": "listing",
+      "est_items": 120,
+      "access": "static",
+      "note": "코리아그랜드세일페스타 기획전 섹션 뷰티1·2/패션1·2/바디·헤어(5탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-fresh-fruit",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=fresh-fruit",
+      "kind": "listing",
+      "est_items": 438,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '신선식품(과일/채소/쌀)' 표시 건수 438(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-fresh-meat",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=fresh-meat",
+      "kind": "listing",
+      "est_items": 421,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '신선식품(수산/정육/계란)' 표시 건수 421(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-processed",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=processed",
+      "kind": "listing",
+      "est_items": 712,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '가공식품' 표시 건수 712(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-living",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=living",
+      "kind": "listing",
+      "est_items": 539,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '리빙' 표시 건수 539(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-beauty",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=beauty",
+      "kind": "listing",
+      "est_items": 121,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '뷰티' 표시 건수 121(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-fashion",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=fashion",
+      "kind": "listing",
+      "est_items": 841,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '패션/잡화' 표시 건수 841(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요."
+    },
+    {
+      "source_id": "mall-lotteon-sosang-hobby-kids-pet",
+      "category": "mall",
+      "channel": "롯데온",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=hobby-kids-pet",
+      "kind": "listing",
+      "est_items": 192,
+      "access": "js",
+      "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '취미/유아동/반려' 표시 건수 192(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원."
+    },
+    {
+      "source_id": "mall-skstoa-kgf",
+      "category": "mall",
+      "channel": "SK스토아",
+      "url": "https://www.skstoa.com/plan/event/detail/2026103519",
+      "kind": "listing",
+      "est_items": 206,
+      "access": "static",
+      "note": "코리아 그랜드페스티벌 기획전. 탭: 식품/가구·리빙/가전·디지털/생활·주방/패션·뷰티. 첫 60개는 정적 HTML(ga-prd-data p-id/p-price/p-name, 정상가·할인율 포함), 총 206개(planShopTotalCount=206)는 /plan/planDetail/more 페이징(60개씩)으로 추가 로딩. 상품 URL /display/goods/<id>."
+    },
+    {
+      "source_id": "mall-hmall-sosang-coupon-food",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=food",
+      "kind": "listing",
+      "est_items": 164,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '식품'(쿠폰 적용 섹션). 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-hmall-sosang-coupon-living",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=living",
+      "kind": "listing",
+      "est_items": 139,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 생활용품 70 + 반려동물용품/취미 52 + 가전/가구/침구 12 + 스포츠/레저 1 + 선착순할인쿠폰 4."
+    },
+    {
+      "source_id": "mall-hmall-sosang-coupon-beauty-fashion",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=beauty-fashion",
+      "kind": "listing",
+      "est_items": 135,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 뷰티 78 + 패션/패션잡화 57."
+    },
+    {
+      "source_id": "mall-hmall-sosang-reco-1",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=1-300",
+      "kind": "listing",
+      "est_items": 300,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 1~300번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+    },
+    {
+      "source_id": "mall-hmall-sosang-reco-2",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=301-600",
+      "kind": "listing",
+      "est_items": 300,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 301~600번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+    },
+    {
+      "source_id": "mall-hmall-sosang-reco-3",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=601-900",
+      "kind": "listing",
+      "est_items": 300,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 601~900번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+    },
+    {
+      "source_id": "mall-hmall-sosang-reco-4",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=901-1200",
+      "kind": "listing",
+      "est_items": 300,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 901~1200번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+    },
+    {
+      "source_id": "mall-hmall-sosang-reco-5",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=1201-1500",
+      "kind": "listing",
+      "est_items": 300,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 1201~1500번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+    },
+    {
+      "source_id": "mall-hmall-sosang-reco-6",
+      "category": "mall",
+      "channel": "현대Hmall",
+      "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=1501-1739",
+      "kind": "listing",
+      "est_items": 239,
+      "access": "static",
+      "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 1501~1739번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+    },
+    {
+      "source_id": "mall-nsmall-sosang",
+      "category": "mall",
+      "channel": "NS몰",
+      "url": "https://m.nsmall.com/store/atypical/1009576266",
+      "kind": "listing",
+      "est_items": 76,
+      "access": "js",
+      "note": "NS홈쇼핑 소상공인 물가안정 특가전. 브랜드/주제 그룹별 섹션(한유원 정부지원 소상공인 특가전 등)으로 구성, 스크롤 후 상품 링크 76개 확인(/goods/<id>). 쿠폰 10% 등 조건 상품 다수. 식품 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-grip-kgf",
+      "category": "mall",
+      "channel": "그립",
+      "url": "https://www.grip.show/event/korea-2026",
+      "kind": "listing",
+      "est_items": 100,
+      "access": "js",
+      "note": "코세페 기획전(탭 전체상품/패션/뷰티/식품/생활잡화) 무한스크롤. 최소 100개 확인(탭별 정확한 수 미확인, 탭 전환 시 누적 카운트라 신뢰 불가). 상품 URL /product/<id>. 탭별 분할 수집 권장."
+    },
+    {
+      "source_id": "mall-ssg-sosang-md-pick",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=md-pick",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 'MD's Pick'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-health-honey",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=health-honey",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '건강식품/꿀'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-meat-fish",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=meat-fish",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '축산/수산/건식품'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-veg-fruit-grain",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=veg-fruit-grain",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '채소/과일/양곡'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-drink-dairy",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=drink-dairy",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '음료/커피차/유제품'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-snack-bakery",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=snack-bakery",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '과자/베이커리/떡'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-meal-kimchi",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=meal-kimchi",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '간편식/김치/반찬'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-ssg-sosang-seasoning-noodle",
+      "category": "mall",
+      "channel": "SSG닷컴",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=seasoning-noodle",
+      "kind": "listing",
+      "est_items": 73,
+      "access": "js",
+      "note": "[E] 소상공인 브랜드대전 탭 '조미료/면/통조림'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+    },
+    {
+      "source_id": "mall-epost-kgf-p1",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=1-7",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 1~7 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p2",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=8-14",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 8~14 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p3",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=15-21",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 15~21 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p4",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=22-28",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 22~28 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p5",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=29-35",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 29~35 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p6",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=36-42",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 36~42 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p7",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=43-49",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 43~49 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p8",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=50-56",
+      "kind": "listing",
+      "est_items": 280,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 50~56 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-epost-kgf-p9",
+      "category": "mall",
+      "channel": "우체국쇼핑",
+      "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=57-60",
+      "kind": "listing",
+      "est_items": 155,
+      "access": "static",
+      "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 57~60 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-cardigan-outer",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=cardigan-outer",
+      "kind": "listing",
+      "est_items": 294,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '가디건&아우터' 표시 건수 294(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-blouse-shirt",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=blouse-shirt",
+      "kind": "listing",
+      "est_items": 100,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '블라우스&셔츠' 표시 건수 100(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-pants",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=pants",
+      "kind": "listing",
+      "est_items": 166,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '팬츠' 표시 건수 166(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-skirt-dress",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=skirt-dress",
+      "kind": "listing",
+      "est_items": 250,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '스커트&원피스' 표시 건수 250(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-tops",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=tops",
+      "kind": "listing",
+      "est_items": 486,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '상의' 표시 건수 486(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능. 300개 초과: 정렬/구간 분할 필요."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-denim",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=denim",
+      "kind": "listing",
+      "est_items": 53,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '데님' 표시 건수 53(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-innerwear-homewear",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=innerwear-homewear",
+      "kind": "listing",
+      "est_items": 101,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '이너웨어&홈웨어' 표시 건수 101(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-jewelry",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=jewelry",
+      "kind": "listing",
+      "est_items": 167,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '주얼리' 표시 건수 167(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-bag",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=bag",
+      "kind": "listing",
+      "est_items": 79,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '가방' 표시 건수 79(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-shoes",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=shoes",
+      "kind": "listing",
+      "est_items": 90,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '신발' 표시 건수 90(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-fashion-acc",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=fashion-acc",
+      "kind": "listing",
+      "est_items": 120,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '패션잡화' 표시 건수 120(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-zigzag-kgf-etc",
+      "category": "mall",
+      "channel": "지그재그",
+      "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=etc",
+      "kind": "listing",
+      "est_items": 24,
+      "access": "js",
+      "note": "지그재그 대국민 소비축제 카테고리 '기타' 표시 건수 24(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+    },
+    {
+      "source_id": "mall-oasis-kgf",
+      "category": "mall",
+      "channel": "오아시스마켓",
+      "url": "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
+      "kind": "listing",
+      "est_items": 70,
+      "access": "js",
+      "note": "코리아 그랜드 페스티벌 기획전. 스크롤 후 링크 70개 확인했으나 다수가 검색어 링크(/product/search?keyword=...)라 실제 상품 수는 미확인. 정적 HTML엔 상품 ID 24개. 식품(신선) 위주. 식품류: food 카테고리와 중복 가능."
+    },
+    {
+      "source_id": "mall-wconcept-kgf",
+      "category": "mall",
+      "channel": "W컨셉",
+      "url": "https://display.wconcept.co.kr/rn/desktop/promotion/132",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "js",
+      "note": "코리아 그랜드 페스티벌 기획: 라이프/뷰티 브랜드 쿠폰(최대 9만원)·브랜드 목록 중심. 접속 시점에 '추천 가능한 상품이 없어요'로 상품 0개 렌더(키친/홈패브릭/컬쳐·반려/메이크업/스킨케어/헤어바디/이너뷰티/가전 탭). 브랜드 단위 확인 필요. 원 링크의 previewDate 파라미터는 제거함."
+    },
+    {
+      "source_id": "mall-naver-kgf",
+      "category": "mall",
+      "channel": "네이버쇼핑",
+      "url": "https://shopping.naver.com/festa/onsale/6a7e9f9d233b4473b033f8c8",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "curl 접근 시 maintenance 페이지로 리다이렉트, 브라우저 패널은 도메인 제한으로 열 수 없음. 봇 차단 우회는 시도하지 않음. 06_browser_fallback 또는 사용자 브라우저에서 확인 필요."
+    },
+    {
+      "source_id": "mall-kshoppingfesta",
+      "category": "mall",
+      "channel": "동행축제(k-shoppingfesta.org)",
+      "url": "https://k-shoppingfesta.org",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "Vue SPA(gachi-portal-front-vue), JS 없이 내용 없음. 참여 쇼핑몰/상품 API 미확인 -> 브라우저 확인 필요."
+    },
+    {
+      "source_id": "mall-ksalefesta",
+      "category": "mall",
+      "channel": "K-세일페스타(k-salefesta.co.kr)",
+      "url": "https://www.k-salefesta.co.kr",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "curl 연결 실패(HTTP 000). 접속 가능 여부·참여몰 목록 미확인."
+    },
+    {
+      "source_id": "mall-ilovegohyang-gift",
+      "category": "mall",
+      "channel": "고향사랑e음 답례품몰",
+      "url": "https://www.ilovegohyang.go.kr/goods/index-main.html",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "Vue 렌더, 답례품은 기부 포인트(P) 표시. 정가 대비 할인 개념이 약해 검증 대상 여부 판단 필요."
+    },
+    {
+      "source_id": "mall-khstore-heritage",
+      "category": "mall",
+      "channel": "K-Heritage 스토어(국가유산진흥원)",
+      "url": "https://khstore.or.kr/",
+      "kind": "listing",
+      "est_items": null,
+      "access": "static",
+      "note": "공식 about 페이지 링크. cafe24형 쇼핑몰, 상품 수 미집계. 국가유산 카테고리와 중복 가능."
+    }
+  ]
+}

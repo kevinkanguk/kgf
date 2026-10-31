@@ -1,0 +1,99 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-lge-pe00983007",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "appliance-lge-pe00983007-0001",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe00983007",
+      "unit": "72개월 구독(월)",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG TV 올레드 AI 77인치 엘지넷플팩 (TV 구독+넷플릭스 프리미엄)",
+      "model_code": "OLED77B6BNA.AKRG",
+      "buy_url": "https://www.lge.co.kr/care-solutions/tvs/oled77b6bna-wall?dpType=careTab",
+      "image_url": "https://www.lge.co.kr/kr/images/tvs/md10787829/gallery/medium01.jpg",
+      "rating": 5.0,
+      "review_count": 181,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+      "claimed_original_price": 101300,
+      "sale_price": 85100,
+      "claimed_discount_pct": 16.0,
+      "conditions": "월 구독료. 정상가=TV 단독 84,300원+넷플 17,000원. 72개월 구독+넷플릭스 결합, 가입 2~7개월차 6개월간 할인, 약정 중 넷플 해지 불가",
+      "sources": [
+        "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+        "https://www.lge.co.kr/care-solutions/tvs/oled77b6bna-wall?dpType=careTab"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-pe00983007-0002",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe00983007",
+      "unit": "72개월 구독(월)",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG TV 올레드 AI 65인치 엘지넷플팩 (TV 구독+넷플릭스 프리미엄)",
+      "model_code": "OLED65B6BNA.AKRG",
+      "buy_url": "https://www.lge.co.kr/care-solutions/tvs/oled65b6bna-wall?dpType=careTab",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+      "claimed_original_price": 67900,
+      "sale_price": 57000,
+      "claimed_discount_pct": 16.1,
+      "conditions": "월 구독료. 정상가=TV 단독 50,900원+넷플 17,000원. 72개월 구독+넷플릭스 결합, 가입 2~7개월차 6개월간 할인, 약정 중 넷플 해지 불가",
+      "sources": [
+        "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+        "https://www.lge.co.kr/care-solutions/tvs/oled65b6bna-wall?dpType=careTab"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-pe00983007-0003",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe00983007",
+      "unit": "72개월 구독(월)",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG TV QNED AI 86인치 엘지넷플팩 (TV 구독+넷플릭스 프리미엄)",
+      "model_code": "86QNED70AEA.AKRG",
+      "buy_url": "https://www.lge.co.kr/care-solutions/tvs/86qned70aea-wall?dpType=careTab",
+      "image_url": "https://www.lge.co.kr/kr/images/tvs/md10654889/gallery/medium01.jpg",
+      "rating": 4.9,
+      "review_count": 2229,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+      "claimed_original_price": 79500,
+      "sale_price": 66700,
+      "claimed_discount_pct": 16.1,
+      "conditions": "월 구독료. 정상가=TV 단독 62,500원+넷플 17,000원. 72개월 구독+넷플릭스 결합, 가입 2~7개월차 6개월간 할인, 약정 중 넷플 해지 불가",
+      "sources": [
+        "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+        "https://www.lge.co.kr/care-solutions/tvs/86qned70aea-wall?dpType=careTab"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-pe00983007-0004",
+      "category": "appliance",
+      "source_id": "appliance-lge-pe00983007",
+      "unit": "72개월 구독(월)",
+      "vendor": "LG전자",
+      "channel": "LGE.COM",
+      "product": "LG TV QNED AI 75인치 엘지넷플팩 (TV 구독+넷플릭스 프리미엄)",
+      "model_code": "75QNED65ABA.AKRG",
+      "buy_url": "https://www.lge.co.kr/care-solutions/tvs/75qned65aba-wall?dpType=careTab",
+      "image_url": "https://www.lge.co.kr/kr/images/tvs/md10543876/gallery/medium01.jpg",
+      "rating": 5.0,
+      "review_count": 1643,
+      "event_url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+      "claimed_original_price": 63500,
+      "sale_price": 53600,
+      "claimed_discount_pct": 15.6,
+      "conditions": "월 구독료. 정상가=TV 단독 46,500원+넷플 17,000원. 72개월 구독+넷플릭스 결합, 가입 2~7개월차 6개월간 할인, 약정 중 넷플 해지 불가",
+      "sources": [
+        "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+        "https://www.lge.co.kr/care-solutions/tvs/75qned65aba-wall?dpType=careTab"
+      ]
+    }
+  ]
+}

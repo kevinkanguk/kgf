@@ -1,0 +1,29 @@
+{
+  "category": "food",
+  "source_id": "food-nurimarket-nonghal-nh35",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "food-nurimarket-nonghal-nh35-0001",
+      "category": "food",
+      "source_id": "food-nurimarket-nonghal-nh35",
+      "unit": "30구",
+      "vendor": "비케이물산",
+      "channel": "온누리마켓(비케이물산)",
+      "product": "(농할) 계란 특란 무정란 달걀 30구",
+      "model_code": "1772164898",
+      "buy_url": "https://nurimarket.co.kr/shop/item.php?it_id=1772164898",
+      "image_url": "https://nurimarket.co.kr/data/item/1772164898/thumb-66y07KCV656A_350x350.jpg",
+      "rating": 5.0,
+      "review_count": 57,
+      "event_url": "https://nurimarket.co.kr/shop/list.php?ca_id=nh35",
+      "claimed_original_price": 18900,
+      "sale_price": 13900,
+      "claimed_discount_pct": 26.0,
+      "conditions": "쿠폰 적용가 12,400원",
+      "sources": [
+        "https://nurimarket.co.kr/shop/list.php?ca_id=nh35&sort=it_sum_qty&sortodr=desc&page=1"
+      ]
+    }
+  ]
+}

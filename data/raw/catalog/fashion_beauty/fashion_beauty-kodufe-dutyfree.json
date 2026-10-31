@@ -1,0 +1,271 @@
+{
+  "category": "fashion_beauty",
+  "source_id": "fashion_beauty-kodufe-dutyfree",
+  "collected_at": "2026-10-31",
+  "items": [
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0001",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "롯데면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "롯데면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://kor.lottedfs.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": 15,
+      "conditions": "서울 부산 제주 시내면세점(명동본점, 월드타워점, 부산점, 제주점) 전용 혜택 GOLD 멤버십 혜택 제공(최대 15% 할인) $100/200/300/500/800 이상 구매 시 각 $10/20/30/50/80 할인 ※ 개별점, 기간 내 1회 사용, 할인불가 브랜드 제외 ※ 코듀페 모바일 쿠폰(화면) 제시 시 혜택 제공",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0002",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "신라면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "신라면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "http://www.shilladfs.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "서울 인천 제주 오프라인 전점(서울, 제주, 인천점) 혜택 지역 관광공사 연계 관광지 입장권/관광기념품 구매 영수증 지참 고객 대상 신라면세점 선불카드 3,000원 증정 ※ 유효기간: 지급 당일에 한해 유효 ※ 조건: 관광지도에 기재된 관광명소(면세점 제외)에 한하며, 입장권 또는 영수증 증빙 필수 신라면세점 제주점 전용 혜택 신라면세점 제주점 $100이상 구매시 맛있는제주만들기 가맹점 5,000원 이용권 증정 ※ 사용 가능 지점 쿠폰 확인 필요 신라면세점 서울점 / 제주점 혜택 당일 이용 택시비 영수증 제시 시, 신라면세점 선불카드 10,000원 증정 ※ 유효기간: 지급 당일에 한해 유효",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0003",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "신세계면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "신세계면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://www.ssgdfs.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "서울 인천 제주 신세계면세점 특별 혜택 <KOREA2026> 코드 입력 시, 쇼핑지원금 1만원권 2종 증정 ※ 유효 기간: 2026년 11월 30일까지 ※ 사용 매장: 온라인몰, 오프라인 전점(명동점, 인천공항점T1/T2) ※ 사용 기준: $50 이상 구매 시",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0004",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "현대면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "현대면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://www.hddfs.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": 15,
+      "conditions": "서울 무역센터점 전용 혜택 GOLD 멤버십 혜택 제공(최대 15% 할인) $50/100/300/500 이상 구매시, 0.7/1.1/3.3/5.5만원 선불카드 증정 ※ 코듀페 페이지 인증 시 혜택 제공",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0005",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "신라아이파크면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "신라아이파크면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://www.shillaipark.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "서울 오프라인 전용 혜택 구매금액별 최대 1,025만원 선불카드 지급 1일 블랙패스* 제공 * 최대 20% 할인, 일부 브랜드 제외 네이버페이 결제 시 5% 즉시할인(일부 브랜드 한정) 온라인 전용 혜택 대한민국 관광 코너(관광안내 페이지 연계 링크) 콘텐츠 확인 시, 온라인 적립금 지급 SNS 경품 행사(인스타그램)",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0006",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "JDC면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "JDC면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://www.jdcdutyfree.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": 20,
+      "conditions": "제주 JDC 공항면세점 최대 20% 할인 JDC 제주항 1, 2 면세점 최대 10% 할인 JDC 신규 회원가입 고객 대상 100,000원 이상 구매 시 10,000원 할인",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0007",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "JTO면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "JTO면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://www.jejudfs.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "제주 중문면세점 전용혜택 방문 시, 10만원 이상 구매시 1만원 할인쿠폰 제공 행사 리플렛 지참 방문 시 해녀 캐릭터 술잔 1PCS 증정",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0008",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "경복궁면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "경복궁면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "https://www.kbkdfs.com/",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "인천 청주 김해 인천공항 T1/T2 출국장점 전용 혜택 지역 관광·문화·체험시설 입장권 또는 이용 영수증 지참 시 $10 할인 ※ $50 이상 구매 시 사용 가능 / 영수증 분할 및 합산 불가 김해공항/청주공항 출국장점 전용 혜택 지역 관광·문화·체험시설 입장권 또는 이용 영수증 지참 시 $7 할인 ※ $100 이상 구매 시 사용 가능 / 영수증 분할 및 합산 불가",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0009",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "시티면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "시티면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "http://www.citydfs.com",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "인천 시티면세점 QR코드 스캔 시 93,000원 상당 할인쿠폰팩 증정 대한민국 관광지 방문 인증샷 프로모션 관광지 방문 인증샷 안내데스크 제시 시 쇼핑할인권 증정 : $30이상 구매 시 1만원 / $80이상 구매 시 3만원 할인 혜택 ※ 1인 1회 한정 / 소진 시 조기종료",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0010",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "판판면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "판판면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "http://kodufe.kr/index_ko.html",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "인천 고객 감사 특별 사은행사 구매 금액별 사은품 증정 입점 브랜드 별 추가 증정(1+1, 2+1 등) ※ 일부 매장 및 일부 브랜드에 한함",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0011",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "그랜드면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "그랜드면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "http://kodufe.kr/index_ko.html",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": 25,
+      "conditions": "김포 대구 김포공항 입국장점 특별할인 혜택 : 주류 25%~10% (2병 이상 구매시 할인, 일본주류 최대 25%), 화장품, 향수 20~10% 대구공항 입국장점 주류 10~20% (2병이상 구매 시 추가할인), 담배 $1~$3 할인 (일부상품 10% 할인), 화장품 1+1, 2PCS 구매 시 5~10%, 식품 3+1, 5+1, 2PCS 구매 시 5~10%, 패션잡화 2PCS 구매 시 5~10% 대구공항 출국장점 주류 10~20% (2병이상 구매 시 추가할인), 담배 2PCS 구매 시 5%, 4PCS 구매 시 10%, 6 PCS 구매 시 20%, 화장품 1+1, 2PCS 구매 시 5~10%, 식품 3+1, 5+1, 2PCS 구매 시 5~10%, 패션잡화 2PCS 구매 시 5~10%",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    },
+    {
+      "item_id": "fashion_beauty-kodufe-dutyfree-0012",
+      "category": "fashion_beauty",
+      "source_id": "fashion_beauty-kodufe-dutyfree",
+      "unit": null,
+      "vendor": "부산면세점",
+      "channel": "코리아 듀티프리 페스타(한국면세점협회)",
+      "product": "부산면세점 행사 혜택(상품 목록 없음)",
+      "model_code": null,
+      "buy_url": "http://www.busandf.com/",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "event_url": "http://kodufe.kr/index_ko.html",
+      "claimed_original_price": null,
+      "sale_price": null,
+      "claimed_discount_pct": null,
+      "conditions": "부산 오프라인 전용 혜택 $50/100/150/200/300 구매 시 $5/10/15/20/30 할인 용두산 시내점 구매고객 부산타워 입장권 30% 할인 <!--",
+      "sources": [
+        "http://kodufe.kr/index_ko.html"
+      ]
+    }
+  ]
+}

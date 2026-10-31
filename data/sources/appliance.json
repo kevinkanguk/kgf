@@ -1,0 +1,585 @@
+{
+  "category": "appliance",
+  "sources": [
+    {
+      "source_id": "appliance-samsung-tv",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/samsung-tv/",
+      "kind": "brand_event",
+      "est_items": 13,
+      "access": "static",
+      "note": "TV 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+    },
+    {
+      "source_id": "appliance-samsung-refrigerator",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/bespoke-refrigerator/",
+      "kind": "brand_event",
+      "est_items": 8,
+      "access": "static",
+      "note": "Bespoke 냉장고 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+    },
+    {
+      "source_id": "appliance-samsung-kimchi",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/kimchi-refrigerator/",
+      "kind": "brand_event",
+      "est_items": 13,
+      "access": "static",
+      "note": "Bespoke 김치냉장고 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+    },
+    {
+      "source_id": "appliance-samsung-kitchen",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/kitchen-appliance/",
+      "kind": "brand_event",
+      "est_items": 45,
+      "access": "static",
+      "note": "주방가전 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+    },
+    {
+      "source_id": "appliance-samsung-clothcare",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/bespoke-grande-ai/",
+      "kind": "brand_event",
+      "est_items": 49,
+      "access": "static",
+      "note": "Bespoke 의류케어(세탁기/건조기/에어드레서) 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+    },
+    {
+      "source_id": "appliance-samsung-aircon",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/air-conditioners-inhome/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "에어컨 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-systemaircon",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/system-air-conditioners-inhome/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "무풍 시스템에어컨 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-vacuum",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/vacuum-cleaner/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "청소기 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-aircleaner",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/air-cleaner/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "제습기/공기청정기 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-monitor",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/samsung-monitor/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "모니터 삼닷 10월 쇼핑 대전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-movingstyle",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/samsung-movingstyle/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "무빙스타일 삼닷 10월 쇼핑 대전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-waterpurifier",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/ai-subs-kitchen/water-purifier/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "Bespoke 정수기 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-tvsubs",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/2026TV/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "삼성 AI TV 구독 페스타. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-galaxybook",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/galaxybook6_campusfesta/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "Book적북적 캠퍼스 페스타(갤럭시북). 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-kitchenfit",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/kitchenfiterior/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "키친핏테리어 냉장고/김치냉장고. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-odyssey",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/2026-oled-benefit/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "오디세이 게이밍 모니터 구매 사은품 이벤트. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-samsung-jbl",
+      "category": "appliance",
+      "channel": "삼성닷컴",
+      "url": "https://www.samsung.com/sec/event/harman-kardon/",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "JBL 80주년 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-blackfriday-kgf",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01036002",
+      "kind": "brand_event",
+      "est_items": 164,
+      "access": "static",
+      "note": "LGE.COM 엘지닷 블랙프라이데이 with 코리아 그랜드 페스티벌 2026-10-29~11-30. HTML에 MD코드 164종(est). 오픈5일 선착순 특가(~11/2), 위클리특가 4회."
+    },
+    {
+      "source_id": "appliance-lge-subscribe-bf",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01027006",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "구독도 엘지닷 블랙프라이데이 2026-10-29~. 구독 상품이라 일시불 정가 비교 제한."
+    },
+    {
+      "source_id": "appliance-lge-waterpurifier-clean",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01037002",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 정수기 구독 클린 페스타 2026-10-29~11-30 (구독)."
+    },
+    {
+      "source_id": "appliance-lge-pe01014011",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01014011",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 휘센 에어컨 하나로. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00969003",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00969003",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG STEM 냉장고 기획전. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00996013",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00996013",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 트롬 AI 오브제컬렉션 워시콤보. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01011005",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011005",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 스타일러 스팀 단독 기획전. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00998001",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00998001",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "설거지 끝내주는 DIOS(식기세척기). 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00983007",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00983007",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG TV x 넷플릭스 엘지넷플팩. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00980007",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00980007",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "THE NEXT SCREEN(TV). 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00923012",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00923012",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 모니터 통합 기획전. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00984001",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00984001",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 울트라기어 AI 게이밍모니터. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01003006",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01003006",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 그램북 AI 신규 론칭. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01000002",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01000002",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "클린업 청소기 세일. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00968003",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00968003",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG xboom 무선 스피커. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01011002",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011002",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 힐링미 안마의자. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01011001",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011001",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 퓨리케어 바스에어시스템. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01011003",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011003",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG 시스템 아이어닝. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01015002",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01015002",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "LG AI 하이드로타워 Max. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00869002",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00869002",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "가전 번들 할인. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00714002",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00714002",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "MD'S CHOICE. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe00356001",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00356001",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "다품목 혜택. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-pe01018005",
+      "category": "appliance",
+      "channel": "LGE.COM",
+      "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01018005",
+      "kind": "brand_event",
+      "est_items": null,
+      "access": "static",
+      "note": "가을 집밥 연구소. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+    },
+    {
+      "source_id": "appliance-lge-bestshop-events",
+      "category": "appliance",
+      "channel": "LG베스트샵",
+      "url": "https://bestshop.lge.co.kr/event/list/all",
+      "kind": "notice",
+      "est_items": null,
+      "access": "static",
+      "note": "베스트샵 오프라인 이벤트 목록(EV11055003, EV11062000~2). 11/1~30 코그페 쿠폰팩(최대 104만 원)은 가격표가 아닌 쿠폰 혜택 위주. 뉴스룸 https://www.lge.co.kr/story/newsroom/236223"
+    },
+    {
+      "source_id": "appliance-lge-newsroom",
+      "category": "appliance",
+      "channel": "LG전자 뉴스룸",
+      "url": "https://www.lge.co.kr/story/newsroom/236223",
+      "kind": "notice",
+      "est_items": null,
+      "access": "static",
+      "note": "코그페 LG 행사 보도자료(쿠폰 구간, 위클리 특가 등). 상품 목록 아님, 조건 참고용."
+    },
+    {
+      "source_id": "appliance-eland-kimchi-fridge",
+      "category": "appliance",
+      "channel": "전자랜드",
+      "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12192",
+      "kind": "listing",
+      "est_items": null,
+      "access": "static",
+      "note": "김치냉장고 득템특가 ON(10/23~11/30). 상품은 HTML 내 product.do?prdMstCd=, 추가 그룹은 POST /pc/event/planProductDetailListAjax.do (planGrpIdx 필요, 동작 확인). 그룹2개, 그룹1 AJAX 기준 약 40+. 코그페 직접 표기 미확인."
+    },
+    {
+      "source_id": "appliance-eland-winter",
+      "category": "appliance",
+      "channel": "전자랜드",
+      "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12190",
+      "kind": "listing",
+      "est_items": null,
+      "access": "static",
+      "note": "겨울가전 기획전(10/14~11/30). 상품은 HTML 내 product.do?prdMstCd=, 추가 그룹은 POST /pc/event/planProductDetailListAjax.do (planGrpIdx 필요, 동작 확인). 그룹3개, 그룹별 AJAX 약 40. 코그페 직접 표기 미확인."
+    },
+    {
+      "source_id": "appliance-eland-legend",
+      "category": "appliance",
+      "channel": "전자랜드",
+      "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12187",
+      "kind": "listing",
+      "est_items": null,
+      "access": "static",
+      "note": "10월 종합기획전 가을맞이 혼수·이사 레전드 세일(~10/31). 상품은 HTML 내 product.do?prdMstCd=, 추가 그룹은 POST /pc/event/planProductDetailListAjax.do (planGrpIdx 필요, 동작 확인). HTML 135 + 그룹 12개 AJAX 추가(분할 권장). 코그페 직접 표기 미확인."
+    },
+    {
+      "source_id": "appliance-eland-review",
+      "category": "appliance",
+      "channel": "전자랜드",
+      "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12186",
+      "kind": "listing",
+      "est_items": null,
+      "access": "static",
+      "note": "후기증명템(~10/31). 상품은 HTML 내 product.do?prdMstCd=, 추가 그룹은 POST /pc/event/planProductDetailListAjax.do (planGrpIdx 필요, 동작 확인). HTML 119 + 그룹 23개 AJAX. 코그페 직접 표기 미확인."
+    },
+    {
+      "source_id": "appliance-eland-galaxybook",
+      "category": "appliance",
+      "channel": "전자랜드",
+      "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12191",
+      "kind": "listing",
+      "est_items": 1,
+      "access": "static",
+      "note": "갤럭시 북 캠퍼스 페스타(~11/15). 상품 1개만 HTML, 그룹 AJAX 가능성."
+    },
+    {
+      "source_id": "appliance-eland-main",
+      "category": "appliance",
+      "channel": "전자랜드",
+      "url": "https://www.etlandmall.co.kr/",
+      "kind": "notice",
+      "est_items": null,
+      "access": "static",
+      "note": "메인 기획전 16개 목록(김치냉장고, 레전드세일, 리퍼마켓 등). 카테고리 페이지(TV/냉장고/세탁기)로 추가 분할 가능."
+    },
+    {
+      "source_id": "appliance-gmarket-kgf-digital",
+      "category": "appliance",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "kind": "listing",
+      "est_items": 24,
+      "access": "static",
+      "note": "G마켓 코리아그랜드세일페스타 기획전의 '디지털' 섹션(comp_27870410, 상품 24개, 12% 쿠폰 최대 1만원). 다른 섹션(식품 120+120, 건강 72, 생활용품 144, 패션/뷰티 120)은 가전 비중 낮음. 생활용품 섹션에 소형가전 혼재 가능."
+    },
+    {
+      "source_id": "appliance-gmarket-kgf-living",
+      "category": "appliance",
+      "channel": "G마켓",
+      "url": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "kind": "listing",
+      "est_items": 144,
+      "access": "static",
+      "note": "같은 페이지 '생활용품' 섹션(comp_27870412, 144개) 중 소형가전(보국전자 등) 필터링용. 가전 해당분만 추출."
+    },
+    {
+      "source_id": "appliance-himart",
+      "category": "appliance",
+      "channel": "롯데하이마트",
+      "url": "https://www.e-himart.co.kr",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "메인 HTML 1KB(JS 렌더). 2026 코그페/가전절 기획전 URL 미확인. 브라우저 필요."
+    },
+    {
+      "source_id": "appliance-11st-kgf",
+      "category": "appliance",
+      "channel": "11번가",
+      "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/detail",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "코그페 링크 대상은 '소상공인 온라인 판로지원'(식품/건강/리빙/뷰티/패션 탭, 가전 탭 없음). 템플릿 미치환 HTML(JS). 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    },
+    {
+      "source_id": "appliance-ssg-kgf",
+      "category": "appliance",
+      "channel": "SSG",
+      "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "소상공인 브랜드대전(식품 위주, 가전 없음). 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    },
+    {
+      "source_id": "appliance-lotteon-kgf",
+      "category": "appliance",
+      "channel": "롯데ON",
+      "url": "https://www.lotteon.com/display/planV2/planDetail/112088",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "소상공인 가을맞이 쇼핑특별전. JS 렌더, 가전 탭 미확인. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    },
+    {
+      "source_id": "appliance-hmall-kgf",
+      "category": "appliance",
+      "channel": "H몰",
+      "url": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "물가안정 프로젝트. JS 렌더, 가전 미확인. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    },
+    {
+      "source_id": "appliance-skstoa-kgf",
+      "category": "appliance",
+      "channel": "SK스토아",
+      "url": "https://www.skstoa.com/plan/event/detail/2026103519",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "1MB HTML이나 가전 여부 미분석. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    },
+    {
+      "source_id": "appliance-nsmall-kgf",
+      "category": "appliance",
+      "channel": "NS몰",
+      "url": "https://m.nsmall.com/store/atypical/1009576266",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "JS 렌더. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    },
+    {
+      "source_id": "appliance-naver-kgf",
+      "category": "appliance",
+      "channel": "네이버쇼핑",
+      "url": "https://shopping.naver.com/festa/onsale/6a7e9f9d233b4473b033f8c8",
+      "kind": "listing",
+      "est_items": null,
+      "access": "js",
+      "note": "curl 시 에러 페이지(봇 차단). 브라우저 필요. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+    }
+  ]
+}

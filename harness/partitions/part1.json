@@ -1,0 +1,830 @@
+[
+  {
+    "source_id": "mall-lotteon-sosang-fashion",
+    "category": "mall",
+    "channel": "롯데온",
+    "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=fashion",
+    "kind": "listing",
+    "est_items": 841,
+    "access": "js",
+    "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '패션/잡화' 표시 건수 841(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요."
+  },
+  {
+    "source_id": "food-epost-hometown-mall",
+    "category": "food",
+    "channel": "우체국쇼핑 지역특산물몰",
+    "url": "https://mall.epost.kr",
+    "kind": "listing",
+    "est_items": 500,
+    "access": "static",
+    "note": "코그페 지역특산물 연결 링크. 상시 대규모"
+  },
+  {
+    "source_id": "mall-lotteon-sosang-fresh-meat",
+    "category": "mall",
+    "channel": "롯데온",
+    "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=fresh-meat",
+    "kind": "listing",
+    "est_items": 421,
+    "access": "js",
+    "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '신선식품(수산/정육/계란)' 표시 건수 421(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원. 300개 초과: 정렬(낮은가격순/판매량순 등)·페이지 구간으로 분할 수집 필요. 식품류: food 카테고리와 중복 가능."
+  },
+  {
+    "source_id": "food-ilovegohyang",
+    "category": "food",
+    "channel": "고향사랑e음 답례품",
+    "url": "https://www.ilovegohyang.go.kr/goods/index-main.html",
+    "kind": "listing",
+    "est_items": 300,
+    "access": "static",
+    "note": "코그페 연계 지역특산 농수축산물 답례품. 가격=기부금 구조라 정가/할인 검증 부적합 가능"
+  },
+  {
+    "source_id": "mall-hmall-sosang-reco-3",
+    "category": "mall",
+    "channel": "현대Hmall",
+    "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=601-900",
+    "kind": "listing",
+    "est_items": 300,
+    "access": "static",
+    "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 601~900번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+  },
+  {
+    "source_id": "fashion_beauty-zigzag-kgf-outer",
+    "category": "fashion_beauty",
+    "channel": "지그재그",
+    "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059",
+    "kind": "listing",
+    "access": "js",
+    "note": "탭 '가디건&아우터' (productsPresetUuid=3065206f-34b0-46ae-9405-1b86396d8317, groupIndex=0, 탭 총 294개, ProductsPresetGroupTotalCount 쿼리 값). 상품 목록은 클라이언트 GraphQL로 로드(첫 화면만 SSR, __NEXT_DATA__에 상품 없음). 브라우저/XHR 필요. 기간 2026-10-29~11-15(date_started/ended 기준). 참여 스토어 354개(getStorePresetItemList).",
+    "est_items": 294
+  },
+  {
+    "source_id": "mall-epost-kgf-p2",
+    "category": "mall",
+    "channel": "우체국쇼핑",
+    "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=8-14",
+    "kind": "listing",
+    "est_items": 280,
+    "access": "static",
+    "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 8~14 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+  },
+  {
+    "source_id": "mall-epost-kgf-p5",
+    "category": "mall",
+    "channel": "우체국쇼핑",
+    "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=29-35",
+    "kind": "listing",
+    "est_items": 280,
+    "access": "static",
+    "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 29~35 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+  },
+  {
+    "source_id": "mall-epost-kgf-p8",
+    "category": "mall",
+    "channel": "우체국쇼핑",
+    "url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=50-56",
+    "kind": "listing",
+    "est_items": 280,
+    "access": "static",
+    "note": "우체국쇼핑 코그페 기획전(10027801) 페이지 50~56 (40개/페이지, 총 60페이지 약 2395개). POST plnbefId=10027801&pageIndex=N&pageUnit=40 으로 정적 HTML 수신 확인(curl). goodsDetailView('EAxxxxxxx',...)로 상품코드 추출. 농축수산 위주. 식품류: food 카테고리와 중복 가능."
+  },
+  {
+    "source_id": "mall-hmall-sosang-reco-6",
+    "category": "mall",
+    "channel": "현대Hmall",
+    "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#reco=1501-1739",
+    "kind": "listing",
+    "est_items": 239,
+    "access": "static",
+    "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '추천상품(쿠폰 미적용)' 총 1739개 중 1501~1739번째(전체 페이징 순서에서 해당 sectNm만 추려 자른 구간). 쿠폰 미적용 상시 상품 포함: 행사 할인 해당 여부 확인 필요."
+  },
+  {
+    "source_id": "mall-zigzag-kgf-jewelry",
+    "category": "mall",
+    "channel": "지그재그",
+    "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=jewelry",
+    "kind": "listing",
+    "est_items": 167,
+    "access": "js",
+    "note": "지그재그 대국민 소비축제 카테고리 '주얼리' 표시 건수 167(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+  },
+  {
+    "source_id": "mall-hmall-sosang-coupon-food",
+    "category": "mall",
+    "channel": "현대Hmall",
+    "url": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1#sect=food",
+    "kind": "listing",
+    "est_items": 164,
+    "access": "static",
+    "note": "현대Hmall 소상공인 기획전 '물가안정 프로젝트'(sectId 2811083). JSON API(curl 가능, Referer 필요). itemList: slitmCd,slitmNm,sellPrc,bbprc(최종가),copnDcAmt 등. 전체 목록(page=N, 20개/페이지, 약 107페이지)을 받아 sectNm 으로 필터. 섹션 '식품'(쿠폰 적용 섹션). 식품류: food 카테고리와 중복 가능."
+  },
+  {
+    "source_id": "mall-gmarket-kgf-living",
+    "category": "mall",
+    "channel": "G마켓",
+    "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870412",
+    "kind": "listing",
+    "est_items": 144,
+    "access": "static",
+    "note": "코리아그랜드세일페스타 기획전 섹션 생활용품1·2/건강용품/반려취미기타/육아용품/인테리어(6탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+  },
+  {
+    "source_id": "mall-lotteon-sosang-beauty",
+    "category": "mall",
+    "channel": "롯데온",
+    "url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=beauty",
+    "kind": "listing",
+    "est_items": 121,
+    "access": "js",
+    "note": "소상공인과 함께하는 가을맞이 쇼핑특별전(112088) 탭 '뷰티' 표시 건수 121(브라우저로 탭 클릭해 확인). 상품 목록은 JS 렌더(Incapsula 보호), 60개씩 보기/정렬 지원."
+  },
+  {
+    "source_id": "mall-gmarket-kgf-processed",
+    "category": "mall",
+    "channel": "G마켓",
+    "url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870406",
+    "kind": "listing",
+    "est_items": 120,
+    "access": "static",
+    "note": "코리아그랜드세일페스타 기획전 섹션 가공식품1~5(5탭). 정적 HTML(5.5MB)에 itemNo/goodscode/origin_price/coupon_price 포함(utparam-url). 탭당 24~32개로 보이며 '더보기' 추가 로딩 여부 미확인. 식품류: food 카테고리와 중복 가능. 공통쿠폰: 12% 최대1만원(1만원 이상, 선착순 5000명/일)."
+  },
+  {
+    "source_id": "mall-zigzag-kgf-innerwear-homewear",
+    "category": "mall",
+    "channel": "지그재그",
+    "url": "https://zigzag.kr/events/39082ee6-17bc-48bf-9b55-d466cc13f059#cat=innerwear-homewear",
+    "kind": "listing",
+    "est_items": 101,
+    "access": "js",
+    "note": "지그재그 대국민 소비축제 카테고리 '이너웨어&홈웨어' 표시 건수 101(HTML 텍스트). 상품은 JS/API(api.zigzag.kr/api/2) 로딩, MD 추천순 '상품 더 보기' 페이징. 패션 카테고리 겹침 가능."
+  },
+  {
+    "source_id": "food-mggoon-nonghal-coupon",
+    "category": "food",
+    "channel": "포라(mggoon)",
+    "url": "https://mggoon.co.kr/Goods/List?cno=39&pageType=DEFAULT",
+    "kind": "listing",
+    "est_items": 100,
+    "access": "js",
+    "note": "농할쿠폰 카테고리. 상품 링크가 정적 HTML에 없음, 브라우저 필요"
+  },
+  {
+    "source_id": "food-oasis-kgf",
+    "category": "food",
+    "channel": "오아시스마켓",
+    "url": "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
+    "kind": "listing",
+    "est_items": 100,
+    "access": "static",
+    "note": "코리아 그랜드 페스티벌 1029. 카테고리 5737, 124 상품 정적 24개 확인, 쿠폰적용가 정가 표기. 탭 ajax로 추가 가능"
+  },
+  {
+    "source_id": "food-kimsclub-nonghal",
+    "category": "food",
+    "channel": "킴스클럽(이랜드몰)",
+    "url": "https://kimsclub.elandmall.co.kr/",
+    "kind": "listing",
+    "est_items": 100,
+    "access": "static",
+    "note": "농할 참여업체. 응답 200이나 농할/코그페 표기 없음, 기획전 URL 탐색 필요"
+  },
+  {
+    "source_id": "food-homeplus",
+    "category": "food",
+    "channel": "홈플러스",
+    "url": "https://front.homeplus.co.kr/",
+    "kind": "listing",
+    "est_items": 100,
+    "access": "js",
+    "note": "대형마트 코그페(보도: 최대 50% 또는 1+1) 가능하나 농할 참여업체 목록에는 미표기. 응답 5KB(JS)"
+  },
+  {
+    "source_id": "food-baemin-bmart-5th-market",
+    "category": "food",
+    "channel": "배민 B마트(우아한형제들)",
+    "url": "https://www.woowahan.com",
+    "kind": "listing",
+    "est_items": 100,
+    "access": "js",
+    "note": "11/4~11/8 11월 5일장 최대 60%(경향신문 보도). 앱 전용, 접근 403. 제외 후보"
+  },
+  {
+    "source_id": "food-fsale-direct-market",
+    "category": "food",
+    "channel": "수산대전 공식(직거래장터)",
+    "url": "https://www.fsale.kr/bbs/board.php?bo_table=directmarket",
+    "kind": "notice",
+    "est_items": 94,
+    "access": "static",
+    "note": "직거래 장터 일정 94건(지역별, 가격 없음)"
+  },
+  {
+    "source_id": "food-jnmall-soosan",
+    "category": "food",
+    "channel": "남도장터",
+    "url": "https://www.jnmall.kr/category/promotion/exhibition?&code=0d4tUTg4&name=%EC%88%98%EC%82%B0%EB%8C%80%EC%A0%84%20%EC%B6%94%EC%84%9D%20%ED%8A%B9%EB%B3%84%EC%A0%84-3%EC%A3%BC%EC%B0%A8&promotionSeq=308",
+    "kind": "listing",
+    "est_items": 78,
+    "access": "static",
+    "note": "수산대전 추석 특별전 3주차(이월 가능, 기간 확인 필요). 상품링크 78개 확인"
+  },
+  {
+    "source_id": "mall-11st-sosang-fresh",
+    "category": "mall",
+    "channel": "11번가",
+    "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756462/products",
+    "kind": "listing",
+    "est_items": 74,
+    "access": "static",
+    "note": "2026 소상공인 온라인 판로지원 기획전(2211141) 탭 '신선식품'. POST(Referer=기획전 URL, X-Requested-With=XMLHttpRequest)로 JSON 전량 반환(themeProducts: productNo/finalPrice/sellPrice/discountRate). curl 검증됨. 식품류: food 카테고리와 중복 가능."
+  },
+  {
+    "source_id": "mall-ssg-sosang-health-honey",
+    "category": "mall",
+    "channel": "SSG닷컴",
+    "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=health-honey",
+    "kind": "listing",
+    "est_items": 73,
+    "access": "js",
+    "note": "[E] 소상공인 브랜드대전 탭 '건강식품/꿀'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+  },
+  {
+    "source_id": "mall-ssg-sosang-drink-dairy",
+    "category": "mall",
+    "channel": "SSG닷컴",
+    "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=drink-dairy",
+    "kind": "listing",
+    "est_items": 73,
+    "access": "js",
+    "note": "[E] 소상공인 브랜드대전 탭 '음료/커피차/유제품'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+  },
+  {
+    "source_id": "mall-ssg-sosang-seasoning-noodle",
+    "category": "mall",
+    "channel": "SSG닷컴",
+    "url": "https://www.ssg.com/plan/planShop.ssg?dispCmptId=6000465146#tab=seasoning-noodle",
+    "kind": "listing",
+    "est_items": 73,
+    "access": "js",
+    "note": "[E] 소상공인 브랜드대전 탭 '조미료/면/통조림'. 전체 스크롤 시 고유 상품 약 588개(8개 탭 합계; 탭별 73은 균등 추정치로 실제 편차 있음). 식품 전용 기획전. 식품류: food 카테고리와 중복 가능. 일부는 '~12%'/'외' 형태 묶음(모음전) 상품."
+  },
+  {
+    "source_id": "food-iksanmall-nonghal",
+    "category": "food",
+    "channel": "익산몰",
+    "url": "https://www.iksanmall.com/",
+    "kind": "listing",
+    "est_items": 60,
+    "access": "static",
+    "note": "메인에 [농할] 표기 상품(양배추 등). 농할 전용 카테고리 URL 미확인, catalog 단계에서 goods_list 탐색 필요"
+  },
+  {
+    "source_id": "food-hmall-soosan",
+    "category": "food",
+    "channel": "현대Hmall",
+    "url": "https://www.hmall.com/pd/dpa/searchSpexSectItem?sectId=2829600",
+    "kind": "listing",
+    "est_items": 60,
+    "access": "js",
+    "note": "대한민국 수산대전(김장특별전 새우젓 굴 최대 20%, 11/8까지). 상품 JS 렌더"
+  },
+  {
+    "source_id": "food-tongsusan-soosan",
+    "category": "food",
+    "channel": "통수산",
+    "url": "https://www.tong-susan.com/Goods/List?sval=%EC%88%98%EC%82%B0%EB%8C%80%EC%A0%84&nocache=Y",
+    "kind": "listing",
+    "est_items": 60,
+    "access": "static",
+    "note": "수산대전 검색결과. 응답 200"
+  },
+  {
+    "source_id": "food-nurimarket-hanwoo",
+    "category": "food",
+    "channel": "온누리마켓(비케이물산)",
+    "url": "https://nurimarket.co.kr/shop/list.php?ca_id=5010",
+    "kind": "listing",
+    "est_items": 50,
+    "access": "static",
+    "note": "한우 카테고리(농할 표기 상품 포함)"
+  },
+  {
+    "source_id": "food-hnsmall-soosan",
+    "category": "food",
+    "channel": "홈앤쇼핑",
+    "url": "https://m.hnsmall.com/category/planshop/2026087149",
+    "kind": "listing",
+    "est_items": 48,
+    "access": "static",
+    "note": "수산대전 기획전. 상품링크 48개 정적 확인"
+  },
+  {
+    "source_id": "food-nonghyupmall-pickled-cabbage",
+    "category": "food",
+    "channel": "농협몰",
+    "url": "https://www.nonghyupmall.com/BC19030R/exhPlanDetailList.nh?crnC=004943&chanC=1101&mediaD=00&mbT=00&ctgrStp=",
+    "kind": "listing",
+    "est_items": 40,
+    "access": "js",
+    "note": "26년 절임배추 특가전(10/28 등록). JS 로딩"
+  },
+  {
+    "source_id": "food-megamart-kimjang",
+    "category": "food",
+    "channel": "메가마트",
+    "url": "https://www.megamart.com/exhibition/1905864",
+    "kind": "listing",
+    "est_items": 40,
+    "access": "static",
+    "note": "김장전(포장김치) 기획전. 농할 참여업체. 접근성 미검증"
+  },
+  {
+    "source_id": "auto-carnoon-kia-oct",
+    "category": "auto",
+    "channel": "카눈(판매조건 집계)",
+    "url": "https://www.carnoon.co.kr/newcar/discount/121",
+    "kind": "notice",
+    "est_items": 35,
+    "access": "static",
+    "note": "기아 2026년 10월 판매조건 35개 트림/파생"
+  },
+  {
+    "source_id": "food-kakao-soosan",
+    "category": "food",
+    "channel": "카카오 톡딜",
+    "url": "https://store.kakao.com/promotion/2435?ad=0401_sales_fishmarket&area=br",
+    "kind": "listing",
+    "est_items": 30,
+    "access": "js",
+    "note": "톡딜 수산 프로모션. JS"
+  },
+  {
+    "source_id": "food-naver-vikingsmarket-soosan",
+    "category": "food",
+    "channel": "네이버 브랜드스토어(vikingsmarket)",
+    "url": "https://brand.naver.com/vikingsmarket",
+    "kind": "listing",
+    "est_items": 30,
+    "access": "js",
+    "note": "네이버 429, 브라우저"
+  },
+  {
+    "source_id": "food-naver-soombi-soosan",
+    "category": "food",
+    "channel": "네이버 브랜드스토어(soombi_seafood)",
+    "url": "https://brand.naver.com/soombi_seafood",
+    "kind": "listing",
+    "est_items": 30,
+    "access": "js",
+    "note": "네이버 429, 브라우저"
+  },
+  {
+    "source_id": "appliance-gmarket-kgf-digital",
+    "category": "appliance",
+    "channel": "G마켓",
+    "url": "https://rpp.gmarket.co.kr/?exhib=280311",
+    "kind": "listing",
+    "est_items": 24,
+    "access": "static",
+    "note": "G마켓 코리아그랜드세일페스타 기획전의 '디지털' 섹션(comp_27870410, 상품 24개, 12% 쿠폰 최대 1만원). 다른 섹션(식품 120+120, 건강 72, 생활용품 144, 패션/뷰티 120)은 가전 비중 낮음. 생활용품 섹션에 소형가전 혼재 가능."
+  },
+  {
+    "source_id": "food-fsale-offline-markets",
+    "category": "food",
+    "channel": "수산대전 공식(fsale.kr 오프라인)",
+    "url": "https://www.fsale.kr/bbs/board.php?bo_table=coupon&sca=%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8",
+    "kind": "notice",
+    "est_items": 24,
+    "access": "static",
+    "note": "오프라인 전통시장 24곳 참여 점포/최대할인율(품목가 없음)"
+  },
+  {
+    "source_id": "food-fsale-online-malls",
+    "category": "food",
+    "channel": "수산대전 공식(fsale.kr 온라인쇼핑몰)",
+    "url": "https://www.fsale.kr/bbs/board.php?bo_table=coupon&sca=%EC%98%A8%EB%9D%BC%EC%9D%B8%EC%87%BC%ED%95%91%EB%AA%B0",
+    "kind": "notice",
+    "est_items": 22,
+    "access": "static",
+    "note": "온라인 참여몰 기획전 링크 22개(wr_id 192~223, 일부 추석특별전 이월 가능). 몰별 소스는 아래 참조"
+  },
+  {
+    "source_id": "food-cuma-soosan",
+    "category": "food",
+    "channel": "오늘과일(cuma)",
+    "url": "https://www.cuma.co.kr/?main=270",
+    "kind": "listing",
+    "est_items": 20,
+    "access": "static",
+    "note": "수산대전 관련 소규모 페이지. 응답 200"
+  },
+  {
+    "source_id": "food-foodnuri-nonghal-weekly",
+    "category": "food",
+    "channel": "농할 누리집(aT)",
+    "url": "https://sale.foodnuri.go.kr/ft/ftSale/list.do",
+    "kind": "notice",
+    "est_items": 17,
+    "access": "static",
+    "note": "주차별 할인품목: 10/29~11/4 17종(쌀 건고추 계란 돼지고기 배추 무 파 깐마늘 양파 생강 갓 오이 애호박 파프리카 포도 배 토마토), 11/5~11/11 16종, 지난 주차 이력. 가격 없이 품목목록만"
+  },
+  {
+    "source_id": "food-hanwooboardmarket-part-005",
+    "category": "food",
+    "channel": "한우자조금 온라인한우장터",
+    "url": "https://www.hanwooboardmarket.com/shop/shopbrand.html?type=N&xcode=040&mcode=005",
+    "kind": "listing",
+    "est_items": 15,
+    "access": "js",
+    "note": "부위별 특수부위. 정적 fetch 시 상품 0건, 브라우저 확인 필요. 브랜드 042와 중복"
+  },
+  {
+    "source_id": "appliance-samsung-tv",
+    "category": "appliance",
+    "channel": "삼성닷컴",
+    "url": "https://www.samsung.com/sec/event/samsung-tv/",
+    "kind": "brand_event",
+    "est_items": 13,
+    "access": "static",
+    "note": "TV 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+  },
+  {
+    "source_id": "appliance-samsung-kimchi",
+    "category": "appliance",
+    "channel": "삼성닷컴",
+    "url": "https://www.samsung.com/sec/event/kimchi-refrigerator/",
+    "kind": "brand_event",
+    "est_items": 13,
+    "access": "static",
+    "note": "Bespoke 김치냉장고 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est는 HTML 내 모델코드 수."
+  },
+  {
+    "source_id": "appliance-samsung-vacuum",
+    "category": "appliance",
+    "channel": "삼성닷컴",
+    "url": "https://www.samsung.com/sec/event/vacuum-cleaner/",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "청소기 10월 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+  },
+  {
+    "source_id": "appliance-samsung-movingstyle",
+    "category": "appliance",
+    "channel": "삼성닷컴",
+    "url": "https://www.samsung.com/sec/event/samsung-movingstyle/",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "무빙스타일 삼닷 10월 쇼핑 대전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+  },
+  {
+    "source_id": "appliance-samsung-galaxybook",
+    "category": "appliance",
+    "channel": "삼성닷컴",
+    "url": "https://www.samsung.com/sec/event/galaxybook6_campusfesta/",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "Book적북적 캠퍼스 페스타(갤럭시북). 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+  },
+  {
+    "source_id": "appliance-samsung-jbl",
+    "category": "appliance",
+    "channel": "삼성닷컴",
+    "url": "https://www.samsung.com/sec/event/harman-kardon/",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "JBL 80주년 특별 기획전. 2026-10 기획전(기간 10/01~10/31 또는 이후). 모델코드가 HTML에 포함(1.2MB, 일부 가격 텍스트 있음). 삼성 코그페 가전 할인은 11/1 공개 보도 → 11월 신규 기획전 추가될 수 있어 재확인 필요. 코그페 전용 표기는 아님(10월 기획전). est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe01014011",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01014011",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "LG 휘센 에어컨 하나로. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe01011005",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011005",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "LG 스타일러 스팀 단독 기획전. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe00980007",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00980007",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "THE NEXT SCREEN(TV). 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe01003006",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01003006",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "LG 그램북 AI 신규 론칭. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe01011002",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01011002",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "LG 힐링미 안마의자. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe01015002",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE01015002",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "LG AI 하이드로타워 Max. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-pe00356001",
+    "category": "appliance",
+    "channel": "LGE.COM",
+    "url": "https://www.lge.co.kr/benefits/exhibitions/detail-PE00356001",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "static",
+    "note": "다품목 혜택. 기간 2026-10 중심(10/31 종료 다수 → 11월 연장 여부 확인). 코그페 전용 아님, LG 10월 기획전. est 미측정."
+  },
+  {
+    "source_id": "appliance-lge-newsroom",
+    "category": "appliance",
+    "channel": "LG전자 뉴스룸",
+    "url": "https://www.lge.co.kr/story/newsroom/236223",
+    "kind": "notice",
+    "est_items": null,
+    "access": "static",
+    "note": "코그페 LG 행사 보도자료(쿠폰 구간, 위클리 특가 등). 상품 목록 아님, 조건 참고용."
+  },
+  {
+    "source_id": "appliance-eland-legend",
+    "category": "appliance",
+    "channel": "전자랜드",
+    "url": "https://www.etlandmall.co.kr/pc/event/planProductList.do?PLN_MST_IDX=12187",
+    "kind": "listing",
+    "est_items": null,
+    "access": "static",
+    "note": "10월 종합기획전 가을맞이 혼수·이사 레전드 세일(~10/31). 상품은 HTML 내 product.do?prdMstCd=, 추가 그룹은 POST /pc/event/planProductDetailListAjax.do (planGrpIdx 필요, 동작 확인). HTML 135 + 그룹 12개 AJAX 추가(분할 권장). 코그페 직접 표기 미확인."
+  },
+  {
+    "source_id": "appliance-himart",
+    "category": "appliance",
+    "channel": "롯데하이마트",
+    "url": "https://www.e-himart.co.kr",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "메인 HTML 1KB(JS 렌더). 2026 코그페/가전절 기획전 URL 미확인. 브라우저 필요."
+  },
+  {
+    "source_id": "appliance-lotteon-kgf",
+    "category": "appliance",
+    "channel": "롯데ON",
+    "url": "https://www.lotteon.com/display/planV2/planDetail/112088",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "소상공인 가을맞이 쇼핑특별전. JS 렌더, 가전 탭 미확인. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+  },
+  {
+    "source_id": "appliance-nsmall-kgf",
+    "category": "appliance",
+    "channel": "NS몰",
+    "url": "https://m.nsmall.com/store/atypical/1009576266",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "JS 렌더. 코그페 메인이 링크한 기획전이나 가전 해당 여부 불확실(낮은 우선순위)."
+  },
+  {
+    "source_id": "auto-carnoon-kgm-oct",
+    "category": "auto",
+    "channel": "카눈(판매조건 집계)",
+    "url": "https://www.carnoon.co.kr/newcar/discount/141",
+    "kind": "notice",
+    "est_items": null,
+    "access": "static",
+    "note": "KG모빌리티 10월(URL은 브랜드 목록에서 확인, 내용 미열람)"
+  },
+  {
+    "source_id": "auto-carnoon-delivery-term",
+    "category": "auto",
+    "channel": "카눈(판매조건 집계)",
+    "url": "https://www.carnoon.co.kr/newcar/discount/term",
+    "kind": "notice",
+    "est_items": null,
+    "access": "static",
+    "note": "예상납기 참고용"
+  },
+  {
+    "source_id": "auto-sateconomy-kgf-5makers",
+    "category": "auto",
+    "channel": "sateconomy 보도",
+    "url": "https://sateconomy.co.kr/news/view/1065600243708979",
+    "kind": "notice",
+    "est_items": null,
+    "access": "static",
+    "note": "2026-10-27 보도: 현대·기아·한국GM·르노코리아·KGM 5사 11/1부터 할인, 차종별 할인율은 11/1 공개 예정. 현대·기아 인증중고차 참여"
+  },
+  {
+    "source_id": "auto-hyundai-official-benefit",
+    "category": "auto",
+    "channel": "현대자동차 공식",
+    "url": "https://www.hyundai.com/kr/ko/",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "js",
+    "note": "구매혜택 공식 페이지(추정 URL은 404, 경로 미확인). 카눈 값과 교차검증용"
+  },
+  {
+    "source_id": "auto-kgf-regional",
+    "category": "auto",
+    "channel": "코리아그랜드페스티벌",
+    "url": "https://koreagrandfestival.kr/event/regional",
+    "kind": "notice",
+    "est_items": 0,
+    "access": "static",
+    "note": "지역상권 행사, 자동차 해당 없음"
+  },
+  {
+    "source_id": "fashion_beauty-naver-kgf-shoppingfesta",
+    "category": "fashion_beauty",
+    "channel": "네이버 쇼핑",
+    "url": "https://shopping.naver.com/festa/onsale/6a7e9f9d233b4473b033f8c8?tr=prosol",
+    "kind": "listing",
+    "access": "js",
+    "note": "네이버 쇼핑 페스타 온세일. 비브라우저 요청 시 '에러 페이지'(봇 차단/연결 불가) 응답. 패션·뷰티 탭은 브라우저로 확인 필요."
+  },
+  {
+    "source_id": "fashion_beauty-ksalefesta-official",
+    "category": "fashion_beauty",
+    "channel": "K-세일페스타",
+    "url": "https://www.k-salefesta.co.kr",
+    "kind": "listing",
+    "access": "js",
+    "note": "K-세일페스타 공식 사이트. 조사 환경에서 TLS 인증서 검증 실패(curl code 000, WebFetch 'unable to verify the first certificate')로 열람 못함. 인증서 우회는 하지 않음. 사용자 브라우저에서 참여 몰/브랜드 확인 필요."
+  },
+  {
+    "source_id": "food-kgf-news-khan",
+    "category": "food",
+    "channel": "경향신문 보도(근거)",
+    "url": "https://khan.co.kr/article/202610271633001",
+    "kind": "notice",
+    "est_items": 0,
+    "access": "static",
+    "note": "김장재료 10/29~12/2 최대 40%(300여 업체), 한우 10/28~11/8 최대 50%, 수산물 10/28~11/29 최대 50%, 모바일농할상품권 11/2~15 20%, 디지털온누리 11/2~6 10%"
+  },
+  {
+    "source_id": "mall-wconcept-kgf",
+    "category": "mall",
+    "channel": "W컨셉",
+    "url": "https://display.wconcept.co.kr/rn/desktop/promotion/132",
+    "kind": "brand_event",
+    "est_items": null,
+    "access": "js",
+    "note": "코리아 그랜드 페스티벌 기획: 라이프/뷰티 브랜드 쿠폰(최대 9만원)·브랜드 목록 중심. 접속 시점에 '추천 가능한 상품이 없어요'로 상품 0개 렌더(키친/홈패브릭/컬쳐·반려/메이크업/스킨케어/헤어바디/이너뷰티/가전 탭). 브랜드 단위 확인 필요. 원 링크의 previewDate 파라미터는 제거함."
+  },
+  {
+    "source_id": "travel_dutyfree-ota-gmarket-staysale",
+    "category": "travel_dutyfree",
+    "channel": "G마켓",
+    "url": "https://www.gmarket.co.kr/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 봇차단(403) 가능, 브라우저 필요"
+  },
+  {
+    "source_id": "travel_dutyfree-ota-nol-staysale",
+    "category": "travel_dutyfree",
+    "channel": "NOL(놀유니버스·야놀자)",
+    "url": "https://nol.yanolja.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 2026 가평군 등 지역 숙박세일 선례"
+  },
+  {
+    "source_id": "travel_dutyfree-ota-stayfolio-staysale",
+    "category": "travel_dutyfree",
+    "channel": "스테이폴리오",
+    "url": "https://www.stayfolio.com/2026-stay-festa?selectionId=595",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여. 가을편 안내 페이지 확인(최대5만 쿠폰, 지역별 추천스테이, 숙소목록 없음). 숙소 탐색은 메인 사이트"
+  },
+  {
+    "source_id": "travel_dutyfree-ota-momgo-staysale",
+    "category": "travel_dutyfree",
+    "channel": "맘맘",
+    "url": "https://www.momgo.kr/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "숙박세일페스타 가을편(9.22~11.8) 참여 OTA. 쿠폰 적용 가능 숙소 목록은 JS 렌더링. 본편 참여(도메인 미검증, 접속 실패)"
+  },
+  {
+    "source_id": "travel_dutyfree-dfs-lotte-dutyfreefesta",
+    "category": "travel_dutyfree",
+    "channel": "롯데면세점",
+    "url": "https://kor.lottedfs.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "듀티프리페스타. 명동본점·월드타워·부산·제주 시내점 + 김포/김해/제주/인천공항. GOLD 멤버십 최대15%, $100/200/300/500/800 이상 $10/20/30/50/80 할인"
+  },
+  {
+    "source_id": "travel_dutyfree-dfs-hyundai-dutyfreefesta",
+    "category": "travel_dutyfree",
+    "channel": "현대면세점",
+    "url": "https://www.hddfs.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "듀티프리페스타. 무역센터점·인천공항T1/T2. $50/100/300/500 이상 0.7/1.1/3.3/5.5만원 선불카드"
+  },
+  {
+    "source_id": "travel_dutyfree-dfs-jto-dutyfreefesta",
+    "category": "travel_dutyfree",
+    "channel": "JTO 제주관광공사 면세점",
+    "url": "https://www.jejudfs.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "듀티프리페스타. 중문·성산면세점. 10만원 이상 1만원 쿠폰"
+  },
+  {
+    "source_id": "travel_dutyfree-dfs-busan-dutyfreefesta",
+    "category": "travel_dutyfree",
+    "channel": "부산면세점",
+    "url": "http://www.busandf.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "듀티프리페스타. 부산항점·용두산점. $50/100/150/200/300 이상 $5/10/15/20/30 할인"
+  },
+  {
+    "source_id": "travel_dutyfree-travel-twayair-special",
+    "category": "travel_dutyfree",
+    "channel": "티웨이항공",
+    "url": "https://www.twayair.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "동일"
+  },
+  {
+    "source_id": "travel_dutyfree-travel-myrealtrip-flights-special",
+    "category": "travel_dutyfree",
+    "channel": "마이리얼트립 항공",
+    "url": "https://flights.myrealtrip.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "항공 OTA 특가"
+  },
+  {
+    "source_id": "travel_dutyfree-travel-modetour-special",
+    "category": "travel_dutyfree",
+    "channel": "모두투어",
+    "url": "https://www.modetour.com/",
+    "kind": "listing",
+    "est_items": null,
+    "access": "js",
+    "note": "국내외 패키지 특가. 코그페 연계 미확인"
+  },
+  {
+    "source_id": "travel_dutyfree-kto-staysale-official",
+    "category": "travel_dutyfree",
+    "channel": "한국관광공사",
+    "url": "https://ktostay.visitkorea.or.kr/",
+    "kind": "notice",
+    "est_items": 5,
+    "access": "static",
+    "note": "숙박세일페스타 2026 가을편 공식. 발급/숙박 9.22~11.8. 본편 2만(2~7만미만)/3만(7만이상)/연박7만(14만이상), 섬편 3만/5만. 쿠폰=정액할인이라 품목 가격표 없음. 참여OTA 버튼은 JS/이미지"
+  }
+]
