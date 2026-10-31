@@ -1,7 +1,7 @@
 # CODEX.md — 코그페 할인 인증표 갱신 지침
 
 이 저장소는 2026 코리아 그랜드 페스티벌(10.29~11.15) 할인 품목을 모아 "표시 할인"과 "실제 2개월 가격"을 비교하는 인증표다.
-공개 화면: https://kanguk2.github.io/kgf/ (GitHub Pages, `main` 브랜치 루트. push 후 1~2분 뒤 반영)
+공개 화면: https://kevinkanguk.github.io/kgf/ (GitHub Pages, `main` 브랜치 루트. push 후 1~2분 뒤 반영)
 
 Codex는 실행될 때마다 이 문서를 읽고 아래 순서를 **한 번** 수행한다.
 결정적인 일(수집 스크립트 재실행, 표 생성, 검사, 커밋)은 `scripts/`가 한다. Codex가 판단할 일은 **2단계 새 품목·새 소스 찾기**와 **3단계 가격 조사**다.

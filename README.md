@@ -22,7 +22,7 @@ py scripts/qa_html.py        # 정적 검사
 
 ## 공개 화면 (GitHub Pages)
 
-- https://kanguk2.github.io/kgf/ → `output/` (인증표). dealbot 과 같은 방식: `main` 브랜치 루트, `.nojekyll`.
+- https://kevinkanguk.github.io/kgf/ → `output/` (인증표). dealbot 과 같은 방식: `main` 브랜치 루트, `.nojekyll`.
 - 표 데이터는 `output/data.js`(요약·진행 현황) + `output/data-N.js`(품목 2만 개씩 조각)로 나뉜다. `output/data.json`(전체 필드, 160MB)은 GitHub 한도를 넘어 커밋하지 않는다(`py scripts/build_report.py`로 다시 만든다).
 - 로컬 `local-history` 브랜치는 100MB 넘는 파일이 든 작업 기록이라 push 하지 않는다.
 
