@@ -1,0 +1,40 @@
+{
+  "category": "mall",
+  "source_id": "mall-11st-sosang-health",
+  "collected_at": "2026-10-31T17:59:31+09:00",
+  "items": [
+    {
+      "item_id": "mall-11st-sosang-health-0045",
+      "category": "mall",
+      "source_id": "mall-11st-sosang-health",
+      "unit": null,
+      "vendor": "11번가 소상공인",
+      "channel": "11번가",
+      "product": "설아래 홍도라지 스틱 도라지청 15g x 20포",
+      "model_code": null,
+      "buy_url": "https://www.11st.co.kr/products/6961787570?trTypeCd=03&trCtgrNo=2211141",
+      "image_url": "https://cdn.011st.com/11dims/resize/280x280/quality/85/11src/product/6961787570/B.webp?740788225",
+      "rating": 4.65,
+      "review_count": 9,
+      "event_url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756468/products",
+      "claimed_original_price": 170000,
+      "sale_price": 33000,
+      "claimed_discount_pct": 80.0,
+      "conditions": "기획전 주제: 건강/다이어트식품/의료용품",
+      "sources": [
+        "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756468/products",
+        "https://search.danawa.com/dsearch.php?query=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC",
+        "https://www.enuri.com/search.jsp?keyword=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC",
+        "https://www.11st.co.kr/products/6961787570?trTypeCd=03&trCtgrNo=2211141",
+        "https://fallcent.com/product/search/?keyword=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC",
+        "https://search.naver.com/search.naver?query=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC+%EA%B0%80%EA%B2%A9"
+      ],
+      "price_60d_low": null,
+      "price_60d_typical": 41900,
+      "confidence": "low",
+      "price_history_note": "타몰 평소가: 롯데ON 41,900원 https://search.naver.com/search.naver?query=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC+%EA%B0%80%EA%B2%A9; 디유니마켓 41,900원 https://search.naver.com/search.naver?query=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC+%EA%B0%80%EA%B2%A9; 쿠팡 26,910원 https://search.naver.com/search.naver?query=%EC%84%A4%EC%95%84%EB%9E%98+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%8A%A4%ED%8B%B1+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+15g+x+20%ED%8F%AC+%EA%B0%80%EA%B2%A9; 2026-10-31 조회 현재 일반 판매가(코그페 쿠폰 미적용), 몰별 최저 1건의 중앙값; 배송비 별도(핑크 오일 각 3,000원), 2026-09-01~10-28 가격이력 아님. 다나와 가격변동 API 403, 에누리·폴센트 공개 기간별 이력 미확보, 같은몰 날짜 있는 이전가 미확보.",
+      "verify_status": "unverifiable",
+      "verify_note": "상품·규격과 타몰 현행가를 에누리/네이버·폴센트에서 재조회. 원몰·타몰 상세의 차단/빈 본문 또는 공개 가격추이 부재로 독립적인 2개월 이력 교차검증 불가. 현행가 대용값이며 confidence low, 확정된 과거 할인율로 해석 불가."
+    }
+  ]
+}

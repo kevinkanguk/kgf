@@ -1,0 +1,35 @@
+{
+  "category": "food",
+  "source_id": "food-hmall-kgf",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "food-hmall-kgf-0061",
+      "category": "food",
+      "source_id": "food-hmall-kgf",
+      "vendor": "테팔(그룹세브)",
+      "channel": "현대Hmall 코그페 - 온누리 7% 적립",
+      "product": "[테팔] 이지프라이 원적외선 에어프라이어 라이트 EY820AK0",
+      "model_code": "2253552844",
+      "buy_url": "https://www.hmall.com/pd/pda/itemPtc?slitmCd=2253552844",
+      "image_url": "https://image.hmall.com/static/8/2/55/53/2253552844_0.jpg?RS=300x300",
+      "rating": null,
+      "review_count": 0,
+      "kgf_evidence": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=3107994",
+      "event_url": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=3107994",
+      "claimed_original_price": 117500,
+      "sale_price": 117500,
+      "claimed_discount_pct": null,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 110660,
+      "price_60d_typical": 110830,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 4주(26-10-06~26-10-27), 모델 EY820AK0 · '테팔 이지프라이 EY820AK0'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=124376206",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=124376206&period=3"
+      ]
+    }
+  ]
+}

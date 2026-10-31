@@ -1,0 +1,35 @@
+{
+  "category": "mall",
+  "source_id": "mall-epost-kgf-p8",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "mall-epost-kgf-p8-0250",
+      "category": "mall",
+      "source_id": "mall-epost-kgf-p8",
+      "vendor": "우체국쇼핑 소상공인",
+      "channel": "우체국쇼핑 소상공인 동행",
+      "product": "신일 와이드 전기그릴 SPP-H1700OSG(마늘종지 고기선반 구성)",
+      "model_code": "ES1296835",
+      "buy_url": "https://mall.epost.go.kr/fo/goods/goodsDetailView.do?goodsCd=ES1296835&pavlnDivCd=03&goodsDispTypeCd=03&goodsDispTypeDtlCd=10027801&ctgryCd=108205306",
+      "image_url": "https://image.epost.go.kr/epostshop/goods/202412/24/ES1296835_reprsnt_image_20241224023703066_l.jpg",
+      "rating": 5.0,
+      "review_count": 2,
+      "kgf_evidence": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801",
+      "event_url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=50-56",
+      "claimed_original_price": null,
+      "sale_price": 95900,
+      "claimed_discount_pct": null,
+      "conditions": "무료배송",
+      "unit": null,
+      "price_60d_low": 91500,
+      "price_60d_typical": 98990,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 H1700OSG · '신일전자 SPP- H1700OSG'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=40894931",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=40894931&period=3"
+      ]
+    }
+  ]
+}

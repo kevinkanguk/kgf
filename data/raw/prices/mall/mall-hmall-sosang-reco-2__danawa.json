@@ -1,0 +1,35 @@
+{
+  "category": "mall",
+  "source_id": "mall-hmall-sosang-reco-2",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "mall-hmall-sosang-reco-2-0149",
+      "category": "mall",
+      "source_id": "mall-hmall-sosang-reco-2",
+      "vendor": "퓨리티",
+      "channel": "현대Hmall 소상공인 기획전",
+      "product": "퓨리티 뉴질랜드 마누카꿀 UMF25+ MGO1200 250g",
+      "model_code": "2244515555",
+      "buy_url": "https://www.hmall.com/pd/pda/itemPtc?slitmCd=2244515555",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1",
+      "event_url": "https://www.hmall.com/md/dpl/index?sectId=2811083",
+      "claimed_original_price": 550000,
+      "sale_price": 550000,
+      "claimed_discount_pct": null,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 391300,
+      "price_60d_typical": 424550,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 MGO1200 · '퓨리티 프리미엄 마누카꿀 UMF25+ MGO1200'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122645940",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122645940&period=3"
+      ]
+    }
+  ]
+}

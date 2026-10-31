@@ -3,7 +3,7 @@
   1. git pull --rebase
   2. (--refresh) 기존 수집 스크립트 재실행  -> data/raw/catalog
   3. codex exec find.md   -> 새 소스·새 품목 (웹 검색)
-  4. codex exec price.md  -> 2개월 가격 조사·검증
+  4. price_danawa.py (모델명 있는 품목, 토큰 없음) + codex exec price.md -> 2개월 가격 조사·검증
   5. build_report --xlsx, qa_html          -> output/
   6. commit "codex: run ..." + push (qa 실패면 push 안 함)
 
@@ -132,6 +132,9 @@ def main():
         refresh_scrapers(dry)
     if not a.no_codex:
         codex(".github/codex/find.md", "find-report.txt", dry)
+    # 모델명 있는 품목은 다나와 가격변동으로 먼저 (결정적, Codex 토큰 안 씀)
+    step([VENV_PY if VENV_PY.exists() else sys.executable, "-I", "scripts/price_danawa.py"], dry, timeout=60 * 60)
+    if not a.no_codex:
         codex(".github/codex/price.md", "price-report.txt", dry)
     step([sys.executable, "scripts/build_report.py", "--xlsx"], dry, timeout=60 * 60)
     qa_failed = step([sys.executable, "scripts/qa_html.py"], dry) != 0

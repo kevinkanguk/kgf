@@ -1,0 +1,63 @@
+{
+  "category": "mall",
+  "source_id": "mall-gmarket-kgf-beauty-fashion",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "mall-gmarket-kgf-beauty-fashion-0087",
+      "category": "mall",
+      "source_id": "mall-gmarket-kgf-beauty-fashion",
+      "vendor": "G마켓 판매자(브랜드 미표기)",
+      "channel": "G마켓 코그페 뷰티/패션 기획전 - 패션2",
+      "product": "보닌 천연소가죽 삼색포인트 밴딩끈 캐주얼 스니커즈 SV048BE",
+      "model_code": null,
+      "buy_url": "https://item.gmarket.co.kr/Item?goodscode=4504966550",
+      "image_url": "https://gdimg.gmarket.co.kr/4504966550/still/400?ver=1755169458",
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "event_url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870414",
+      "claimed_original_price": 140800,
+      "sale_price": 140800,
+      "claimed_discount_pct": 0.0,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 130800,
+      "price_60d_typical": 130800,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 SV048BE · '보닌 천연소가죽 삼색포인트 밴딩끈 캐주얼 스니커즈 SV048BE'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=96240302",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=96240302&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-beauty-fashion-0198",
+      "category": "mall",
+      "source_id": "mall-gmarket-kgf-beauty-fashion",
+      "vendor": "G마켓 판매자(브랜드 미표기)",
+      "channel": "G마켓 코그페 뷰티/패션 기획전 - 패션1",
+      "product": "블랙다이아몬드 등산스틱 디스턴스 FLZ Z폴 BD112533",
+      "model_code": null,
+      "buy_url": "https://item.gmarket.co.kr/Item?goodscode=2865802203",
+      "image_url": "https://gdimg.gmarket.co.kr/2865802203/still/400?ver=1789695846",
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "event_url": "https://rpp.gmarket.co.kr/?exhib=280311#comp_27870414",
+      "claimed_original_price": 200000,
+      "sale_price": 188000,
+      "claimed_discount_pct": 6.0,
+      "conditions": "G마켓 쿠폰 적용가(기획전 쿠폰 등 조건 있음, 목록 표기가 기준). 쿠폰 미적용 판매가 198,000원",
+      "unit": null,
+      "price_60d_low": 105500,
+      "price_60d_typical": 174800,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 BD112533 · '블랙다이아몬드 디스턴스 FLZ 폴 3단 일자 알루미늄 스틱 세트 BD112533'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=16566464",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=16566464&period=3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "category": "mall",
+  "source_id": "mall-gmarket-kgf-living",
+  "collected_at": "2026-10-31T17:59:31+09:00",
+  "items": [
+    {
+      "item_id": "mall-gmarket-kgf-living-1559",
+      "category": "mall",
+      "source_id": "mall-gmarket-kgf-living",
+      "unit": null,
+      "vendor": "G마켓 판매자",
+      "channel": "G마켓 코리아그랜드페스타 기획전(생활용품) - 인테리어",
+      "product": "1+1 여름신상 시원한 여름 홑이불 여름이불 여름이불세트 패드세트 시어서커",
+      "model_code": null,
+      "buy_url": "https://item.gmarket.co.kr/Item?goodscode=961618746",
+      "image_url": "https://gdimg.gmarket.co.kr/961618746/still/400?ver=1785215627",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "claimed_original_price": 56000,
+      "sale_price": 14370,
+      "claimed_discount_pct": 74.0,
+      "conditions": "쿠폰적용가(G마켓 쿠폰 다운로드 필요; 기획전 쿠폰: 12% 최대1만원, 1만원 이상 구매 시)",
+      "sources": [
+        "https://rpp.gmarket.co.kr/?exhib=280311",
+        "https://item.gmarket.co.kr/Item?goodscode=961618746",
+        "https://search.danawa.com/dsearch.php?query=1%2B1+%EC%97%AC%EB%A6%84%EC%8B%A0%EC%83%81+%EC%8B%9C%EC%9B%90%ED%95%9C+%EC%97%AC%EB%A6%84+%ED%99%91%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88%EC%84%B8%ED%8A%B8+%ED%8C%A8%EB%93%9C%EC%84%B8%ED%8A%B8+%EC%8B%9C%EC%96%B4%EC%84%9C%EC%BB%A4",
+        "https://www.enuri.com/search.jsp?keyword=1%2B1+%EC%97%AC%EB%A6%84%EC%8B%A0%EC%83%81+%EC%8B%9C%EC%9B%90%ED%95%9C+%EC%97%AC%EB%A6%84+%ED%99%91%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88%EC%84%B8%ED%8A%B8+%ED%8C%A8%EB%93%9C%EC%84%B8%ED%8A%B8+%EC%8B%9C%EC%96%B4%EC%84%9C%EC%BB%A4",
+        "https://fallcent.com/product/search/?keyword=1%2B1+%EC%97%AC%EB%A6%84%EC%8B%A0%EC%83%81+%EC%8B%9C%EC%9B%90%ED%95%9C+%EC%97%AC%EB%A6%84+%ED%99%91%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88%EC%84%B8%ED%8A%B8+%ED%8C%A8%EB%93%9C%EC%84%B8%ED%8A%B8+%EC%8B%9C%EC%96%B4%EC%84%9C%EC%BB%A4",
+        "https://search.naver.com/search.naver?query=1%2B1+%EC%97%AC%EB%A6%84%EC%8B%A0%EC%83%81+%EC%8B%9C%EC%9B%90%ED%95%9C+%EC%97%AC%EB%A6%84+%ED%99%91%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88+%EC%97%AC%EB%A6%84%EC%9D%B4%EB%B6%88%EC%84%B8%ED%8A%B8+%ED%8C%A8%EB%93%9C%EC%84%B8%ED%8A%B8+%EC%8B%9C%EC%96%B4%EC%84%9C%EC%BB%A4+%EA%B0%80%EA%B2%A9"
+      ],
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와·에누리·폴센트 검색 및 원몰 상세·네이버 타몰 검색 확인; 2026-09-01~10-28 날짜 있는 가격 미확보; 원몰 G마켓 상세 403; 선택형 상품의 모델·사이즈·수량 확정 불가, 타몰 동일 옵션 비교 불가"
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1381",
+      "category": "mall",
+      "source_id": "mall-gmarket-kgf-living",
+      "unit": null,
+      "vendor": "G마켓 판매자",
+      "channel": "G마켓 코리아그랜드페스타 기획전(생활용품) - 생활용품1",
+      "product": "스트롱 논슬립 바지걸이 집게자국 없는 옷걸이 5P / 10P / 20P / 30P / 50P",
+      "model_code": null,
+      "buy_url": "https://item.gmarket.co.kr/Item?goodscode=2547812204",
+      "image_url": "https://gdimg.gmarket.co.kr/2547812204/still/400?ver=1764742942",
+      "rating": null,
+      "review_count": null,
+      "event_url": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "claimed_original_price": 30900,
+      "sale_price": 8750,
+      "claimed_discount_pct": 71.0,
+      "conditions": "쿠폰적용가(G마켓 쿠폰 다운로드 필요; 기획전 쿠폰: 12% 최대1만원, 1만원 이상 구매 시)",
+      "sources": [
+        "https://rpp.gmarket.co.kr/?exhib=280311",
+        "https://item.gmarket.co.kr/Item?goodscode=2547812204",
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%ED%8A%B8%EB%A1%B1+%EB%85%BC%EC%8A%AC%EB%A6%BD+%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4+%EC%A7%91%EA%B2%8C%EC%9E%90%EA%B5%AD+%EC%97%86%EB%8A%94+%EC%98%B7%EA%B1%B8%EC%9D%B4+5P+%2F+10P+%2F+20P+%2F+30P+%2F+50P",
+        "https://www.enuri.com/search.jsp?keyword=%EC%8A%A4%ED%8A%B8%EB%A1%B1+%EB%85%BC%EC%8A%AC%EB%A6%BD+%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4+%EC%A7%91%EA%B2%8C%EC%9E%90%EA%B5%AD+%EC%97%86%EB%8A%94+%EC%98%B7%EA%B1%B8%EC%9D%B4+5P+%2F+10P+%2F+20P+%2F+30P+%2F+50P",
+        "https://fallcent.com/product/search/?keyword=%EC%8A%A4%ED%8A%B8%EB%A1%B1+%EB%85%BC%EC%8A%AC%EB%A6%BD+%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4+%EC%A7%91%EA%B2%8C%EC%9E%90%EA%B5%AD+%EC%97%86%EB%8A%94+%EC%98%B7%EA%B1%B8%EC%9D%B4+5P+%2F+10P+%2F+20P+%2F+30P+%2F+50P",
+        "https://search.naver.com/search.naver?query=%EC%8A%A4%ED%8A%B8%EB%A1%B1+%EB%85%BC%EC%8A%AC%EB%A6%BD+%EB%B0%94%EC%A7%80%EA%B1%B8%EC%9D%B4+%EC%A7%91%EA%B2%8C%EC%9E%90%EA%B5%AD+%EC%97%86%EB%8A%94+%EC%98%B7%EA%B1%B8%EC%9D%B4+5P+%2F+10P+%2F+20P+%2F+30P+%2F+50P+%EA%B0%80%EA%B2%A9"
+      ],
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와·에누리·폴센트 검색 및 원몰 상세·네이버 타몰 검색 확인; 2026-09-01~10-28 날짜 있는 가격 미확보; 원몰 G마켓 상세 403; 선택형 상품의 모델·사이즈·수량 확정 불가, 타몰 동일 옵션 비교 불가"
+    }
+  ]
+}

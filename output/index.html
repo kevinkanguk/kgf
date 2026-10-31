@@ -131,7 +131,7 @@ const $ = id => document.getElementById(id);
 const won = v => v == null ? "–" : v.toLocaleString("ko-KR") + "원";
 const pct = (v, signed) => v == null ? "–" : (signed && v > 0 ? "+" : "") + v.toFixed(1) + "%";
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-const BADGE = {"진짜 할인":"b-good","소폭 할인":"b-mid","평소가":"b-flat","할인 아님":"b-bad","판단불가":"b-flat"};
+const BADGE = {"진짜 할인":"b-good","소폭 할인":"b-mid","평소가":"b-flat","할인 아님":"b-bad","판단불가":"b-flat","이력 없음":"b-flat"};
 const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : null;
 
 function kpis() {

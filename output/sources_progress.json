@@ -177,7 +177,7 @@
   "est_items": 164,
   "items": 164,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "appliance-lge-subscribe-bf",
@@ -547,7 +547,7 @@
   "est_items": null,
   "items": 30,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "appliance-skstoa-kgf",
@@ -557,7 +557,7 @@
   "est_items": null,
   "items": 51,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "appliance-nsmall-kgf",
@@ -1766,8 +1766,8 @@
   "url": "https://www.oasis.co.kr/event/2026/koreaGrandFestival_1029",
   "est_items": 100,
   "items": 1080,
-  "verified": 0,
-  "status": "수집완료"
+  "verified": 4,
+  "status": "가격조사중"
  },
  {
   "source_id": "food-epost-kgf",
@@ -1917,7 +1917,7 @@
   "est_items": 60,
   "items": 73,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "food-hmall-price-stability",
@@ -2196,8 +2196,8 @@
   "url": "https://plan.11st.co.kr/plan/front/exhibitions/2211141/themes/1756468/products",
   "est_items": 84,
   "items": 73,
-  "verified": 0,
-  "status": "수집완료"
+  "verified": 1,
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-11st-sosang-baby",
@@ -2287,7 +2287,7 @@
   "est_items": 144,
   "items": 876,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-gmarket-kgf-beauty-fashion",
@@ -2297,7 +2297,7 @@
   "est_items": 120,
   "items": 304,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-fresh-fruit",
@@ -2337,7 +2337,7 @@
   "est_items": 539,
   "items": 535,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-beauty",
@@ -2367,7 +2367,7 @@
   "est_items": 192,
   "items": 172,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-skstoa-kgf",
@@ -2407,7 +2407,7 @@
   "est_items": 135,
   "items": 2099,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-reco-1",
@@ -2417,7 +2417,7 @@
   "est_items": 300,
   "items": 300,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-reco-2",
@@ -2427,7 +2427,7 @@
   "est_items": 300,
   "items": 300,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-reco-3",
@@ -2437,7 +2437,7 @@
   "est_items": 300,
   "items": 300,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-reco-4",
@@ -2457,7 +2457,7 @@
   "est_items": 300,
   "items": 300,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-reco-6",
@@ -2597,7 +2597,7 @@
   "est_items": 280,
   "items": 277,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p4",
@@ -2647,7 +2647,7 @@
   "est_items": 280,
   "items": 274,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p9",

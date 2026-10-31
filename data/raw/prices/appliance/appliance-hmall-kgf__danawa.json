@@ -1,0 +1,63 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-hmall-kgf",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "appliance-hmall-kgf-0012",
+      "category": "appliance",
+      "source_id": "appliance-hmall-kgf",
+      "vendor": "아이피타임",
+      "channel": "H몰(소상공인 기획전 물가안정 프로젝트·추천상품(쿠폰 미적용))",
+      "product": "(카드) ipTIME SG24000M 24포트 기가비트 허브 / 19인치 랙 / Mavell Chipset 탑재",
+      "model_code": null,
+      "buy_url": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2025528175",
+      "image_url": "https://image.hmall.com/static/1/8/52/25/2025528175_0.jpg?RS=300x300",
+      "rating": null,
+      "review_count": 0,
+      "kgf_evidence": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083",
+      "event_url": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083",
+      "claimed_original_price": null,
+      "sale_price": 169000,
+      "claimed_discount_pct": null,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 157160,
+      "price_60d_typical": 160590,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 SG24000M · 'EFM ipTIME SG24000M'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=2460353",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=2460353&period=3"
+      ]
+    },
+    {
+      "item_id": "appliance-hmall-kgf-0014",
+      "category": "appliance",
+      "source_id": "appliance-hmall-kgf",
+      "vendor": "아이피타임",
+      "channel": "H몰(소상공인 기획전 물가안정 프로젝트·추천상품(쿠폰 미적용))",
+      "product": "ipTIME A3000UA 무선랜카드",
+      "model_code": null,
+      "buy_url": "https://www.hmall.com/md/pda/itemPtc?slitmCd=2054607366",
+      "image_url": "https://image.hmall.com/static/3/7/60/54/2054607366_0.jpg?RS=300x300",
+      "rating": null,
+      "review_count": 0,
+      "kgf_evidence": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083",
+      "event_url": "https://www.hmall.com/md/dpa/searchSpexSectItem?sectId=2811083",
+      "claimed_original_price": null,
+      "sale_price": 24900,
+      "claimed_discount_pct": null,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 19920,
+      "price_60d_typical": 24880,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 A3000UA · 'EFM ipTIME A3000UA'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=5294067",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=5294067&period=3"
+      ]
+    }
+  ]
+}

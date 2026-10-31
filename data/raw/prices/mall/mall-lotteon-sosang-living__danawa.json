@@ -1,0 +1,91 @@
+{
+  "category": "mall",
+  "source_id": "mall-lotteon-sosang-living",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "mall-lotteon-sosang-living-0189",
+      "category": "mall",
+      "source_id": "mall-lotteon-sosang-living",
+      "vendor": "스타리온",
+      "channel": "롯데온 소상공인 가을맞이 쇼핑특별전(리빙)",
+      "product": "스타리온 25박스냉장고 간냉식(올냉동/올스텐) SRS-B25DSI",
+      "model_code": "LO2429830635_2429830636",
+      "buy_url": "https://www.lotteon.com/p/product/LO2429830635",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://www.lotteon.com/display/planV2/planDetail/112088",
+      "event_url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=living",
+      "claimed_original_price": 1793410,
+      "sale_price": 1732890,
+      "claimed_discount_pct": 3.4,
+      "conditions": "롯데온 표기 할인율 3% (쿠폰/즉시할인 포함 가능)",
+      "unit": null,
+      "price_60d_low": 1510000,
+      "price_60d_typical": 1510000,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 B25DSI · '스타리온 SRS- B25DSI'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=78975887",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=78975887&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0262",
+      "category": "mall",
+      "source_id": "mall-lotteon-sosang-living",
+      "vendor": "LG전자",
+      "channel": "롯데온 소상공인 가을맞이 쇼핑특별전(리빙)",
+      "product": "LG전자 시네빔 쇼츠 PU615U 4K UHD 미니빔 빔프로젝터 홈프로젝터",
+      "model_code": "LO2670613051_2670613052",
+      "buy_url": "https://www.lotteon.com/p/product/LO2670613051",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://www.lotteon.com/display/planV2/planDetail/112088",
+      "event_url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=living",
+      "claimed_original_price": 1649000,
+      "sale_price": 1566550,
+      "claimed_discount_pct": 5.0,
+      "conditions": "롯데온 표기 할인율 5% (쿠폰/즉시할인 포함 가능)",
+      "unit": null,
+      "price_60d_low": 1201100,
+      "price_60d_typical": 1247050,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 PU615U · 'LG전자 시네빔 쇼츠 PU615U'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=95287214",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=95287214&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0263",
+      "category": "mall",
+      "source_id": "mall-lotteon-sosang-living",
+      "vendor": "LG전자",
+      "channel": "롯데온 소상공인 가을맞이 쇼핑특별전(리빙)",
+      "product": "LG전자 시네빔 큐브 Qube PU600U 4K UHD 미니빔 빔프로젝터 홈프로젝터",
+      "model_code": "LO2670611990_2670611991",
+      "buy_url": "https://www.lotteon.com/p/product/LO2670611990",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://www.lotteon.com/display/planV2/planDetail/112088",
+      "event_url": "https://www.lotteon.com/display/planV2/planDetail/112088#tab=living",
+      "claimed_original_price": 1590000,
+      "sale_price": 1510500,
+      "claimed_discount_pct": 5.0,
+      "conditions": "롯데온 표기 할인율 5% (쿠폰/즉시할인 포함 가능)",
+      "unit": null,
+      "price_60d_low": 1390000,
+      "price_60d_typical": 1438710,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 PU600U · 'LG전자 시네빔 큐브 PU600U'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=106692983",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=106692983&period=3"
+      ]
+    }
+  ]
+}

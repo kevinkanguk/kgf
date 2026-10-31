@@ -58,9 +58,10 @@ mkdir -p .tmp
 
 ### 3. 가격 조사 (판단 ②) — 프롬프트: `.github/codex/price.md`
 
-- `agents/02_pricing.md` 규칙대로 아직 `data/raw/prices`에 없는 품목의 최근 2개월 가격(`price_60d_low`, `price_60d_typical`)을 찾는다.
-- 모델 코드가 있는 공산품: 다나와·에누리·네이버쇼핑 가격 이력. 농수축산물: KAMIS(단위 환산 후 `data/cache/price_ref/`에 캐시). 자동차: 9~10월 월별 프로모션.
-- 한 번에 소스 3개(또는 품목 300개)까지만 한다. 나머지는 다음 실행에서 이어간다.
+- 먼저 `scripts/price_danawa.py`(스크립트, 토큰 없음)가 모델명 있는 품목의 다나와 주간 최저가 2개월치를 채운다 (`<source_id>__danawa.json`).
+- 나머지는 Codex 가 price.md 순서대로: 가격 이력 사이트 → 같은 몰 이전 가격 → 다른 몰 평소가(confidence low, note "타몰 평소가:") → KAMIS → 못 찾으면 note "이력 없음:".
+  "이력 없음" 품목은 인증표에서 따로 분류되고 다시 조사하지 않는다.
+- 한 번에 품목 100개까지만 한다. 나머지는 다음 실행에서 이어간다.
 - 실질 할인 20% 이상, 정가 부풀림 10% 이상, 표시 할인 40% 이상은 `agents/04_verify.md` 기준으로 재확인해 `data/verified/`에 쓴다.
 
 ### 4. 표 만들기·검사

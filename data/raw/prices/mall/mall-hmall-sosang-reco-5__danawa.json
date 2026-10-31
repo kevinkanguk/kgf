@@ -1,0 +1,35 @@
+{
+  "category": "mall",
+  "source_id": "mall-hmall-sosang-reco-5",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0232",
+      "category": "mall",
+      "source_id": "mall-hmall-sosang-reco-5",
+      "vendor": "아토케어",
+      "channel": "현대Hmall 소상공인 기획전(물가안정 프로젝트)",
+      "product": "아토케어 무선청소기 더 심플 EP-CVC-HC2005E",
+      "model_code": "2224314258",
+      "buy_url": "https://www.hmall.com/pd/pda/itemPtc?slitmCd=2224314258",
+      "image_url": null,
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://www.hmall.com/md/api/cache?url=/api/hf/dp/v1/sect-mng/plansale-ancr-paging&sectId=2811083&sortType=sect_disp&listSize=20&deviceInfo=pc&page=1",
+      "event_url": "https://www.hmall.com/md/dpl/index?sectId=2811083",
+      "claimed_original_price": 98000,
+      "sale_price": 98000,
+      "claimed_discount_pct": null,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 97800,
+      "price_60d_typical": 97800,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 HC2005E · '일렉파워전자 아토케어 더 심플 EP-CVC-HC2005E 핸디스틱청소기'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=68691344",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=68691344&period=3"
+      ]
+    }
+  ]
+}

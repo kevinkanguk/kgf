@@ -1,0 +1,39 @@
+{
+  "category": "mall",
+  "source_id": "mall-epost-kgf-p3",
+  "collected_at": "2026-10-31T17:59:31+09:00",
+  "items": [
+    {
+      "item_id": "mall-epost-kgf-p3-0177",
+      "category": "mall",
+      "source_id": "mall-epost-kgf-p3",
+      "unit": null,
+      "vendor": "우체국쇼핑 소상공인",
+      "channel": "우체국쇼핑 소상공인 동행",
+      "product": "명품정 고려홍삼스틱진 실속형 10gx10포 1포당 진세노사이드18mg",
+      "model_code": "EA2004552",
+      "buy_url": "https://mall.epost.go.kr/fo/goods/goodsDetailView.do?goodsCd=EA2004552&pavlnDivCd=02&goodsDispTypeCd=03&goodsDispTypeDtlCd=10027801&ctgryCd=105201301",
+      "image_url": "https://image.epost.go.kr/epostshop/goods/202605/21/EA2004552_reprsnt_image_20260521031649918_l.jpg",
+      "rating": 5.0,
+      "review_count": 14,
+      "event_url": "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=15-21",
+      "claimed_original_price": 29800,
+      "sale_price": 8400,
+      "claimed_discount_pct": 71.0,
+      "conditions": "10gx10포 / 무료배송",
+      "sources": [
+        "https://mall.epost.go.kr/fo/display/plnbefDspyNewView.do?plnbefId=10027801#pages=15-21",
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%85%ED%92%88%EC%A0%95+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%8A%A4%ED%8B%B1%EC%A7%84+%EC%8B%A4%EC%86%8D%ED%98%95+10gx10%ED%8F%AC+1%ED%8F%AC%EB%8B%B9+%EC%A7%84%EC%84%B8%EB%85%B8%EC%82%AC%EC%9D%B4%EB%93%9C18mg",
+        "https://www.enuri.com/search.jsp?keyword=%EB%AA%85%ED%92%88%EC%A0%95+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%8A%A4%ED%8B%B1%EC%A7%84+%EC%8B%A4%EC%86%8D%ED%98%95+10gx10%ED%8F%AC+1%ED%8F%AC%EB%8B%B9+%EC%A7%84%EC%84%B8%EB%85%B8%EC%82%AC%EC%9D%B4%EB%93%9C18mg",
+        "https://mall.epost.go.kr/fo/goods/goodsDetailView.do?goodsCd=EA2004552&pavlnDivCd=02&goodsDispTypeCd=03&goodsDispTypeDtlCd=10027801&ctgryCd=105201301",
+        "https://fallcent.com/product/search/?keyword=%EB%AA%85%ED%92%88%EC%A0%95+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%8A%A4%ED%8B%B1%EC%A7%84+%EC%8B%A4%EC%86%8D%ED%98%95+10gx10%ED%8F%AC+1%ED%8F%AC%EB%8B%B9+%EC%A7%84%EC%84%B8%EB%85%B8%EC%82%AC%EC%9D%B4%EB%93%9C18mg",
+        "https://search.naver.com/search.naver?query=%EB%AA%85%ED%92%88%EC%A0%95+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%8A%A4%ED%8B%B1%EC%A7%84+%EC%8B%A4%EC%86%8D%ED%98%95+10gx10%ED%8F%AC+1%ED%8F%AC%EB%8B%B9+%EC%A7%84%EC%84%B8%EB%85%B8%EC%82%AC%EC%9D%B4%EB%93%9C18mg+%EA%B0%80%EA%B2%A9"
+      ],
+      "verify_status": null,
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와·에누리·폴센트 검색 및 원몰 상세·네이버 타몰 검색 확인; 2026-09-01~10-28 날짜 있는 가격 미확보; 타몰 10g×10포 1세트 현행가 1곳만 확인; 20/50/80/100포 묶음 제외"
+    }
+  ]
+}

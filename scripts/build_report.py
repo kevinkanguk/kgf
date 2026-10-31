@@ -27,9 +27,10 @@ def pct(num, den):
     return round(num / den * 100, 1)
 
 
-def verdict(real):
+def verdict(real, note=None):
     if real is None:
-        return "판단불가"
+        # 다나와·타몰·KAMIS 어디에도 비교할 가격이 없는 상품 (price.md 5단계)
+        return "이력 없음" if (note or "").startswith("이력 없음") else "판단불가"
     if real >= 20:
         return "진짜 할인"
     if real >= 5:
@@ -50,7 +51,7 @@ def enrich(it):
     it["real_discount_pct"] = pct(typ - sale, typ) if typ and sale else None
     it["vs_low_pct"] = pct(low - sale, low) if low and sale else None
     it["inflation_pct"] = pct(orig - typ, typ) if orig and typ else None
-    it["verdict"] = verdict(it["real_discount_pct"])
+    it["verdict"] = verdict(it["real_discount_pct"], it.get("price_history_note"))
     it["category_label"] = CATEGORY_LABELS.get(it.get("category"), it.get("category"))
     # 자동차는 실거래가 이력 대신 9~10월 월별 프로모션 조건과 비교하므로 기준이 다름을 표시
     it["basis_note"] = "비교기준: 9~10월 월별 프로모션" if it.get("category") == "auto" else None
@@ -64,7 +65,7 @@ STAGES = [("raw/catalog", "수집"), ("raw/prices", "가격조사"), ("verified"
 def read_docs(sub):
     for f in sorted((ROOT / "data" / sub).rglob("*.json")):
         try:
-            yield json.loads(f.read_text(encoding="utf-8"))
+            yield json.loads(f.read_text(encoding="utf-8-sig"))  # Codex(PowerShell)가 BOM 을 붙이기도 한다
         except (json.JSONDecodeError, UnicodeDecodeError):
             continue  # 에이전트가 쓰는 중인 파일
 

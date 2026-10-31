@@ -1,0 +1,63 @@
+{
+  "category": "mall",
+  "source_id": "mall-gmarket-kgf-living",
+  "collected_at": "2026-10-31T18:02:13",
+  "items": [
+    {
+      "item_id": "mall-gmarket-kgf-living-1328",
+      "category": "mall",
+      "source_id": "mall-gmarket-kgf-living",
+      "vendor": "G마켓 판매자",
+      "channel": "G마켓 코리아그랜드페스타 기획전(생활용품) - 생활용품1",
+      "product": "마끼다 BL1850 18V 6Ah 리튬이온 대용량 호환배터리 KC인증 국내제조 AS가능 삼성 정품셀 당일발송",
+      "model_code": null,
+      "buy_url": "https://item.gmarket.co.kr/Item?goodscode=2157348428",
+      "image_url": "https://gdimg.gmarket.co.kr/2157348428/still/400?ver=1783782212",
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "event_url": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "claimed_original_price": 95000,
+      "sale_price": 66880,
+      "claimed_discount_pct": 29.0,
+      "conditions": "쿠폰적용가(G마켓 쿠폰 다운로드 필요; 기획전 쿠폰: 12% 최대1만원, 1만원 이상 구매 시)",
+      "unit": null,
+      "price_60d_low": 90330,
+      "price_60d_typical": 93280,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 BL1850 · '마끼다 BL1850'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=2852240",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=2852240&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1460",
+      "category": "mall",
+      "source_id": "mall-gmarket-kgf-living",
+      "vendor": "G마켓 판매자",
+      "channel": "G마켓 코리아그랜드페스타 기획전(생활용품) - 건강용품",
+      "product": "신제품아이젠 벨루가비데 IZ-B22WD2 풀스테인리스노즐 오늘출발 3년무상A/S",
+      "model_code": null,
+      "buy_url": "https://item.gmarket.co.kr/Item?goodscode=4535708973",
+      "image_url": "https://gdimg.gmarket.co.kr/4535708973/still/400?ver=1771896139",
+      "rating": null,
+      "review_count": null,
+      "kgf_evidence": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "event_url": "https://rpp.gmarket.co.kr/?exhib=280311",
+      "claimed_original_price": 358000,
+      "sale_price": 338000,
+      "claimed_discount_pct": 5.0,
+      "conditions": null,
+      "unit": null,
+      "price_60d_low": 240000,
+      "price_60d_typical": 240000,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 모델 B22WD2 · '아이젠 벨루가 IZ- B22WD2'. 여러 판매처 중 최저가 기준이라 몰 정가보다 낮게 나올 수 있음",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=14276525",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=14276525&period=3"
+      ]
+    }
+  ]
+}
