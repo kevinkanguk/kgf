@@ -33,6 +33,12 @@ Codex는 실행될 때마다 이 문서를 읽고 아래 순서를 **한 번** �
 - 별점은 5점 만점으로 환산.
 - 2026-10-31 회차 데이터에는 이 규칙 이전에 모은 몰 전체 목록 품목(약 12.4만 개)이 섞여 있다. 정리할지는 사용자가 정한다. 마음대로 지우지 않는다.
 
+## 실행 환경
+
+- Python 은 `.venv/Scripts/python.exe -I <스크립트>` 로 실행한다. Codex 샌드박스에서는 `py`·`python` 이 안 된다. 처음 한 번: `py -3 -m venv .venv && .venv\Scripts\pip install -r requirements.txt`.
+- `scripts/codex_tick.py` 가 Codex 를 네트워크 허용(`sandbox_workspace_write.network_access=true`)으로 부른다.
+- Codex 는 Codex 데스크톱 앱의 ChatGPT 로그인을 쓴다. GitHub 시크릿·API 키는 필요 없다. push 는 이 PC 의 git 로그인으로 한다.
+
 ## 실행 순서
 
 ### 1. 최신화

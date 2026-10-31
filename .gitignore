@@ -4,3 +4,4 @@ data/cache/html/
 output/*.tmp
 output/data.json
 .tmp/
+.venv/

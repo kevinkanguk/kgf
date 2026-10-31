@@ -29,6 +29,10 @@ TMP = ROOT / ".tmp"
 LOG = TMP / "tick.log"
 CODEX_TIMEOUT_S = 60 * 60
 NO_WINDOW = 0x08000000 if os.name == "nt" else 0
+# Codex 샌드박스에서는 py 런처가 시스템 Python 을 못 찾는다(2026-10-31). 저장소 안 .venv 를 쓴다
+VENV_PY = ROOT / ".venv" / "Scripts" / "python.exe"
+PY_NOTE = ("[실행 환경] 이 PC 에서 Python 은 반드시 `.venv/Scripts/python.exe -I <스크립트>` 로 실행한다 "
+           "(`py`, `python` 은 샌드박스에서 안 된다). requests·openpyxl 설치돼 있음. 네트워크 사용 가능.\n\n")
 
 
 def log(msg):
@@ -61,8 +65,10 @@ def codex(prompt_file, out_file, dry):
         log("  codex.exe not found (Codex 데스크톱 앱 설치·로그인 필요)")
         return False
     cmd = [exe, "exec", "--ephemeral", "-C", ROOT, "-s", "workspace-write",
-           "-c", 'approval_policy="never"', "-c", 'web_search="live"', "-o", TMP / out_file,
-           (ROOT / prompt_file).read_text(encoding="utf-8")]
+           "-c", 'approval_policy="never"', "-c", 'web_search="live"',
+           # 샌드박스 안에서도 사이트 JSON API 수집(requests)이 되게 네트워크를 연다
+           "-c", "sandbox_workspace_write.network_access=true", "-o", TMP / out_file,
+           PY_NOTE + (ROOT / prompt_file).read_text(encoding="utf-8")]
     if dry:
         log(f"  [dry] {exe} exec ... {prompt_file}")
         return True
@@ -72,6 +78,10 @@ def codex(prompt_file, out_file, dry):
         log(f"  codex timed out ({prompt_file})")
         return False
     log(f"  codex {Path(prompt_file).stem}: exit {proc.returncode} · " + " / ".join((proc.stdout or "").strip().splitlines()[-3:])[:300])
+    lines = (proc.stdout + proc.stderr).splitlines()
+    for i, l in enumerate(lines):  # codex exec 는 "tokens used" 다음 줄에 숫자를 찍는다
+        if "tokens used" in l.lower():
+            log(f"  codex {Path(prompt_file).stem}: tokens used {(l.split(':')[-1].strip() or (lines[i + 1] if i + 1 < len(lines) else '')).strip()}")
     return proc.returncode == 0
 
 
@@ -93,7 +103,7 @@ def refresh_scrapers(dry):
         if f.name.startswith("_"):
             continue
         try:
-            rc = step([sys.executable, "-I", f], dry, timeout=30 * 60)
+            rc = step([VENV_PY if VENV_PY.exists() else sys.executable, "-I", f], dry, timeout=30 * 60)
         except subprocess.TimeoutExpired:
             rc = "timeout"
         if rc:
