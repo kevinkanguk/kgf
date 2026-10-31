@@ -15,6 +15,7 @@
     "buy_url": {"type": "string"},
     "image_url": {"type": ["string", "null"], "description": "대표 이미지 URL (http/https 절대경로)"},
     "rating": {"type": ["number", "null"], "description": "별점 (5점 만점 기준으로 환산)"},
+    "kgf_evidence": {"type": ["string", "null"], "description": "이 품목이 코리아 그랜드 페스티벌 품목임을 보여주는 페이지 URL (코그페 기획전·배너·태그)"},
     "review_count": {"type": ["integer", "null"]},
     "event_url": {"type": ["string", "null"], "description": "행사 기획전 URL"},
     "claimed_original_price": {"type": ["integer", "null"], "description": "행사가 주장하는 정가/원가"},
