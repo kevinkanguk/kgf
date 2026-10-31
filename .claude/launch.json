@@ -4,7 +4,7 @@
     {
       "name": "kgf-certificate",
       "runtimeExecutable": "py",
-      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "output", "--bind", "0.0.0.0"],
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "output", "--bind", "127.0.0.1"],
       "port": 8765
     }
   ]
