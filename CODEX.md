@@ -62,7 +62,8 @@ mkdir -p .tmp
 - 먼저 `scripts/price_danawa.py`(스크립트, 토큰 없음)가 모델명 있는 품목의 다나와 주간 최저가 2개월치를 채운다 (`<source_id>__danawa.json`).
 - 나머지는 Codex 가 price.md 순서대로: 가격 이력 사이트 → 같은 몰 이전 가격 → 다른 몰 평소가(confidence low, note "타몰 평소가:") → KAMIS → 못 찾으면 note "이력 없음:".
   "이력 없음" 품목은 인증표에서 따로 분류되고 다시 조사하지 않는다.
-- 한 번에 품목 100개까지만 한다. 나머지는 다음 실행에서 이어간다.
+- 대상은 `scripts/price_todo.py` 가 `.tmp/price_todo.json` 에 미리 뽑는다(기본 100개, `KGF_PRICE_BATCH`). Codex 는 그 목록만 보고, price.md 만 읽는다(토큰 절약). 추론 강도 기본 low(`KGF_CODEX_EFFORT_PRICE`).
+- 나머지는 다음 실행에서 이어간다.
 - 실질 할인 20% 이상, 정가 부풀림 10% 이상, 표시 할인 40% 이상은 `agents/04_verify.md` 기준으로 재확인해 `data/verified/`에 쓴다.
 
 ### 4. 표 만들기·검사

@@ -9,6 +9,7 @@
 
 Codex CLI 는 Codex 데스크톱 앱에 들어 있는 %LOCALAPPDATA%/OpenAI/Codex/bin/*/codex.exe 또는 KGF_CODEX.
 모델: KGF_CODEX_MODEL (전 단계), KGF_CODEX_MODEL_PRICE (가격 조사만, 반복 작업이라 가벼운 모델 권장). 없으면 Codex 기본 모델.
+추론 강도: KGF_CODEX_EFFORT (전 단계), KGF_CODEX_EFFORT_PRICE (가격 조사, 기본 low). 가격 조사 개수: KGF_PRICE_BATCH (기본 100).
 Log: .tmp/tick.log
 
   py -3 scripts/codex_tick.py --dry-run    # 무엇을 할지만 출력
@@ -61,7 +62,7 @@ def find_codex():
     return max(found, key=os.path.getmtime) if found else None
 
 
-def codex(prompt_file, out_file, dry, model=None):
+def codex(prompt_file, out_file, dry, model=None, effort=None):
     exe = find_codex()
     if not exe:
         log("  codex.exe not found (Codex 데스크톱 앱 설치·로그인 필요)")
@@ -74,8 +75,11 @@ def codex(prompt_file, out_file, dry, model=None):
     model = model or os.environ.get("KGF_CODEX_MODEL")
     if model:
         cmd[2:2] = ["-m", model]
+    effort = effort or os.environ.get("KGF_CODEX_EFFORT")
+    if effort:
+        cmd[2:2] = ["-c", f'model_reasoning_effort="{effort}"']
     if dry:
-        log(f"  [dry] {exe} exec {'-m ' + model + ' ' if model else ''}... {prompt_file}")
+        log(f"  [dry] {exe} exec {'-m ' + model + ' ' if model else ''}{'effort=' + effort + ' ' if effort else ''}... {prompt_file}")
         return True
     try:
         proc = run(cmd, timeout=CODEX_TIMEOUT_S)
@@ -139,7 +143,10 @@ def main():
     # 모델명 있는 품목은 다나와 가격변동으로 먼저 (결정적, Codex 토큰 안 씀)
     step([VENV_PY if VENV_PY.exists() else sys.executable, "-I", "scripts/price_danawa.py"], dry, timeout=60 * 60)
     if not a.no_codex:
-        codex(".github/codex/price.md", "price-report.txt", dry, os.environ.get("KGF_CODEX_MODEL_PRICE"))
+        # 대상 목록을 스크립트가 미리 뽑아 Codex 는 .tmp/price_todo.json 만 읽는다 (토큰 절약)
+        step([VENV_PY if VENV_PY.exists() else sys.executable, "-I", "scripts/price_todo.py"], dry)
+        codex(".github/codex/price.md", "price-report.txt", dry, os.environ.get("KGF_CODEX_MODEL_PRICE"),
+              os.environ.get("KGF_CODEX_EFFORT_PRICE", "low"))
     step([sys.executable, "scripts/build_report.py", "--xlsx"], dry, timeout=60 * 60)
     qa_failed = step([sys.executable, "scripts/qa_html.py"], dry) != 0
     step(["git", "add", "data", "output", "scripts/scrapers"], dry)
