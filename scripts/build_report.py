@@ -4,6 +4,7 @@ Usage: py scripts/build_report.py   (catalog→prices→verified 단계를 합�
 """
 import csv
 import json
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
@@ -252,6 +253,9 @@ def main():
     summary = json.loads(summary_path.read_text(encoding="utf-8")) if summary_path.exists() else {}
     summary["count"] = len(items)
     summary["updated_at"] = datetime.now().strftime("%Y-%m-%d %H:%M")
+    # 손으로 쓴 headline 의 'N개 비교 완료' 가 옛 숫자로 남지 않게 (2026-11-01 161개로 멈춰 있었음)
+    priced = sum(1 for it in items if it.get("price_60d_typical"))
+    summary["headline"] = re.sub(r"[\d,]+개 비교 완료", f"{priced:,}개 비교 완료", summary.get("headline", ""))
     write_html(items, summary, sources)  # 인증표 먼저 (가장 자주 보는 산출물)
     write_atomic(OUT / "data.json", json.dumps(items, ensure_ascii=False, separators=(",", ":")))
     write_atomic(OUT / "sources_progress.json", json.dumps(sources, ensure_ascii=False, indent=1))
