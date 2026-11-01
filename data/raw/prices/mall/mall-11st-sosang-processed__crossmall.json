@@ -1,0 +1,368 @@
+{
+  "category": "mall",
+  "source_id": "mall-11st-sosang-processed",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "mall-11st-sosang-processed-0033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오래오랩 버섯 현미칩 90gX6팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%9E%98%EC%98%A4%EB%9E%A9+%EB%B2%84%EC%84%AF+%ED%98%84%EB%AF%B8%EC%B9%A9+90gX6%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0009",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(추추추어탕 활미꾸라지를 그대로 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B6%94%EC%B6%94%EC%B6%94%EC%96%B4%ED%83%95+%ED%99%9C%EB%AF%B8%EA%BE%B8%EB%9D%BC%EC%A7%80%EB%A5%BC+%EA%B7%B8%EB%8C%80%EB%A1%9C+500g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0028",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(알토리 맛밤 x 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%8C%ED%86%A0%EB%A6%AC+%EB%A7%9B%EB%B0%A4+x+50g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0002",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(광양 매실 장인이 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B4%91%EC%96%91+%EB%A7%A4%EC%8B%A4+%EC%9E%A5%EC%9D%B8%EC%9D%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0070",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(냉동 생선까스 청대구살 2.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%83%89%EB%8F%99+%EC%83%9D%EC%84%A0%EA%B9%8C%EC%8A%A4+%EC%B2%AD%EB%8C%80%EA%B5%AC%EC%82%B4+2.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0052",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국내제조 무첨가 땅콩버터 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EC%A0%9C%EC%A1%B0+%EB%AC%B4%EC%B2%A8%EA%B0%80+%EB%95%85%EC%BD%A9%EB%B2%84%ED%84%B0+200g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0071",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달큼푸드 국내 제조 45g*12봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%ED%81%BC%ED%91%B8%EB%93%9C+%EA%B5%AD%EB%82%B4+%EC%A0%9C%EC%A1%B0+45g%2A12%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0047",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(1개1개 별별농부 수박 수박식빵240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=1%EA%B0%9C1%EA%B0%9C+%EB%B3%84%EB%B3%84%EB%86%8D%EB%B6%80+%EC%88%98%EB%B0%95+%EC%88%98%EB%B0%95%EC%8B%9D%EB%B9%B5240g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사과식초 사과초모식초 애플비네거 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EA%B3%BC%EC%8B%9D%EC%B4%88+%EC%82%AC%EA%B3%BC%EC%B4%88%EB%AA%A8%EC%8B%9D%EC%B4%88+%EC%95%A0%ED%94%8C%EB%B9%84%EB%84%A4%EA%B1%B0+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0053",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(곰탕의 정석 한우고기곰탕 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B0%ED%83%95%EC%9D%98+%EC%A0%95%EC%84%9D+%ED%95%9C%EC%9A%B0%EA%B3%A0%EA%B8%B0%EA%B3%B0%ED%83%95+400g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0005",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(no충전물플레인빵 통밀빵 장발장 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=no%EC%B6%A9%EC%A0%84%EB%AC%BC%ED%94%8C%EB%A0%88%EC%9D%B8%EB%B9%B5+%ED%86%B5%EB%B0%80%EB%B9%B5+%EC%9E%A5%EB%B0%9C%EC%9E%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(감동만두 고기만두소 1Kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%90%EB%8F%99%EB%A7%8C%EB%91%90+%EA%B3%A0%EA%B8%B0%EB%A7%8C%EB%91%90%EC%86%8C+1Kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0008",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(안매운 고운 고춧가루 2.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%EB%A7%A4%EC%9A%B4+%EA%B3%A0%EC%9A%B4+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+2.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0010",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(섬진강식품 재첩국 500gx8팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%AC%EC%A7%84%EA%B0%95%EC%8B%9D%ED%92%88+%EC%9E%AC%EC%B2%A9%EA%B5%AD+500gx8%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0011",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제 견과류바 다이어트간식 35g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C+%EA%B2%AC%EA%B3%BC%EB%A5%98%EB%B0%94+%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8%EA%B0%84%EC%8B%9D+35g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0027",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제통밀과자 통칩스 새싹발아 60gx20봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C%ED%86%B5%EB%B0%80%EA%B3%BC%EC%9E%90+%ED%86%B5%EC%B9%A9%EC%8A%A4+%EC%83%88%EC%8B%B9%EB%B0%9C%EC%95%84+60gx20%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0029",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정화 숯불구이통오징어 x 35g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%ED%99%94+%EC%88%AF%EB%B6%88%EA%B5%AC%EC%9D%B4%ED%86%B5%EC%98%A4%EC%A7%95%EC%96%B4+x+35g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달곰 비정제원당 비정제설탕 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EA%B3%B0+%EB%B9%84%EC%A0%95%EC%A0%9C%EC%9B%90%EB%8B%B9+%EB%B9%84%EC%A0%95%EC%A0%9C%EC%84%A4%ED%83%95+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0032",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(돈골육수b 순대국육수 돼지사골 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8F%88%EA%B3%A8%EC%9C%A1%EC%88%98b+%EC%88%9C%EB%8C%80%EA%B5%AD%EC%9C%A1%EC%88%98+%EB%8F%BC%EC%A7%80%EC%82%AC%EA%B3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0035",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바삭 달콤 달칩 12g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%82%AD+%EB%8B%AC%EC%BD%A4+%EB%8B%AC%EC%B9%A9+12g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0045",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(더맑음 The맑음 저온압착)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%EB%A7%91%EC%9D%8C+The%EB%A7%91%EC%9D%8C+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0046",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정직한농부 흑보리현미칩 x 40g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%A7%81%ED%95%9C%EB%86%8D%EB%B6%80+%ED%9D%91%EB%B3%B4%EB%A6%AC%ED%98%84%EB%AF%B8%EC%B9%A9+x+40g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미식상회 저온압착 참기름 350ml+참기름)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%8B%9D%EC%83%81%ED%9A%8C+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%B0%B8%EA%B8%B0%EB%A6%84+350ml%2B%EC%B0%B8%EA%B8%B0%EB%A6%84"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(홍익상회 홍익쭈꾸미 x 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%8D%EC%9D%B5%EC%83%81%ED%9A%8C+%ED%99%8D%EC%9D%B5%EC%AD%88%EA%BE%B8%EB%AF%B8+x+500g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햄폭격 부대찌개 밀키트 485g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%84%ED%8F%AD%EA%B2%A9+%EB%B6%80%EB%8C%80%EC%B0%8C%EA%B0%9C+%EB%B0%80%ED%82%A4%ED%8A%B8+485g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0054",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(썬솔트 용융소금 소금 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8D%AC%EC%86%94%ED%8A%B8+%EC%9A%A9%EC%9C%B5%EC%86%8C%EA%B8%88+%EC%86%8C%EA%B8%88+3g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0055",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연정미 비정제 원당 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%A0%95%EB%AF%B8+%EB%B9%84%EC%A0%95%EC%A0%9C+%EC%9B%90%EB%8B%B9+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0056",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(내일도착 명장 김치찌개 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%B4%EC%9D%BC%EB%8F%84%EC%B0%A9+%EB%AA%85%EC%9E%A5+%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C+250g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0057",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사조 해표 순창궁 6.5kgX2통)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EC%A1%B0+%ED%95%B4%ED%91%9C+%EC%88%9C%EC%B0%BD%EA%B6%81+6.5kgX2%ED%86%B5"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0058",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송죽명과 색유과 수제 270g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%A3%BD%EB%AA%85%EA%B3%BC+%EC%83%89%EC%9C%A0%EA%B3%BC+%EC%88%98%EC%A0%9C+270g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(파인밀 전통압착 참기름 350ml+350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%8C%EC%9D%B8%EB%B0%80+%EC%A0%84%ED%86%B5%EC%95%95%EC%B0%A9+%EC%B0%B8%EA%B8%B0%EB%A6%84+350ml%2B350ml"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0063",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대용량 러브앤피넛 무설탕 380g / 원산지국산 러브앤피넛 무설탕 380g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%EC%9A%A9%EB%9F%89+%EB%9F%AC%EB%B8%8C%EC%95%A4%ED%94%BC%EB%84%9B+%EB%AC%B4%EC%84%A4%ED%83%95+380g",
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EB%9F%AC%EB%B8%8C%EC%95%A4%ED%94%BC%EB%84%9B+%EB%AC%B4%EC%84%A4%ED%83%95+380g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0064",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(내일도착 하남쭈꾸미 X 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%B4%EC%9D%BC%EB%8F%84%EC%B0%A9+%ED%95%98%EB%82%A8%EC%AD%88%EA%BE%B8%EB%AF%B8+X+500g"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0066",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오늘부터 저칼로리 발효곤약밥 100g당)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0+%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC+%EB%B0%9C%ED%9A%A8%EA%B3%A4%EC%95%BD%EB%B0%A5+100g%EB%8B%B9"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0068",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(옛날과자 미미 누룽지스낵 432gx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%9B%EB%82%A0%EA%B3%BC%EC%9E%90+%EB%AF%B8%EB%AF%B8+%EB%88%84%EB%A3%BD%EC%A7%80%EC%8A%A4%EB%82%B5+432gx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-11st-sosang-processed-0074",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팔도양식 고춧가루 햇고추가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%94%EB%8F%84%EC%96%91%EC%8B%9D+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+%ED%96%87%EA%B3%A0%EC%B6%94%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    }
+  ]
+}

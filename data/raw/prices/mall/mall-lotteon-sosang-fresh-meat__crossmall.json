@@ -1,0 +1,1913 @@
+{
+  "category": "mall",
+  "source_id": "mall-lotteon-sosang-fresh-meat",
+  "collected_at": "2026-11-01T04:09:47",
+  "items": [
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0060",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한끼상회너랑바다랑 해녀가 직접 350g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%81%BC%EC%83%81%ED%9A%8C%EB%84%88%EB%9E%91%EB%B0%94%EB%8B%A4%EB%9E%91+%ED%95%B4%EB%85%80%EA%B0%80+%EC%A7%81%EC%A0%91+350g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0199",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한끼상회너랑바다랑 통영 해녀가 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%81%BC%EC%83%81%ED%9A%8C%EB%84%88%EB%9E%91%EB%B0%94%EB%8B%A4%EB%9E%91+%ED%86%B5%EC%98%81+%ED%95%B4%EB%85%80%EA%B0%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0200",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한끼상회너랑바다랑 통영 바다의 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%81%BC%EC%83%81%ED%9A%8C%EB%84%88%EB%9E%91%EB%B0%94%EB%8B%A4%EB%9E%91+%ED%86%B5%EC%98%81+%EB%B0%94%EB%8B%A4%EC%9D%98+800g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0401",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한끼상회너랑바다랑 통영 돌문어로 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%81%BC%EC%83%81%ED%9A%8C%EB%84%88%EB%9E%91%EB%B0%94%EB%8B%A4%EB%9E%91+%ED%86%B5%EC%98%81+%EB%8F%8C%EB%AC%B8%EC%96%B4%EB%A1%9C+450g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0003",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 개별 포장 900g / 건어물이좋다 개별 포장 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%EA%B0%9C%EB%B3%84+%ED%8F%AC%EC%9E%A5+900g",
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EC%96%B4%EB%AC%BC%EC%9D%B4%EC%A2%8B%EB%8B%A4+%EA%B0%9C%EB%B3%84+%ED%8F%AC%EC%9E%A5+900g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0004",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 노르웨이 딥스킨 1kg / 파인밀 노르웨이 딥스킨 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4+%EB%94%A5%EC%8A%A4%ED%82%A8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%8C%EC%9D%B8%EB%B0%80+%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4+%EB%94%A5%EC%8A%A4%ED%82%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통큰수산 포항 구룡포 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%ED%81%B0%EC%88%98%EC%82%B0+%ED%8F%AC%ED%95%AD+%EA%B5%AC%EB%A3%A1%ED%8F%AC+5kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0019",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바담가 꼬막무침 수제 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%B4%EA%B0%80+%EA%BC%AC%EB%A7%89%EB%AC%B4%EC%B9%A8+%EC%88%98%EC%A0%9C+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0057",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통큰수산 장어 자포니카 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%ED%81%B0%EC%88%98%EC%82%B0+%EC%9E%A5%EC%96%B4+%EC%9E%90%ED%8F%AC%EB%8B%88%EC%B9%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0074",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(파인밀 통영 홍가리비 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%8C%EC%9D%B8%EB%B0%80+%ED%86%B5%EC%98%81+%ED%99%8D%EA%B0%80%EB%A6%AC%EB%B9%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0206",
+      "price_60d_low": 42250,
+      "price_60d_typical": 44370,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '더락 갈비아저씨 수제 돼지갈비 양념목살 300g' 10개 · 같은 상품 판정: 브랜드 갈비아저씨, 규격 [300.0], 개수 10. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=18857939",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=18857939&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0239",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주원산오리 인증 오리고기 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%9B%90%EC%82%B0%EC%98%A4%EB%A6%AC+%EC%9D%B8%EC%A6%9D+%EC%98%A4%EB%A6%AC%EA%B3%A0%EA%B8%B0+1.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0069",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유비푸드 불맛가득 기사식당 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%EB%B9%84%ED%91%B8%EB%93%9C+%EB%B6%88%EB%A7%9B%EA%B0%80%EB%93%9D+%EA%B8%B0%EC%82%AC%EC%8B%9D%EB%8B%B9+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0027",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할국내산 한우 보섭살 400g / 농업회사법인유한회사농사지음 한우 보섭살 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%95%9C%EC%9A%B0+%EB%B3%B4%EC%84%AD%EC%82%B4+400g",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%95%9C%EC%9A%B0+%EB%B3%B4%EC%84%AD%EC%82%B4+400g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농업회사법인유한회사농사지음 영광 법성포 1.4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EC%98%81%EA%B4%91+%EB%B2%95%EC%84%B1%ED%8F%AC+1.4kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0090",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농업회사법인유한회사농사지음 한우 구이용 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%95%9C%EC%9A%B0+%EA%B5%AC%EC%9D%B4%EC%9A%A9+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0134",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농업회사법인유한회사농사지음 한우 구이용 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%95%9C%EC%9A%B0+%EA%B5%AC%EC%9D%B4%EC%9A%A9+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0244",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할국내산 한우 갈비살 300g / 농업회사법인유한회사농사지음 한우 갈비살 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%95%9C%EC%9A%B0+%EA%B0%88%EB%B9%84%EC%82%B4+300g",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%95%9C%EC%9A%B0+%EA%B0%88%EB%B9%84%EC%82%B4+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0254",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농업회사법인유한회사농사지음 손질 순살 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EC%86%90%EC%A7%88+%EC%88%9C%EC%82%B4+100g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0282",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할국내산 한우 등심 500g / 농업회사법인유한회사농사지음 한우 등심 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%95%9C%EC%9A%B0+%EB%93%B1%EC%8B%AC+500g",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%95%9C%EC%9A%B0+%EB%93%B1%EC%8B%AC+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0372",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농사지음 유황먹인 생 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EC%9C%A0%ED%99%A9%EB%A8%B9%EC%9D%B8+%EC%83%9D+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0317",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(610미 몸통 맥반석 150g / 블루망고 몸통 맥반석 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=610%EB%AF%B8+%EB%AA%B8%ED%86%B5+%EB%A7%A5%EB%B0%98%EC%84%9D+150g",
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EB%AA%B8%ED%86%B5+%EB%A7%A5%EB%B0%98%EC%84%9D+150g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0387",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국내가공 맥반석 오징어 200g / 블루망고 맥반석 오징어 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EB%A7%A5%EB%B0%98%EC%84%9D+%EC%98%A4%EC%A7%95%EC%96%B4+200g",
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EB%A7%A5%EB%B0%98%EC%84%9D+%EC%98%A4%EC%A7%95%EC%96%B4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0083",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 미국산 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EB%AF%B8%EA%B5%AD%EC%82%B0+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0085",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(와와푸드 한돈이 인삼품은 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%80%EC%99%80%ED%91%B8%EB%93%9C+%ED%95%9C%EB%8F%88%EC%9D%B4+%EC%9D%B8%EC%82%BC%ED%92%88%EC%9D%80+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0098",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 갈비아저씨 돼지 300g / 갈비아저씨 돼지 왕구이 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EB%8F%BC%EC%A7%80+300g",
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EB%8F%BC%EC%A7%80+%EC%99%95%EA%B5%AC%EC%9D%B4+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0147",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 숙성육 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EC%88%99%EC%84%B1%EC%9C%A1+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0189",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 미국산 우삼겹 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%AF%B8%EA%B5%AD%EC%82%B0+%EC%9A%B0%EC%82%BC%EA%B2%B9+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0209",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 숙성 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EC%88%99%EC%84%B1+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0229",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 전통한우 육사시미 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EC%A0%84%ED%86%B5%ED%95%9C%EC%9A%B0+%EC%9C%A1%EC%82%AC%EC%8B%9C%EB%AF%B8+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0243",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 숙성 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EC%88%99%EC%84%B1+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0321",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사위디즈 SINCE 두꺼비숯불생갈비 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%9C%84%EB%94%94%EC%A6%88+SINCE+%EB%91%90%EA%BA%BC%EB%B9%84%EC%88%AF%EB%B6%88%EC%83%9D%EA%B0%88%EB%B9%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0367",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 숙성 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EC%88%99%EC%84%B1+600g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0368",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 숙성 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EC%88%99%EC%84%B1+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0369",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 삼겹살 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%EC%82%BC%EA%B2%B9%EC%82%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0370",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참다올 마장동 항정살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%8B%A4%EC%98%AC+%EB%A7%88%EC%9E%A5%EB%8F%99+%ED%95%AD%EC%A0%95%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0378",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사페어메이크 소문난삼부자 올리브 4g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%ED%8E%98%EC%96%B4%EB%A9%94%EC%9D%B4%ED%81%AC+%EC%86%8C%EB%AC%B8%EB%82%9C%EC%82%BC%EB%B6%80%EC%9E%90+%EC%98%AC%EB%A6%AC%EB%B8%8C+4g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0384",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(와와푸드 춘천닭갈비1kg+1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%80%EC%99%80%ED%91%B8%EB%93%9C+%EC%B6%98%EC%B2%9C%EB%8B%AD%EA%B0%88%EB%B9%841kg%2B1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0391",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갈비아저씨 돼지왕구이 양념구이 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EB%8F%BC%EC%A7%80%EC%99%95%EA%B5%AC%EC%9D%B4+%EC%96%91%EB%85%90%EA%B5%AC%EC%9D%B4+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0073",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농업회사법인유한회사농사지음 피데기 반건조 650g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%94%BC%EB%8D%B0%EA%B8%B0+%EB%B0%98%EA%B1%B4%EC%A1%B0+650g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0148",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(매일선물 돌문어 여수 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A4%EC%9D%BC%EC%84%A0%EB%AC%BC+%EB%8F%8C%EB%AC%B8%EC%96%B4+%EC%97%AC%EC%88%98+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0220",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(파인밀 남해안 최상급 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%8C%EC%9D%B8%EB%B0%80+%EB%82%A8%ED%95%B4%EC%95%88+%EC%B5%9C%EC%83%81%EA%B8%89+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0329",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 활 돌문어 1kg / 담음 활 돌문어 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%ED%99%9C+%EB%8F%8C%EB%AC%B8%EC%96%B4+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B4%EC%9D%8C+%ED%99%9C+%EB%8F%8C%EB%AC%B8%EC%96%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0331",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(디네트 손질 오징어 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%94%EB%84%A4%ED%8A%B8+%EC%86%90%EC%A7%88+%EC%98%A4%EC%A7%95%EC%96%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0221",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산충청남도태안군 태안 살아있는 1kg / 바다사나이 태안 살아있는 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%ED%83%9C%EC%95%88%EA%B5%B0+%ED%83%9C%EC%95%88+%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%82%AC%EB%82%98%EC%9D%B4+%ED%83%9C%EC%95%88+%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0143",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갈비아저씨 수제 돼지갈비 900G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EC%88%98%EC%A0%9C+%EB%8F%BC%EC%A7%80%EA%B0%88%EB%B9%84+900G"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0213",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유비푸드 삶은 돼지염통 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%EB%B9%84%ED%91%B8%EB%93%9C+%EC%82%B6%EC%9D%80+%EB%8F%BC%EC%A7%80%EC%97%BC%ED%86%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0390",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갈비아저씨 제육볶음 주물럭 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EC%A0%9C%EC%9C%A1%EB%B3%B6%EC%9D%8C+%EC%A3%BC%EB%AC%BC%EB%9F%AD+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0397",
+      "price_60d_low": 14100,
+      "price_60d_typical": 14100,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '더락 갈비아저씨 수제 돼지갈비 양념목살 300g' 3개 · 같은 상품 판정: 브랜드 갈비아저씨, 규격 [300.0], 개수 3. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=13838465",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=13838465&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0037",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가경 냉동 닭가슴살 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EA%B2%BD+%EB%83%89%EB%8F%99+%EB%8B%AD%EA%B0%80%EC%8A%B4%EC%82%B4+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0064",
+      "price_60d_low": 4420,
+      "price_60d_typical": 4500,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '더락 갈비아저씨 수제 돼지갈비 양념목살 300g' 1개 · 같은 상품 판정: 브랜드 갈비아저씨, 규격 [300.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=13689299",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=13689299&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0070",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다예찬 다시멸치 1.5kg / 자연원 다시멸치 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%98%88%EC%B0%AC+%EB%8B%A4%EC%8B%9C%EB%A9%B8%EC%B9%98+1.5kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9B%90+%EB%8B%A4%EC%8B%9C%EB%A9%B8%EC%B9%98+1.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0080",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연속애 진도 곱창돌김 / 한결상회 진도 곱창돌김)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%86%8D%EC%95%A0+%EC%A7%84%EB%8F%84+%EA%B3%B1%EC%B0%BD%EB%8F%8C%EA%B9%80",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B2%B0%EC%83%81%ED%9A%8C+%EC%A7%84%EB%8F%84+%EA%B3%B1%EC%B0%BD%EB%8F%8C%EA%B9%80"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0091",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단짠예찬 반건조 조미 1kg / 한결상회 반건조 조미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EC%A7%A0%EC%98%88%EC%B0%AC+%EB%B0%98%EA%B1%B4%EC%A1%B0+%EC%A1%B0%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B2%B0%EC%83%81%ED%9A%8C+%EB%B0%98%EA%B1%B4%EC%A1%B0+%EC%A1%B0%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0100",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갈비아저씨 돼지 왕구이 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EB%8F%BC%EC%A7%80+%EC%99%95%EA%B5%AC%EC%9D%B4+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0109",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미강착한먹거리 황금 황태채 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EA%B0%95%EC%B0%A9%ED%95%9C%EB%A8%B9%EA%B1%B0%EB%A6%AC+%ED%99%A9%EA%B8%88+%ED%99%A9%ED%83%9C%EC%B1%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0120",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(20년전통 문경약돌돼지 삼겹살 500g / 소소유통 문경약돌돼지 삼겹살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=20%EB%85%84%EC%A0%84%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EC%82%BC%EA%B2%B9%EC%82%B4+500g",
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EC%86%8C%EC%9C%A0%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EC%82%BC%EA%B2%B9%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0132",
+      "price_60d_low": 12320,
+      "price_60d_typical": 12480,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '한양식품 꽃보다 오징어 오리지널 130g' 1개 · 같은 상품 판정: 브랜드 한양식품, 규격 [130.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=95902052",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=95902052&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0142",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(왕곡푸드 한돈 왕등갈비 1.6kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%95%EA%B3%A1%ED%91%B8%EB%93%9C+%ED%95%9C%EB%8F%88+%EC%99%95%EB%93%B1%EA%B0%88%EB%B9%84+1.6kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0153",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(20년전통 문경약돌돼지 삼겹살 1kg / 소소유통 문경약돌돼지 삼겹살 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=20%EB%85%84%EC%A0%84%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EC%82%BC%EA%B2%B9%EC%82%B4+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EC%86%8C%EC%9C%A0%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EC%82%BC%EA%B2%B9%EC%82%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0160",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다예찬 손질 두절새우 1kg / 자연원 손질 두절새우 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%98%88%EC%B0%AC+%EC%86%90%EC%A7%88+%EB%91%90%EC%A0%88%EC%83%88%EC%9A%B0+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9B%90+%EC%86%90%EC%A7%88+%EB%91%90%EC%A0%88%EC%83%88%EC%9A%B0+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0175",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한결상회 서천김 세번구운 4gx32봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B2%B0%EC%83%81%ED%9A%8C+%EC%84%9C%EC%B2%9C%EA%B9%80+%EC%84%B8%EB%B2%88%EA%B5%AC%EC%9A%B4+4gx32%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0177",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(완도금일수협 완도 건다시마 1kg / 청정바다 완도 건다시마 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%84%EB%8F%84%EA%B8%88%EC%9D%BC%EC%88%98%ED%98%91+%EC%99%84%EB%8F%84+%EA%B1%B4%EB%8B%A4%EC%8B%9C%EB%A7%88+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%A0%95%EB%B0%94%EB%8B%A4+%EC%99%84%EB%8F%84+%EA%B1%B4%EB%8B%A4%EC%8B%9C%EB%A7%88+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0181",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(김부자푸드 찹쌀꽃 김부각 50gx3+110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%80%EB%B6%80%EC%9E%90%ED%91%B8%EB%93%9C+%EC%B0%B9%EC%8C%80%EA%BD%83+%EA%B9%80%EB%B6%80%EA%B0%81+50gx3%2B110g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0190",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 돼지특수부위 뒷고기모듬 500g / 육품당 돼지특수부위 뒷고기모듬 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%EB%8F%BC%EC%A7%80%ED%8A%B9%EC%88%98%EB%B6%80%EC%9C%84+%EB%92%B7%EA%B3%A0%EA%B8%B0%EB%AA%A8%EB%93%AC+500g",
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A1%ED%92%88%EB%8B%B9+%EB%8F%BC%EC%A7%80%ED%8A%B9%EC%88%98%EB%B6%80%EC%9C%84+%EB%92%B7%EA%B3%A0%EA%B8%B0%EB%AA%A8%EB%93%AC+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0212",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유비푸드 듀록 통삼겹살 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%EB%B9%84%ED%91%B8%EB%93%9C+%EB%93%80%EB%A1%9D+%ED%86%B5%EC%82%BC%EA%B2%B9%EC%82%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0216",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정립한우 투뿔 한우 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%A6%BD%ED%95%9C%EC%9A%B0+%ED%88%AC%EB%BF%94+%ED%95%9C%EC%9A%B0+800g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0224",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소소유통 문경약돌돼지 삼겹 500g+목살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EC%86%8C%EC%9C%A0%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EC%82%BC%EA%B2%B9+500g%2B%EB%AA%A9%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0225",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소소유통 문경약돌돼지 목살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EC%86%8C%EC%9C%A0%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EB%AA%A9%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0236",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(20년전통 문경약돌돼지 목살 500g+삼겹살 / 소소유통 문경약돌돼지 목살 500g+삼겹살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=20%EB%85%84%EC%A0%84%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EB%AA%A9%EC%82%B4+500g%2B%EC%82%BC%EA%B2%B9%EC%82%B4",
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EC%86%8C%EC%9C%A0%ED%86%B5+%EB%AC%B8%EA%B2%BD%EC%95%BD%EB%8F%8C%EB%8F%BC%EC%A7%80+%EB%AA%A9%EC%82%B4+500g%2B%EC%82%BC%EA%B2%B9%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0242",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주특선 순살 은갈치 600g이상x2팩 / 어가예찬 순살 은갈치 600g이상x2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC%ED%8A%B9%EC%84%A0+%EC%88%9C%EC%82%B4+%EC%9D%80%EA%B0%88%EC%B9%98+600g%EC%9D%B4%EC%83%81x2%ED%8C%A9",
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EA%B0%80%EC%98%88%EC%B0%AC+%EC%88%9C%EC%82%B4+%EC%9D%80%EA%B0%88%EC%B9%98+600g%EC%9D%B4%EC%83%81x2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0257",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다예찬 부드러운 자숙 1kg / 자연원 부드러운 자숙 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%98%88%EC%B0%AC+%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4+%EC%9E%90%EC%88%99+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9B%90+%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4+%EC%9E%90%EC%88%99+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0260",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다예찬 멸치 소멸 1.5kg / 자연원 멸치 소멸 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%98%88%EC%B0%AC+%EB%A9%B8%EC%B9%98+%EC%86%8C%EB%A9%B8+1.5kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9B%90+%EB%A9%B8%EC%B9%98+%EC%86%8C%EB%A9%B8+1.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0263",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단짠예찬 버터구이용 오다리 1kg / 한결상회 버터구이용 오다리 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EC%A7%A0%EC%98%88%EC%B0%AC+%EB%B2%84%ED%84%B0%EA%B5%AC%EC%9D%B4%EC%9A%A9+%EC%98%A4%EB%8B%A4%EB%A6%AC+1kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B2%B0%EC%83%81%ED%9A%8C+%EB%B2%84%ED%84%B0%EA%B5%AC%EC%9D%B4%EC%9A%A9+%EC%98%A4%EB%8B%A4%EB%A6%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0268",
+      "price_60d_low": 65620,
+      "price_60d_typical": 69870,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '평창영월정선축협 대관령한우 육포 선물세트 40g' 10개 · 같은 상품 판정: 브랜드 축협/대관령한우, 규격 [40.0], 개수 10. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=120009537",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=120009537&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0269",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어심 미역다시마 / 어가예찬 미역다시마)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EC%8B%AC+%EB%AF%B8%EC%97%AD%EB%8B%A4%EC%8B%9C%EB%A7%88",
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EA%B0%80%EC%98%88%EC%B0%AC+%EB%AF%B8%EC%97%AD%EB%8B%A4%EC%8B%9C%EB%A7%88"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0274",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굴비애 영광 법성포 / 어가예찬 영광 법성포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%B4%EB%B9%84%EC%95%A0+%EC%98%81%EA%B4%91+%EB%B2%95%EC%84%B1%ED%8F%AC",
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EA%B0%80%EC%98%88%EC%B0%AC+%EC%98%81%EA%B4%91+%EB%B2%95%EC%84%B1%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0285",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단짠예찬 조미 오징어입 1kg / 한결상회 조미 오징어입 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EC%A7%A0%EC%98%88%EC%B0%AC+%EC%A1%B0%EB%AF%B8+%EC%98%A4%EC%A7%95%EC%96%B4%EC%9E%85+1kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B2%B0%EC%83%81%ED%9A%8C+%EC%A1%B0%EB%AF%B8+%EC%98%A4%EC%A7%95%EC%96%B4%EC%9E%85+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0289",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단짠예찬 반건조 조미 1kg / 한결상회 반건조 조미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EC%A7%A0%EC%98%88%EC%B0%AC+%EB%B0%98%EA%B1%B4%EC%A1%B0+%EC%A1%B0%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B2%B0%EC%83%81%ED%9A%8C+%EB%B0%98%EA%B1%B4%EC%A1%B0+%EC%A1%B0%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0295",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 암소한우 냉장육 400g+장조림)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EC%95%94%EC%86%8C%ED%95%9C%EC%9A%B0+%EB%83%89%EC%9E%A5%EC%9C%A1+400g%2B%EC%9E%A5%EC%A1%B0%EB%A6%BC"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0309",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(낭만홍어회 흑산도홍어 삭힌홍어 500g / 낭만홍어 흑산도홍어 삭힌홍어 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%AD%EB%A7%8C%ED%99%8D%EC%96%B4%ED%9A%8C+%ED%9D%91%EC%82%B0%EB%8F%84%ED%99%8D%EC%96%B4+%EC%82%AD%ED%9E%8C%ED%99%8D%EC%96%B4+500g",
+        "https://search.danawa.com/dsearch.php?query=%EB%82%AD%EB%A7%8C%ED%99%8D%EC%96%B4+%ED%9D%91%EC%82%B0%EB%8F%84%ED%99%8D%EC%96%B4+%EC%82%AD%ED%9E%8C%ED%99%8D%EC%96%B4+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0310",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(완도금일수협 완도 밥다시마 1kg / 청정바다 완도 밥다시마 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%84%EB%8F%84%EA%B8%88%EC%9D%BC%EC%88%98%ED%98%91+%EC%99%84%EB%8F%84+%EB%B0%A5%EB%8B%A4%EC%8B%9C%EB%A7%88+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%A0%95%EB%B0%94%EB%8B%A4+%EC%99%84%EB%8F%84+%EB%B0%A5%EB%8B%A4%EC%8B%9C%EB%A7%88+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0322",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미강착한먹거리 황금 황태채 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EA%B0%95%EC%B0%A9%ED%95%9C%EB%A8%B9%EA%B1%B0%EB%A6%AC+%ED%99%A9%EA%B8%88+%ED%99%A9%ED%83%9C%EC%B1%84+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0404",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정립한우 투뿔 마장동 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%A6%BD%ED%95%9C%EC%9A%B0+%ED%88%AC%EB%BF%94+%EB%A7%88%EC%9E%A5%EB%8F%99+800g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0405",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정립한우 투뿔 마장동 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%A6%BD%ED%95%9C%EC%9A%B0+%ED%88%AC%EB%BF%94+%EB%A7%88%EC%9E%A5%EB%8F%99+800g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0410",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(fd 대패삼겹살 300gx1팩 / 더자연 대패삼겹살 300gx1팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=fd+%EB%8C%80%ED%8C%A8%EC%82%BC%EA%B2%B9%EC%82%B4+300gx1%ED%8C%A9",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%EC%9E%90%EC%97%B0+%EB%8C%80%ED%8C%A8%EC%82%BC%EA%B2%B9%EC%82%B4+300gx1%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0040",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(열광한우 등급 한우 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B4%EA%B4%91%ED%95%9C%EC%9A%B0+%EB%93%B1%EA%B8%89+%ED%95%9C%EC%9A%B0+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0202",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정립한우 한우 갈비찜용 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%A6%BD%ED%95%9C%EC%9A%B0+%ED%95%9C%EC%9A%B0+%EA%B0%88%EB%B9%84%EC%B0%9C%EC%9A%A9+800g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0330",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(명가횡성한우 횡성 한우 2.1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%85%EA%B0%80%ED%9A%A1%EC%84%B1%ED%95%9C%EC%9A%B0+%ED%9A%A1%EC%84%B1+%ED%95%9C%EC%9A%B0+2.1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0118",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(매일선물 두툼한 대왕 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A4%EC%9D%BC%EC%84%A0%EB%AC%BC+%EB%91%90%ED%88%BC%ED%95%9C+%EB%8C%80%EC%99%95+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0196",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호암물산주식회사 우리 동네 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%95%94%EB%AC%BC%EC%82%B0%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC+%EC%9A%B0%EB%A6%AC+%EB%8F%99%EB%84%A4+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0197",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호암물산주식회사 우리 동네 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%95%94%EB%AC%BC%EC%82%B0%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC+%EC%9A%B0%EB%A6%AC+%EB%8F%99%EB%84%A4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0218",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(로디드커넥트 오롯이식탁 순살 650g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%EB%94%94%EB%93%9C%EC%BB%A4%EB%84%A5%ED%8A%B8+%EC%98%A4%EB%A1%AF%EC%9D%B4%EC%8B%9D%ED%83%81+%EC%88%9C%EC%82%B4+650g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0326",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(운림 제주손질 자연산 160g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B4%EB%A6%BC+%EC%A0%9C%EC%A3%BC%EC%86%90%EC%A7%88+%EC%9E%90%EC%97%B0%EC%82%B0+160g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0135",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 몸통 맥반석 150g / 610미 몸통 맥반석 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%EB%AA%B8%ED%86%B5+%EB%A7%A5%EB%B0%98%EC%84%9D+150g",
+        "https://search.danawa.com/dsearch.php?query=610%EB%AF%B8+%EB%AA%B8%ED%86%B5+%EB%A7%A5%EB%B0%98%EC%84%9D+150g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0231",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루망고 국내건조 원양산)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EA%B5%AD%EB%82%B4%EA%B1%B4%EC%A1%B0+%EC%9B%90%EC%96%91%EC%82%B0"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0318",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루망고 몸통 꽃징어 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EB%AA%B8%ED%86%B5+%EA%BD%83%EC%A7%95%EC%96%B4+150g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0327",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(app전용 국내가공 부드러운 900g / 건어물이좋다 국내가공 부드러운 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=app%EC%A0%84%EC%9A%A9+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4+900g",
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EC%96%B4%EB%AC%BC%EC%9D%B4%EC%A2%8B%EB%8B%A4+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4+900g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0354",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루망고 손질먹태 x 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EC%86%90%EC%A7%88%EB%A8%B9%ED%83%9C+x+100g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0355",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루망고 바베큐 페스츄리 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EB%B0%94%EB%B2%A0%ED%81%90+%ED%8E%98%EC%8A%A4%EC%B8%84%EB%A6%AC+150g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0385",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건어물이좋다 맛 쥐포 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EC%96%B4%EB%AC%BC%EC%9D%B4%EC%A2%8B%EB%8B%A4+%EB%A7%9B+%EC%A5%90%ED%8F%AC+400g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0388",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(1봉 국내가공 대왕 200g / 블루망고 국내가공 대왕 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=1%EB%B4%89+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EB%8C%80%EC%99%95+200g",
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%A7%9D%EA%B3%A0+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EB%8C%80%EC%99%95+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0086",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갈비아저씨 간장양념 돼지불고기 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EA%B0%84%EC%9E%A5%EC%96%91%EB%85%90+%EB%8F%BC%EC%A7%80%EB%B6%88%EA%B3%A0%EA%B8%B0+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0094",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농업회사법인유한회사농사지음 한돈 뼈없는 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%9C%A0%ED%95%9C%ED%9A%8C%EC%82%AC%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%95%9C%EB%8F%88+%EB%BC%88%EC%97%86%EB%8A%94+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0025",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(30년전통 춘천식 매콤달콤 700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=30%EB%85%84%EC%A0%84%ED%86%B5+%EC%B6%98%EC%B2%9C%EC%8B%9D+%EB%A7%A4%EC%BD%A4%EB%8B%AC%EC%BD%A4+700g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0043",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가미닭갈비913 박가미 춘천식)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EB%AF%B8%EB%8B%AD%EA%B0%88%EB%B9%84913+%EB%B0%95%EA%B0%80%EB%AF%B8+%EC%B6%98%EC%B2%9C%EC%8B%9D"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0046",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진도잇츠 진도담은 꽃송이미역 30g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EB%8F%84%EC%9E%87%EC%B8%A0+%EC%A7%84%EB%8F%84%EB%8B%B4%EC%9D%80+%EA%BD%83%EC%86%A1%EC%9D%B4%EB%AF%B8%EC%97%AD+30g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 구이용 손질 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EA%B5%AC%EC%9D%B4%EC%9A%A9+%EC%86%90%EC%A7%88+100g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 국내가공 오징어 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EC%98%A4%EC%A7%95%EC%96%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0068",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오커브팜 풍천장어 기운센 1KG / 오늘커머스 풍천장어 기운센 1KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%BB%A4%EB%B8%8C%ED%8C%9C+%ED%92%8D%EC%B2%9C%EC%9E%A5%EC%96%B4+%EA%B8%B0%EC%9A%B4%EC%84%BC+1KG",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8A%98%EC%BB%A4%EB%A8%B8%EC%8A%A4+%ED%92%8D%EC%B2%9C%EC%9E%A5%EC%96%B4+%EA%B8%B0%EC%9A%B4%EC%84%BC+1KG"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0078",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(방앗간아이 진도 냉풍으로 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%A9%EC%95%97%EA%B0%84%EC%95%84%EC%9D%B4+%EC%A7%84%EB%8F%84+%EB%83%89%ED%92%8D%EC%9C%BC%EB%A1%9C+180g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0089",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 농할 한우 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EB%86%8D%ED%95%A0+%ED%95%9C%EC%9A%B0+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0093",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼촌밥상 제주바다 고등어 140-160g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%EC%A0%9C%EC%A3%BC%EB%B0%94%EB%8B%A4+%EA%B3%A0%EB%93%B1%EC%96%B4+140-160g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0095",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이든비에스 활 빙장포장 흰다리새우1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EB%93%A0%EB%B9%84%EC%97%90%EC%8A%A4+%ED%99%9C+%EB%B9%99%EC%9E%A5%ED%8F%AC%EC%9E%A5+%ED%9D%B0%EB%8B%A4%EB%A6%AC%EC%83%88%EC%9A%B01kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0097",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 강원도 용대리 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B0%95%EC%9B%90%EB%8F%84+%EC%9A%A9%EB%8C%80%EB%A6%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0106",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼촌밥상 한우 다짐육 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%ED%95%9C%EC%9A%B0+%EB%8B%A4%EC%A7%90%EC%9C%A1+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0131",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수산대전 손질 자포니카 2kg / 삼촌밥상 손질 자포니카 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%82%B0%EB%8C%80%EC%A0%84+%EC%86%90%EC%A7%88+%EC%9E%90%ED%8F%AC%EB%8B%88%EC%B9%B4+2kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%EC%86%90%EC%A7%88+%EC%9E%90%ED%8F%AC%EB%8B%88%EC%B9%B4+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0133",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(육류명인 프라임등급 미국산 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A1%EB%A5%98%EB%AA%85%EC%9D%B8+%ED%94%84%EB%9D%BC%EC%9E%84%EB%93%B1%EA%B8%89+%EB%AF%B8%EA%B5%AD%EC%82%B0+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0138",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 페스츄리 오징어 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%ED%8E%98%EC%8A%A4%EC%B8%84%EB%A6%AC+%EC%98%A4%EC%A7%95%EC%96%B4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0156",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 한우 암소 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%ED%95%9C%EC%9A%B0+%EC%95%94%EC%86%8C+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0157",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(본돈 제주흑돼지 연탄불고기 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B8%EB%8F%88+%EC%A0%9C%EC%A3%BC%ED%9D%91%EB%8F%BC%EC%A7%80+%EC%97%B0%ED%83%84%EB%B6%88%EA%B3%A0%EA%B8%B0+900g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0158",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(육류명인 한돈 암돼지 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A1%EB%A5%98%EB%AA%85%EC%9D%B8+%ED%95%9C%EB%8F%88+%EC%95%94%EB%8F%BC%EC%A7%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0168",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한땀푸드 돼지갈비 찜 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%95%80%ED%91%B8%EB%93%9C+%EB%8F%BC%EC%A7%80%EA%B0%88%EB%B9%84+%EC%B0%9C+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0171",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 구이용 손질 140g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EA%B5%AC%EC%9D%B4%EC%9A%A9+%EC%86%90%EC%A7%88+140g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0172",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 한우 암소)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%ED%95%9C%EC%9A%B0+%EC%95%94%EC%86%8C"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0184",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주수산 은갈치)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC%EC%88%98%EC%82%B0+%EC%9D%80%EA%B0%88%EC%B9%98"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0191",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 구운 아귀포 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B5%AC%EC%9A%B4+%EC%95%84%EA%B7%80%ED%8F%AC+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0205",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(신선도착 더맛 우삼겹 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%A0%EC%84%A0%EB%8F%84%EC%B0%A9+%EB%8D%94%EB%A7%9B+%EC%9A%B0%EC%82%BC%EA%B2%B9+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0238",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼촌밥상 바다의 귀족이라 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%EB%B0%94%EB%8B%A4%EC%9D%98+%EA%B7%80%EC%A1%B1%EC%9D%B4%EB%9D%BC+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0245",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할국내산 투뿔한우 꽃등심 200g / 거북미트 투뿔한우 꽃등심 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%88%AC%EB%BF%94%ED%95%9C%EC%9A%B0+%EA%BD%83%EB%93%B1%EC%8B%AC+200g",
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B0%EB%B6%81%EB%AF%B8%ED%8A%B8+%ED%88%AC%EB%BF%94%ED%95%9C%EC%9A%B0+%EA%BD%83%EB%93%B1%EC%8B%AC+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0247",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(형원축산 냉동 삼겹살 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%95%EC%9B%90%EC%B6%95%EC%82%B0+%EB%83%89%EB%8F%99+%EC%82%BC%EA%B2%B9%EC%82%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0249",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼촌밥상 국물무뼈닭발 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%EA%B5%AD%EB%AC%BC%EB%AC%B4%EB%BC%88%EB%8B%AD%EB%B0%9C+400g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0252",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이든비에스 비화입 곱창김)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EB%93%A0%EB%B9%84%EC%97%90%EC%8A%A4+%EB%B9%84%ED%99%94%EC%9E%85+%EA%B3%B1%EC%B0%BD%EA%B9%80"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0253",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굿수산 안동 순살간고등어 140g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%BF%EC%88%98%EC%82%B0+%EC%95%88%EB%8F%99+%EC%88%9C%EC%82%B4%EA%B0%84%EA%B3%A0%EB%93%B1%EC%96%B4+140g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0258",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(육류명인 한돈 암돼지 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A1%EB%A5%98%EB%AA%85%EC%9D%B8+%ED%95%9C%EB%8F%88+%EC%95%94%EB%8F%BC%EC%A7%80+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0298",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오커브팜 풍천장어 민물장어 1KG / 오늘커머스 풍천장어 민물장어 1KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%BB%A4%EB%B8%8C%ED%8C%9C+%ED%92%8D%EC%B2%9C%EC%9E%A5%EC%96%B4+%EB%AF%BC%EB%AC%BC%EC%9E%A5%EC%96%B4+1KG",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8A%98%EC%BB%A4%EB%A8%B8%EC%8A%A4+%ED%92%8D%EC%B2%9C%EC%9E%A5%EC%96%B4+%EB%AF%BC%EB%AC%BC%EC%9E%A5%EC%96%B4+1KG"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0299",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 구이용 손질 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EA%B5%AC%EC%9D%B4%EC%9A%A9+%EC%86%90%EC%A7%88+120g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0300",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 구이용 손질 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EA%B5%AC%EC%9D%B4%EC%9A%A9+%EC%86%90%EC%A7%88+100g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0303",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 참쥐포 옛날쥐포 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EC%B0%B8%EC%A5%90%ED%8F%AC+%EC%98%9B%EB%82%A0%EC%A5%90%ED%8F%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0323",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(귀빈정 과일숙성 포천이동 1.1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%80%EB%B9%88%EC%A0%95+%EA%B3%BC%EC%9D%BC%EC%88%99%EC%84%B1+%ED%8F%AC%EC%B2%9C%EC%9D%B4%EB%8F%99+1.1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0328",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엔젤푸드 전장김 재래김)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%94%EC%A0%A4%ED%91%B8%EB%93%9C+%EC%A0%84%EC%9E%A5%EA%B9%80+%EC%9E%AC%EB%9E%98%EA%B9%80"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0335",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 투쁠 한우 1.2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%ED%88%AC%EC%81%A0+%ED%95%9C%EC%9A%B0+1.2kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0337",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 찜갈비 800g*2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EC%B0%9C%EA%B0%88%EB%B9%84+800g%2A2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0347",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올리브포크 한돈 으뜸모듬 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%A6%AC%EB%B8%8C%ED%8F%AC%ED%81%AC+%ED%95%9C%EB%8F%88+%EC%9C%BC%EB%9C%B8%EB%AA%A8%EB%93%AC+800g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0348",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굿프레시 소갈비살 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%BF%ED%94%84%EB%A0%88%EC%8B%9C+%EC%86%8C%EA%B0%88%EB%B9%84%EC%82%B4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0349",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굿수산 서해안 암꽃게 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%BF%EC%88%98%EC%82%B0+%EC%84%9C%ED%95%B4%EC%95%88+%EC%95%94%EA%BD%83%EA%B2%8C+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0350",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굿수산 서해안 암꽃게 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%BF%EC%88%98%EC%82%B0+%EC%84%9C%ED%95%B4%EC%95%88+%EC%95%94%EA%BD%83%EA%B2%8C+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0365",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 강원도 용대리 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B0%95%EC%9B%90%EB%8F%84+%EC%9A%A9%EB%8C%80%EB%A6%AC+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0413",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어나더미트 드라이이에이징 한돈 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EB%82%98%EB%8D%94%EB%AF%B8%ED%8A%B8+%EB%93%9C%EB%9D%BC%EC%9D%B4%EC%9D%B4%EC%97%90%EC%9D%B4%EC%A7%95+%ED%95%9C%EB%8F%88+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0416",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굿수산 서해안 암꽃게 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%BF%EC%88%98%EC%82%B0+%EC%84%9C%ED%95%B4%EC%95%88+%EC%95%94%EA%BD%83%EA%B2%8C+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0419",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 공드린 손질먹태 110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B3%B5%EB%93%9C%EB%A6%B0+%EC%86%90%EC%A7%88%EB%A8%B9%ED%83%9C+110g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(박가미닭갈비 박가미 춘천식 530g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%95%EA%B0%80%EB%AF%B8%EB%8B%AD%EA%B0%88%EB%B9%84+%EB%B0%95%EA%B0%80%EB%AF%B8+%EC%B6%98%EC%B2%9C%EC%8B%9D+530g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0041",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오커최고 투플러스 한우 300g / 냉장 투플러스 한우 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%BB%A4%EC%B5%9C%EA%B3%A0+%ED%88%AC%ED%94%8C%EB%9F%AC%EC%8A%A4+%ED%95%9C%EC%9A%B0+300g",
+        "https://search.danawa.com/dsearch.php?query=%EB%83%89%EC%9E%A5+%ED%88%AC%ED%94%8C%EB%9F%AC%EC%8A%A4+%ED%95%9C%EC%9A%B0+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진도잇츠 간편한 즉석미역국 132g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EB%8F%84%EC%9E%87%EC%B8%A0+%EA%B0%84%ED%8E%B8%ED%95%9C+%EC%A6%89%EC%84%9D%EB%AF%B8%EC%97%AD%EA%B5%AD+132g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0104",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 농할 한돈 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EB%86%8D%ED%95%A0+%ED%95%9C%EB%8F%88+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0126",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 한돈 냉장 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%ED%95%9C%EB%8F%88+%EB%83%89%EC%9E%A5+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0149",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에이징그라운드 고소한 대패삼겹살 1kg / 고담상회 고소한 대패삼겹살 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%9D%B4%EC%A7%95%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C+%EA%B3%A0%EC%86%8C%ED%95%9C+%EB%8C%80%ED%8C%A8%EC%82%BC%EA%B2%B9%EC%82%B4+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EB%8B%B4%EC%83%81%ED%9A%8C+%EA%B3%A0%EC%86%8C%ED%95%9C+%EB%8C%80%ED%8C%A8%EC%82%BC%EA%B2%B9%EC%82%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0152",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청년농가 명인셰프 한돈 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%85%84%EB%86%8D%EA%B0%80+%EB%AA%85%EC%9D%B8%EC%85%B0%ED%94%84+%ED%95%9C%EB%8F%88+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0155",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진영유통 농할 한돈 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%98%81%EC%9C%A0%ED%86%B5+%EB%86%8D%ED%95%A0+%ED%95%9C%EB%8F%88+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0361",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 완도미역 자른미역 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EC%99%84%EB%8F%84%EB%AF%B8%EC%97%AD+%EC%9E%90%EB%A5%B8%EB%AF%B8%EC%97%AD+100g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0373",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 국내가공 오징어 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EC%98%A4%EC%A7%95%EC%96%B4+300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0375",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건대장 국내가공 오징어 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8C%80%EC%9E%A5+%EA%B5%AD%EB%82%B4%EA%B0%80%EA%B3%B5+%EC%98%A4%EC%A7%95%EC%96%B4+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0198",
+      "price_60d_low": 36130,
+      "price_60d_typical": 38260,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '더락 갈비아저씨 수제 돼지갈비 양념목살 300g' 8개 · 같은 상품 판정: 브랜드 갈비아저씨, 규격 [300.0], 개수 8. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=15953423",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=15953423&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 돼지목살 양념왕구이 300g*10팩 / 갈비아저씨 돼지목살 양념왕구이 300g*10팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%EB%8F%BC%EC%A7%80%EB%AA%A9%EC%82%B4+%EC%96%91%EB%85%90%EC%99%95%EA%B5%AC%EC%9D%B4+300g%2A10%ED%8C%A9",
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EB%8F%BC%EC%A7%80%EB%AA%A9%EC%82%B4+%EC%96%91%EB%85%90%EC%99%95%EA%B5%AC%EC%9D%B4+300g%2A10%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(열광한우 한우 숙성로스 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B4%EA%B4%91%ED%95%9C%EC%9A%B0+%ED%95%9C%EC%9A%B0+%EC%88%99%EC%84%B1%EB%A1%9C%EC%8A%A4+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0051",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 한우 숙성로스 300g+300g / 열광한우 한우 숙성로스 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%ED%95%9C%EC%9A%B0+%EC%88%99%EC%84%B1%EB%A1%9C%EC%8A%A4+300g%2B300g",
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B4%EA%B4%91%ED%95%9C%EC%9A%B0+%ED%95%9C%EC%9A%B0+%EC%88%99%EC%84%B1%EB%A1%9C%EC%8A%A4+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0052",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 한돈 냉장 1kg / 농할국내산 한돈 냉장 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%ED%95%9C%EB%8F%88+%EB%83%89%EC%9E%A5+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%95%9C%EB%8F%88+%EB%83%89%EC%9E%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 등급 한우 300g+300g / 열광한우 등급 한우 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%EB%93%B1%EA%B8%89+%ED%95%9C%EC%9A%B0+300g%2B300g",
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B4%EA%B4%91%ED%95%9C%EC%9A%B0+%EB%93%B1%EA%B8%89+%ED%95%9C%EC%9A%B0+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0112",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자운영 아딸수산 자숙홍게 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%9A%B4%EC%98%81+%EC%95%84%EB%94%B8%EC%88%98%EC%82%B0+%EC%9E%90%EC%88%99%ED%99%8D%EA%B2%8C+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0113",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 등급 한우 200g+200g / 열광한우 등급 한우 200g+200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%EB%93%B1%EA%B8%89+%ED%95%9C%EC%9A%B0+200g%2B200g",
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B4%EA%B4%91%ED%95%9C%EC%9A%B0+%EB%93%B1%EA%B8%89+%ED%95%9C%EC%9A%B0+200g%2B200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0115",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 해녀가 직접 350g / 한끼상회너랑바다랑 해녀가 직접 350g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%ED%95%B4%EB%85%80%EA%B0%80+%EC%A7%81%EC%A0%91+350g",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%81%BC%EC%83%81%ED%9A%8C%EB%84%88%EB%9E%91%EB%B0%94%EB%8B%A4%EB%9E%91+%ED%95%B4%EB%85%80%EA%B0%80+%EC%A7%81%EC%A0%91+350g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0123",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(담음 활 돌문어 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B4%EC%9D%8C+%ED%99%9C+%EB%8F%8C%EB%AC%B8%EC%96%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0145",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 한돈 냉장 1kg / 농할국내산 한돈 냉장 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%ED%95%9C%EB%8F%88+%EB%83%89%EC%9E%A5+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%95%9C%EB%8F%88+%EB%83%89%EC%9E%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0150",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보성녹돈 한돈 통삼겹수육 500g2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EC%84%B1%EB%85%B9%EB%8F%88+%ED%95%9C%EB%8F%88+%ED%86%B5%EC%82%BC%EA%B2%B9%EC%88%98%EC%9C%A1+500g2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0226",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보성녹돈 한돈 삼겹살 500g2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EC%84%B1%EB%85%B9%EB%8F%88+%ED%95%9C%EB%8F%88+%EC%82%BC%EA%B2%B9%EC%82%B4+500g2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0232",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할국내산 한우 등심 500g / 딜크릿 한우 등심 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%95%9C%EC%9A%B0+%EB%93%B1%EC%8B%AC+500g",
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%ED%95%9C%EC%9A%B0+%EB%93%B1%EC%8B%AC+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0344",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(김가네 전통의 맛 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%80%EA%B0%80%EB%84%A4+%EC%A0%84%ED%86%B5%EC%9D%98+%EB%A7%9B+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0345",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(김가네 전통의 맛 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%80%EA%B0%80%EB%84%A4+%EC%A0%84%ED%86%B5%EC%9D%98+%EB%A7%9B+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0364",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농사지음 부드럽게 통째 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C+%ED%86%B5%EC%A7%B8+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0386",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(신선당 분홍수염새우 육수용건새우 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%A0%EC%84%A0%EB%8B%B9+%EB%B6%84%ED%99%8D%EC%88%98%EC%97%BC%EC%83%88%EC%9A%B0+%EC%9C%A1%EC%88%98%EC%9A%A9%EA%B1%B4%EC%83%88%EC%9A%B0+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0400",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 한우 차돌박이 300g+300g / 열광한우 한우 차돌박이 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%ED%95%9C%EC%9A%B0+%EC%B0%A8%EB%8F%8C%EB%B0%95%EC%9D%B4+300g%2B300g",
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B4%EA%B4%91%ED%95%9C%EC%9A%B0+%ED%95%9C%EC%9A%B0+%EC%B0%A8%EB%8F%8C%EB%B0%95%EC%9D%B4+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0402",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할국내산 삼겹살 1kg / 한땀푸드 삼겹살 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0%EA%B5%AD%EB%82%B4%EC%82%B0+%EC%82%BC%EA%B2%B9%EC%82%B4+1kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%95%80%ED%91%B8%EB%93%9C+%EC%82%BC%EA%B2%B9%EC%82%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0406",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보성녹돈 한돈 가브리살 500g2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EC%84%B1%EB%85%B9%EB%8F%88+%ED%95%9C%EB%8F%88+%EA%B0%80%EB%B8%8C%EB%A6%AC%EC%82%B4+500g2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0407",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(딜크릿 춘천닭갈비1kg+1kg / 와와푸드 춘천닭갈비1kg+1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%9C%ED%81%AC%EB%A6%BF+%EC%B6%98%EC%B2%9C%EB%8B%AD%EA%B0%88%EB%B9%841kg%2B1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%99%80%EC%99%80%ED%91%B8%EB%93%9C+%EC%B6%98%EC%B2%9C%EB%8B%AD%EA%B0%88%EB%B9%841kg%2B1kg"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-fresh-meat-0415",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(김가네 전통의 맛 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%80%EA%B0%80%EB%84%A4+%EC%A0%84%ED%86%B5%EC%9D%98+%EB%A7%9B+500g"
+      ]
+    }
+  ]
+}

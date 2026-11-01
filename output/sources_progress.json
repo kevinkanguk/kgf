@@ -487,7 +487,7 @@
   "est_items": 24,
   "items": 24,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "appliance-gmarket-kgf-living",
@@ -517,7 +517,7 @@
   "est_items": null,
   "items": 6,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "appliance-ssg-kgf",
@@ -527,7 +527,7 @@
   "est_items": null,
   "items": 588,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "appliance-lotteon-kgf",
@@ -997,7 +997,7 @@
   "est_items": null,
   "items": 40,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "fashion_beauty-lotteon-kgf-sme",
@@ -1907,7 +1907,7 @@
   "est_items": 30,
   "items": 119,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "food-hmall-kgf",
@@ -1927,7 +1927,7 @@
   "est_items": 60,
   "items": 1,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "food-lotteon-kgf",
@@ -2097,7 +2097,7 @@
   "est_items": 1,
   "items": 1,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "food-kgf-haedong-sesame",
@@ -2107,7 +2107,7 @@
   "est_items": 1,
   "items": 1,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "food-kgf-daegwallyeong-sap",
@@ -2177,7 +2177,7 @@
   "est_items": 74,
   "items": 75,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-11st-sosang-processed",
@@ -2187,7 +2187,7 @@
   "est_items": 74,
   "items": 74,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-11st-sosang-health",
@@ -2207,7 +2207,7 @@
   "est_items": 77,
   "items": 78,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-11st-sosang-living",
@@ -2217,7 +2217,7 @@
   "est_items": 24,
   "items": 22,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-11st-sosang-beauty",
@@ -2227,7 +2227,7 @@
   "est_items": 29,
   "items": 26,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-11st-sosang-fashion",
@@ -2237,7 +2237,7 @@
   "est_items": 32,
   "items": 32,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-gmarket-kgf-fresh",
@@ -2247,7 +2247,7 @@
   "est_items": 120,
   "items": 422,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-gmarket-kgf-processed",
@@ -2267,7 +2267,7 @@
   "est_items": 96,
   "items": 163,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-gmarket-kgf-digital",
@@ -2307,7 +2307,7 @@
   "est_items": 438,
   "items": 438,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-fresh-meat",
@@ -2317,7 +2317,7 @@
   "est_items": 421,
   "items": 421,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-processed",
@@ -2327,7 +2327,7 @@
   "est_items": 712,
   "items": 712,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-living",
@@ -2347,7 +2347,7 @@
   "est_items": 121,
   "items": 121,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-lotteon-sosang-fashion",
@@ -2377,7 +2377,7 @@
   "est_items": 206,
   "items": 319,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-coupon-food",
@@ -2447,7 +2447,7 @@
   "est_items": 300,
   "items": 299,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-hmall-sosang-reco-5",
@@ -2467,7 +2467,7 @@
   "est_items": 239,
   "items": 238,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-nsmall-sosang",
@@ -2537,7 +2537,7 @@
   "est_items": 73,
   "items": 65,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-ssg-sosang-snack-bakery",
@@ -2547,7 +2547,7 @@
   "est_items": 73,
   "items": 54,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-ssg-sosang-meal-kimchi",
@@ -2577,7 +2577,7 @@
   "est_items": 280,
   "items": 279,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p2",
@@ -2587,7 +2587,7 @@
   "est_items": 280,
   "items": 275,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p3",
@@ -2607,7 +2607,7 @@
   "est_items": 280,
   "items": 275,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p5",
@@ -2617,7 +2617,7 @@
   "est_items": 280,
   "items": 277,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p6",
@@ -2627,7 +2627,7 @@
   "est_items": 280,
   "items": 275,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p7",
@@ -2637,7 +2637,7 @@
   "est_items": 280,
   "items": 272,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-epost-kgf-p8",
@@ -2657,7 +2657,7 @@
   "est_items": 155,
   "items": 151,
   "verified": 0,
-  "status": "수집완료"
+  "status": "가격조사중"
  },
  {
   "source_id": "mall-zigzag-kgf-cardigan-outer",

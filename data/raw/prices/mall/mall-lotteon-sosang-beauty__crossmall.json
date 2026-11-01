@@ -1,0 +1,409 @@
+{
+  "category": "mall",
+  "source_id": "mall-lotteon-sosang-beauty",
+  "collected_at": "2026-11-01T04:09:47",
+  "items": [
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0004",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(멜리지1826 실크스킨 율무)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%9C%EB%A6%AC%EC%A7%801826+%EC%8B%A4%ED%81%AC%EC%8A%A4%ED%82%A8+%EC%9C%A8%EB%AC%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0017",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(멜리지1826 실크스킨 율무)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%9C%EB%A6%AC%EC%A7%801826+%EC%8B%A4%ED%81%AC%EC%8A%A4%ED%82%A8+%EC%9C%A8%EB%AC%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0083",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(멜리지1826 워터풀 율무)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%9C%EB%A6%AC%EC%A7%801826+%EC%9B%8C%ED%84%B0%ED%92%80+%EC%9C%A8%EB%AC%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0061",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(온비 비건 데일리)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A8%EB%B9%84+%EB%B9%84%EA%B1%B4+%EB%8D%B0%EC%9D%BC%EB%A6%AC"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(루블리스 시카진정 쿨링)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A3%A8%EB%B8%94%EB%A6%AC%EC%8A%A4+%EC%8B%9C%EC%B9%B4%EC%A7%84%EC%A0%95+%EC%BF%A8%EB%A7%81"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0116",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오하다 카페인 화이타치온 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%ED%95%98%EB%8B%A4+%EC%B9%B4%ED%8E%98%EC%9D%B8+%ED%99%94%EC%9D%B4%ED%83%80%EC%B9%98%EC%98%A8+50ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사은품기미패치2매젤리파우치백 스킨엠디 기미집중케어 / 스킨엠디라보라토리스 스킨엠디 기미집중케어)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EC%9D%80%ED%92%88%EA%B8%B0%EB%AF%B8%ED%8C%A8%EC%B9%982%EB%A7%A4%EC%A0%A4%EB%A6%AC%ED%8C%8C%EC%9A%B0%EC%B9%98%EB%B0%B1+%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94+%EA%B8%B0%EB%AF%B8%EC%A7%91%EC%A4%91%EC%BC%80%EC%96%B4",
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94%EB%9D%BC%EB%B3%B4%EB%9D%BC%ED%86%A0%EB%A6%AC%EC%8A%A4+%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94+%EA%B8%B0%EB%AF%B8%EC%A7%91%EC%A4%91%EC%BC%80%EC%96%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0087",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(더블구성 그릭폼 클렌저, / 리브리옴 그릭폼 클렌저,)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%EB%B8%94%EA%B5%AC%EC%84%B1+%EA%B7%B8%EB%A6%AD%ED%8F%BC+%ED%81%B4%EB%A0%8C%EC%A0%80%2C",
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EB%B8%8C%EB%A6%AC%EC%98%B4+%EA%B7%B8%EB%A6%AD%ED%8F%BC+%ED%81%B4%EB%A0%8C%EC%A0%80%2C"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0021",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사은품기미패치2매휴가철젤리파우치백 스킨엠디 퓨어 50ml / 스킨엠디라보라토리스 스킨엠디 퓨어 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EC%9D%80%ED%92%88%EA%B8%B0%EB%AF%B8%ED%8C%A8%EC%B9%982%EB%A7%A4%ED%9C%B4%EA%B0%80%EC%B2%A0%EC%A0%A4%EB%A6%AC%ED%8C%8C%EC%9A%B0%EC%B9%98%EB%B0%B1+%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94+%ED%93%A8%EC%96%B4+50ml",
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94%EB%9D%BC%EB%B3%B4%EB%9D%BC%ED%86%A0%EB%A6%AC%EC%8A%A4+%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94+%ED%93%A8%EC%96%B4+50ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0071",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(패션캣 슈퍼프루프 펜 1g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%A8%EC%85%98%EC%BA%A3+%EC%8A%88%ED%8D%BC%ED%94%84%EB%A3%A8%ED%94%84+%ED%8E%9C+1g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0114",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(패션캣 워터프루프 펜 1g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%A8%EC%85%98%EC%BA%A3+%EC%9B%8C%ED%84%B0%ED%94%84%EB%A3%A8%ED%94%84+%ED%8E%9C+1g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0038",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(슈바넨가르텐 안티옥시던트 트리트먼트 120ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%88%EB%B0%94%EB%84%A8%EA%B0%80%EB%A5%B4%ED%85%90+%EC%95%88%ED%8B%B0%EC%98%A5%EC%8B%9C%EB%8D%98%ED%8A%B8+%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%A8%BC%ED%8A%B8+120ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0056",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블로즈 EGF 리페어)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A1%9C%EC%A6%88+EGF+%EB%A6%AC%ED%8E%98%EC%96%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0005",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피금액별gift 로트리 올인원 / 로트리 올인원 하이라이터)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EC%98%AC%EC%9D%B8%EC%9B%90",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EC%98%AC%EC%9D%B8%EC%9B%90+%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%84%B0"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0009",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피금액별gift 로트리 올인원 / 로트리 올인원 하이라이터)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EC%98%AC%EC%9D%B8%EC%9B%90",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EC%98%AC%EC%9D%B8%EC%9B%90+%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%84%B0"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0018",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피금액별gift 루스 파우더 / 로트리 루스 파우더)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A3%A8%EC%8A%A4+%ED%8C%8C%EC%9A%B0%EB%8D%94",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EB%A3%A8%EC%8A%A4+%ED%8C%8C%EC%9A%B0%EB%8D%94"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0019",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피3000금액별gift 루스 파우더 / 로트리 루스 파우더)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC3000%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A3%A8%EC%8A%A4+%ED%8C%8C%EC%9A%B0%EB%8D%94",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EB%A3%A8%EC%8A%A4+%ED%8C%8C%EC%9A%B0%EB%8D%94"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0037",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피3000금액별gift 로사 센티폴리아 / 로트리 로사 센티폴리아)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC3000%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A1%9C%EC%82%AC+%EC%84%BC%ED%8B%B0%ED%8F%B4%EB%A6%AC%EC%95%84",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EB%A1%9C%EC%82%AC+%EC%84%BC%ED%8B%B0%ED%8F%B4%EB%A6%AC%EC%95%84"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0084",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(치후레 클렌징 밤 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%98%ED%9B%84%EB%A0%88+%ED%81%B4%EB%A0%8C%EC%A7%95+%EB%B0%A4+90g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0093",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(더라퓨즈 UV 디펜스라이트선세럼50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%EB%9D%BC%ED%93%A8%EC%A6%88+UV+%EB%94%94%ED%8E%9C%EC%8A%A4%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%84%A0%EC%84%B8%EB%9F%BC50ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0099",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피3000금액별gift 로사 센티폴리아 / 로트리 로사 센티폴리아)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC3000%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A1%9C%EC%82%AC+%EC%84%BC%ED%8B%B0%ED%8F%B4%EB%A6%AC%EC%95%84",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EB%A1%9C%EC%82%AC+%EC%84%BC%ED%8B%B0%ED%8F%B4%EB%A6%AC%EC%95%84"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0100",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피3000금액별gift 로사 센티폴리아 / 로트리 로사 센티폴리아)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC3000%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A1%9C%EC%82%AC+%EC%84%BC%ED%8B%B0%ED%8F%B4%EB%A6%AC%EC%95%84",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EB%A1%9C%EC%82%AC+%EC%84%BC%ED%8B%B0%ED%8F%B4%EB%A6%AC%EC%95%84"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0101",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(5만이상메가커피금액별gift 루스 파우더 / 로트리 루스 파우더)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=5%EB%A7%8C%EC%9D%B4%EC%83%81%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC%EA%B8%88%EC%95%A1%EB%B3%84gift+%EB%A3%A8%EC%8A%A4+%ED%8C%8C%EC%9A%B0%EB%8D%94",
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%ED%8A%B8%EB%A6%AC+%EB%A3%A8%EC%8A%A4+%ED%8C%8C%EC%9A%B0%EB%8D%94"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0104",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(슈바넨가르텐 안티옥시던트 미스트 120ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%88%EB%B0%94%EB%84%A8%EA%B0%80%EB%A5%B4%ED%85%90+%EC%95%88%ED%8B%B0%EC%98%A5%EC%8B%9C%EB%8D%98%ED%8A%B8+%EB%AF%B8%EC%8A%A4%ED%8A%B8+120ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0105",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아나시스 아클레온 스팟 30ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%82%98%EC%8B%9C%EC%8A%A4+%EC%95%84%ED%81%B4%EB%A0%88%EC%98%A8+%EC%8A%A4%ED%8C%9F+30ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0109",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(필로디 히알루론산 순한 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%84%EB%A1%9C%EB%94%94+%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%A0%EC%82%B0+%EC%88%9C%ED%95%9C+50ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0011",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(투겟로컬주식회사 보령머드 딥케어)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%88%AC%EA%B2%9F%EB%A1%9C%EC%BB%AC%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC+%EB%B3%B4%EB%A0%B9%EB%A8%B8%EB%93%9C+%EB%94%A5%EC%BC%80%EC%96%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사헤나프로천사 부작용없는 천연염색, 250gX3EA,)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%ED%97%A4%EB%82%98%ED%94%84%EB%A1%9C%EC%B2%9C%EC%82%AC+%EB%B6%80%EC%9E%91%EC%9A%A9%EC%97%86%EB%8A%94+%EC%B2%9C%EC%97%B0%EC%97%BC%EC%83%89%2C+250gX3EA%2C"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0085",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사헤나프로천사 발효 흑마늘 500mlX1EA)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%ED%97%A4%EB%82%98%ED%94%84%EB%A1%9C%EC%B2%9C%EC%82%AC+%EB%B0%9C%ED%9A%A8+%ED%9D%91%EB%A7%88%EB%8A%98+500mlX1EA"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0112",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스칼큐 여행용 단백질 10ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EC%B9%BC%ED%81%90+%EC%97%AC%ED%96%89%EC%9A%A9+%EB%8B%A8%EB%B0%B1%EC%A7%88+10ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0117",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모먼오브어스 모이스춰 핏)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EB%A8%BC%EC%98%A4%EB%B8%8C%EC%96%B4%EC%8A%A4+%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B6%B0+%ED%95%8F"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0086",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(뷰니오 자극제로 한 120ml_일본쌀팩효과)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B7%B0%EB%8B%88%EC%98%A4+%EC%9E%90%EA%B7%B9%EC%A0%9C%EB%A1%9C+%ED%95%9C+120ml_%EC%9D%BC%EB%B3%B8%EC%8C%80%ED%8C%A9%ED%9A%A8%EA%B3%BC"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리오라 듀오 세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%98%A4%EB%9D%BC+%EB%93%80%EC%98%A4+%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0029",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리오라 솔리드 퍼퓸)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%98%A4%EB%9D%BC+%EC%86%94%EB%A6%AC%EB%93%9C+%ED%8D%BC%ED%93%B8"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(yoonpilsi 라이스 글로우)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=yoonpilsi+%EB%9D%BC%EC%9D%B4%EC%8A%A4+%EA%B8%80%EB%A1%9C%EC%9A%B0"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(yoonpilsi 라이스 글로우)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=yoonpilsi+%EB%9D%BC%EC%9D%B4%EC%8A%A4+%EA%B8%80%EB%A1%9C%EC%9A%B0"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0036",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스킨엠디라보라토리스 스킨엠디 레비멜라 70ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94%EB%9D%BC%EB%B3%B4%EB%9D%BC%ED%86%A0%EB%A6%AC%EC%8A%A4+%EC%8A%A4%ED%82%A8%EC%97%A0%EB%94%94+%EB%A0%88%EB%B9%84%EB%A9%9C%EB%9D%BC+70ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0079",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(로리코 레티놀 딥 10ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%EB%A6%AC%EC%BD%94+%EB%A0%88%ED%8B%B0%EB%86%80+%EB%94%A5+10ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-beauty-0107",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(면세점입점 투라 뱀파이어 / 투라주식회사 투라 뱀파이어)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%B4%EC%84%B8%EC%A0%90%EC%9E%85%EC%A0%90+%ED%88%AC%EB%9D%BC+%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4",
+        "https://search.danawa.com/dsearch.php?query=%ED%88%AC%EB%9D%BC%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC+%ED%88%AC%EB%9D%BC+%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4"
+      ]
+    }
+  ]
+}

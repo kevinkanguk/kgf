@@ -1,0 +1,79 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-skstoa-kgf",
+  "collected_at": "2026-11-01T04:09:47",
+  "items": [
+    {
+      "item_id": "appliance-skstoa-kgf-0033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(매직쉐프 S 디지털 20L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A4%EC%A7%81%EC%89%90%ED%94%84+S+%EB%94%94%EC%A7%80%ED%84%B8+20L"
+      ]
+    },
+    {
+      "item_id": "appliance-skstoa-kgf-0013",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(트루리빙 S 티포트 TL-TP17L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B8%EB%A3%A8%EB%A6%AC%EB%B9%99+S+%ED%8B%B0%ED%8F%AC%ED%8A%B8+TL-TP17L"
+      ]
+    },
+    {
+      "item_id": "appliance-skstoa-kgf-0026",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(매직쉐프 S 글라스 12L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A4%EC%A7%81%EC%89%90%ED%94%84+S+%EA%B8%80%EB%9D%BC%EC%8A%A4+12L"
+      ]
+    },
+    {
+      "item_id": "appliance-skstoa-kgf-0014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(smartcara 스마트카라 에어프라이어 4.5L+1.8L / 스마트카라 에어프라이어 유리용기 4.5L+1.8L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=smartcara+%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B9%B4%EB%9D%BC+%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4+4.5L%2B1.8L",
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B9%B4%EB%9D%BC+%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4+%EC%9C%A0%EB%A6%AC%EC%9A%A9%EA%B8%B0+4.5L%2B1.8L"
+      ]
+    },
+    {
+      "item_id": "appliance-skstoa-kgf-0044",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모즈스웨덴 와인셀러 와인냉장고 105L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EC%A6%88%EC%8A%A4%EC%9B%A8%EB%8D%B4+%EC%99%80%EC%9D%B8%EC%85%80%EB%9F%AC+%EC%99%80%EC%9D%B8%EB%83%89%EC%9E%A5%EA%B3%A0+105L"
+      ]
+    },
+    {
+      "item_id": "appliance-skstoa-kgf-0047",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모즈스웨덴 와인셀러 와인냉장고 71L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EC%A6%88%EC%8A%A4%EC%9B%A8%EB%8D%B4+%EC%99%80%EC%9D%B8%EC%85%80%EB%9F%AC+%EC%99%80%EC%9D%B8%EB%83%89%EC%9E%A5%EA%B3%A0+71L"
+      ]
+    },
+    {
+      "item_id": "appliance-skstoa-kgf-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(smartcara 스마트카라 블레이드 5L / 스마트카라 블레이드 X 5L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=smartcara+%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B9%B4%EB%9D%BC+%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C+5L",
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%B9%B4%EB%9D%BC+%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C+X+5L"
+      ]
+    }
+  ]
+}

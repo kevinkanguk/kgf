@@ -1,0 +1,2853 @@
+{
+  "category": "mall",
+  "source_id": "mall-gmarket-kgf-living",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "mall-gmarket-kgf-living-1501",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(펫인케어 멀티이너핏 강아지 2g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8E%AB%EC%9D%B8%EC%BC%80%EC%96%B4+%EB%A9%80%ED%8B%B0%EC%9D%B4%EB%84%88%ED%95%8F+%EA%B0%95%EC%95%84%EC%A7%80+2g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0428",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(로렌츠 팜레시피 비건 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9C%EB%A0%8C%EC%B8%A0+%ED%8C%9C%EB%A0%88%EC%8B%9C%ED%94%BC+%EB%B9%84%EA%B1%B4+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1183",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(라이프허브 콤부차 피치)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9D%BC%EC%9D%B4%ED%94%84%ED%97%88%EB%B8%8C+%EC%BD%A4%EB%B6%80%EC%B0%A8+%ED%94%BC%EC%B9%98"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0183",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(완도의 그대로 마음담은 160g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%84%EB%8F%84%EC%9D%98+%EA%B7%B8%EB%8C%80%EB%A1%9C+%EB%A7%88%EC%9D%8C%EB%8B%B4%EC%9D%80+160g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0968",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(빛담은 블루베리식초 ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%9B%EB%8B%B4%EC%9D%80+%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%8B%9D%EC%B4%88+ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0943",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고향노을 순살장어탕 배고픈데 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%ED%96%A5%EB%85%B8%EC%9D%84+%EC%88%9C%EC%82%B4%EC%9E%A5%EC%96%B4%ED%83%95+%EB%B0%B0%EA%B3%A0%ED%94%88%EB%8D%B0+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1607",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아로마아로넷 멜본디퓨저 숙면)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%A1%9C%EB%A7%88%EC%95%84%EB%A1%9C%EB%84%B7+%EB%A9%9C%EB%B3%B8%EB%94%94%ED%93%A8%EC%A0%80+%EC%88%99%EB%A9%B4"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0939",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(닭친자들 통마늘 닭갈비 550g+얼얼)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AD%EC%B9%9C%EC%9E%90%EB%93%A4+%ED%86%B5%EB%A7%88%EB%8A%98+%EB%8B%AD%EA%B0%88%EB%B9%84+550g%2B%EC%96%BC%EC%96%BC"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1212",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비타민음료 타우민ZERO 원산지:상세설명에 140ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%ED%83%80%EB%AF%BC%EC%9D%8C%EB%A3%8C+%ED%83%80%EC%9A%B0%EB%AF%BCZERO+%EC%9B%90%EC%82%B0%EC%A7%80%3A%EC%83%81%EC%84%B8%EC%84%A4%EB%AA%85%EC%97%90+140ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0440",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아토몽드 씨위드 약산성샴푸 키즈샴푸1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%ED%86%A0%EB%AA%BD%EB%93%9C+%EC%94%A8%EC%9C%84%EB%93%9C+%EC%95%BD%EC%82%B0%EC%84%B1%EC%83%B4%ED%91%B8+%ED%82%A4%EC%A6%88%EC%83%B4%ED%91%B81000ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1168",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(양파 듬뿍 볶아 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%91%ED%8C%8C+%EB%93%AC%EB%BF%8D+%EB%B3%B6%EC%95%84+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0963",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제 사과 애플)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C+%EC%82%AC%EA%B3%BC+%EC%95%A0%ED%94%8C"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0949",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고기얌 순살 안동 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EA%B8%B0%EC%96%8C+%EC%88%9C%EC%82%B4+%EC%95%88%EB%8F%99+900g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0920",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해풍쑥 으로 만든)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%ED%92%8D%EC%91%A5+%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%A0"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1032",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(백년가게 모란전통기름협동조합 모란향가 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%B1%EB%85%84%EA%B0%80%EA%B2%8C+%EB%AA%A8%EB%9E%80%EC%A0%84%ED%86%B5%EA%B8%B0%EB%A6%84%ED%98%91%EB%8F%99%EC%A1%B0%ED%95%A9+%EB%AA%A8%EB%9E%80%ED%96%A5%EA%B0%80+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0200",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태현쿡 매콤 오돌뼈 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%ED%98%84%EC%BF%A1+%EB%A7%A4%EC%BD%A4+%EC%98%A4%EB%8F%8C%EB%BC%88+300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1075",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(함안 무방부제 탕종 수박식빵240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%A8%EC%95%88+%EB%AC%B4%EB%B0%A9%EB%B6%80%EC%A0%9C+%ED%83%95%EC%A2%85+%EC%88%98%EB%B0%95%EC%8B%9D%EB%B9%B5240g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1548",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아빠가 만든 해물밥앤 28g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%B9%A0%EA%B0%80+%EB%A7%8C%EB%93%A0+%ED%95%B4%EB%AC%BC%EB%B0%A5%EC%95%A4+28g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0187",
+      "price_60d_low": 16420,
+      "price_60d_typical": 17630,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '토박이마을 감자 고기만두 1.5kg' 1개 · 같은 상품 판정: 브랜드 토박이마을, 규격 [1500.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=54412682",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=54412682&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1370",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프로코 실내건조 핑크로즈 2.5L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A1%9C%EC%BD%94+%EC%8B%A4%EB%82%B4%EA%B1%B4%EC%A1%B0+%ED%95%91%ED%81%AC%EB%A1%9C%EC%A6%88+2.5L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0353",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아워굿데이 루프핸들텀블러 주문제작 460ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EC%9B%8C%EA%B5%BF%EB%8D%B0%EC%9D%B4+%EB%A3%A8%ED%94%84%ED%95%B8%EB%93%A4%ED%85%80%EB%B8%94%EB%9F%AC+%EC%A3%BC%EB%AC%B8%EC%A0%9C%EC%9E%91+460ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0231",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(글로우빈 순수 보리차진액 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%80%EB%A1%9C%EC%9A%B0%EB%B9%88+%EC%88%9C%EC%88%98+%EB%B3%B4%EB%A6%AC%EC%B0%A8%EC%A7%84%EC%95%A1+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1150",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(홍미닭발 오돌오돌뼈 유명)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%8D%EB%AF%B8%EB%8B%AD%EB%B0%9C+%EC%98%A4%EB%8F%8C%EC%98%A4%EB%8F%8C%EB%BC%88+%EC%9C%A0%EB%AA%85"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0139",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(익혀나온 소도가니 소스지 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B5%ED%98%80%EB%82%98%EC%98%A8+%EC%86%8C%EB%8F%84%EA%B0%80%EB%8B%88+%EC%86%8C%EC%8A%A4%EC%A7%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1319",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(코지키친 유청분리기 그릭요거트 750ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%EC%A7%80%ED%82%A4%EC%B9%9C+%EC%9C%A0%EC%B2%AD%EB%B6%84%EB%A6%AC%EA%B8%B0+%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8+750ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1068",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(알탕 해물탕 밀키트 1800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%8C%ED%83%95+%ED%95%B4%EB%AC%BC%ED%83%95+%EB%B0%80%ED%82%A4%ED%8A%B8+1800g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0426",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루미 식물성 단백질 2gx14포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%AF%B8+%EC%8B%9D%EB%AC%BC%EC%84%B1+%EB%8B%A8%EB%B0%B1%EC%A7%88+2gx14%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1364",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하이로 빅스텐 매직 2.4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EC%9D%B4%EB%A1%9C+%EB%B9%85%EC%8A%A4%ED%85%90+%EB%A7%A4%EC%A7%81+2.4L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1513",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개르오스 미네랄 클레이)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EB%A5%B4%EC%98%A4%EC%8A%A4+%EB%AF%B8%EB%84%A4%EB%9E%84+%ED%81%B4%EB%A0%88%EC%9D%B4"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1161",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갓지은 두렁콩서리태찰떡 국내산찹쌀 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%93%EC%A7%80%EC%9D%80+%EB%91%90%EB%A0%81%EC%BD%A9%EC%84%9C%EB%A6%AC%ED%83%9C%EC%B0%B0%EB%96%A1+%EA%B5%AD%EB%82%B4%EC%82%B0%EC%B0%B9%EC%8C%80+600g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0388",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(fashy 찜질팩 핫팩 보온물주머니2L+오가닉면커버)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=fashy+%EC%B0%9C%EC%A7%88%ED%8C%A9+%ED%95%AB%ED%8C%A9+%EB%B3%B4%EC%98%A8%EB%AC%BC%EC%A3%BC%EB%A8%B8%EB%8B%882L%2B%EC%98%A4%EA%B0%80%EB%8B%89%EB%A9%B4%EC%BB%A4%EB%B2%84"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0180",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(현풍떡갈비 한우 한돈 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%84%ED%92%8D%EB%96%A1%EA%B0%88%EB%B9%84+%ED%95%9C%EC%9A%B0+%ED%95%9C%EB%8F%88+90g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1140",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미식강 발효미강 약콩두유 190ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%8B%9D%EA%B0%95+%EB%B0%9C%ED%9A%A8%EB%AF%B8%EA%B0%95+%EC%95%BD%EC%BD%A9%EB%91%90%EC%9C%A0+190ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1182",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(우유곳간 망고 요거트 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B0%EC%9C%A0%EA%B3%B3%EA%B0%84+%EB%A7%9D%EA%B3%A0+%EC%9A%94%EA%B1%B0%ED%8A%B8+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1213",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(골든브루 그린티 콤부차 6병480ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A8%EB%93%A0%EB%B8%8C%EB%A3%A8+%EA%B7%B8%EB%A6%B0%ED%8B%B0+%EC%BD%A4%EB%B6%80%EC%B0%A8+6%EB%B3%91480ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1404",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(곰팡이제거제 뿌리는 곰팡이 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B0%ED%8C%A1%EC%9D%B4%EC%A0%9C%EA%B1%B0%EC%A0%9C+%EB%BF%8C%EB%A6%AC%EB%8A%94+%EA%B3%B0%ED%8C%A1%EC%9D%B4+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1547",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아토 로션 + 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%ED%86%A0+%EB%A1%9C%EC%85%98+%2B+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1077",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초림단지묵 콩물 콩가루 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A6%BC%EB%8B%A8%EC%A7%80%EB%AC%B5+%EC%BD%A9%EB%AC%BC+%EC%BD%A9%EA%B0%80%EB%A3%A8+400g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0938",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(뇸뇸 녹차 말차 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%87%B8%EB%87%B8+%EB%85%B9%EC%B0%A8+%EB%A7%90%EC%B0%A8+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1327",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해피홈 에어로솔 수성 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%ED%94%BC%ED%99%88+%EC%97%90%EC%96%B4%EB%A1%9C%EC%86%94+%EC%88%98%EC%84%B1+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1336",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해피홈 에어로솔 수성 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%ED%94%BC%ED%99%88+%EC%97%90%EC%96%B4%EB%A1%9C%EC%86%94+%EC%88%98%EC%84%B1+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1214",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미트온 미국산 초이스 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%ED%8A%B8%EC%98%A8+%EB%AF%B8%EA%B5%AD%EC%82%B0+%EC%B4%88%EC%9D%B4%EC%8A%A4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0954",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(폭풍 컵떡볶이 구멍쌀떡 175g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8F%AD%ED%92%8D+%EC%BB%B5%EB%96%A1%EB%B3%B6%EC%9D%B4+%EA%B5%AC%EB%A9%8D%EC%8C%80%EB%96%A1+175g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1428",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스니프컬쳐 로봇청소기 부스터샷 55ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EB%8B%88%ED%94%84%EC%BB%AC%EC%B3%90+%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0+%EB%B6%80%EC%8A%A4%ED%84%B0%EC%83%B7+55ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1218",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올레티 올리브오일 레몬즙 340ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%A0%88%ED%8B%B0+%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC+%EB%A0%88%EB%AA%AC%EC%A6%99+340ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0148",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이태리정미소 수제 바질페스토 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%83%9C%EB%A6%AC%EC%A0%95%EB%AF%B8%EC%86%8C+%EC%88%98%EC%A0%9C+%EB%B0%94%EC%A7%88%ED%8E%98%EC%8A%A4%ED%86%A0+150g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0213",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(향원당 국산들기름 생들기름 200ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%A5%EC%9B%90%EB%8B%B9+%EA%B5%AD%EC%82%B0%EB%93%A4%EA%B8%B0%EB%A6%84+%EC%83%9D%EB%93%A4%EA%B8%B0%EB%A6%84+200ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0907",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개별포장 우유시즈닝 NON 프로틴10g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EB%B3%84%ED%8F%AC%EC%9E%A5+%EC%9A%B0%EC%9C%A0%EC%8B%9C%EC%A6%88%EB%8B%9D+NON+%ED%94%84%EB%A1%9C%ED%8B%B410g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0987",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(시골내음 복숭아즙 상등급 110ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9C%EA%B3%A8%EB%82%B4%EC%9D%8C+%EB%B3%B5%EC%88%AD%EC%95%84%EC%A6%99+%EC%83%81%EB%93%B1%EA%B8%89+110ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1103",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청년농부 토굴 생강청 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%85%84%EB%86%8D%EB%B6%80+%ED%86%A0%EA%B5%B4+%EC%83%9D%EA%B0%95%EC%B2%AD+600g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0174",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참미소떡국 벌크 포장 떡국떡1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%AF%B8%EC%86%8C%EB%96%A1%EA%B5%AD+%EB%B2%8C%ED%81%AC+%ED%8F%AC%EC%9E%A5+%EB%96%A1%EA%B5%AD%EB%96%A11kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0928",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(화산포갈비 옛날 돼지갈비 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%94%EC%82%B0%ED%8F%AC%EA%B0%88%EB%B9%84+%EC%98%9B%EB%82%A0+%EB%8F%BC%EC%A7%80%EA%B0%88%EB%B9%84+600g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1074",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(현식당 남원 추어탕 600gX6팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%84%EC%8B%9D%EB%8B%B9+%EB%82%A8%EC%9B%90+%EC%B6%94%EC%96%B4%ED%83%95+600gX6%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1347",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세소비 세탁세제 에이프릴향 3.05L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%86%8C%EB%B9%84+%EC%84%B8%ED%83%81%EC%84%B8%EC%A0%9C+%EC%97%90%EC%9D%B4%ED%94%84%EB%A6%B4%ED%96%A5+3.05L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1205",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티파트먼트 커피맛 보리차 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%ED%8C%8C%ED%8A%B8%EB%A8%BC%ED%8A%B8+%EC%BB%A4%ED%94%BC%EB%A7%9B+%EB%B3%B4%EB%A6%AC%EC%B0%A8+3g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1354",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(라이프휴 미라클 파워 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9D%BC%EC%9D%B4%ED%94%84%ED%9C%B4+%EB%AF%B8%EB%9D%BC%ED%81%B4+%ED%8C%8C%EC%9B%8C+4L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0921",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사과식초 천연발효식초 발효식초 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EA%B3%BC%EC%8B%9D%EC%B4%88+%EC%B2%9C%EC%97%B0%EB%B0%9C%ED%9A%A8%EC%8B%9D%EC%B4%88+%EB%B0%9C%ED%9A%A8%EC%8B%9D%EC%B4%88+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0419",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(입냄새 치석제거제 강아지고양이 헬로플라그120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%85%EB%83%84%EC%83%88+%EC%B9%98%EC%84%9D%EC%A0%9C%EA%B1%B0%EC%A0%9C+%EA%B0%95%EC%95%84%EC%A7%80%EA%B3%A0%EC%96%91%EC%9D%B4+%ED%97%AC%EB%A1%9C%ED%94%8C%EB%9D%BC%EA%B7%B8120g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0341",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한국산 ABC분말소화기 공장용 3.3KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B5%AD%EC%82%B0+ABC%EB%B6%84%EB%A7%90%EC%86%8C%ED%99%94%EA%B8%B0+%EA%B3%B5%EC%9E%A5%EC%9A%A9+3.3KG"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0127",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(성균관 뼈를위한 검은콩 190ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B1%EA%B7%A0%EA%B4%80+%EB%BC%88%EB%A5%BC%EC%9C%84%ED%95%9C+%EA%B2%80%EC%9D%80%EC%BD%A9+190ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0190",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(장생도라지 캔디 블루)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%A5%EC%83%9D%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%BA%94%EB%94%94+%EB%B8%94%EB%A3%A8"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0343",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(플로라 고중량 호텔수건 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%8C%EB%A1%9C%EB%9D%BC+%EA%B3%A0%EC%A4%91%EB%9F%89+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0422",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아니말리 고양이 탈취제 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%8B%88%EB%A7%90%EB%A6%AC+%EA%B3%A0%EC%96%91%EC%9D%B4+%ED%83%88%EC%B7%A8%EC%A0%9C+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0425",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(댕그래 강아지 종합 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%95%EA%B7%B8%EB%9E%98+%EA%B0%95%EC%95%84%EC%A7%80+%EC%A2%85%ED%95%A9+100g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0462",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(방울솜 인형솜 쿠션솜 1Kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%A9%EC%9A%B8%EC%86%9C+%EC%9D%B8%ED%98%95%EC%86%9C+%EC%BF%A0%EC%85%98%EC%86%9C+1Kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1126",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사곡양조원 왕율주 전통주/일반증류주 360mlx4병)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EA%B3%A1%EC%96%91%EC%A1%B0%EC%9B%90+%EC%99%95%EC%9C%A8%EC%A3%BC+%EC%A0%84%ED%86%B5%EC%A3%BC%2F%EC%9D%BC%EB%B0%98%EC%A6%9D%EB%A5%98%EC%A3%BC+360mlx4%EB%B3%91"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1481",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대한민국 자존심 강아지 36g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD+%EC%9E%90%EC%A1%B4%EC%8B%AC+%EA%B0%95%EC%95%84%EC%A7%80+36g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0339",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(찬물에 잘 녹는 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%AC%EB%AC%BC%EC%97%90+%EC%9E%98+%EB%85%B9%EB%8A%94+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0991",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(남도의 깊은 향 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%A8%EB%8F%84%EC%9D%98+%EA%B9%8A%EC%9D%80+%ED%96%A5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1035",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(순창문옥례 고추장 명인 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%9C%EC%B0%BD%EB%AC%B8%EC%98%A5%EB%A1%80+%EA%B3%A0%EC%B6%94%EC%9E%A5+%EB%AA%85%EC%9D%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0996",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국내최저가 엑스트라버진 올리브유 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EC%B5%9C%EC%A0%80%EA%B0%80+%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84+%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%9C%A0+1L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1209",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블룸화이트 요거트 숨결 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%B8%ED%99%94%EC%9D%B4%ED%8A%B8+%EC%9A%94%EA%B1%B0%ED%8A%B8+%EC%88%A8%EA%B2%B0+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1117",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오브세이 버터떡 상하이)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%B8%8C%EC%84%B8%EC%9D%B4+%EB%B2%84%ED%84%B0%EB%96%A1+%EC%83%81%ED%95%98%EC%9D%B4"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0927",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에어프라이어 간편조리 바삭한 1Kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%96%B4%ED%94%84%EB%9D%BC%EC%9D%B4%EC%96%B4+%EA%B0%84%ED%8E%B8%EC%A1%B0%EB%A6%AC+%EB%B0%94%EC%82%AD%ED%95%9C+1Kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0942",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오븐에 직접구운 국산콩 110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%B8%90%EC%97%90+%EC%A7%81%EC%A0%91%EA%B5%AC%EC%9A%B4+%EA%B5%AD%EC%82%B0%EC%BD%A9+110g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0126",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이삭방앗간 저온압착 통참깨 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%82%AD%EB%B0%A9%EC%95%97%EA%B0%84+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%ED%86%B5%EC%B0%B8%EA%B9%A8+300ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0129",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스타벅스 원두커피 브렉퍼스트 1.13kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4+%EC%9B%90%EB%91%90%EC%BB%A4%ED%94%BC+%EB%B8%8C%EB%A0%89%ED%8D%BC%EC%8A%A4%ED%8A%B8+1.13kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0130",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(종합캔디 사탕 캔디 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A2%85%ED%95%A9%EC%BA%94%EB%94%94+%EC%82%AC%ED%83%95+%EC%BA%94%EB%94%94+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0131",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수달리커피 너티초코 블렌드 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EB%8B%AC%EB%A6%AC%EC%BB%A4%ED%94%BC+%EB%84%88%ED%8B%B0%EC%B4%88%EC%BD%94+%EB%B8%94%EB%A0%8C%EB%93%9C+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0133",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통참깨 통들깨 저온압착 선물세트350ML)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%EC%B0%B8%EA%B9%A8+%ED%86%B5%EB%93%A4%EA%B9%A8+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8350ML"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0138",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에센티아팩토리 브라질 세하도 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%84%BC%ED%8B%B0%EC%95%84%ED%8C%A9%ED%86%A0%EB%A6%AC+%EB%B8%8C%EB%9D%BC%EC%A7%88+%EC%84%B8%ED%95%98%EB%8F%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0140",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(공식수입정품 샤오커오라 비타팝스 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B5%EC%8B%9D%EC%88%98%EC%9E%85%EC%A0%95%ED%92%88+%EC%83%A4%EC%98%A4%EC%BB%A4%EC%98%A4%EB%9D%BC+%EB%B9%84%ED%83%80%ED%8C%9D%EC%8A%A4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0142",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진격의 x 개별포장 미니건빵30g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EA%B2%A9%EC%9D%98+x+%EA%B0%9C%EB%B3%84%ED%8F%AC%EC%9E%A5+%EB%AF%B8%EB%8B%88%EA%B1%B4%EB%B9%B530g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0144",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국산들기름 저온압착 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EC%82%B0%EB%93%A4%EA%B8%B0%EB%A6%84+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+300ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0146",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참샛간 오색꿀떡 달콤한 1.6KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%83%9B%EA%B0%84+%EC%98%A4%EC%83%89%EA%BF%80%EB%96%A1+%EB%8B%AC%EC%BD%A4%ED%95%9C+1.6KG"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0147",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비오베라 뷰티 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%EC%98%A4%EB%B2%A0%EB%9D%BC+%EB%B7%B0%ED%8B%B0+1L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0150",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼삼막창 참나무직화 초벌막창 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%82%BC%EB%A7%89%EC%B0%BD+%EC%B0%B8%EB%82%98%EB%AC%B4%EC%A7%81%ED%99%94+%EC%B4%88%EB%B2%8C%EB%A7%89%EC%B0%BD+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0337",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올리 탄산워싱소다 3kgx2)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%A6%AC+%ED%83%84%EC%82%B0%EC%9B%8C%EC%8B%B1%EC%86%8C%EB%8B%A4+3kgx2"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0354",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(크린업 / 세제세탁세제액체세제 가루세제10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%81%AC%EB%A6%B0%EC%97%85+%2F+%EC%84%B8%EC%A0%9C%EC%84%B8%ED%83%81%EC%84%B8%EC%A0%9C%EC%95%A1%EC%B2%B4%EC%84%B8%EC%A0%9C+%EA%B0%80%EB%A3%A8%EC%84%B8%EC%A0%9C10kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0395",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무자극 러브제리 부부 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EC%9E%90%EA%B7%B9+%EB%9F%AC%EB%B8%8C%EC%A0%9C%EB%A6%AC+%EB%B6%80%EB%B6%80+300ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0412",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원픽 동결건조 미니 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%ED%94%BD+%EB%8F%99%EA%B2%B0%EA%B1%B4%EC%A1%B0+%EB%AF%B8%EB%8B%88+100g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0418",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(닥터할리 펫밀크 시니어 200mL)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A5%ED%84%B0%ED%95%A0%EB%A6%AC+%ED%8E%AB%EB%B0%80%ED%81%AC+%EC%8B%9C%EB%8B%88%EC%96%B4+200mL"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0424",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(닥터그린벨캣 유기농기능성사료 장면역5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A5%ED%84%B0%EA%B7%B8%EB%A6%B0%EB%B2%A8%EC%BA%A3+%EC%9C%A0%EA%B8%B0%EB%86%8D%EA%B8%B0%EB%8A%A5%EC%84%B1%EC%82%AC%EB%A3%8C+%EC%9E%A5%EB%A9%B4%EC%97%AD5kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0475",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(디퓨저 방향제 실내 120ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%94%ED%93%A8%EC%A0%80+%EB%B0%A9%ED%96%A5%EC%A0%9C+%EC%8B%A4%EB%82%B4+120ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0906",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(춘천 국민닭갈비 양념닭갈비 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B6%98%EC%B2%9C+%EA%B5%AD%EB%AF%BC%EB%8B%AD%EA%B0%88%EB%B9%84+%EC%96%91%EB%85%90%EB%8B%AD%EA%B0%88%EB%B9%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0910",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(구운 수제 두부 110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AC%EC%9A%B4+%EC%88%98%EC%A0%9C+%EB%91%90%EB%B6%80+110g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0919",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(새싹발아 통밀스틱 오통밀 70g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%88%EC%8B%B9%EB%B0%9C%EC%95%84+%ED%86%B5%EB%B0%80%EC%8A%A4%ED%8B%B1+%EC%98%A4%ED%86%B5%EB%B0%80+70g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0925",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(냉동 번데기 술안주 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%83%89%EB%8F%99+%EB%B2%88%EB%8D%B0%EA%B8%B0+%EC%88%A0%EC%95%88%EC%A3%BC+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0931",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건강마루 정읍 쌍화차)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EA%B0%95%EB%A7%88%EB%A3%A8+%EC%A0%95%EC%9D%8D+%EC%8C%8D%ED%99%94%EC%B0%A8"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0933",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단양 옛찬 마늘조청 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EC%96%91+%EC%98%9B%EC%B0%AC+%EB%A7%88%EB%8A%98%EC%A1%B0%EC%B2%AD+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0935",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정화식품 허니버터오징어 30g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%ED%99%94%EC%8B%9D%ED%92%88+%ED%97%88%EB%8B%88%EB%B2%84%ED%84%B0%EC%98%A4%EC%A7%95%EC%96%B4+30g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0936",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(선물용 짜박두부소스 170g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%A0%EB%AC%BC%EC%9A%A9+%EC%A7%9C%EB%B0%95%EB%91%90%EB%B6%80%EC%86%8C%EC%8A%A4+170g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0937",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(멜리아우어 수제청 홈카페 650g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%9C%EB%A6%AC%EC%95%84%EC%9A%B0%EC%96%B4+%EC%88%98%EC%A0%9C%EC%B2%AD+%ED%99%88%EC%B9%B4%ED%8E%98+650g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0940",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해밀쇼핑 동충하초 누룽지 60g5봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%B0%80%EC%87%BC%ED%95%91+%EB%8F%99%EC%B6%A9%ED%95%98%EC%B4%88+%EB%88%84%EB%A3%BD%EC%A7%80+60g5%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0946",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농진담 수제청 과일청 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%A7%84%EB%8B%B4+%EC%88%98%EC%A0%9C%EC%B2%AD+%EA%B3%BC%EC%9D%BC%EC%B2%AD+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0947",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(현미 담은 발효식초 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%84%EB%AF%B8+%EB%8B%B4%EC%9D%80+%EB%B0%9C%ED%9A%A8%EC%8B%9D%EC%B4%88+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0951",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대산 홀리아 오리지널 13.4g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%EC%82%B0+%ED%99%80%EB%A6%AC%EC%95%84+%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90+13.4g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0953",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(필배치 고소한원두 블렌딩커피 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%84%EB%B0%B0%EC%B9%98+%EA%B3%A0%EC%86%8C%ED%95%9C%EC%9B%90%EB%91%90+%EB%B8%94%EB%A0%8C%EB%94%A9%EC%BB%A4%ED%94%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0956",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참미소 쌀눈과 건조야채 230g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%AF%B8%EC%86%8C+%EC%8C%80%EB%88%88%EA%B3%BC+%EA%B1%B4%EC%A1%B0%EC%95%BC%EC%B1%84+230g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0957",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아우라 훈제 초벌 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EC%9A%B0%EB%9D%BC+%ED%9B%88%EC%A0%9C+%EC%B4%88%EB%B2%8C+300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0959",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참올림 들깨 저온압착 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%98%AC%EB%A6%BC+%EB%93%A4%EA%B9%A8+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0966",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(the나쁜곱창 숯불양념곱창 이맛 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=the%EB%82%98%EC%81%9C%EA%B3%B1%EC%B0%BD+%EC%88%AF%EB%B6%88%EC%96%91%EB%85%90%EA%B3%B1%EC%B0%BD+%EC%9D%B4%EB%A7%9B+300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0967",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제 블루베리 콩포트 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C+%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC+%EC%BD%A9%ED%8F%AC%ED%8A%B8+400g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0970",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(인보방앗간 볶지않은 생압착 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B8%EB%B3%B4%EB%B0%A9%EC%95%97%EA%B0%84+%EB%B3%B6%EC%A7%80%EC%95%8A%EC%9D%80+%EC%83%9D%EC%95%95%EC%B0%A9+300ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1159",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(치킨쿡 춘천식 숯불)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%98%ED%82%A8%EC%BF%A1+%EC%B6%98%EC%B2%9C%EC%8B%9D+%EC%88%AF%EB%B6%88"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1331",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(화장실청소세제 /욕실청소/락스/세제/클리너 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%94%EC%9E%A5%EC%8B%A4%EC%B2%AD%EC%86%8C%EC%84%B8%EC%A0%9C+%2F%EC%9A%95%EC%8B%A4%EC%B2%AD%EC%86%8C%2F%EB%9D%BD%EC%8A%A4%2F%EC%84%B8%EC%A0%9C%2F%ED%81%B4%EB%A6%AC%EB%84%88+4L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1338",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에프킬라 에어로졸 무향 600ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%ED%94%84%ED%82%AC%EB%9D%BC+%EC%97%90%EC%96%B4%EB%A1%9C%EC%A1%B8+%EB%AC%B4%ED%96%A5+600ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1353",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(jvr 올스텐 냄새차단 2L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=jvr+%EC%98%AC%EC%8A%A4%ED%85%90+%EB%83%84%EC%83%88%EC%B0%A8%EB%8B%A8+2L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1608",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(시그니처 홈 퍼퓸 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98+%ED%99%88+%ED%8D%BC%ED%93%B8+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0904",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미식상회 단일원료 저온압착 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%8B%9D%EC%83%81%ED%9A%8C+%EB%8B%A8%EC%9D%BC%EC%9B%90%EB%A3%8C+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+350ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1011",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비오바이 무가당 하이올레익 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%EC%98%A4%EB%B0%94%EC%9D%B4+%EB%AC%B4%EA%B0%80%EB%8B%B9+%ED%95%98%EC%9D%B4%EC%98%AC%EB%A0%88%EC%9D%B5+450g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아미노리젠 마그네슘 워터 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%AF%B8%EB%85%B8%EB%A6%AC%EC%A0%A0+%EB%A7%88%EA%B7%B8%EB%84%A4%EC%8A%98+%EC%9B%8C%ED%84%B0+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0199",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오복농산저온압착 통 들깨로 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%B3%B5%EB%86%8D%EC%82%B0%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%ED%86%B5+%EB%93%A4%EA%B9%A8%EB%A1%9C+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(육대장본점 전통 옛날 1.7kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A1%EB%8C%80%EC%9E%A5%EB%B3%B8%EC%A0%90+%EC%A0%84%ED%86%B5+%EC%98%9B%EB%82%A0+1.7kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0155",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(골목식당 포방터쭈꾸미 밀키트 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A8%EB%AA%A9%EC%8B%9D%EB%8B%B9+%ED%8F%AC%EB%B0%A9%ED%84%B0%EC%AD%88%EA%BE%B8%EB%AF%B8+%EB%B0%80%ED%82%A4%ED%8A%B8+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0160",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산 천연암반수 생수 2L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0+%EC%B2%9C%EC%97%B0%EC%95%94%EB%B0%98%EC%88%98+%EC%83%9D%EC%88%98+2L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0979",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국산고추가루 고춧가루 경북상주 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EC%82%B0%EA%B3%A0%EC%B6%94%EA%B0%80%EB%A3%A8+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+%EA%B2%BD%EB%B6%81%EC%83%81%EC%A3%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0988",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(섬진강식품 재첩국 500gx8팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%AC%EC%A7%84%EA%B0%95%EC%8B%9D%ED%92%88+%EC%9E%AC%EC%B2%A9%EA%B5%AD+500gx8%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1004",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미역 곤약면 저칼로리면 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%97%AD+%EA%B3%A4%EC%95%BD%EB%A9%B4+%EC%A0%80%EC%B9%BC%EB%A1%9C%EB%A6%AC%EB%A9%B4+180g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1020",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초맘 체험학습용 고추장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A7%98+%EC%B2%B4%ED%97%98%ED%95%99%EC%8A%B5%EC%9A%A9+%EA%B3%A0%EC%B6%94%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1073",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(마켓큐브 어린이음료 유기농밥알없는 125ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%88%EC%BC%93%ED%81%90%EB%B8%8C+%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%9D%8C%EB%A3%8C+%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%A5%EC%95%8C%EC%97%86%EB%8A%94+125ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1088",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주본초 녹고의 눈물 500mlx2병)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC%EB%B3%B8%EC%B4%88+%EB%85%B9%EA%B3%A0%EC%9D%98+%EB%88%88%EB%AC%BC+500mlx2%EB%B3%91"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1130",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(간편집밥 국내산닭 춘천닭갈비 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%84%ED%8E%B8%EC%A7%91%EB%B0%A5+%EA%B5%AD%EB%82%B4%EC%82%B0%EB%8B%AD+%EC%B6%98%EC%B2%9C%EB%8B%AD%EA%B0%88%EB%B9%84+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1134",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통 된장 한식 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5+%EB%90%9C%EC%9E%A5+%ED%95%9C%EC%8B%9D+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1173",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리딥 생바질페스토 얼리지 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EB%94%A5+%EC%83%9D%EB%B0%94%EC%A7%88%ED%8E%98%EC%8A%A4%ED%86%A0+%EC%96%BC%EB%A6%AC%EC%A7%80+120g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1195",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오늘의 요구르트 플레인 450ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8A%98%EC%9D%98+%EC%9A%94%EA%B5%AC%EB%A5%B4%ED%8A%B8+%ED%94%8C%EB%A0%88%EC%9D%B8+450ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1528",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(펠스 바이탈 강아지 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8E%A0%EC%8A%A4+%EB%B0%94%EC%9D%B4%ED%83%88+%EA%B0%95%EC%95%84%EC%A7%80+120g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1609",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(코코로모 오브제 디퓨저 200ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%EC%BD%94%EB%A1%9C%EB%AA%A8+%EC%98%A4%EB%B8%8C%EC%A0%9C+%EB%94%94%ED%93%A8%EC%A0%80+200ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1375",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(알텐바흐 저압냄비 스텐 7L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%8C%ED%85%90%EB%B0%94%ED%9D%90+%EC%A0%80%EC%95%95%EB%83%84%EB%B9%84+%EC%8A%A4%ED%85%90+7L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0175",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(숯불 치킨 지코바 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%AF%EB%B6%88+%EC%B9%98%ED%82%A8+%EC%A7%80%EC%BD%94%EB%B0%94+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1056",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바삭한 구운 수제 80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%82%AD%ED%95%9C+%EA%B5%AC%EC%9A%B4+%EC%88%98%EC%A0%9C+80g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1360",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(터치 미국산 탄산 5kg+스푼1개/빨래냄새)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%84%B0%EC%B9%98+%EB%AF%B8%EA%B5%AD%EC%82%B0+%ED%83%84%EC%82%B0+5kg%2B%EC%8A%A4%ED%91%BC1%EA%B0%9C%2F%EB%B9%A8%EB%9E%98%EB%83%84%EC%83%88"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1022",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(르반테 모데나 발사믹식초 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A5%B4%EB%B0%98%ED%85%8C+%EB%AA%A8%EB%8D%B0%EB%82%98+%EB%B0%9C%EC%82%AC%EB%AF%B9%EC%8B%9D%EC%B4%88+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0154",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저온압착 홍주부 더진한 350ml+350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%ED%99%8D%EC%A3%BC%EB%B6%80+%EB%8D%94%EC%A7%84%ED%95%9C+350ml%2B350ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0164",
+      "price_60d_low": 24010,
+      "price_60d_typical": 27870,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '라리 엑스트라버진 올리브오일 1L' 2개 · 같은 상품 판정: 브랜드 라리, 규격 [1000.0], 개수 2. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122627418",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122627418&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0191",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(카다이프 가득 두바이쫀득쿠키 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%B4%EB%8B%A4%EC%9D%B4%ED%94%84+%EA%B0%80%EB%93%9D+%EB%91%90%EB%B0%94%EC%9D%B4%EC%AB%80%EB%93%9D%EC%BF%A0%ED%82%A4+50g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0355",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프레워시 섬유유연제 비앙카향 2.5L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A0%88%EC%9B%8C%EC%8B%9C+%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C+%EB%B9%84%EC%95%99%EC%B9%B4%ED%96%A5+2.5L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0986",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(동원샘물 무라벨 K 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8F%99%EC%9B%90%EC%83%98%EB%AC%BC+%EB%AC%B4%EB%9D%BC%EB%B2%A8+K+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0994",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(훈제오리 슬라이스 / 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%9B%88%EC%A0%9C%EC%98%A4%EB%A6%AC+%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4+%2F+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1000",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(조선팔도떡집 풍미 가득 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A1%B0%EC%84%A0%ED%8C%94%EB%8F%84%EB%96%A1%EC%A7%91+%ED%92%8D%EB%AF%B8+%EA%B0%80%EB%93%9D+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(포레스티 무첨가 땅콩버터 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8B%B0+%EB%AC%B4%EC%B2%A8%EA%B0%80+%EB%95%85%EC%BD%A9%EB%B2%84%ED%84%B0+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1010",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미가푸드 사골 1kGx10)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EA%B0%80%ED%91%B8%EB%93%9C+%EC%82%AC%EA%B3%A8+1kGx10"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(실속생강한과 / 부석생강한과 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%A4%EC%86%8D%EC%83%9D%EA%B0%95%ED%95%9C%EA%B3%BC+%2F+%EB%B6%80%EC%84%9D%EC%83%9D%EA%B0%95%ED%95%9C%EA%B3%BC+1.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(양평 해장국 푸짐한 650g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%91%ED%8F%89+%ED%95%B4%EC%9E%A5%EA%B5%AD+%ED%91%B8%EC%A7%90%ED%95%9C+650g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1102",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맛부장직화무뼈닭발 x 160g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%9B%EB%B6%80%EC%9E%A5%EC%A7%81%ED%99%94%EB%AC%B4%EB%BC%88%EB%8B%AD%EB%B0%9C+x+160g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1138",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 골든하츠 원두 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%EA%B3%A8%EB%93%A0%ED%95%98%EC%B8%A0+%EC%9B%90%EB%91%90+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1162",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해인 얼음골 쇠고기맛 310mlx30개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EC%9D%B8+%EC%96%BC%EC%9D%8C%EA%B3%A8+%EC%87%A0%EA%B3%A0%EA%B8%B0%EB%A7%9B+310mlx30%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1368",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바른세탁소 액체세제 라임향 2.5L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%A5%B8%EC%84%B8%ED%83%81%EC%86%8C+%EC%95%A1%EC%B2%B4%EC%84%B8%EC%A0%9C+%EB%9D%BC%EC%9E%84%ED%96%A5+2.5L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0965",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해나푸드 꽉찬돼지국밥 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%82%98%ED%91%B8%EB%93%9C+%EA%BD%89%EC%B0%AC%EB%8F%BC%EC%A7%80%EA%B5%AD%EB%B0%A5+150g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1072",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(옥수수 전분없는 닭고기 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A5%EC%88%98%EC%88%98+%EC%A0%84%EB%B6%84%EC%97%86%EB%8A%94+%EB%8B%AD%EA%B3%A0%EA%B8%B0+100g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1116",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(귀정떡방 굳지 않는 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%80%EC%A0%95%EB%96%A1%EB%B0%A9+%EA%B5%B3%EC%A7%80+%EC%95%8A%EB%8A%94+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1572",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(숲으로에이스외부용 외부용페인트/조색/베란다/담장/보수/외부/외벽/마감/도료 18L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%B2%EC%9C%BC%EB%A1%9C%EC%97%90%EC%9D%B4%EC%8A%A4%EC%99%B8%EB%B6%80%EC%9A%A9+%EC%99%B8%EB%B6%80%EC%9A%A9%ED%8E%98%EC%9D%B8%ED%8A%B8%2F%EC%A1%B0%EC%83%89%2F%EB%B2%A0%EB%9E%80%EB%8B%A4%2F%EB%8B%B4%EC%9E%A5%2F%EB%B3%B4%EC%88%98%2F%EC%99%B8%EB%B6%80%2F%EC%99%B8%EB%B2%BD%2F%EB%A7%88%EA%B0%90%2F%EB%8F%84%EB%A3%8C+18L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1160",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진주냉면 간편조리 밀키트 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%A3%BC%EB%83%89%EB%A9%B4+%EA%B0%84%ED%8E%B8%EC%A1%B0%EB%A6%AC+%EB%B0%80%ED%82%A4%ED%8A%B8+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0151",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(명장 김치찌개김치찜)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%85%EC%9E%A5+%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C%EA%B9%80%EC%B9%98%EC%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0224",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하루한떡 굳지않는 절편 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EB%A3%A8%ED%95%9C%EB%96%A1+%EA%B5%B3%EC%A7%80%EC%95%8A%EB%8A%94+%EC%A0%88%ED%8E%B8+50g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0169",
+      "price_60d_low": 40250,
+      "price_60d_typical": 40490,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '첫맛 만능 멸치육수 10kg' 1개 · 같은 상품 판정: 브랜드 첫맛, 규격 [10000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=115803324",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=115803324&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0184",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(매콤달콤한 맛 전통한식 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A4%EC%BD%A4%EB%8B%AC%EC%BD%A4%ED%95%9C+%EB%A7%9B+%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0185",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오뚜기 순후추 x 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%9A%9C%EA%B8%B0+%EC%88%9C%ED%9B%84%EC%B6%94+x+100g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0192",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오모가리김치찌개 묵은지 돼지고기김치찌개 500gx6팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%AA%A8%EA%B0%80%EB%A6%AC%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C+%EB%AC%B5%EC%9D%80%EC%A7%80+%EB%8F%BC%EC%A7%80%EA%B3%A0%EA%B8%B0%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C+500gx6%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(최씨네참기름국산참기름)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B5%9C%EC%94%A8%EB%84%A4%EC%B0%B8%EA%B8%B0%EB%A6%84%EA%B5%AD%EC%82%B0%EC%B0%B8%EA%B8%B0%EB%A6%84"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1018",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수원맛집 신사강 간편식 김치찌개_500gX4개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%9B%90%EB%A7%9B%EC%A7%91+%EC%8B%A0%EC%82%AC%EA%B0%95+%EA%B0%84%ED%8E%B8%EC%8B%9D+%EA%B9%80%EC%B9%98%EC%B0%8C%EA%B0%9C_500gX4%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1023",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(봉봉쭈꾸미 양념쭈꾸미 볶음 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B4%89%EB%B4%89%EC%AD%88%EA%BE%B8%EB%AF%B8+%EC%96%91%EB%85%90%EC%AD%88%EA%BE%B8%EB%AF%B8+%EB%B3%B6%EC%9D%8C+600g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1024",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맥널티 리치 헤이즐넛향 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A5%EB%84%90%ED%8B%B0+%EB%A6%AC%EC%B9%98+%ED%97%A4%EC%9D%B4%EC%A6%90%EB%84%9B%ED%96%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이장님과자점 참두부과자 X 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%9E%A5%EB%8B%98%EA%B3%BC%EC%9E%90%EC%A0%90+%EC%B0%B8%EB%91%90%EB%B6%80%EA%B3%BC%EC%9E%90+X+50g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1051",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(헤이필드 그릭요거트 플레인 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%97%A4%EC%9D%B4%ED%95%84%EB%93%9C+%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8+%ED%94%8C%EB%A0%88%EC%9D%B8+100g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1054",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통장류 실속형 가성비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%EC%9E%A5%EB%A5%98+%EC%8B%A4%EC%86%8D%ED%98%95+%EA%B0%80%EC%84%B1%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1058",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(안동옛맛된장 막장용 국내산콩 메주가루1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%EB%8F%99%EC%98%9B%EB%A7%9B%EB%90%9C%EC%9E%A5+%EB%A7%89%EC%9E%A5%EC%9A%A9+%EA%B5%AD%EB%82%B4%EC%82%B0%EC%BD%A9+%EB%A9%94%EC%A3%BC%EA%B0%80%EB%A3%A81kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1100",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(식단요정 무가당 꾸덕한 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9D%EB%8B%A8%EC%9A%94%EC%A0%95+%EB%AC%B4%EA%B0%80%EB%8B%B9+%EA%BE%B8%EB%8D%95%ED%95%9C+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1199",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(핫도그 냉동핫도그 옛날 80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%AB%EB%8F%84%EA%B7%B8+%EB%83%89%EB%8F%99%ED%95%AB%EB%8F%84%EA%B7%B8+%EC%98%9B%EB%82%A0+80g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1204",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진짜 한우불고기 제로슈가 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%A7%9C+%ED%95%9C%EC%9A%B0%EB%B6%88%EA%B3%A0%EA%B8%B0+%EC%A0%9C%EB%A1%9C%EC%8A%88%EA%B0%80+250g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1387",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프리나 플러스 주정 20L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A6%AC%EB%82%98+%ED%94%8C%EB%9F%AC%EC%8A%A4+%EC%A3%BC%EC%A0%95+20L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1512",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(케이엠 식물 강화 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BC%80%EC%9D%B4%EC%97%A0+%EC%8B%9D%EB%AC%BC+%EA%B0%95%ED%99%94+250g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1017",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아임제주 제주당근주스 X 120ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EC%9E%84%EC%A0%9C%EC%A3%BC+%EC%A0%9C%EC%A3%BC%EB%8B%B9%EA%B7%BC%EC%A3%BC%EC%8A%A4+X+120ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1145",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(천수보감 무조청 무엿 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%9C%EC%88%98%EB%B3%B4%EA%B0%90+%EB%AC%B4%EC%A1%B0%EC%B2%AD+%EB%AC%B4%EC%97%BF+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1081",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아임요 팝핑보바 망고 토핑2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EC%9E%84%EC%9A%94+%ED%8C%9D%ED%95%91%EB%B3%B4%EB%B0%94+%EB%A7%9D%EA%B3%A0+%ED%86%A0%ED%95%912kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1144",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오양식품 햇살빚은 쌀눈더덕마죽 1300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%96%91%EC%8B%9D%ED%92%88+%ED%96%87%EC%82%B4%EB%B9%9A%EC%9D%80+%EC%8C%80%EB%88%88%EB%8D%94%EB%8D%95%EB%A7%88%EC%A3%BD+1300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1148",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생수제비 손수제비 사리 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EC%88%98%EC%A0%9C%EB%B9%84+%EC%86%90%EC%88%98%EC%A0%9C%EB%B9%84+%EC%82%AC%EB%A6%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1320",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프로펠 전동 수레 200kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A1%9C%ED%8E%A0+%EC%A0%84%EB%8F%99+%EC%88%98%EB%A0%88+200kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1094",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(월정식품점 삼겹살 고기 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%94%EC%A0%95%EC%8B%9D%ED%92%88%EC%A0%90+%EC%82%BC%EA%B2%B9%EC%82%B4+%EA%B3%A0%EA%B8%B0+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0167",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(haccp 펌핑 헛개차/보리차 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=haccp+%ED%8E%8C%ED%95%91+%ED%97%9B%EA%B0%9C%EC%B0%A8%2F%EB%B3%B4%EB%A6%AC%EC%B0%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0170",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티바인 무가당 피넛버터 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EB%B0%94%EC%9D%B8+%EB%AC%B4%EA%B0%80%EB%8B%B9+%ED%94%BC%EB%84%9B%EB%B2%84%ED%84%B0+450g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0172",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하늘청 식혜 수정과 1.8LX8개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EB%8A%98%EC%B2%AD+%EC%8B%9D%ED%98%9C+%EC%88%98%EC%A0%95%EA%B3%BC+1.8LX8%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0176",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(나비골 추어탕 x 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%98%EB%B9%84%EA%B3%A8+%EC%B6%94%EC%96%B4%ED%83%95+x+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0186",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사남매 시골된장1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EB%82%A8%EB%A7%A4+%EC%8B%9C%EA%B3%A8%EB%90%9C%EC%9E%A51kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0189",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(캐나다산 압착 햄프씨드오일 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BA%90%EB%82%98%EB%8B%A4%EC%82%B0+%EC%95%95%EC%B0%A9+%ED%96%84%ED%94%84%EC%94%A8%EB%93%9C%EC%98%A4%EC%9D%BC+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0194",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유화당 레몬생강청 / 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%ED%99%94%EB%8B%B9+%EB%A0%88%EB%AA%AC%EC%83%9D%EA%B0%95%EC%B2%AD+%2F+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0196",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제 화덕피자도우 100gX8장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C+%ED%99%94%EB%8D%95%ED%94%BC%EC%9E%90%EB%8F%84%EC%9A%B0+100gX8%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0197",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(당일제조 춘천간편닭갈비1kg+1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B9%EC%9D%BC%EC%A0%9C%EC%A1%B0+%EC%B6%98%EC%B2%9C%EA%B0%84%ED%8E%B8%EB%8B%AD%EA%B0%88%EB%B9%841kg%2B1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0203",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(콩루틴 올데이 서리태콩물 200mlx10병)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%A9%EB%A3%A8%ED%8B%B4+%EC%98%AC%EB%8D%B0%EC%9D%B4+%EC%84%9C%EB%A6%AC%ED%83%9C%EC%BD%A9%EB%AC%BC+200mlx10%EB%B3%91"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0205",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸드림스 글루텐프리 제빵용)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%93%9C%EB%A6%BC%EC%8A%A4+%EA%B8%80%EB%A3%A8%ED%85%90%ED%94%84%EB%A6%AC+%EC%A0%9C%EB%B9%B5%EC%9A%A9"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0206",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(경산대추진액 x 80ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%BD%EC%82%B0%EB%8C%80%EC%B6%94%EC%A7%84%EC%95%A1+x+80ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0208",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(울릉도 우산고로쇠수액 고로쇠물 200ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B8%EB%A6%89%EB%8F%84+%EC%9A%B0%EC%82%B0%EA%B3%A0%EB%A1%9C%EC%87%A0%EC%88%98%EC%95%A1+%EA%B3%A0%EB%A1%9C%EC%87%A0%EB%AC%BC+200ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0209",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(mfd 고농축 마테차 70g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=mfd+%EA%B3%A0%EB%86%8D%EC%B6%95+%EB%A7%88%ED%85%8C%EC%B0%A8+70g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0210",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한우 사골곰탕 사골국물 600ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%9A%B0+%EC%82%AC%EA%B3%A8%EA%B3%B0%ED%83%95+%EC%82%AC%EA%B3%A8%EA%B5%AD%EB%AC%BC+600ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0214",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수작업 동인동 매운갈비찜700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%9E%91%EC%97%85+%EB%8F%99%EC%9D%B8%EB%8F%99+%EB%A7%A4%EC%9A%B4%EA%B0%88%EB%B9%84%EC%B0%9C700g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0215",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(큐원 비스킷 믹스 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%81%90%EC%9B%90+%EB%B9%84%EC%8A%A4%ED%82%B7+%EB%AF%B9%EC%8A%A4+250g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0216",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부각마을 국내 유일 40g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EA%B0%81%EB%A7%88%EC%9D%84+%EA%B5%AD%EB%82%B4+%EC%9C%A0%EC%9D%BC+40g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0219",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주영미푸드 오리지널떡볶이 이상 분말소스50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%98%81%EB%AF%B8%ED%91%B8%EB%93%9C+%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90%EB%96%A1%EB%B3%B6%EC%9D%B4+%EC%9D%B4%EC%83%81+%EB%B6%84%EB%A7%90%EC%86%8C%EC%8A%A450g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0220",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(혜윰 또떡EZ 매운맛제로 내용량:220g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%9C%EC%9C%B0+%EB%98%90%EB%96%A1EZ+%EB%A7%A4%EC%9A%B4%EB%A7%9B%EC%A0%9C%EB%A1%9C+%EB%82%B4%EC%9A%A9%EB%9F%89%3A220g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0222",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송하 볶은 무우차 80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%ED%95%98+%EB%B3%B6%EC%9D%80+%EB%AC%B4%EC%9A%B0%EC%B0%A8+80g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0227",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(물한방울 넣지 않은 100mlX30포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%BC%ED%95%9C%EB%B0%A9%EC%9A%B8+%EB%84%A3%EC%A7%80+%EC%95%8A%EC%9D%80+100mlX30%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0228",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(살림 흑도라지청 도라지 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B4%EB%A6%BC+%ED%9D%91%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+%EB%8F%84%EB%9D%BC%EC%A7%80+150g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0236",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(코어스 패밀리 누룽지 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%EC%96%B4%EC%8A%A4+%ED%8C%A8%EB%B0%80%EB%A6%AC+%EB%88%84%EB%A3%BD%EC%A7%80+250g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0238",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고고축산 한우대창 캠핑음식 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EA%B3%A0%EC%B6%95%EC%82%B0+%ED%95%9C%EC%9A%B0%EB%8C%80%EC%B0%BD+%EC%BA%A0%ED%95%91%EC%9D%8C%EC%8B%9D+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0369",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(행주타올 순면 행주 물수건36g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%89%EC%A3%BC%ED%83%80%EC%98%AC+%EC%88%9C%EB%A9%B4+%ED%96%89%EC%A3%BC+%EB%AC%BC%EC%88%98%EA%B1%B436g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0375",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바닐라웨어 실리콘 지퍼백)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%90%EB%9D%BC%EC%9B%A8%EC%96%B4+%EC%8B%A4%EB%A6%AC%EC%BD%98+%EC%A7%80%ED%8D%BC%EB%B0%B1"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0376",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(욕실 화장실 샤워부스 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%95%EC%8B%A4+%ED%99%94%EC%9E%A5%EC%8B%A4+%EC%83%A4%EC%9B%8C%EB%B6%80%EC%8A%A4+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0453",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(종이나라 솜솜클레이 천사점토 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A2%85%EC%9D%B4%EB%82%98%EB%9D%BC+%EC%86%9C%EC%86%9C%ED%81%B4%EB%A0%88%EC%9D%B4+%EC%B2%9C%EC%82%AC%EC%A0%90%ED%86%A0+800g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0964",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(쌍화차 고명 수제 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8C%8D%ED%99%94%EC%B0%A8+%EA%B3%A0%EB%AA%85+%EC%88%98%EC%A0%9C+300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0971",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(트윈팝 병아리콩쌀 스낵_80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B8%EC%9C%88%ED%8C%9D+%EB%B3%91%EC%95%84%EB%A6%AC%EC%BD%A9%EC%8C%80+%EC%8A%A4%EB%82%B5_80g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0984",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갈비아저씨 칼집 돼지 300G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%88%EB%B9%84%EC%95%84%EC%A0%80%EC%94%A8+%EC%B9%BC%EC%A7%91+%EB%8F%BC%EC%A7%80+300G"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-0995",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼양 불닭소스 매운맛소스 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%96%91+%EB%B6%88%EB%8B%AD%EC%86%8C%EC%8A%A4+%EB%A7%A4%EC%9A%B4%EB%A7%9B%EC%86%8C%EC%8A%A4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1003",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에브리데이 산수 무라벨 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EB%B8%8C%EB%A6%AC%EB%8D%B0%EC%9D%B4+%EC%82%B0%EC%88%98+%EB%AC%B4%EB%9D%BC%EB%B2%A8+1L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참하누리 양념LA갈비 이동갈비 LA양념갈비1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%ED%95%98%EB%88%84%EB%A6%AC+%EC%96%91%EB%85%90LA%EA%B0%88%EB%B9%84+%EC%9D%B4%EB%8F%99%EA%B0%88%EB%B9%84+LA%EC%96%91%EB%85%90%EA%B0%88%EB%B9%841kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1039",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(닥터루트 무첨가 무심 430g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A5%ED%84%B0%EB%A3%A8%ED%8A%B8+%EB%AC%B4%EC%B2%A8%EA%B0%80+%EB%AC%B4%EC%8B%AC+430g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1043",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소뽈살 뚝배기 불고기 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EB%BD%88%EC%82%B4+%EB%9A%9D%EB%B0%B0%EA%B8%B0+%EB%B6%88%EA%B3%A0%EA%B8%B0+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1044",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달수 오리주물럭 냉장 1kgX2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%88%98+%EC%98%A4%EB%A6%AC%EC%A3%BC%EB%AC%BC%EB%9F%AD+%EB%83%89%EC%9E%A5+1kgX2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1046",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바라기 도라지 캔디 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%9D%BC%EA%B8%B0+%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%BA%94%EB%94%94+900g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건지누룽지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EC%A7%80%EB%88%84%EB%A3%BD%EC%A7%80"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(그레스페드 목초육포 초지방목 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%B8%EB%A0%88%EC%8A%A4%ED%8E%98%EB%93%9C+%EB%AA%A9%EC%B4%88%EC%9C%A1%ED%8F%AC+%EC%B4%88%EC%A7%80%EB%B0%A9%EB%AA%A9+100g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1057",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(포천이동 LA갈비 명절선물세트 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8F%AC%EC%B2%9C%EC%9D%B4%EB%8F%99+LA%EA%B0%88%EB%B9%84+%EB%AA%85%EC%A0%88%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8+1.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연과발효 감식초 항아리숙성 18L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EA%B3%BC%EB%B0%9C%ED%9A%A8+%EA%B0%90%EC%8B%9D%EC%B4%88+%ED%95%AD%EC%95%84%EB%A6%AC%EC%88%99%EC%84%B1+18L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1060",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팥으로 만든 전통)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%A5%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%A0+%EC%A0%84%ED%86%B5"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1061",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(김재식박사의 더 진한 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%80%EC%9E%AC%EC%8B%9D%EB%B0%95%EC%82%AC%EC%9D%98+%EB%8D%94+%EC%A7%84%ED%95%9C+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1065",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생생초 애사비 애플사이다비니거 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EC%83%9D%EC%B4%88+%EC%95%A0%EC%82%AC%EB%B9%84+%EC%95%A0%ED%94%8C%EC%82%AC%EC%9D%B4%EB%8B%A4%EB%B9%84%EB%8B%88%EA%B1%B0+1000ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1066",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바리의꿈유기농두유 삼육제조 고단백 190ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%A6%AC%EC%9D%98%EA%BF%88%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%91%90%EC%9C%A0+%EC%82%BC%EC%9C%A1%EC%A0%9C%EC%A1%B0+%EA%B3%A0%EB%8B%A8%EB%B0%B1+190ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1069",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(순애할매 재래된장 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%9C%EC%95%A0%ED%95%A0%EB%A7%A4+%EC%9E%AC%EB%9E%98%EB%90%9C%EC%9E%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1070",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(시집가는농산 청국장찌개 x 350g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9C%EC%A7%91%EA%B0%80%EB%8A%94%EB%86%8D%EC%82%B0+%EC%B2%AD%EA%B5%AD%EC%9E%A5%EC%B0%8C%EA%B0%9C+x+350g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1078",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(특허 약선푸드 죽염 220g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B9%ED%97%88+%EC%95%BD%EC%84%A0%ED%91%B8%EB%93%9C+%EC%A3%BD%EC%97%BC+220g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1079",
+      "price_60d_low": 95910,
+      "price_60d_typical": 98530,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '굿프랜즈 감자 고기 잎새만두 1kg' 10개 · 같은 상품 판정: 브랜드 굿프랜즈, 규격 [1000.0], 개수 10. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=32229359",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=32229359&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1089",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주왕산가든 수제 양념 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%99%95%EC%82%B0%EA%B0%80%EB%93%A0+%EC%88%98%EC%A0%9C+%EC%96%91%EB%85%90+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1107",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이장님과자점 두부과자 50g10봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%9E%A5%EB%8B%98%EA%B3%BC%EC%9E%90%EC%A0%90+%EB%91%90%EB%B6%80%EA%B3%BC%EC%9E%90+50g10%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1108",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팡팡찢어놓은 먹태구이 x 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%A1%ED%8C%A1%EC%B0%A2%EC%96%B4%EB%86%93%EC%9D%80+%EB%A8%B9%ED%83%9C%EA%B5%AC%EC%9D%B4+x+600g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1109",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(타넬 마스코바도 설탕 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%80%EB%84%AC+%EB%A7%88%EC%8A%A4%EC%BD%94%EB%B0%94%EB%8F%84+%EC%84%A4%ED%83%95+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1110",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(성북당 제주프리미엄 감귤 340ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B1%EB%B6%81%EB%8B%B9+%EC%A0%9C%EC%A3%BC%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84+%EA%B0%90%EA%B7%A4+340ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1111",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(첫맛 멸치육수 청우 1.95kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AB%EB%A7%9B+%EB%A9%B8%EC%B9%98%EC%9C%A1%EC%88%98+%EC%B2%AD%EC%9A%B0+1.95kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1112",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소불고기 수제 인삼 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EB%B6%88%EA%B3%A0%EA%B8%B0+%EC%88%98%EC%A0%9C+%EC%9D%B8%EC%82%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1115",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팜투칩 코코넛바나나칩 25g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%9C%ED%88%AC%EC%B9%A9+%EC%BD%94%EC%BD%94%EB%84%9B%EB%B0%94%EB%82%98%EB%82%98%EC%B9%A9+25g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1118",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개별포장 낱개포장 쑥떡 2.4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EB%B3%84%ED%8F%AC%EC%9E%A5+%EB%82%B1%EA%B0%9C%ED%8F%AC%EC%9E%A5+%EC%91%A5%EB%96%A1+2.4kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1125",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진도잇츠 진도담은 전복내장죽 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EB%8F%84%EC%9E%87%EC%B8%A0+%EC%A7%84%EB%8F%84%EB%8B%B4%EC%9D%80+%EC%A0%84%EB%B3%B5%EB%82%B4%EC%9E%A5%EC%A3%BD+120g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1136",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(네이처샵 레몬머틀)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%84%A4%EC%9D%B4%EC%B2%98%EC%83%B5+%EB%A0%88%EB%AA%AC%EB%A8%B8%ED%8B%80"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1137",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달코미 매코미 사과고추장 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%BD%94%EB%AF%B8+%EB%A7%A4%EC%BD%94%EB%AF%B8+%EC%82%AC%EA%B3%BC%EA%B3%A0%EC%B6%94%EC%9E%A5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1141",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(서피란 사프란 향신료 1g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%9C%ED%94%BC%EB%9E%80+%EC%82%AC%ED%94%84%EB%9E%80+%ED%96%A5%EC%8B%A0%EB%A3%8C+1g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1146",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(시루본떡 쑥 밥알찰떡 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9C%EB%A3%A8%EB%B3%B8%EB%96%A1+%EC%91%A5+%EB%B0%A5%EC%95%8C%EC%B0%B0%EB%96%A1+90g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1152",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에코프리베 은행차 티백 20g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%BD%94%ED%94%84%EB%A6%AC%EB%B2%A0+%EC%9D%80%ED%96%89%EC%B0%A8+%ED%8B%B0%EB%B0%B1+20g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1166",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(the 진한 보리차 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=the+%EC%A7%84%ED%95%9C+%EB%B3%B4%EB%A6%AC%EC%B0%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1170",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(연고농장 리얼 블랙보리농축액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B0%EA%B3%A0%EB%86%8D%EC%9E%A5+%EB%A6%AC%EC%96%BC+%EB%B8%94%EB%9E%99%EB%B3%B4%EB%A6%AC%EB%86%8D%EC%B6%95%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1171",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(테오브로마 비정제원당 5kg/마스코바도/함밀당/사탕수)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%85%8C%EC%98%A4%EB%B8%8C%EB%A1%9C%EB%A7%88+%EB%B9%84%EC%A0%95%EC%A0%9C%EC%9B%90%EB%8B%B9+5kg%2F%EB%A7%88%EC%8A%A4%EC%BD%94%EB%B0%94%EB%8F%84%2F%ED%95%A8%EB%B0%80%EB%8B%B9%2F%EC%82%AC%ED%83%95%EC%88%98"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1175",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(잇밋 고기 몽땅 190g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%87%EB%B0%8B+%EA%B3%A0%EA%B8%B0+%EB%AA%BD%EB%95%85+190g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1179",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(구워먹는 덴마크 치즈)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AC%EC%9B%8C%EB%A8%B9%EB%8A%94+%EB%8D%B4%EB%A7%88%ED%81%AC+%EC%B9%98%EC%A6%88"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1181",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맛있는 기자네 전통 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%9B%EC%9E%88%EB%8A%94+%EA%B8%B0%EC%9E%90%EB%84%A4+%EC%A0%84%ED%86%B5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1184",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호랭이제작소 호리 드립백 12g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EB%9E%AD%EC%9D%B4%EC%A0%9C%EC%9E%91%EC%86%8C+%ED%98%B8%EB%A6%AC+%EB%93%9C%EB%A6%BD%EB%B0%B1+12g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1187",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(윤지네과자점 무염버터 서울우유생크림 140g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A4%EC%A7%80%EB%84%A4%EA%B3%BC%EC%9E%90%EC%A0%90+%EB%AC%B4%EC%97%BC%EB%B2%84%ED%84%B0+%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0%EC%83%9D%ED%81%AC%EB%A6%BC+140g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1194",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제 현미쌀강정 190g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C+%ED%98%84%EB%AF%B8%EC%8C%80%EA%B0%95%EC%A0%95+190g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1200",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(동해샘물 약천골 지장수 2Lx6병)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8F%99%ED%95%B4%EC%83%98%EB%AC%BC+%EC%95%BD%EC%B2%9C%EA%B3%A8+%EC%A7%80%EC%9E%A5%EC%88%98+2Lx6%EB%B3%91"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1217",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고기듬뿍 실온보관 갈비탕 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EA%B8%B0%EB%93%AC%EB%BF%8D+%EC%8B%A4%EC%98%A8%EB%B3%B4%EA%B4%80+%EA%B0%88%EB%B9%84%ED%83%95+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1377",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한솔복사용지 A4-80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%86%94%EB%B3%B5%EC%82%AC%EC%9A%A9%EC%A7%80+A4-80g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1394",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기라로쉬 뱀부 체스 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EB%9D%BC%EB%A1%9C%EC%89%AC+%EB%B1%80%EB%B6%80+%EC%B2%B4%EC%8A%A4+180g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1396",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한양도예 모던스타일 황토 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%96%91%EB%8F%84%EC%98%88+%EB%AA%A8%EB%8D%98%EC%8A%A4%ED%83%80%EC%9D%BC+%ED%99%A9%ED%86%A0+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1421",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(녹색나라 액상세탁세제1900ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%85%B9%EC%83%89%EB%82%98%EB%9D%BC+%EC%95%A1%EC%83%81%EC%84%B8%ED%83%81%EC%84%B8%EC%A0%9C1900ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1422",
+      "price_60d_low": 9930,
+      "price_60d_typical": 10480,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '스파크 (일반용) 5kg' 1개 · 같은 상품 판정: 브랜드 스파크, 규격 [5000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=101180561",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=101180561&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1427",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스멜아웃 신발탈취제 150ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EB%A9%9C%EC%95%84%EC%9B%83+%EC%8B%A0%EB%B0%9C%ED%83%88%EC%B7%A8%EC%A0%9C+150ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1447",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아트미즈 호텔타올 파인라인 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%ED%8A%B8%EB%AF%B8%EC%A6%88+%ED%98%B8%ED%85%94%ED%83%80%EC%98%AC+%ED%8C%8C%EC%9D%B8%EB%9D%BC%EC%9D%B8+180g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1450",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(메종누아 우드볼 디퓨저 40ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%94%EC%A2%85%EB%88%84%EC%95%84+%EC%9A%B0%EB%93%9C%EB%B3%BC+%EB%94%94%ED%93%A8%EC%A0%80+40ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1488",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(테일스마일 강아지사료 가수분해 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%85%8C%EC%9D%BC%EC%8A%A4%EB%A7%88%EC%9D%BC+%EA%B0%95%EC%95%84%EC%A7%80%EC%82%AC%EB%A3%8C+%EA%B0%80%EC%88%98%EB%B6%84%ED%95%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1489",
+      "price_60d_low": 16740,
+      "price_60d_typical": 17800,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '사조 러브잇 레드라벨 흰살참치와 훈제연어 캔 160g' 24개 · 같은 상품 판정: 브랜드 사조, 규격 [160.0], 개수 24. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=5860404",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=5860404&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1494",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(루카 스킨 앤 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A3%A8%EC%B9%B4+%EC%8A%A4%ED%82%A8+%EC%95%A4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1495",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(거목산업사 바로커 상토 50L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B0%EB%AA%A9%EC%82%B0%EC%97%85%EC%82%AC+%EB%B0%94%EB%A1%9C%EC%BB%A4+%EC%83%81%ED%86%A0+50L"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1499",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(네츄럴코어 제주 말고기육포 23g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%84%A4%EC%B8%84%EB%9F%B4%EC%BD%94%EC%96%B4+%EC%A0%9C%EC%A3%BC+%EB%A7%90%EA%B3%A0%EA%B8%B0%EC%9C%A1%ED%8F%AC+23g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1515",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(파워캐츠 전연령 고양이 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%8C%EC%9B%8C%EC%BA%90%EC%B8%A0+%EC%A0%84%EC%97%B0%EB%A0%B9+%EA%B3%A0%EC%96%91%EC%9D%B4+5kg"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1526",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(펫햄프 식물성 햄프 30ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8E%AB%ED%96%84%ED%94%84+%EC%8B%9D%EB%AC%BC%EC%84%B1+%ED%96%84%ED%94%84+30ml"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1539",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호미스 제주산 수제간식 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EB%AF%B8%EC%8A%A4+%EC%A0%9C%EC%A3%BC%EC%82%B0+%EC%88%98%EC%A0%9C%EA%B0%84%EC%8B%9D+300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1554",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아기반찬 아이반찬 유아식 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EA%B8%B0%EB%B0%98%EC%B0%AC+%EC%95%84%EC%9D%B4%EB%B0%98%EC%B0%AC+%EC%9C%A0%EC%95%84%EC%8B%9D+300g"
+      ]
+    },
+    {
+      "item_id": "mall-gmarket-kgf-living-1597",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(라프리아 실내용 디퓨저 200ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9D%BC%ED%94%84%EB%A6%AC%EC%95%84+%EC%8B%A4%EB%82%B4%EC%9A%A9+%EB%94%94%ED%93%A8%EC%A0%80+200ml"
+      ]
+    }
+  ]
+}

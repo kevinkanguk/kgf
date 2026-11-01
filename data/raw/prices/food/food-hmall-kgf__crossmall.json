@@ -1,0 +1,681 @@
+{
+  "category": "food",
+  "source_id": "food-hmall-kgf",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "food-hmall-kgf-0002",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 한반도 해남 20kg / 밋앤밀 한반도 해남 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%95%9C%EB%B0%98%EB%8F%84+%ED%95%B4%EB%82%A8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%8B%EC%95%A4%EB%B0%80+%ED%95%9C%EB%B0%98%EB%8F%84+%ED%95%B4%EB%82%A8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0003",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 영호진미 안동 20kg / 농협 영호진미 안동 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EC%98%81%ED%98%B8%EC%A7%84%EB%AF%B8+%EC%95%88%EB%8F%99+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%98%91+%EC%98%81%ED%98%B8%EC%A7%84%EB%AF%B8+%EC%95%88%EB%8F%99+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0004",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 진천장양영농조합 / 국내산 햅쌀 진천장양영농조합)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%A7%84%EC%B2%9C%EC%9E%A5%EC%96%91%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9",
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EC%82%B0+%ED%96%85%EC%8C%80+%EC%A7%84%EC%B2%9C%EC%9E%A5%EC%96%91%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0005",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 진천장양영농조합 맛있게 20kg / 국내산 진천장양영농조합 맛있게 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EC%A7%84%EC%B2%9C%EC%9E%A5%EC%96%91%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9+%EB%A7%9B%EC%9E%88%EA%B2%8C+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EC%82%B0+%EC%A7%84%EC%B2%9C%EC%9E%A5%EC%96%91%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9+%EB%A7%9B%EC%9E%88%EA%B2%8C+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 내수농협 초정약수 20kg / 맘스킹 내수농협 초정약수 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%82%B4%EC%88%98%EB%86%8D%ED%98%91+%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%98%EC%8A%A4%ED%82%B9+%EB%82%B4%EC%88%98%EB%86%8D%ED%98%91+%EC%B4%88%EC%A0%95%EC%95%BD%EC%88%98+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 내수농협 청원생명쌀 20kg / 국내산 내수농협 청원생명쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%82%B4%EC%88%98%EB%86%8D%ED%98%91+%EC%B2%AD%EC%9B%90%EC%83%9D%EB%AA%85%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EC%82%B0+%EB%82%B4%EC%88%98%EB%86%8D%ED%98%91+%EC%B2%AD%EC%9B%90%EC%83%9D%EB%AA%85%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0008",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 합천농협 영호진미 20kg / 맘스킹 합천농협 영호진미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%95%A9%EC%B2%9C%EB%86%8D%ED%98%91+%EC%98%81%ED%98%B8%EC%A7%84%EB%AF%B8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%98%EC%8A%A4%ED%82%B9+%ED%95%A9%EC%B2%9C%EB%86%8D%ED%98%91+%EC%98%81%ED%98%B8%EC%A7%84%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0009",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 함양농협 함양쌀 20kg / 함양군 함양농협 함양쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%95%A8%EC%96%91%EB%86%8D%ED%98%91+%ED%95%A8%EC%96%91%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%A8%EC%96%91%EA%B5%B0+%ED%95%A8%EC%96%91%EB%86%8D%ED%98%91+%ED%95%A8%EC%96%91%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0010",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 함양농협 함양황토쌀 20kg / 함양군 함양농협 함양황토쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%95%A8%EC%96%91%EB%86%8D%ED%98%91+%ED%95%A8%EC%96%91%ED%99%A9%ED%86%A0%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%95%A8%EC%96%91%EA%B5%B0+%ED%95%A8%EC%96%91%EB%86%8D%ED%98%91+%ED%95%A8%EC%96%91%ED%99%A9%ED%86%A0%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0011",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 임실농협행복드림 20kg / 더프레시 햅쌀 임실농협행복드림 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%9E%84%EC%8B%A4%EB%86%8D%ED%98%91%ED%96%89%EB%B3%B5%EB%93%9C%EB%A6%BC+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EC%9E%84%EC%8B%A4%EB%86%8D%ED%98%91%ED%96%89%EB%B3%B5%EB%93%9C%EB%A6%BC+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0012",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 임실농협 20kg / 더프레시 햅쌀 임실농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%9E%84%EC%8B%A4%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EC%9E%84%EC%8B%A4%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0013",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 영양쌀20kg / 더프레시 햅쌀 영양쌀20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%98%81%EC%96%91%EC%8C%8020kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EC%98%81%EC%96%91%EC%8C%8020kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 자연미소 20kg / 더프레시 햅쌀 자연미소 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%9E%90%EC%97%B0%EB%AF%B8%EC%86%8C+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EC%9E%90%EC%97%B0%EB%AF%B8%EC%86%8C+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 황금미가 20kg / 더프레시 햅쌀 황금미가 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%ED%99%A9%EA%B8%88%EB%AF%B8%EA%B0%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%ED%99%A9%EA%B8%88%EB%AF%B8%EA%B0%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 믿음쌀 20kg / 더프레시 햅쌀 믿음쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EB%AF%BF%EC%9D%8C%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EB%AF%BF%EC%9D%8C%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0017",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 햇빛담은쌀20kg / 더프레시 햅쌀 햇빛담은쌀20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%ED%96%87%EB%B9%9B%EB%8B%B4%EC%9D%80%EC%8C%8020kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%ED%96%87%EB%B9%9B%EB%8B%B4%EC%9D%80%EC%8C%8020kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0018",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 그리운다담쌀 20kg / 더프레시 햅쌀 그리운다담쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EA%B7%B8%EB%A6%AC%EC%9A%B4%EB%8B%A4%EB%8B%B4%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EA%B7%B8%EB%A6%AC%EC%9A%B4%EB%8B%A4%EB%8B%B4%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0019",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 쌀뜨래 20kg / 더프레시 햅쌀 쌀뜨래 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%8C%80%EB%9C%A8%EB%9E%98+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%ED%96%85%EC%8C%80+%EC%8C%80%EB%9C%A8%EB%9E%98+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0020",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 귀품윤기 일품쌀 20kg / 작심밀도 귀품윤기 일품쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EA%B7%80%ED%92%88%EC%9C%A4%EA%B8%B0+%EC%9D%BC%ED%92%88%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%91%EC%8B%AC%EB%B0%80%EB%8F%84+%EA%B7%80%ED%92%88%EC%9C%A4%EA%B8%B0+%EC%9D%BC%ED%92%88%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0021",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 철원오대쌀 20kg / 철원농협 철원오대쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EC%B2%A0%EC%9B%90%EC%98%A4%EB%8C%80%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%A0%EC%9B%90%EB%86%8D%ED%98%91+%EC%B2%A0%EC%9B%90%EC%98%A4%EB%8C%80%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0022",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 미소진쌀 20kg / 작심밀도 미소진쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%AF%B8%EC%86%8C%EC%A7%84%EC%8C%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%91%EC%8B%AC%EB%B0%80%EB%8F%84+%EB%AF%B8%EC%86%8C%EC%A7%84%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0023",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 경기미 정다미 20kg / 작심밀도 경기미 정다미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EA%B2%BD%EA%B8%B0%EB%AF%B8+%EC%A0%95%EB%8B%A4%EB%AF%B8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%91%EC%8B%AC%EB%B0%80%EB%8F%84+%EA%B2%BD%EA%B8%B0%EB%AF%B8+%EC%A0%95%EB%8B%A4%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0024",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 상주 20kg / 참쌀닷컴 햅쌀 상주 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%83%81%EC%A3%BC+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EC%83%81%EC%A3%BC+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0025",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 나주시농협 20kg / 참쌀닷컴 햅쌀 나주시농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EB%82%98%EC%A3%BC%EC%8B%9C%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EB%82%98%EC%A3%BC%EC%8B%9C%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0026",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 연천농협 20kg / 참쌀닷컴 햅쌀 연천농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%97%B0%EC%B2%9C%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EC%97%B0%EC%B2%9C%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0027",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 당진 20kg / 참쌀닷컴 햅쌀 당진 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0028",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 신김포농협 20kg / 참쌀닷컴 햅쌀 신김포농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%8B%A0%EA%B9%80%ED%8F%AC%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EC%8B%A0%EA%B9%80%ED%8F%AC%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0029",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 안중농협 20kg / 참쌀닷컴 햅쌀 안중농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%95%88%EC%A4%91%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EC%95%88%EC%A4%91%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0030",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 김화농협 20kg / 참쌀닷컴 햅쌀 김화농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EA%B9%80%ED%99%94%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EA%B9%80%ED%99%94%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 신김포농협 20kg / 참쌀닷컴 햅쌀 신김포농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%8B%A0%EA%B9%80%ED%8F%AC%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EC%8B%A0%EA%B9%80%ED%8F%AC%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0032",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 임금님표 20kg / 참쌀닷컴 햅쌀 임금님표 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%9E%84%EA%B8%88%EB%8B%98%ED%91%9C+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%8C%80%EB%8B%B7%EC%BB%B4+%ED%96%85%EC%8C%80+%EC%9E%84%EA%B8%88%EB%8B%98%ED%91%9C+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 깨끗이 씻어나온 20kg / 깨끗이씻은쌀 깨끗이 씻어나온 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EA%B9%A8%EB%81%97%EC%9D%B4+%EC%94%BB%EC%96%B4%EB%82%98%EC%98%A8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%A8%EB%81%97%EC%9D%B4%EC%94%BB%EC%9D%80%EC%8C%80+%EA%B9%A8%EB%81%97%EC%9D%B4+%EC%94%BB%EC%96%B4%EB%82%98%EC%98%A8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 당진농협 20kg / 농협 햅쌀 당진농협 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%98%91+%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84%EB%86%8D%ED%98%91+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0035",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 당진농협 당찬진미 20kg / 26년햅쌀 당진농협 당찬진미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%8B%B9%EC%A7%84%EB%86%8D%ED%98%91+%EB%8B%B9%EC%B0%AC%EC%A7%84%EB%AF%B8+20kg",
+        "https://search.danawa.com/dsearch.php?query=26%EB%85%84%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84%EB%86%8D%ED%98%91+%EB%8B%B9%EC%B0%AC%EC%A7%84%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0036",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 당진농협 친들미 20kg / 26년햅쌀 당진농협 친들미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%8B%B9%EC%A7%84%EB%86%8D%ED%98%91+%EC%B9%9C%EB%93%A4%EB%AF%B8+20kg",
+        "https://search.danawa.com/dsearch.php?query=26%EB%85%84%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84%EB%86%8D%ED%98%91+%EC%B9%9C%EB%93%A4%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0037",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 농협 20kg / 농협 햅쌀 당진 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EB%86%8D%ED%98%91+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%98%91+%ED%96%85%EC%8C%80+%EB%8B%B9%EC%A7%84+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0038",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 깨끗이 씻어나온 20kg / 깨끗이씻은쌀 깨끗이 씻어나온 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EA%B9%A8%EB%81%97%EC%9D%B4+%EC%94%BB%EC%96%B4%EB%82%98%EC%98%A8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%A8%EB%81%97%EC%9D%B4%EC%94%BB%EC%9D%80%EC%8C%80+%EA%B9%A8%EB%81%97%EC%9D%B4+%EC%94%BB%EC%96%B4%EB%82%98%EC%98%A8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0039",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 포슬포슬 20kg / 오올블루 햅쌀 포슬포슬 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%ED%8F%AC%EC%8A%AC%ED%8F%AC%EC%8A%AC+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%98%AC%EB%B8%94%EB%A3%A8+%ED%96%85%EC%8C%80+%ED%8F%AC%EC%8A%AC%ED%8F%AC%EC%8A%AC+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0040",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 포슬포슬 김포 20kg / 오올블루 포슬포슬 김포 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%8F%AC%EC%8A%AC%ED%8F%AC%EC%8A%AC+%EA%B9%80%ED%8F%AC+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%98%AC%EB%B8%94%EB%A3%A8+%ED%8F%AC%EC%8A%AC%ED%8F%AC%EC%8A%AC+%EA%B9%80%ED%8F%AC+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0041",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 금빛 메뚜기쌀 20KG / 농산물 금빛 메뚜기쌀 20KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EA%B8%88%EB%B9%9B+%EB%A9%94%EB%9A%9C%EA%B8%B0%EC%8C%80+20KG",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%B0%EB%AC%BC+%EA%B8%88%EB%B9%9B+%EB%A9%94%EB%9A%9C%EA%B8%B0%EC%8C%80+20KG"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 수향미 20kg / 농사지음 햅쌀 수향미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%88%98%ED%96%A5%EB%AF%B8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%ED%96%85%EC%8C%80+%EC%88%98%ED%96%A5%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0043",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 밥맛 좋은 20kg / 농사지음 밥맛 좋은 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%B0%A5%EB%A7%9B+%EC%A2%8B%EC%9D%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EB%B0%A5%EB%A7%9B+%EC%A2%8B%EC%9D%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0044",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 밥맛 좋은 20kg / 농사지음 밥맛 좋은 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EB%B0%A5%EB%A7%9B+%EC%A2%8B%EC%9D%80+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EB%B0%A5%EB%A7%9B+%EC%A2%8B%EC%9D%80+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0045",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 깨끗이씻은쌀 참드림 20kg / 깨끗이씻은쌀 참드림 백미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EA%B9%A8%EB%81%97%EC%9D%B4%EC%94%BB%EC%9D%80%EC%8C%80+%EC%B0%B8%EB%93%9C%EB%A6%BC+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EA%B9%A8%EB%81%97%EC%9D%B4%EC%94%BB%EC%9D%80%EC%8C%80+%EC%B0%B8%EB%93%9C%EB%A6%BC+%EB%B0%B1%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0046",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 김제 20kg / 호남평야 햅쌀 김제 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EA%B9%80%EC%A0%9C+20kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EB%82%A8%ED%8F%89%EC%95%BC+%ED%96%85%EC%8C%80+%EA%B9%80%EC%A0%9C+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0047",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 김제 20kg / 호남평야 햅쌀 김제 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EA%B9%80%EC%A0%9C+20kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EB%82%A8%ED%8F%89%EC%95%BC+%ED%96%85%EC%8C%80+%EA%B9%80%EC%A0%9C+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 김제 20kg / 호남평야 햅쌀 김제 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EA%B9%80%EC%A0%9C+20kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EB%82%A8%ED%8F%89%EC%95%BC+%ED%96%85%EC%8C%80+%EA%B9%80%EC%A0%9C+20kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햅쌀 천년고도 / 기타 햅쌀 천년고도)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%85%EC%8C%80+%EC%B2%9C%EB%85%84%EA%B3%A0%EB%8F%84",
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%ED%83%80+%ED%96%85%EC%8C%80+%EC%B2%9C%EB%85%84%EA%B3%A0%EB%8F%84"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선사위 오븐에 두 130g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EC%82%AC%EC%9C%84+%EC%98%A4%EB%B8%90%EC%97%90+%EB%91%90+130g"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0052",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해남 수미감자 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%82%A8+%EC%88%98%EB%AF%B8%EA%B0%90%EC%9E%90+3kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0053",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농협공판장 제주 칠십리 5kg / 예찬 제주 칠십리 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%98%91%EA%B3%B5%ED%8C%90%EC%9E%A5+%EC%A0%9C%EC%A3%BC+%EC%B9%A0%EC%8B%AD%EB%A6%AC+5kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%A0%9C%EC%A3%BC+%EC%B9%A0%EC%8B%AD%EB%A6%AC+5kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0055",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농협공판장 정성드린 단감 5kg / 예찬 정성드린 단감 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%98%91%EA%B3%B5%ED%8C%90%EC%9E%A5+%EC%A0%95%EC%84%B1%EB%93%9C%EB%A6%B0+%EB%8B%A8%EA%B0%90+5kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%A0%95%EC%84%B1%EB%93%9C%EB%A6%B0+%EB%8B%A8%EA%B0%90+5kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0056",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청년김치포기김치10kg 담근_엄마 손맛_포기김치 10kg / 두리 담근_엄마 손맛_포기김치 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%85%84%EA%B9%80%EC%B9%98%ED%8F%AC%EA%B8%B0%EA%B9%80%EC%B9%9810kg+%EB%8B%B4%EA%B7%BC_%EC%97%84%EB%A7%88+%EC%86%90%EB%A7%9B_%ED%8F%AC%EA%B8%B0%EA%B9%80%EC%B9%98+10kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%91%90%EB%A6%AC+%EB%8B%B4%EA%B7%BC_%EC%97%84%EB%A7%88+%EC%86%90%EB%A7%9B_%ED%8F%AC%EA%B8%B0%EA%B9%80%EC%B9%98+10kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0057",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 제주흑돼지 오겹살 500g / 제철진미 제주흑돼지 오겹살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EC%A0%9C%EC%A3%BC%ED%9D%91%EB%8F%BC%EC%A7%80+%EC%98%A4%EA%B2%B9%EC%82%B4+500g",
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%B2%A0%EC%A7%84%EB%AF%B8+%EC%A0%9C%EC%A3%BC%ED%9D%91%EB%8F%BC%EC%A7%80+%EC%98%A4%EA%B2%B9%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0058",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(종근당건강 온누리 특별+적립 2g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A2%85%EA%B7%BC%EB%8B%B9%EA%B1%B4%EA%B0%95+%EC%98%A8%EB%88%84%EB%A6%AC+%ED%8A%B9%EB%B3%84%2B%EC%A0%81%EB%A6%BD+2g"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해남 세척 꿀고구마 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%82%A8+%EC%84%B8%EC%B2%99+%EA%BF%80%EA%B3%A0%EA%B5%AC%EB%A7%88+3kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0060",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 해남 특품 홍무화과1kg / 씨너지 해남 특품 홍무화과1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%95%B4%EB%82%A8+%ED%8A%B9%ED%92%88+%ED%99%8D%EB%AC%B4%ED%99%94%EA%B3%BC1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%94%A8%EB%84%88%EC%A7%80+%ED%95%B4%EB%82%A8+%ED%8A%B9%ED%92%88+%ED%99%8D%EB%AC%B4%ED%99%94%EA%B3%BC1kg"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0065",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(동원fb 동원참치 라이트 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8F%99%EC%9B%90fb+%EB%8F%99%EC%9B%90%EC%B0%B8%EC%B9%98+%EB%9D%BC%EC%9D%B4%ED%8A%B8+100g"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0067",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(페리에 탄산수 x 330ML)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8E%98%EB%A6%AC%EC%97%90+%ED%83%84%EC%82%B0%EC%88%98+x+330ML"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0068",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농사지음 스테비아 대추방울토마토 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%82%AC%EC%A7%80%EC%9D%8C+%EC%8A%A4%ED%85%8C%EB%B9%84%EC%95%84+%EB%8C%80%EC%B6%94%EB%B0%A9%EC%9A%B8%ED%86%A0%EB%A7%88%ED%86%A0+500g"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0069",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(웰루츠 칠레산 A등급_냉동 1kg×2ea / 조이푸드 칠레산 A등급_냉동 1kg×2ea)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%B0%EB%A3%A8%EC%B8%A0+%EC%B9%A0%EB%A0%88%EC%82%B0+A%EB%93%B1%EA%B8%89_%EB%83%89%EB%8F%99+1kg%C3%972ea",
+        "https://search.danawa.com/dsearch.php?query=%EC%A1%B0%EC%9D%B4%ED%91%B8%EB%93%9C+%EC%B9%A0%EB%A0%88%EC%82%B0+A%EB%93%B1%EA%B8%89_%EB%83%89%EB%8F%99+1kg%C3%972ea"
+      ]
+    },
+    {
+      "item_id": "food-hmall-kgf-0066",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대우미곡 삼대 신동진쌀 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%EC%9A%B0%EB%AF%B8%EA%B3%A1+%EC%82%BC%EB%8C%80+%EC%8B%A0%EB%8F%99%EC%A7%84%EC%8C%80+10kg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-11st-kgf",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "appliance-11st-kgf-0002",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(soom 휴대용 산소발생기휴대용 2Kg숨)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=soom+%ED%9C%B4%EB%8C%80%EC%9A%A9+%EC%82%B0%EC%86%8C%EB%B0%9C%EC%83%9D%EA%B8%B0%ED%9C%B4%EB%8C%80%EC%9A%A9+2Kg%EC%88%A8"
+      ]
+    }
+  ]
+}

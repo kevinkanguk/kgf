@@ -1,0 +1,37 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-hmall-kgf",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "appliance-hmall-kgf-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아이피타임 ipTIME 기가비트 U1G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EC%9D%B4%ED%94%BC%ED%83%80%EC%9E%84+ipTIME+%EA%B8%B0%EA%B0%80%EB%B9%84%ED%8A%B8+U1G"
+      ]
+    },
+    {
+      "item_id": "appliance-hmall-kgf-0021",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아이닉 올인원 최대용량 16L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EC%9D%B4%EB%8B%89+%EC%98%AC%EC%9D%B8%EC%9B%90+%EC%B5%9C%EB%8C%80%EC%9A%A9%EB%9F%89+16L"
+      ]
+    },
+    {
+      "item_id": "appliance-hmall-kgf-0026",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(쉘퍼 음식물처리기 뚜껑분리형 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%89%98%ED%8D%BC+%EC%9D%8C%EC%8B%9D%EB%AC%BC%EC%B2%98%EB%A6%AC%EA%B8%B0+%EB%9A%9C%EA%BB%91%EB%B6%84%EB%A6%AC%ED%98%95+4L"
+      ]
+    }
+  ]
+}

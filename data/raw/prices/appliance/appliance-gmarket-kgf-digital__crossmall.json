@@ -1,0 +1,17 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-gmarket-kgf-digital",
+  "collected_at": "2026-11-01T04:09:47",
+  "items": [
+    {
+      "item_id": "appliance-gmarket-kgf-digital-0004",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보국전자 제로닷 라이팅 BKF-4430G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EA%B5%AD%EC%A0%84%EC%9E%90+%EC%A0%9C%EB%A1%9C%EB%8B%B7+%EB%9D%BC%EC%9D%B4%ED%8C%85+BKF-4430G"
+      ]
+    }
+  ]
+}

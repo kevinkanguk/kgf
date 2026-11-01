@@ -1,0 +1,18 @@
+{
+  "category": "food",
+  "source_id": "food-hmall-price-stability",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "food-hmall-price-stability-0001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 햇살 아래 1kg / 26년 햇살 아래 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%ED%96%87%EC%82%B4+%EC%95%84%EB%9E%98+1kg",
+        "https://search.danawa.com/dsearch.php?query=26%EB%85%84+%ED%96%87%EC%82%B4+%EC%95%84%EB%9E%98+1kg"
+      ]
+    }
+  ]
+}

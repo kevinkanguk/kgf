@@ -1,0 +1,17 @@
+{
+  "category": "mall",
+  "source_id": "mall-11st-sosang-fashion",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "mall-11st-sosang-fashion-0027",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(카자리코 비지니스 백팩 36L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%B4%EC%9E%90%EB%A6%AC%EC%BD%94+%EB%B9%84%EC%A7%80%EB%8B%88%EC%8A%A4+%EB%B0%B1%ED%8C%A9+36L"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "category": "mall",
+  "source_id": "mall-ssg-sosang-snack-bakery",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 하효맘 감귤칩과즐 240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%ED%95%98%ED%9A%A8%EB%A7%98+%EA%B0%90%EA%B7%A4%EC%B9%A9%EA%B3%BC%EC%A6%90+240g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0021",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전라도청년 청년떡방 포슬포슬 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%EB%9D%BC%EB%8F%84%EC%B2%AD%EB%85%84+%EC%B2%AD%EB%85%84%EB%96%A1%EB%B0%A9+%ED%8F%AC%EC%8A%AC%ED%8F%AC%EC%8A%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(100시간의기다림 수제 콩고물 500g / 싱싱연구소 수제 콩고물 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=100%EC%8B%9C%EA%B0%84%EC%9D%98%EA%B8%B0%EB%8B%A4%EB%A6%BC+%EC%88%98%EC%A0%9C+%EC%BD%A9%EA%B3%A0%EB%AC%BC+500g",
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%B1%EC%8B%B1%EC%97%B0%EA%B5%AC%EC%86%8C+%EC%88%98%EC%A0%9C+%EC%BD%A9%EA%B3%A0%EB%AC%BC+500g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(100시간의기다림 수제 카카오 200g / 싱싱연구소 수제 카카오 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=100%EC%8B%9C%EA%B0%84%EC%9D%98%EA%B8%B0%EB%8B%A4%EB%A6%BC+%EC%88%98%EC%A0%9C+%EC%B9%B4%EC%B9%B4%EC%98%A4+200g",
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%B1%EC%8B%B1%EC%97%B0%EA%B5%AC%EC%86%8C+%EC%88%98%EC%A0%9C+%EC%B9%B4%EC%B9%B4%EC%98%A4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0010",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강릉은정한과 강릉한과 찹쌀과줄+찹쌀강정 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EB%A6%89%EC%9D%80%EC%A0%95%ED%95%9C%EA%B3%BC+%EA%B0%95%EB%A6%89%ED%95%9C%EA%B3%BC+%EC%B0%B9%EC%8C%80%EA%B3%BC%EC%A4%84%2B%EC%B0%B9%EC%8C%80%EA%B0%95%EC%A0%95+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0012",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강릉은정한과 강릉한과 통밥과줄 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EB%A6%89%EC%9D%80%EC%A0%95%ED%95%9C%EA%B3%BC+%EA%B0%95%EB%A6%89%ED%95%9C%EA%B3%BC+%ED%86%B5%EB%B0%A5%EA%B3%BC%EC%A4%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0013",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강릉은정한과 강릉한과 찹쌀과줄+통밥과줄 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EB%A6%89%EC%9D%80%EC%A0%95%ED%95%9C%EA%B3%BC+%EA%B0%95%EB%A6%89%ED%95%9C%EA%B3%BC+%EC%B0%B9%EC%8C%80%EA%B3%BC%EC%A4%84%2B%ED%86%B5%EB%B0%A5%EA%B3%BC%EC%A4%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0018",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티앤씨 첨가물없는 핀란드산 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EC%95%A4%EC%94%A8+%EC%B2%A8%EA%B0%80%EB%AC%BC%EC%97%86%EB%8A%94+%ED%95%80%EB%9E%80%EB%93%9C%EC%82%B0+150g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0044",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(남해중현떡집 쑥인절미2KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%A8%ED%95%B4%EC%A4%91%ED%98%84%EB%96%A1%EC%A7%91+%EC%91%A5%EC%9D%B8%EC%A0%88%EB%AF%B82KG"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0020",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸드공작소 잣정경자네 쌀엿 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%93%9C%EA%B3%B5%EC%9E%91%EC%86%8C+%EC%9E%A3%EC%A0%95%EA%B2%BD%EC%9E%90%EB%84%A4+%EC%8C%80%EC%97%BF+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0023",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단짠예찬 고구마빵600g+감자빵600g / 예찬 고구마빵600g+감자빵600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EC%A7%A0%EC%98%88%EC%B0%AC+%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%B9%B5600g%2B%EA%B0%90%EC%9E%90%EB%B9%B5600g",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EA%B3%A0%EA%B5%AC%EB%A7%88%EB%B9%B5600g%2B%EA%B0%90%EC%9E%90%EB%B9%B5600g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0022",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(예찬 양갱종합선물세트 /쇼핑백포함)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%96%91%EA%B0%B1%EC%A2%85%ED%95%A9%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8+%2F%EC%87%BC%ED%95%91%EB%B0%B1%ED%8F%AC%ED%95%A8"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0024",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(슬로우래빗 저당 통밀곤약 60g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%AC%EB%A1%9C%EC%9A%B0%EB%9E%98%EB%B9%97+%EC%A0%80%EB%8B%B9+%ED%86%B5%EB%B0%80%EA%B3%A4%EC%95%BD+60g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0025",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(슬로우래빗 저당 통밀곤약 60g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%AC%EB%A1%9C%EC%9A%B0%EB%9E%98%EB%B9%97+%EC%A0%80%EB%8B%B9+%ED%86%B5%EB%B0%80%EA%B3%A4%EC%95%BD+60g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-snack-bakery-0035",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자화만사성 오븐에구운 호두정과 70g3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%ED%99%94%EB%A7%8C%EC%82%AC%EC%84%B1+%EC%98%A4%EB%B8%90%EC%97%90%EA%B5%AC%EC%9A%B4+%ED%98%B8%EB%91%90%EC%A0%95%EA%B3%BC+70g3%ED%8C%A9"
+      ]
+    }
+  ]
+}

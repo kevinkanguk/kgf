@@ -1,0 +1,17 @@
+{
+  "category": "food",
+  "source_id": "food-epost-hongseong-kgf",
+  "collected_at": "2026-11-01T04:09:47",
+  "items": [
+    {
+      "item_id": "food-epost-hongseong-kgf-0001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(홍성한우돈직판장 수제 돼지양념갈비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%8D%EC%84%B1%ED%95%9C%EC%9A%B0%EB%8F%88%EC%A7%81%ED%8C%90%EC%9E%A5+%EC%88%98%EC%A0%9C+%EB%8F%BC%EC%A7%80%EC%96%91%EB%85%90%EA%B0%88%EB%B9%84"
+      ]
+    }
+  ]
+}

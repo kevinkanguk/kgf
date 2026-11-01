@@ -1,0 +1,17 @@
+{
+  "category": "food",
+  "source_id": "food-kgf-haedong-sesame",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "food-kgf-haedong-sesame-0001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해동제유소 참기름)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%8F%99%EC%A0%9C%EC%9C%A0%EC%86%8C+%EC%B0%B8%EA%B8%B0%EB%A6%84"
+      ]
+    }
+  ]
+}

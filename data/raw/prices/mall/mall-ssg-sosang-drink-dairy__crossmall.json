@@ -1,0 +1,340 @@
+{
+  "category": "mall",
+  "source_id": "mall-ssg-sosang-drink-dairy",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 블랙바카라 원두커피 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%EB%B8%94%EB%9E%99%EB%B0%94%EC%B9%B4%EB%9D%BC+%EC%9B%90%EB%91%90%EC%BB%A4%ED%94%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 헤리티지 원두커피 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%ED%97%A4%EB%A6%AC%ED%8B%B0%EC%A7%80+%EC%9B%90%EB%91%90%EC%BB%A4%ED%94%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0008",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 딥레드 원두커피 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%EB%94%A5%EB%A0%88%EB%93%9C+%EC%9B%90%EB%91%90%EC%BB%A4%ED%94%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0009",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 폴카로즈 원두커피 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%ED%8F%B4%EC%B9%B4%EB%A1%9C%EC%A6%88+%EC%9B%90%EB%91%90%EC%BB%A4%ED%94%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0010",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 딥레드 드립백커피 10g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%EB%94%A5%EB%A0%88%EB%93%9C+%EB%93%9C%EB%A6%BD%EB%B0%B1%EC%BB%A4%ED%94%BC+10g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0012",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모건커피 썸머레이디 드립백커피 10g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EA%B1%B4%EC%BB%A4%ED%94%BC+%EC%8D%B8%EB%A8%B8%EB%A0%88%EC%9D%B4%EB%94%94+%EB%93%9C%EB%A6%BD%EB%B0%B1%EC%BB%A4%ED%94%BC+10g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0013",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 홍스요구르트 무슈가 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%ED%99%8D%EC%8A%A4%EC%9A%94%EA%B5%AC%EB%A5%B4%ED%8A%B8+%EB%AC%B4%EC%8A%88%EA%B0%80+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 제주앤팜 제주 750g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%EC%A0%9C%EC%A3%BC%EC%95%A4%ED%8C%9C+%EC%A0%9C%EC%A3%BC+750g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 제주 한라봉차 2.2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%EC%A0%9C%EC%A3%BC+%ED%95%9C%EB%9D%BC%EB%B4%89%EC%B0%A8+2.2kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 제주 유자차 2.2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%EC%A0%9C%EC%A3%BC+%EC%9C%A0%EC%9E%90%EC%B0%A8+2.2kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0018",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 맛있는 철학자 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%EB%A7%9B%EC%9E%88%EB%8A%94+%EC%B2%A0%ED%95%99%EC%9E%90+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0019",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 제주앤팜 제주 750g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%EC%A0%9C%EC%A3%BC%EC%95%A4%ED%8C%9C+%EC%A0%9C%EC%A3%BC+750g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0028",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전라도청년 자연의 맛 1,000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%EB%9D%BC%EB%8F%84%EC%B2%AD%EB%85%84+%EC%9E%90%EC%97%B0%EC%9D%98+%EB%A7%9B+1%2C000ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0029",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전라도청년 수제 서리태콩물 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%EB%9D%BC%EB%8F%84%EC%B2%AD%EB%85%84+%EC%88%98%EC%A0%9C+%EC%84%9C%EB%A6%AC%ED%83%9C%EC%BD%A9%EB%AC%BC+1000ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0017",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(탐라온 제주앤팜 제주 375g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%EC%A0%9C%EC%A3%BC%EC%95%A4%ED%8C%9C+%EC%A0%9C%EC%A3%BC+375g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0020",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티앤씨 포레스티 국내제조 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EC%95%A4%EC%94%A8+%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8B%B0+%EA%B5%AD%EB%82%B4%EC%A0%9C%EC%A1%B0+200g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(안터원목장 하먼 스트링치즈 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%ED%84%B0%EC%9B%90%EB%AA%A9%EC%9E%A5+%ED%95%98%EB%A8%BC+%EC%8A%A4%ED%8A%B8%EB%A7%81%EC%B9%98%EC%A6%88+120g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0043",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(안터원목장 하먼 자연치즈 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%ED%84%B0%EC%9B%90%EB%AA%A9%EC%9E%A5+%ED%95%98%EB%A8%BC+%EC%9E%90%EC%97%B0%EC%B9%98%EC%A6%88+150g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0046",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(베베푸드 순한김 아기김 2g*10봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%A0%EB%B2%A0%ED%91%B8%EB%93%9C+%EC%88%9C%ED%95%9C%EA%B9%80+%EC%95%84%EA%B8%B0%EA%B9%80+2g%2A10%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0047",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(베베푸드 아빠가 만든 180ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%A0%EB%B2%A0%ED%91%B8%EB%93%9C+%EC%95%84%EB%B9%A0%EA%B0%80+%EB%A7%8C%EB%93%A0+180ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0039",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(그릭시티 그릭요거트 플레인)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%B8%EB%A6%AD%EC%8B%9C%ED%8B%B0+%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8+%ED%94%8C%EB%A0%88%EC%9D%B8"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0038",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(그릭시티 그릭요거트 블루베리)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%B8%EB%A6%AD%EC%8B%9C%ED%8B%B0+%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8+%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0036",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팡팡온스토어 해양심층수 천년동안 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%A1%ED%8C%A1%EC%98%A8%EC%8A%A4%ED%86%A0%EC%96%B4+%ED%95%B4%EC%96%91%EC%8B%AC%EC%B8%B5%EC%88%98+%EC%B2%9C%EB%85%84%EB%8F%99%EC%95%88+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0037",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팡팡온스토어 해양심층수 천년동안 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%A1%ED%8C%A1%EC%98%A8%EC%8A%A4%ED%86%A0%EC%96%B4+%ED%95%B4%EC%96%91%EC%8B%AC%EC%B8%B5%EC%88%98+%EC%B2%9C%EB%85%84%EB%8F%99%EC%95%88+350ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아로소이 속편한 천연 120g / 농업회사법인주식회사케이빈즈 속편한 천연 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%A1%9C%EC%86%8C%EC%9D%B4+%EC%86%8D%ED%8E%B8%ED%95%9C+%EC%B2%9C%EC%97%B0+120g",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%BC%80%EC%9D%B4%EB%B9%88%EC%A6%88+%EC%86%8D%ED%8E%B8%ED%95%9C+%EC%B2%9C%EC%97%B0+120g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0051",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아로소이 속편한 천연 / 농업회사법인주식회사케이빈즈 속편한 천연)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%A1%9C%EC%86%8C%EC%9D%B4+%EC%86%8D%ED%8E%B8%ED%95%9C+%EC%B2%9C%EC%97%B0",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%BC%80%EC%9D%B4%EB%B9%88%EC%A6%88+%EC%86%8D%ED%8E%B8%ED%95%9C+%EC%B2%9C%EC%97%B0"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0052",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아로소이 속편한 천연 300ml / 농업회사법인주식회사케이빈즈 속편한 천연 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%A1%9C%EC%86%8C%EC%9D%B4+%EC%86%8D%ED%8E%B8%ED%95%9C+%EC%B2%9C%EC%97%B0+300ml",
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EC%97%85%ED%9A%8C%EC%82%AC%EB%B2%95%EC%9D%B8%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%BC%80%EC%9D%B4%EB%B9%88%EC%A6%88+%EC%86%8D%ED%8E%B8%ED%95%9C+%EC%B2%9C%EC%97%B0+300ml"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0040",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(그릭시티 그릭요거트 딸기)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%B8%EB%A6%AD%EC%8B%9C%ED%8B%B0+%EA%B7%B8%EB%A6%AD%EC%9A%94%EA%B1%B0%ED%8A%B8+%EB%94%B8%EA%B8%B0"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0023",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티앤씨 저온으로 볶은 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EC%95%A4%EC%94%A8+%EC%A0%80%EC%98%A8%EC%9C%BC%EB%A1%9C+%EB%B3%B6%EC%9D%80+100g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0041",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(안터원목장 하먼 슈레드치즈 160g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%ED%84%B0%EC%9B%90%EB%AA%A9%EC%9E%A5+%ED%95%98%EB%A8%BC+%EC%8A%88%EB%A0%88%EB%93%9C%EC%B9%98%EC%A6%88+160g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(늘해찬 블랙보리 진액 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8A%98%ED%95%B4%EC%B0%AC+%EB%B8%94%EB%9E%99%EB%B3%B4%EB%A6%AC+%EC%A7%84%EC%95%A1+500g"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0030",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어워드커피 구름상상 베트남 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EC%9B%8C%EB%93%9C%EC%BB%A4%ED%94%BC+%EA%B5%AC%EB%A6%84%EC%83%81%EC%83%81+%EB%B2%A0%ED%8A%B8%EB%82%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-ssg-sosang-drink-dairy-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어워드커피 구름상상 디카페인 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EC%9B%8C%EB%93%9C%EC%BB%A4%ED%94%BC+%EA%B5%AC%EB%A6%84%EC%83%81%EC%83%81+%EB%94%94%EC%B9%B4%ED%8E%98%EC%9D%B8+1kg"
+      ]
+    }
+  ]
+}

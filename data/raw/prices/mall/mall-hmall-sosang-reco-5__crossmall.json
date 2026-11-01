@@ -1,0 +1,1912 @@
+{
+  "category": "mall",
+  "source_id": "mall-hmall-sosang-reco-5",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0300",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(네츄럴코어 하루유산균 혼합)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%84%A4%EC%B8%84%EB%9F%B4%EC%BD%94%EC%96%B4+%ED%95%98%EB%A3%A8%EC%9C%A0%EC%82%B0%EA%B7%A0+%ED%98%BC%ED%95%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0257",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(쨍하고해뜰집 실리카겔 B타입 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A8%8D%ED%95%98%EA%B3%A0%ED%95%B4%EB%9C%B0%EC%A7%91+%EC%8B%A4%EB%A6%AC%EC%B9%B4%EA%B2%94+B%ED%83%80%EC%9E%85+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0043",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제철진미 응축된 감칠맛과 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%B2%A0%EC%A7%84%EB%AF%B8+%EC%9D%91%EC%B6%95%EB%90%9C+%EA%B0%90%EC%B9%A0%EB%A7%9B%EA%B3%BC+50g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0250",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올팩토리 캔들 헤븐 360g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%ED%8C%A9%ED%86%A0%EB%A6%AC+%EC%BA%94%EB%93%A4+%ED%97%A4%EB%B8%90+360g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0278",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아베아 비타민 세럼 11ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%B2%A0%EC%95%84+%EB%B9%84%ED%83%80%EB%AF%BC+%EC%84%B8%EB%9F%BC+11ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0021",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강고집 속살까지 구운 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EA%B3%A0%EC%A7%91+%EC%86%8D%EC%82%B4%EA%B9%8C%EC%A7%80+%EA%B5%AC%EC%9A%B4+200g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0253",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아트미즈 시그니처 소프트 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%ED%8A%B8%EB%AF%B8%EC%A6%88+%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98+%EC%86%8C%ED%94%84%ED%8A%B8+200g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0205",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대우미곡 삼대 새청무쌀 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%EC%9A%B0%EB%AF%B8%EA%B3%A1+%EC%82%BC%EB%8C%80+%EC%83%88%EC%B2%AD%EB%AC%B4%EC%8C%80+20kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0003",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주푸드마씸 하효맘 감귤과즐 240g / 탐라온 하효맘 감귤과즐 240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC%ED%91%B8%EB%93%9C%EB%A7%88%EC%94%B8+%ED%95%98%ED%9A%A8%EB%A7%98+%EA%B0%90%EA%B7%A4%EA%B3%BC%EC%A6%90+240g",
+        "https://search.danawa.com/dsearch.php?query=%ED%83%90%EB%9D%BC%EC%98%A8+%ED%95%98%ED%9A%A8%EB%A7%98+%EA%B0%90%EA%B7%A4%EA%B3%BC%EC%A6%90+240g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(etc기타 양파 듬북 210g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=etc%EA%B8%B0%ED%83%80+%EC%96%91%ED%8C%8C+%EB%93%AC%EB%B6%81+210g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연을마시다 꿀유자차1kg+꿀청귤차1kg / 초록원 꿀유자차1kg+꿀청귤차1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9D%84%EB%A7%88%EC%8B%9C%EB%8B%A4+%EA%BF%80%EC%9C%A0%EC%9E%90%EC%B0%A81kg%2B%EA%BF%80%EC%B2%AD%EA%B7%A4%EC%B0%A81kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%EC%9B%90+%EA%BF%80%EC%9C%A0%EC%9E%90%EC%B0%A81kg%2B%EA%BF%80%EC%B2%AD%EA%B7%A4%EC%B0%A81kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0009",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(드립핑크 시그니처 x 10g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%93%9C%EB%A6%BD%ED%95%91%ED%81%AC+%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98+x+10g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(동상면사람들 수정과 x 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8F%99%EC%83%81%EB%A9%B4%EC%82%AC%EB%9E%8C%EB%93%A4+%EC%88%98%EC%A0%95%EA%B3%BC+x+1L"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0017",
+      "price_60d_low": 27702,
+      "price_60d_typical": 32710,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '씨알에프앤씨 깐깐 송도순 포기김치 5kg+석박지 3kg' 1개 · 같은 상품 판정: 브랜드 깐깐송도순, 규격 [3000.0, 5000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=114949137",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=114949137&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0018",
+      "price_60d_low": 17040,
+      "price_60d_typical": 19900,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '씨알에프앤씨 깐깐 송도순 나박김치 5kg' 1개 · 같은 상품 판정: 브랜드 깐깐송도순, 규격 [5000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=112661875",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=112661875&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0019",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(동트는농가 약콩간장 450ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8F%99%ED%8A%B8%EB%8A%94%EB%86%8D%EA%B0%80+%EC%95%BD%EC%BD%A9%EA%B0%84%EC%9E%A5+450ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0020",
+      "price_60d_low": 31870,
+      "price_60d_typical": 34310,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 7주(26-09-01~26-10-27), '도미솔식품 박미희 포기김치 5kg' 1개 · 같은 상품 판정: 브랜드 도미솔/도미솔식품, 규격 [5000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=118261802",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=118261802&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0022",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소문난일품 포천명가 아삭한 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%EB%AC%B8%EB%82%9C%EC%9D%BC%ED%92%88+%ED%8F%AC%EC%B2%9C%EB%AA%85%EA%B0%80+%EC%95%84%EC%82%AD%ED%95%9C+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0023",
+      "price_60d_low": 11820,
+      "price_60d_typical": 12800,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '전라도청년 저온압착 통참깨 100% 천년참기름 350ml' 2개 · 같은 상품 판정: 브랜드 전라도청년, 규격 [350.0], 개수 2. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=32753042",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=32753042&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0024",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미식상회 생참기름 저온압착 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%8B%9D%EC%83%81%ED%9A%8C+%EC%83%9D%EC%B0%B8%EA%B8%B0%EB%A6%84+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+350ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0025",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미식상회 들기름 저온압착 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%8B%9D%EC%83%81%ED%9A%8C+%EB%93%A4%EA%B8%B0%EB%A6%84+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+350ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0026",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(야스티 아르헨티나산 하이올레익 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%BC%EC%8A%A4%ED%8B%B0+%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98%EC%82%B0+%ED%95%98%EC%9D%B4%EC%98%AC%EB%A0%88%EC%9D%B5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0027",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(야스티 아르헨티나산 하이올레익 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%BC%EC%8A%A4%ED%8B%B0+%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98%EC%82%B0+%ED%95%98%EC%9D%B4%EC%98%AC%EB%A0%88%EC%9D%B5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0028",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(버섯놀이터변산농장 상황버섯 절편 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%84%EC%84%AF%EB%86%80%EC%9D%B4%ED%84%B0%EB%B3%80%EC%82%B0%EB%86%8D%EC%9E%A5+%EC%83%81%ED%99%A9%EB%B2%84%EC%84%AF+%EC%A0%88%ED%8E%B8+100g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0030",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어장금 가자미 순살 500g+500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EC%9E%A5%EA%B8%88+%EA%B0%80%EC%9E%90%EB%AF%B8+%EC%88%9C%EC%82%B4+500g%2B500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0032",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(여수사나이 입맛나는 열무김치 2kg / 여수사나이김치 입맛나는 열무김치 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EC%88%98%EC%82%AC%EB%82%98%EC%9D%B4+%EC%9E%85%EB%A7%9B%EB%82%98%EB%8A%94+%EC%97%B4%EB%AC%B4%EA%B9%80%EC%B9%98+2kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EC%88%98%EC%82%AC%EB%82%98%EC%9D%B4%EA%B9%80%EC%B9%98+%EC%9E%85%EB%A7%9B%EB%82%98%EB%8A%94+%EC%97%B4%EB%AC%B4%EA%B9%80%EC%B9%98+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호정가 찹쌀유과세트 / 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%A0%95%EA%B0%80+%EC%B0%B9%EC%8C%80%EC%9C%A0%EA%B3%BC%EC%84%B8%ED%8A%B8+%2F+300g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호정가 찹쌀약과세트 / 3KG)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%A0%95%EA%B0%80+%EC%B0%B9%EC%8C%80%EC%95%BD%EA%B3%BC%EC%84%B8%ED%8A%B8+%2F+3KG"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0035",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세이브밀 파주장단콩 맷돌 350g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B4%EB%B8%8C%EB%B0%80+%ED%8C%8C%EC%A3%BC%EC%9E%A5%EB%8B%A8%EC%BD%A9+%EB%A7%B7%EB%8F%8C+350g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0036",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(밥도둑푸드 직접담근 전라도 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%A5%EB%8F%84%EB%91%91%ED%91%B8%EB%93%9C+%EC%A7%81%EC%A0%91%EB%8B%B4%EA%B7%BC+%EC%A0%84%EB%9D%BC%EB%8F%84+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0037",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(영광군수협 법성포 영광 1.8kg / 수협 법성포 영광 1.8kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%81%EA%B4%91%EA%B5%B0%EC%88%98%ED%98%91+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91+1.8kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%ED%98%91+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91+1.8kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0038",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(영광군수협 법성포 영광 1kg / 수협 법성포 영광 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%81%EA%B4%91%EA%B5%B0%EC%88%98%ED%98%91+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%ED%98%91+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0039",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지지팜 못난이 파프리카 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EC%A7%80%ED%8C%9C+%EB%AA%BB%EB%82%9C%EC%9D%B4+%ED%8C%8C%ED%94%84%EB%A6%AC%EC%B9%B4+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0041",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가공식품 잘생긴 동태한마리 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EA%B3%B5%EC%8B%9D%ED%92%88+%EC%9E%98%EC%83%9D%EA%B8%B4+%EB%8F%99%ED%83%9C%ED%95%9C%EB%A7%88%EB%A6%AC+450g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(웰던푸드 호주산 LA갈비 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%B0%EB%8D%98%ED%91%B8%EB%93%9C+%ED%98%B8%EC%A3%BC%EC%82%B0+LA%EA%B0%88%EB%B9%84+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0044",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제철진미 화산토에서 키워낸 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%B2%A0%EC%A7%84%EB%AF%B8+%ED%99%94%EC%82%B0%ED%86%A0%EC%97%90%EC%84%9C+%ED%82%A4%EC%9B%8C%EB%82%B8+100g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0046",
+      "price_60d_low": 16640,
+      "price_60d_typical": 16640,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '제철진미 중부식 총각김치 2kg' 1개 · 같은 상품 판정: 브랜드 제철진미, 규격 [2000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=95320949",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=95320949&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0047",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아빠식당 밀가루없는 어묵탕 230g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%B9%A0%EC%8B%9D%EB%8B%B9+%EB%B0%80%EA%B0%80%EB%A3%A8%EC%97%86%EB%8A%94+%EC%96%B4%EB%AC%B5%ED%83%95+230g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농할 청양고추 상급 1kg / 케이엠푸드 청양고추 상급 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%ED%95%A0+%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%94+%EC%83%81%EA%B8%89+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%BC%80%EC%9D%B4%EC%97%A0%ED%91%B8%EB%93%9C+%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%94+%EC%83%81%EA%B8%89+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0051",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(그레인페드 호주산 LA갈비 2.0kg / 씨유웰 호주산 LA갈비 2.0kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%B8%EB%A0%88%EC%9D%B8%ED%8E%98%EB%93%9C+%ED%98%B8%EC%A3%BC%EC%82%B0+LA%EA%B0%88%EB%B9%84+2.0kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%94%A8%EC%9C%A0%EC%9B%B0+%ED%98%B8%EC%A3%BC%EC%82%B0+LA%EA%B0%88%EB%B9%84+2.0kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0052",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(씨유웰 호주산 LA갈비 2.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%94%A8%EC%9C%A0%EC%9B%B0+%ED%98%B8%EC%A3%BC%EC%82%B0+LA%EA%B0%88%EB%B9%84+2.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0053",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산해직송 흙당근 중 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%ED%95%B4%EC%A7%81%EC%86%A1+%ED%9D%99%EB%8B%B9%EA%B7%BC+%EC%A4%91+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0055",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정담두부집 국산콩 수제두부)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%8B%B4%EB%91%90%EB%B6%80%EC%A7%91+%EA%B5%AD%EC%82%B0%EC%BD%A9+%EC%88%98%EC%A0%9C%EB%91%90%EB%B6%80"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0056",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리딥온 생 바질)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EB%94%A5%EC%98%A8+%EC%83%9D+%EB%B0%94%EC%A7%88"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0058",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주고씨네 제주 토막은갈치 300g*8팩/총32토막)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC%EA%B3%A0%EC%94%A8%EB%84%A4+%EC%A0%9C%EC%A3%BC+%ED%86%A0%EB%A7%89%EC%9D%80%EA%B0%88%EC%B9%98+300g%2A8%ED%8C%A9%2F%EC%B4%9D32%ED%86%A0%EB%A7%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어장금 가자미살 생선까스 100gx5팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EC%9E%A5%EA%B8%88+%EA%B0%80%EC%9E%90%EB%AF%B8%EC%82%B4+%EC%83%9D%EC%84%A0%EA%B9%8C%EC%8A%A4+100gx5%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0060",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(어장금 가시제거 노르웨이 700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%B4%EC%9E%A5%EA%B8%88+%EA%B0%80%EC%8B%9C%EC%A0%9C%EA%B1%B0+%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4+700g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0061",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이영자의소문난옥돔 명인이영자옥돔 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%98%81%EC%9E%90%EC%9D%98%EC%86%8C%EB%AC%B8%EB%82%9C%EC%98%A5%EB%8F%94+%EB%AA%85%EC%9D%B8%EC%9D%B4%EC%98%81%EC%9E%90%EC%98%A5%EB%8F%94+400g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0062",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이영자의소문난옥돔 명인이영자옥돔 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%98%81%EC%9E%90%EC%9D%98%EC%86%8C%EB%AC%B8%EB%82%9C%EC%98%A5%EB%8F%94+%EB%AA%85%EC%9D%B8%EC%9D%B4%EC%98%81%EC%9E%90%EC%98%A5%EB%8F%94+250g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0063",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸드마인 흰강낭콩 x 800g / 온새미로 흰강낭콩 x 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%93%9C%EB%A7%88%EC%9D%B8+%ED%9D%B0%EA%B0%95%EB%82%AD%EC%BD%A9+x+800g",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A8%EC%83%88%EB%AF%B8%EB%A1%9C+%ED%9D%B0%EA%B0%95%EB%82%AD%EC%BD%A9+x+800g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0064",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햅쌀 안심경기미 20kg / 더프레시 안심경기미 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%85%EC%8C%80+%EC%95%88%EC%8B%AC%EA%B2%BD%EA%B8%B0%EB%AF%B8+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%8B%9C+%EC%95%88%EC%8B%AC%EA%B2%BD%EA%B8%B0%EB%AF%B8+20kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0065",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은해푸드 영광법성포 굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%ED%95%B4%ED%91%B8%EB%93%9C+%EC%98%81%EA%B4%91%EB%B2%95%EC%84%B1%ED%8F%AC+%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0066",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은해푸드 영광법성포 굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%ED%95%B4%ED%91%B8%EB%93%9C+%EC%98%81%EA%B4%91%EB%B2%95%EC%84%B1%ED%8F%AC+%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0067",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은해푸드 영광법성포 굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%ED%95%B4%ED%91%B8%EB%93%9C+%EC%98%81%EA%B4%91%EB%B2%95%EC%84%B1%ED%8F%AC+%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0068",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은해푸드 법성포 영광굴비 1.2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%ED%95%B4%ED%91%B8%EB%93%9C+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91%EA%B5%B4%EB%B9%84+1.2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0070",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은해푸드 영광법성포 굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%ED%95%B4%ED%91%B8%EB%93%9C+%EC%98%81%EA%B4%91%EB%B2%95%EC%84%B1%ED%8F%AC+%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0071",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은해푸드 영광법성포 굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%ED%95%B4%ED%91%B8%EB%93%9C+%EC%98%81%EA%B4%91%EB%B2%95%EC%84%B1%ED%8F%AC+%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0074",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(브랜드없음 명품명작 바삭 30g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%97%86%EC%9D%8C+%EB%AA%85%ED%92%88%EB%AA%85%EC%9E%91+%EB%B0%94%EC%82%AD+30g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0075",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햅쌀 진품경기미 10+10kg / 브랜드없음 진품경기미 10+10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%85%EC%8C%80+%EC%A7%84%ED%92%88%EA%B2%BD%EA%B8%B0%EB%AF%B8+10%2B10kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%8C%EB%9E%9C%EB%93%9C%EC%97%86%EC%9D%8C+%EC%A7%84%ED%92%88%EA%B2%BD%EA%B8%B0%EB%AF%B8+10%2B10kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0076",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햅쌀 밥맛좋은새청무 10+10kg / 특등급 밥맛좋은새청무 10+10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%85%EC%8C%80+%EB%B0%A5%EB%A7%9B%EC%A2%8B%EC%9D%80%EC%83%88%EC%B2%AD%EB%AC%B4+10%2B10kg",
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B9%EB%93%B1%EA%B8%89+%EB%B0%A5%EB%A7%9B%EC%A2%8B%EC%9D%80%EC%83%88%EC%B2%AD%EB%AC%B4+10%2B10kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0078",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오성푸드 온미랑 영덕)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EC%84%B1%ED%91%B8%EB%93%9C+%EC%98%A8%EB%AF%B8%EB%9E%91+%EC%98%81%EB%8D%95"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0079",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찹쌀 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B9%EC%8C%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0080",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찹쌀 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B9%EC%8C%80+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0081",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰현미 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%ED%98%84%EB%AF%B8+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0082",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 보리쌀 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EB%B3%B4%EB%A6%AC%EC%8C%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0083",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 보리쌀 1kgx5팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EB%B3%B4%EB%A6%AC%EC%8C%80+1kgx5%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0084",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰보리쌀 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0085",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 압맥 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%95%95%EB%A7%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0086",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 압맥 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%95%95%EB%A7%A5+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0087",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 할맥 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%ED%95%A0%EB%A7%A5+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0088",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 할맥 1kgx5팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%ED%95%A0%EB%A7%A5+1kgx5%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0089",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 흑미 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%ED%9D%91%EB%AF%B8+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0090",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰흑미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0091",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰흑미 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0092",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰기장 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%EA%B8%B0%EC%9E%A5+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0093",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰수수 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%EC%88%98%EC%88%98+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0094",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 차좁쌀 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%A8%EC%A2%81%EC%8C%80+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0095",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 서리태 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%84%9C%EB%A6%AC%ED%83%9C+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0096",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 서리태 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%84%9C%EB%A6%AC%ED%83%9C+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0097",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 조각서리태 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%A1%B0%EA%B0%81%EC%84%9C%EB%A6%AC%ED%83%9C+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0098",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 약콩 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%95%BD%EC%BD%A9+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0099",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 백태 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EB%B0%B1%ED%83%9C+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0100",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 팥 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%ED%8C%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0101",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 팥 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%ED%8C%A5+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0102",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 깐녹두 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EA%B9%90%EB%85%B9%EB%91%90+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0103",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 밀 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EB%B0%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0104",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 밀 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EB%B0%80+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0105",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 율무 1kgx2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%9C%A8%EB%AC%B4+1kgx2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0106",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 귀리 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EA%B7%80%EB%A6%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0107",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 귀리 1kgx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EA%B7%80%EB%A6%AC+1kgx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0108",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰현미/찰흑미/찰보리쌀 각1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%ED%98%84%EB%AF%B8%2F%EC%B0%B0%ED%9D%91%EB%AF%B8%2F%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+%EA%B0%811kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0109",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고산농협 마미 찰현미/찰보리쌀/귀리 각1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%82%B0%EB%86%8D%ED%98%91+%EB%A7%88%EB%AF%B8+%EC%B0%B0%ED%98%84%EB%AF%B8%2F%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80%2F%EA%B7%80%EB%A6%AC+%EA%B0%811kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0110",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 호라산밀 1kgx2봉 / 예찬 우리잡곡 호라산밀 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%ED%98%B8%EB%9D%BC%EC%82%B0%EB%B0%80+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%ED%98%B8%EB%9D%BC%EC%82%B0%EB%B0%80+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0111",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰보리 1kg / 예찬 우리잡곡 찰보리 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0112",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰보리 1kgx3봉 / 예찬 우리잡곡 찰보리 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0113",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 서리태 1kgx2봉 / 예찬 우리잡곡 서리태 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%84%9C%EB%A6%AC%ED%83%9C+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%84%9C%EB%A6%AC%ED%83%9C+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0114",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 적두 1kg / 예찬 우리잡곡 적두 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%A0%81%EB%91%90+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%A0%81%EB%91%90+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0115",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 적두 1kgx3봉 / 예찬 우리잡곡 적두 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%A0%81%EB%91%90+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%A0%81%EB%91%90+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0116",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 1kgx2봉 / 예찬 우리잡곡 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0117",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찹쌀/현미/찰흑미 각1kg / 예찬 우리잡곡 찹쌀/현미/찰흑미 각1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80%2F%ED%98%84%EB%AF%B8%2F%EC%B0%B0%ED%9D%91%EB%AF%B8+%EA%B0%811kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80%2F%ED%98%84%EB%AF%B8%2F%EC%B0%B0%ED%9D%91%EB%AF%B8+%EA%B0%811kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0118",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰흑미/찰현미/찰보리 각1kg / 예찬 우리잡곡 찰흑미/찰현미/찰보리 각1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8%2F%EC%B0%B0%ED%98%84%EB%AF%B8%2F%EC%B0%B0%EB%B3%B4%EB%A6%AC+%EA%B0%811kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8%2F%EC%B0%B0%ED%98%84%EB%AF%B8%2F%EC%B0%B0%EB%B3%B4%EB%A6%AC+%EA%B0%811kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0119",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 깐녹두 1kg / 예찬 오일장잡곡 깐녹두 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EA%B9%90%EB%85%B9%EB%91%90+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EA%B9%90%EB%85%B9%EB%91%90+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0120",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찰보리쌀 1kg / 예찬 오일장잡곡 찰보리쌀 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0121",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찰보리쌀 1kgx3봉 / 예찬 오일장잡곡 찰보리쌀 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0122",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찰보리쌀 4kg / 예찬 오일장잡곡 찰보리쌀 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+4kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EB%B3%B4%EB%A6%AC%EC%8C%80+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0123",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찹쌀 1kgx2봉 / 예찬 오일장잡곡 찹쌀 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0124",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찹쌀 2kg / 예찬 오일장잡곡 찹쌀 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+2kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0125",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찹쌀 10kg / 예찬 오일장잡곡 찹쌀 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+10kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0126",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 청차조 1kg / 예찬 오일장잡곡 청차조 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B2%AD%EC%B0%A8%EC%A1%B0+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B2%AD%EC%B0%A8%EC%A1%B0+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0127",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 청차조 1kgx3봉 / 예찬 오일장잡곡 청차조 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B2%AD%EC%B0%A8%EC%A1%B0+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B2%AD%EC%B0%A8%EC%A1%B0+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0128",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 통녹두 1kg / 예찬 오일장잡곡 통녹두 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%86%B5%EB%85%B9%EB%91%90+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%86%B5%EB%85%B9%EB%91%90+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0129",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 현미 1kg / 예찬 오일장잡곡 현미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0130",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 현미 1kgx3봉 / 예찬 오일장잡곡 현미 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0131",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 현미 4kg / 예찬 오일장잡곡 현미 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+4kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0132",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 현미찹쌀 1kgx2봉 / 예찬 오일장잡곡 현미찹쌀 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8%EC%B0%B9%EC%8C%80+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8%EC%B0%B9%EC%8C%80+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0133",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 현미찹쌀 2kg / 예찬 오일장잡곡 현미찹쌀 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8%EC%B0%B9%EC%8C%80+2kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8%EC%B0%B9%EC%8C%80+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0134",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 현미찹쌀 10kg / 예찬 오일장잡곡 현미찹쌀 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8%EC%B0%B9%EC%8C%80+10kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8%EC%B0%B9%EC%8C%80+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0135",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찰흑미 1kg / 예찬 오일장잡곡 찰흑미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0136",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 찰흑미 1kgx3봉 / 예찬 오일장잡곡 찰흑미 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0137",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 흑미 1kgx2봉 / 예찬 오일장잡곡 흑미 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%9D%91%EB%AF%B8+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%ED%9D%91%EB%AF%B8+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0138",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 백미 1kg / 예찬 오일장잡곡 백미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EB%B0%B1%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EB%B0%B1%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0139",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선농협 오일장잡곡 백미 4kg / 예찬 오일장잡곡 백미 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%86%8D%ED%98%91+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EB%B0%B1%EB%AF%B8+4kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%98%A4%EC%9D%BC%EC%9E%A5%EC%9E%A1%EA%B3%A1+%EB%B0%B1%EB%AF%B8+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0140",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찹쌀 1kgx2봉 / 예찬 우리잡곡 찹쌀 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B9%EC%8C%80+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0141",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 현미 1kg / 예찬 우리잡곡 현미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0142",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 현미 1kgx3봉 / 예찬 우리잡곡 현미 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%ED%98%84%EB%AF%B8+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0143",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰흑미 1kgx2봉 / 예찬 우리잡곡 찰흑미 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0144",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰현미 1kg / 예찬 우리잡곡 찰현미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%98%84%EB%AF%B8+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%98%84%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0145",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰현미 1kgx3봉 / 예찬 우리잡곡 찰현미 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%98%84%EB%AF%B8+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%ED%98%84%EB%AF%B8+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0146",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰수수 1kgx2봉 / 예찬 우리잡곡 찰수수 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EC%88%98%EC%88%98+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EC%88%98%EC%88%98+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0147",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰기장 1kg / 예찬 우리잡곡 찰기장 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EA%B8%B0%EC%9E%A5+1kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EA%B8%B0%EC%9E%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0148",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 찰기장 1kgx3봉 / 예찬 우리잡곡 찰기장 1kgx3봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EA%B8%B0%EC%9E%A5+1kgx3%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EC%B0%B0%EA%B8%B0%EC%9E%A5+1kgx3%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0149",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산담들담 우리잡곡 귀리 1kgx2봉 / 예찬 우리잡곡 귀리 1kgx2봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EB%8B%B4%EB%93%A4%EB%8B%B4+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EA%B7%80%EB%A6%AC+1kgx2%EB%B4%89",
+        "https://search.danawa.com/dsearch.php?query=%EC%98%88%EC%B0%AC+%EC%9A%B0%EB%A6%AC%EC%9E%A1%EA%B3%A1+%EA%B7%80%EB%A6%AC+1kgx2%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0150",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록초록팜 무농약 부여 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%EC%B4%88%EB%A1%9D%ED%8C%9C+%EB%AC%B4%EB%86%8D%EC%95%BD+%EB%B6%80%EC%97%AC+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0151",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다씨쌀롱 남해안 멸치 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%94%A8%EC%8C%80%EB%A1%B1+%EB%82%A8%ED%95%B4%EC%95%88+%EB%A9%B8%EC%B9%98+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0152",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다씨쌀롱 뿌리다시마 마른다시마 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%94%A8%EC%8C%80%EB%A1%B1+%EB%BF%8C%EB%A6%AC%EB%8B%A4%EC%8B%9C%EB%A7%88+%EB%A7%88%EB%A5%B8%EB%8B%A4%EC%8B%9C%EB%A7%88+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0153",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엮걸이 법성포 영광굴비 / 이푸룸 법성포 영광굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%AE%EA%B1%B8%EC%9D%B4+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91%EA%B5%B4%EB%B9%84",
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%91%B8%EB%A3%B8+%EB%B2%95%EC%84%B1%ED%8F%AC+%EC%98%81%EA%B4%91%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0154",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이푸룸 안동순살간고등어)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%91%B8%EB%A3%B8+%EC%95%88%EB%8F%99%EC%88%9C%EC%82%B4%EA%B0%84%EA%B3%A0%EB%93%B1%EC%96%B4"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0155",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(3040미 손질된 가리비 500g / 연프레시 손질된 가리비 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=3040%EB%AF%B8+%EC%86%90%EC%A7%88%EB%90%9C+%EA%B0%80%EB%A6%AC%EB%B9%84+500g",
+        "https://search.danawa.com/dsearch.php?query=%EC%97%B0%ED%94%84%EB%A0%88%EC%8B%9C+%EC%86%90%EC%A7%88%EB%90%9C+%EA%B0%80%EB%A6%AC%EB%B9%84+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0156",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고씨네수산 고등어 제주고등어 1.4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%94%A8%EB%84%A4%EC%88%98%EC%82%B0+%EA%B3%A0%EB%93%B1%EC%96%B4+%EC%A0%9C%EC%A3%BC%EA%B3%A0%EB%93%B1%EC%96%B4+1.4kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0157",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(신건호멸치 상급 지리멸치 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%A0%EA%B1%B4%ED%98%B8%EB%A9%B8%EC%B9%98+%EC%83%81%EA%B8%89+%EC%A7%80%EB%A6%AC%EB%A9%B8%EC%B9%98+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0159",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다온 완도활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%98%A8+%EC%99%84%EB%8F%84%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0160",
+      "price_60d_low": 21340,
+      "price_60d_typical": 24730,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '바다온 완도활전복 10~11미 1kg' 1개 · 같은 상품 판정: 브랜드 바다온, 규격 [1000.0], 개수 11. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=76506485",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=76506485&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0161",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다어보 HACCP 저염 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EC%96%B4%EB%B3%B4+HACCP+%EC%A0%80%EC%97%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0162",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해마푸드 해외로 수출되는 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%A7%88%ED%91%B8%EB%93%9C+%ED%95%B4%EC%99%B8%EB%A1%9C+%EC%88%98%EC%B6%9C%EB%90%98%EB%8A%94+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0163",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정우네생선가게 손질 노르웨이 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%9A%B0%EB%84%A4%EC%83%9D%EC%84%A0%EA%B0%80%EA%B2%8C+%EC%86%90%EC%A7%88+%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0164",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기삼전복 특허받은 기삼활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%82%BC%EC%A0%84%EB%B3%B5+%ED%8A%B9%ED%97%88%EB%B0%9B%EC%9D%80+%EA%B8%B0%EC%82%BC%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0165",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청진수산 인증받은 활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%A7%84%EC%88%98%EC%82%B0+%EC%9D%B8%EC%A6%9D%EB%B0%9B%EC%9D%80+%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0166",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한성가횡성한우 횡성한우 명품프리미엄 2.8kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%84%B1%EA%B0%80%ED%9A%A1%EC%84%B1%ED%95%9C%EC%9A%B0+%ED%9A%A1%EC%84%B1%ED%95%9C%EC%9A%B0+%EB%AA%85%ED%92%88%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84+2.8kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0167",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한성가횡성한우 횡성한우 모듬구이 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%84%B1%EA%B0%80%ED%9A%A1%EC%84%B1%ED%95%9C%EC%9A%B0+%ED%9A%A1%EC%84%B1%ED%95%9C%EC%9A%B0+%EB%AA%A8%EB%93%AC%EA%B5%AC%EC%9D%B4+900g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0170",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(굿모닝오트밀 간편식 귀리 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%BF%EB%AA%A8%EB%8B%9D%EC%98%A4%ED%8A%B8%EB%B0%80+%EA%B0%84%ED%8E%B8%EC%8B%9D+%EA%B7%80%EB%A6%AC+50g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0171",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오늘도포항항 죽도시장 젓갈 1.2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8A%98%EB%8F%84%ED%8F%AC%ED%95%AD%ED%95%AD+%EC%A3%BD%EB%8F%84%EC%8B%9C%EC%9E%A5+%EC%A0%93%EA%B0%88+1.2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0172",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오늘도포항항 죽도시장 청년사장의 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8A%98%EB%8F%84%ED%8F%AC%ED%95%AD%ED%95%AD+%EC%A3%BD%EB%8F%84%EC%8B%9C%EC%9E%A5+%EC%B2%AD%EB%85%84%EC%82%AC%EC%9E%A5%EC%9D%98+300g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0173",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(밥도둑푸드 자연산 반건조 230g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%A5%EB%8F%84%EB%91%91%ED%91%B8%EB%93%9C+%EC%9E%90%EC%97%B0%EC%82%B0+%EB%B0%98%EA%B1%B4%EC%A1%B0+230g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0174",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지애 부여농부의 탈피밤 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EC%95%A0+%EB%B6%80%EC%97%AC%EB%86%8D%EB%B6%80%EC%9D%98+%ED%83%88%ED%94%BC%EB%B0%A4+300g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0175",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(당당한셰프 얼큰시원알탕630g / 수유시장당당한셰프 얼큰시원알탕630g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B9%EB%8B%B9%ED%95%9C%EC%85%B0%ED%94%84+%EC%96%BC%ED%81%B0%EC%8B%9C%EC%9B%90%EC%95%8C%ED%83%95630g",
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%9C%A0%EC%8B%9C%EC%9E%A5%EB%8B%B9%EB%8B%B9%ED%95%9C%EC%85%B0%ED%94%84+%EC%96%BC%ED%81%B0%EC%8B%9C%EC%9B%90%EC%95%8C%ED%83%95630g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0177",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(서안동농협 양반쌀 현미 10kg / 안동시지정특산품 양반쌀 현미 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%9C%EC%95%88%EB%8F%99%EB%86%8D%ED%98%91+%EC%96%91%EB%B0%98%EC%8C%80+%ED%98%84%EB%AF%B8+10kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%EB%8F%99%EC%8B%9C%EC%A7%80%EC%A0%95%ED%8A%B9%EC%82%B0%ED%92%88+%EC%96%91%EB%B0%98%EC%8C%80+%ED%98%84%EB%AF%B8+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0178",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸른들 정성담은 과일선물세트 7kg / 사과12과내외나주배9과내외 정성담은 과일선물세트 7kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%A5%B8%EB%93%A4+%EC%A0%95%EC%84%B1%EB%8B%B4%EC%9D%80+%EA%B3%BC%EC%9D%BC%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8+7kg",
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EA%B3%BC12%EA%B3%BC%EB%82%B4%EC%99%B8%EB%82%98%EC%A3%BC%EB%B0%B09%EA%B3%BC%EB%82%B4%EC%99%B8+%EC%A0%95%EC%84%B1%EB%8B%B4%EC%9D%80+%EA%B3%BC%EC%9D%BC%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8+7kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0182",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주아람곶감 상주곶감 대바구니 / 2kg 상주곶감 대바구니)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EC%95%84%EB%9E%8C%EA%B3%B6%EA%B0%90+%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%EB%8C%80%EB%B0%94%EA%B5%AC%EB%8B%88",
+        "https://search.danawa.com/dsearch.php?query=2kg+%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%EB%8C%80%EB%B0%94%EA%B5%AC%EB%8B%88"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0183",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(식식한상 알싸한 무안 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9D%EC%8B%9D%ED%95%9C%EC%83%81+%EC%95%8C%EC%8B%B8%ED%95%9C+%EB%AC%B4%EC%95%88+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0184",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산정마을 청양고추 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%EC%A0%95%EB%A7%88%EC%9D%84+%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%94+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0185",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태나농장 우수농산물 마씨 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EB%82%98%EB%86%8D%EC%9E%A5+%EC%9A%B0%EC%88%98%EB%86%8D%EC%82%B0%EB%AC%BC+%EB%A7%88%EC%94%A8+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0186",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태나농장 마 산마)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EB%82%98%EB%86%8D%EC%9E%A5+%EB%A7%88+%EC%82%B0%EB%A7%88"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0187",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바리의꿈 유기농두유 비건식품 190ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%A6%AC%EC%9D%98%EA%BF%88+%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%91%90%EC%9C%A0+%EB%B9%84%EA%B1%B4%EC%8B%9D%ED%92%88+190ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0188",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(서울우유 홍삼츄츄 플러스 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%9C%EC%9A%B8%EC%9A%B0%EC%9C%A0+%ED%99%8D%EC%82%BC%EC%B8%84%EC%B8%84+%ED%94%8C%EB%9F%AC%EC%8A%A4+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0190",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정일품 쫀득 찹쌀유과 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%9D%BC%ED%92%88+%EC%AB%80%EB%93%9D+%EC%B0%B9%EC%8C%80%EC%9C%A0%EA%B3%BC+1.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0191",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(꿀이구마 소이 피넛버터 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%BF%80%EC%9D%B4%EA%B5%AC%EB%A7%88+%EC%86%8C%EC%9D%B4+%ED%94%BC%EB%84%9B%EB%B2%84%ED%84%B0+300g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0194",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(윤자네수산 녹진내장 오징어통찜)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A4%EC%9E%90%EB%84%A4%EC%88%98%EC%82%B0+%EB%85%B9%EC%A7%84%EB%82%B4%EC%9E%A5+%EC%98%A4%EC%A7%95%EC%96%B4%ED%86%B5%EC%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0195",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(홀리아 대산 오리지널 13.4g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%80%EB%A6%AC%EC%95%84+%EB%8C%80%EC%82%B0+%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90+13.4g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0196",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(은정한과 강릉은정한과 찹쌀/통밥과줄 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%80%EC%A0%95%ED%95%9C%EA%B3%BC+%EA%B0%95%EB%A6%89%EC%9D%80%EC%A0%95%ED%95%9C%EA%B3%BC+%EC%B0%B9%EC%8C%80%2F%ED%86%B5%EB%B0%A5%EA%B3%BC%EC%A4%84+600g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0199",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올식 통참깨로 갓 참기름250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EC%8B%9D+%ED%86%B5%EC%B0%B8%EA%B9%A8%EB%A1%9C+%EA%B0%93+%EC%B0%B8%EA%B8%B0%EB%A6%84250ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0201",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(greo 충주사과생주스100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=greo+%EC%B6%A9%EC%A3%BC%EC%82%AC%EA%B3%BC%EC%83%9D%EC%A3%BC%EC%8A%A4100ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0202",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(게미지다 횟감으로 만드는 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%8C%EB%AF%B8%EC%A7%80%EB%8B%A4+%ED%9A%9F%EA%B0%90%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+500g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0238",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팜메이드 먹골배청 스틱)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%9C%EB%A9%94%EC%9D%B4%EB%93%9C+%EB%A8%B9%EA%B3%A8%EB%B0%B0%EC%B2%AD+%EC%8A%A4%ED%8B%B1"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0260",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(더프레쉬모어 음식 유지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%ED%94%84%EB%A0%88%EC%89%AC%EB%AA%A8%EC%96%B4+%EC%9D%8C%EC%8B%9D+%EC%9C%A0%EC%A7%80"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0267",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제이베럴즈 아쿠아민트 치약 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%9D%B4%EB%B2%A0%EB%9F%B4%EC%A6%88+%EC%95%84%EC%BF%A0%EC%95%84%EB%AF%BC%ED%8A%B8+%EC%B9%98%EC%95%BD+120g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0269",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세인트프랑 블레미쉬 트리트먼트 30ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B8%ED%8A%B8%ED%94%84%EB%9E%91+%EB%B8%94%EB%A0%88%EB%AF%B8%EC%89%AC+%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%A8%BC%ED%8A%B8+30ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0272",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에코리멤버 깜찍이상어 자동변기세정제 700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%BD%94%EB%A6%AC%EB%A9%A4%EB%B2%84+%EA%B9%9C%EC%B0%8D%EC%9D%B4%EC%83%81%EC%96%B4+%EC%9E%90%EB%8F%99%EB%B3%80%EA%B8%B0%EC%84%B8%EC%A0%95%EC%A0%9C+700g"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0273",
+      "price_60d_low": 15980,
+      "price_60d_typical": 16550,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '아토몽드 씨위드 키즈 샴푸 1000ml' 1개 · 같은 상품 판정: 브랜드 아토몽드, 규격 [1000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=114143617",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=114143617&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0279",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아베아 속눈썹영양제 고영양 10ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EB%B2%A0%EC%95%84+%EC%86%8D%EB%88%88%EC%8D%B9%EC%98%81%EC%96%91%EC%A0%9C+%EA%B3%A0%EC%98%81%EC%96%91+10ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0281",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(벨리자 워터드롭 에센스 1000ml / 코스모스뷰티 워터드롭 에센스 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%A8%EB%A6%AC%EC%9E%90+%EC%9B%8C%ED%84%B0%EB%93%9C%EB%A1%AD+%EC%97%90%EC%84%BC%EC%8A%A4+1000ml",
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%EC%8A%A4%EB%AA%A8%EC%8A%A4%EB%B7%B0%ED%8B%B0+%EC%9B%8C%ED%84%B0%EB%93%9C%EB%A1%AD+%EC%97%90%EC%84%BC%EC%8A%A4+1000ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0283",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(백옥생 로얄 샴스 5ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%B1%EC%98%A5%EC%83%9D+%EB%A1%9C%EC%96%84+%EC%83%B4%EC%8A%A4+5ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0284",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유리프 클렌징세럼 나이아신아마이드 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%EB%A6%AC%ED%94%84+%ED%81%B4%EB%A0%8C%EC%A7%95%EC%84%B8%EB%9F%BC+%EB%82%98%EC%9D%B4%EC%95%84%EC%8B%A0%EC%95%84%EB%A7%88%EC%9D%B4%EB%93%9C+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0286",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미식강 발효미강 약콩두유 190ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EC%8B%9D%EA%B0%95+%EB%B0%9C%ED%9A%A8%EB%AF%B8%EA%B0%95+%EC%95%BD%EC%BD%A9%EB%91%90%EC%9C%A0+190ml"
+      ]
+    },
+    {
+      "item_id": "mall-hmall-sosang-reco-5-0297",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에버크린 MC x 8.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EB%B2%84%ED%81%AC%EB%A6%B0+MC+x+8.5kg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "category": "mall",
+  "source_id": "mall-skstoa-kgf",
+  "collected_at": "2026-11-01T04:10:04",
+  "items": [
+    {
+      "item_id": "mall-skstoa-kgf-0377",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(milock 미락바이오 진공 20kg / 미락 미락바이오 진공 20kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=milock+%EB%AF%B8%EB%9D%BD%EB%B0%94%EC%9D%B4%EC%98%A4+%EC%A7%84%EA%B3%B5+20kg",
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EB%9D%BD+%EB%AF%B8%EB%9D%BD%EB%B0%94%EC%9D%B4%EC%98%A4+%EC%A7%84%EA%B3%B5+20kg"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0379",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(미락 바이오 습기제거 15kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%B8%EB%9D%BD+%EB%B0%94%EC%9D%B4%EC%98%A4+%EC%8A%B5%EA%B8%B0%EC%A0%9C%EA%B1%B0+15kg"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0383",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(코튼헤븐 기라로쉬 뱀부타올 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%ED%8A%BC%ED%97%A4%EB%B8%90+%EA%B8%B0%EB%9D%BC%EB%A1%9C%EC%89%AC+%EB%B1%80%EB%B6%80%ED%83%80%EC%98%AC+180g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0384",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(코튼헤븐 누아보 선염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%ED%8A%BC%ED%97%A4%EB%B8%90+%EB%88%84%EC%95%84%EB%B3%B4+%EC%84%A0%EC%97%BC+200g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0385",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비밀 큐펠 고농축 3.05L / 큐펠 고농축 액체 3.05L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%EB%B0%80+%ED%81%90%ED%8E%A0+%EA%B3%A0%EB%86%8D%EC%B6%95+3.05L",
+        "https://search.danawa.com/dsearch.php?query=%ED%81%90%ED%8E%A0+%EA%B3%A0%EB%86%8D%EC%B6%95+%EC%95%A1%EC%B2%B4+3.05L"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0386",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(코튼헤븐 누아보 선염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%94%ED%8A%BC%ED%97%A4%EB%B8%90+%EB%88%84%EC%95%84%EB%B3%B4+%EC%84%A0%EC%97%BC+200g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0396",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비밀 큐펠 고농축 2.5L / 큐펠 고농축 섬유유연제 2.5L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%EB%B0%80+%ED%81%90%ED%8E%A0+%EA%B3%A0%EB%86%8D%EC%B6%95+2.5L",
+        "https://search.danawa.com/dsearch.php?query=%ED%81%90%ED%8E%A0+%EA%B3%A0%EB%86%8D%EC%B6%95+%EC%84%AC%EC%9C%A0%EC%9C%A0%EC%97%B0%EC%A0%9C+2.5L"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0394",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(디에이트 국내생산 실리콘 -700ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%94%EC%97%90%EC%9D%B4%ED%8A%B8+%EA%B5%AD%EB%82%B4%EC%83%9D%EC%82%B0+%EC%8B%A4%EB%A6%AC%EC%BD%98+-700ml"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0390",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(scandinavianforest 스칸디나비안 포레스트 600ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=scandinavianforest+%EC%8A%A4%EC%B9%B8%EB%94%94%EB%82%98%EB%B9%84%EC%95%88+%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8+600ml"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0395",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(scandinavianforest 스칸디나비안 포레스트 800ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=scandinavianforest+%EC%8A%A4%EC%B9%B8%EB%94%94%EB%82%98%EB%B9%84%EC%95%88+%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8+800ml"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0402",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생활공작소 스탠드형 제습제 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%ED%99%9C%EA%B3%B5%EC%9E%91%EC%86%8C+%EC%8A%A4%ED%83%A0%EB%93%9C%ED%98%95+%EC%A0%9C%EC%8A%B5%EC%A0%9C+250g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0408",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(pn풍년 풍년 하이클래드 6.0L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=pn%ED%92%8D%EB%85%84+%ED%92%8D%EB%85%84+%ED%95%98%EC%9D%B4%ED%81%B4%EB%9E%98%EB%93%9C+6.0L"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0416",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생활공작소 서랍용 제습제 45g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%ED%99%9C%EA%B3%B5%EC%9E%91%EC%86%8C+%EC%84%9C%EB%9E%8D%EC%9A%A9+%EC%A0%9C%EC%8A%B5%EC%A0%9C+45g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0422",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한솔 한솔라이트복사용지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%86%94+%ED%95%9C%EC%86%94%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B3%B5%EC%82%AC%EC%9A%A9%EC%A7%80"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0426",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한솔 더블에이 복사용지 80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%86%94+%EB%8D%94%EB%B8%94%EC%97%90%EC%9D%B4+%EB%B3%B5%EC%82%AC%EC%9A%A9%EC%A7%80+80g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0470",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가우스 세이펜 레인온펜 32G+실리콘케이스)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EC%9A%B0%EC%8A%A4+%EC%84%B8%EC%9D%B4%ED%8E%9C+%EB%A0%88%EC%9D%B8%EC%98%A8%ED%8E%9C+32G%2B%EC%8B%A4%EB%A6%AC%EC%BD%98%EC%BC%80%EC%9D%B4%EC%8A%A4"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0393",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(콜게이트 잇몸 충치예방 175gx3개+치약짜개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8+%EC%9E%87%EB%AA%B8+%EC%B6%A9%EC%B9%98%EC%98%88%EB%B0%A9+175gx3%EA%B0%9C%2B%EC%B9%98%EC%95%BD%EC%A7%9C%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0399",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(콜게이트 잇몸 충치예방 175gx5개+치약짜개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8+%EC%9E%87%EB%AA%B8+%EC%B6%A9%EC%B9%98%EC%98%88%EB%B0%A9+175gx5%EA%B0%9C%2B%EC%B9%98%EC%95%BD%EC%A7%9C%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0404",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(콜게이트 잇몸 충치예방 100gx5개+치약짜개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%9C%EA%B2%8C%EC%9D%B4%ED%8A%B8+%EC%9E%87%EB%AA%B8+%EC%B6%A9%EC%B9%98%EC%98%88%EB%B0%A9+100gx5%EA%B0%9C%2B%EC%B9%98%EC%95%BD%EC%A7%9C%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0425",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월 송월타월 수건 170g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94+%EC%86%A1%EC%9B%94%ED%83%80%EC%9B%94+%EC%88%98%EA%B1%B4+170g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0389",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생활공작소 부담 없는 1.85L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%ED%99%9C%EA%B3%B5%EC%9E%91%EC%86%8C+%EB%B6%80%EB%8B%B4+%EC%97%86%EB%8A%94+1.85L"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0392",
+      "price_60d_low": 15160,
+      "price_60d_typical": 17664,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '생활공작소 제습제 옷걸이형 대용량 200g' 12개 · 같은 상품 판정: 브랜드 생활공작소, 규격 [200.0], 개수 12. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=14680583",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=14680583&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0406",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비밀 송월 호텔타월 150g / 송월 호텔타월 세트 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%EB%B0%80+%EC%86%A1%EC%9B%94+%ED%98%B8%ED%85%94%ED%83%80%EC%9B%94+150g",
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94+%ED%98%B8%ED%85%94%ED%83%80%EC%9B%94+%EC%84%B8%ED%8A%B8+150g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0409",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(비밀 송월 코마사 180g / 송월 코마사 세트 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B9%84%EB%B0%80+%EC%86%A1%EC%9B%94+%EC%BD%94%EB%A7%88%EC%82%AC+180g",
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94+%EC%BD%94%EB%A7%88%EC%82%AC+%EC%84%B8%ED%8A%B8+180g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0410",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월 송월타올 호텔타올 130g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94+%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%ED%98%B8%ED%85%94%ED%83%80%EC%98%AC+130g"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0414",
+      "price_60d_low": 18620,
+      "price_60d_typical": 18730,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '생활공작소 제습제 스탠드형 150g' 20개 · 같은 상품 판정: 브랜드 생활공작소, 규격 [150.0], 개수 20. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=101083499",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=101083499&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-skstoa-kgf-0421",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한솔 삼성복사용지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%86%94+%EC%82%BC%EC%84%B1%EB%B3%B5%EC%82%AC%EC%9A%A9%EC%A7%80"
+      ]
+    }
+  ]
+}

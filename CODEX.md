@@ -60,6 +60,8 @@ mkdir -p .tmp
 ### 3. 가격 조사 (판단 ②) — 프롬프트: `.github/codex/price.md`
 
 - 먼저 `scripts/price_danawa.py`(스크립트, 토큰 없음)가 모델명 있는 품목의 다나와 주간 최저가 2개월치를 채운다 (`<source_id>__danawa.json`).
+- 이어서 `scripts/price_crossmall.py --mark-missing`(스크립트, 토큰 없음)가 모델명 없는 품목을 다나와 상품명 검색으로 찾는다 (`<source_id>__crossmall.json`).
+  같은 상품 판정(브랜드·상품명 낱말·규격·총개수·가격 0.5~2배)은 스크립트 머리말 참고. 병렬은 `--shard 1/3`~`3/3`. 규칙을 바꾸면 `--dry --limit 200` 판정 표(`.tmp/crossmall_check*.tsv`)로 오매칭부터 확인.
 - 나머지는 Codex 가 price.md 순서대로: 가격 이력 사이트 → 같은 몰 이전 가격 → 다른 몰 평소가(confidence low, note "타몰 평소가:") → KAMIS → 못 찾으면 note "이력 없음:".
   "이력 없음" 품목은 인증표에서 따로 분류되고 다시 조사하지 않는다.
 - 대상은 `scripts/price_todo.py` 가 `.tmp/price_todo.json` 에 미리 뽑는다(기본 100개, `KGF_PRICE_BATCH`). Codex 는 그 목록만 보고, price.md 만 읽는다(토큰 절약). 추론 강도 기본 low(`KGF_CODEX_EFFORT_PRICE`).
@@ -96,8 +98,8 @@ git push
 
 ## 다음에 할 일 (2026-11-01 사용자 결정: Codex 로 진행)
 
-**타몰 가격 비교 스크립트 `scripts/price_crossmall.py` 만들기** — 품목별로 하나씩 조사하면 비싸므로(20개에 약 16만 토큰) 스크립트로 만든다.
-1. 몰별 표본 10~20개로 에누리·다나와 상품명 검색 결과 구조를 확인한다 (기존 `scripts/scrapers/price_search_batch.py`, `price_enuri_merchants.py` 참고).
-2. 같은 상품 판정 규칙: 브랜드·업체 + 용량·개수·중량이 모두 같아야 함. 결과는 price.md 3번("타몰 평소가:", confidence low) 또는 1번(가격 이력) 형식으로 `data/raw/prices/<category>/<source_id>__crossmall.json` 에 쓴다.
-3. 100~200개로 시험해 오매칭이 없는지 확인한 뒤 전체(약 1.4만 개)를 돌린다. 못 찾은 품목은 "이력 없음:".
-- 1·3단계는 가벼운 모델(`KGF_CODEX_MODEL_PRICE`), 2단계 규칙·스크립트 작성은 기본 모델 권장.
+**완료(2026-11-01)**: `scripts/price_crossmall.py` — 다나와 상품명 검색 + 개수별 pcode 가격이력(price.md 1번 형식).
+전체 1.37만 개 실행 → 같은 상품 183개(가격 이력 붙음), 못 찾음 5,331개("이력 없음:" 기록), 판정 불가 8,159개(규격 없음·옵션·브랜드 없음, 기록 안 함 → Codex 가 계속 봄).
+규칙은 Sonnet 에이전트 3개 병렬 검토(380건 중 오매칭 22·애매 78)로 다듬었다: 연도·등급·호수·과수·품위, '+' 구성, 옵션(500g/1kg), 상품명 낱말 양방향.
+최종 183건 중 남은 애매: 판매 업체명만으로 브랜드 일치(상품명엔 브랜드 없음), g/ml 표기 차이, 립 색상 등 약 15건.
+남은 일: 판정 불가 품목(규격 없음 약 2천 개 중 하이픈 모델명 SVC-840WK 류 약 60개는 모델명 검색으로 더 찾을 수 있음), KAMIS 표준품.

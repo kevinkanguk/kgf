@@ -1,0 +1,1459 @@
+{
+  "category": "mall",
+  "source_id": "mall-epost-kgf-p6",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "mall-epost-kgf-p6-0202",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(카카오칩과 오트밀로 만든 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%B9%A9%EA%B3%BC+%EC%98%A4%ED%8A%B8%EB%B0%80%EB%A1%9C+%EB%A7%8C%EB%93%A0+300g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0043",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오미자원액 오미자엑기스 오미자청 1500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%AF%B8%EC%9E%90%EC%9B%90%EC%95%A1+%EC%98%A4%EB%AF%B8%EC%9E%90%EC%97%91%EA%B8%B0%EC%8A%A4+%EC%98%A4%EB%AF%B8%EC%9E%90%EC%B2%AD+1500ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0255",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진우담 투뿔한우 한판 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%9A%B0%EB%8B%B4+%ED%88%AC%EB%BF%94%ED%95%9C%EC%9A%B0+%ED%95%9C%ED%8C%90+800g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0111",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갱상도시래기 클린라벨 김치시래기된장국 36g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%B1%EC%83%81%EB%8F%84%EC%8B%9C%EB%9E%98%EA%B8%B0+%ED%81%B4%EB%A6%B0%EB%9D%BC%EB%B2%A8+%EA%B9%80%EC%B9%98%EC%8B%9C%EB%9E%98%EA%B8%B0%EB%90%9C%EC%9E%A5%EA%B5%AD+36g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0094",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다마을완도특대활전복 7미600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EB%A7%88%EC%9D%84%EC%99%84%EB%8F%84%ED%8A%B9%EB%8C%80%ED%99%9C%EC%A0%84%EB%B3%B5+7%EB%AF%B8600g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0098",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다마을완도 꼬마 활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EB%A7%88%EC%9D%84%EC%99%84%EB%8F%84+%EA%BC%AC%EB%A7%88+%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0269",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진우담 투뿔한우 등심300g+특수부위300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%9A%B0%EB%8B%B4+%ED%88%AC%EB%BF%94%ED%95%9C%EC%9A%B0+%EB%93%B1%EC%8B%AC300g%2B%ED%8A%B9%EC%88%98%EB%B6%80%EC%9C%84300g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0127",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하늘곳간 사과당근주스 사과 110ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EB%8A%98%EA%B3%B3%EA%B0%84+%EC%82%AC%EA%B3%BC%EB%8B%B9%EA%B7%BC%EC%A3%BC%EC%8A%A4+%EC%82%AC%EA%B3%BC+110ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0251",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강원도 김봉현 장인)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EC%9B%90%EB%8F%84+%EA%B9%80%EB%B4%89%ED%98%84+%EC%9E%A5%EC%9D%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0085",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대게김 도시락김 4g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%EA%B2%8C%EA%B9%80+%EB%8F%84%EC%8B%9C%EB%9D%BD%EA%B9%80+4g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0072",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원주 황골조청 수제)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%A3%BC+%ED%99%A9%EA%B3%A8%EC%A1%B0%EC%B2%AD+%EC%88%98%EC%A0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0068",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진주논개전통한과 으뜸세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EC%A3%BC%EB%85%BC%EA%B0%9C%EC%A0%84%ED%86%B5%ED%95%9C%EA%B3%BC+%EC%9C%BC%EB%9C%B8%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기장특산물멸치액젓)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%9E%A5%ED%8A%B9%EC%82%B0%EB%AC%BC%EB%A9%B8%EC%B9%98%EC%95%A1%EC%A0%93"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0272",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(라라스팜 두부곤약면 실곤약 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9D%BC%EB%9D%BC%EC%8A%A4%ED%8C%9C+%EB%91%90%EB%B6%80%EA%B3%A4%EC%95%BD%EB%A9%B4+%EC%8B%A4%EA%B3%A4%EC%95%BD+180g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0113",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경백송화 버섯 뿌린김애,)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EB%B0%B1%EC%86%A1%ED%99%94+%EB%B2%84%EC%84%AF+%EB%BF%8C%EB%A6%B0%EA%B9%80%EC%95%A0%2C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0133",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진공스킨 쫀득하고 부드러운 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%EA%B3%B5%EC%8A%A4%ED%82%A8+%EC%AB%80%EB%93%9D%ED%95%98%EA%B3%A0+%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4+500g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(특허 약선푸드 쫄깃한 220g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B9%ED%97%88+%EC%95%BD%EC%84%A0%ED%91%B8%EB%93%9C+%EC%AB%84%EA%B9%83%ED%95%9C+220g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0005",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기절하지않는 완도전복 13~14미1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%A0%88%ED%95%98%EC%A7%80%EC%95%8A%EB%8A%94+%EC%99%84%EB%8F%84%EC%A0%84%EB%B3%B5+13~14%EB%AF%B81kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0083",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오동리팥칼국수 팥과 자가생면으로)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%8F%99%EB%A6%AC%ED%8C%A5%EC%B9%BC%EA%B5%AD%EC%88%98+%ED%8C%A5%EA%B3%BC+%EC%9E%90%EA%B0%80%EC%83%9D%EB%A9%B4%EC%9C%BC%EB%A1%9C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0194",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산산청시골농장곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EC%82%B0%EC%B2%AD%EC%8B%9C%EA%B3%A8%EB%86%8D%EC%9E%A5%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0200",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산산청시골농장곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EC%82%B0%EC%B2%AD%EC%8B%9C%EA%B3%A8%EB%86%8D%EC%9E%A5%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0245",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산산청시골농장곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EC%82%B0%EC%B2%AD%EC%8B%9C%EA%B3%A8%EB%86%8D%EC%9E%A5%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0280",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산산청시골농장곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EC%82%B0%EC%B2%AD%EC%8B%9C%EA%B3%A8%EB%86%8D%EC%9E%A5%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0080",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(공주알밤)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B5%EC%A3%BC%EC%95%8C%EB%B0%A4"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0257",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(포방터시장의 명물 포방터 500gX2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8F%AC%EB%B0%A9%ED%84%B0%EC%8B%9C%EC%9E%A5%EC%9D%98+%EB%AA%85%EB%AC%BC+%ED%8F%AC%EB%B0%A9%ED%84%B0+500gX2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0165",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(우리밀국수)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B0%EB%A6%AC%EB%B0%80%EA%B5%AD%EC%88%98"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0138",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무주참벌꿀)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EC%A3%BC%EC%B0%B8%EB%B2%8C%EA%BF%80"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0013",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(쏠라베리 지리산 청정)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8F%A0%EB%9D%BC%EB%B2%A0%EB%A6%AC+%EC%A7%80%EB%A6%AC%EC%82%B0+%EC%B2%AD%EC%A0%95"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0004",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한국양봉협회 한벌꿀 등급 2.4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EA%B5%AD%EC%96%91%EB%B4%89%ED%98%91%ED%9A%8C+%ED%95%9C%EB%B2%8C%EA%BF%80+%EB%93%B1%EA%B8%89+2.4kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0062",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(처음한과 정과선물세트 호두강정+나뭇잎편강)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%98%EC%9D%8C%ED%95%9C%EA%B3%BC+%EC%A0%95%EA%B3%BC%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B8+%ED%98%B8%EB%91%90%EA%B0%95%EC%A0%95%2B%EB%82%98%EB%AD%87%EC%9E%8E%ED%8E%B8%EA%B0%95"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0091",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(서천특화시장 서리태콩 서천 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%9C%EC%B2%9C%ED%8A%B9%ED%99%94%EC%8B%9C%EC%9E%A5+%EC%84%9C%EB%A6%AC%ED%83%9C%EC%BD%A9+%EC%84%9C%EC%B2%9C+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(꼬샤꼬샤 농촌융복합 최우수상 110ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%BC%AC%EC%83%A4%EA%BC%AC%EC%83%A4+%EB%86%8D%EC%B4%8C%EC%9C%B5%EB%B3%B5%ED%95%A9+%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81+110ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0151",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(순창 담예찬 한식된장 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%9C%EC%B0%BD+%EB%8B%B4%EC%98%88%EC%B0%AC+%ED%95%9C%EC%8B%9D%EB%90%9C%EC%9E%A5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0174",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(금강식품 맛들찬 울외장아찌 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%88%EA%B0%95%EC%8B%9D%ED%92%88+%EB%A7%9B%EB%93%A4%EC%B0%AC+%EC%9A%B8%EC%99%B8%EC%9E%A5%EC%95%84%EC%B0%8C+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(장흥토요시장 한돈 갈비 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%A5%ED%9D%A5%ED%86%A0%EC%9A%94%EC%8B%9C%EC%9E%A5+%ED%95%9C%EB%8F%88+%EA%B0%88%EB%B9%84+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0208",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(만나 오봉산꽃부각 김부각 30g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%8C%EB%82%98+%EC%98%A4%EB%B4%89%EC%82%B0%EA%BD%83%EB%B6%80%EA%B0%81+%EA%B9%80%EB%B6%80%EA%B0%81+30g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0128",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이슬숲감태김자반 세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%8A%AC%EC%88%B2%EA%B0%90%ED%83%9C%EA%B9%80%EC%9E%90%EB%B0%98+%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0008",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농가벌꿀 김장용 요리용 2.4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EA%B0%80%EB%B2%8C%EA%BF%80+%EA%B9%80%EC%9E%A5%EC%9A%A9+%EC%9A%94%EB%A6%AC%EC%9A%A9+2.4kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0106",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오미자원액 오미자엑기스 오미자청 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%AF%B8%EC%9E%90%EC%9B%90%EC%95%A1+%EC%98%A4%EB%AF%B8%EC%9E%90%EC%97%91%EA%B8%B0%EC%8A%A4+%EC%98%A4%EB%AF%B8%EC%9E%90%EC%B2%AD+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0196",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(피아골미선씨 전통한식 찹쌀고추장 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%BC%EC%95%84%EA%B3%A8%EB%AF%B8%EC%84%A0%EC%94%A8+%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EC%B0%B9%EC%8C%80%EA%B3%A0%EC%B6%94%EC%9E%A5+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0022",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(26년첫출하 씨없는 청도반시 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=26%EB%85%84%EC%B2%AB%EC%B6%9C%ED%95%98+%EC%94%A8%EC%97%86%EB%8A%94+%EC%B2%AD%EB%8F%84%EB%B0%98%EC%8B%9C+5kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기장특산물멸치액젓)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%9E%A5%ED%8A%B9%EC%82%B0%EB%AC%BC%EB%A9%B8%EC%B9%98%EC%95%A1%EC%A0%93"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0030",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(경산대추칩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%BD%EC%82%B0%EB%8C%80%EC%B6%94%EC%B9%A9"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0037",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부모님께서 직접 농사지으신 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EB%AA%A8%EB%8B%98%EA%BB%98%EC%84%9C+%EC%A7%81%EC%A0%91+%EB%86%8D%EC%82%AC%EC%A7%80%EC%9C%BC%EC%8B%A0+600g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0055",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(영덕 오징어덕장 부드러운)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%81%EB%8D%95+%EC%98%A4%EC%A7%95%EC%96%B4%EB%8D%95%EC%9E%A5+%EB%B6%80%EB%93%9C%EB%9F%AC%EC%9A%B4"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0074",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기장특산물멸치액젓멸치젓갈세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%9E%A5%ED%8A%B9%EC%82%B0%EB%AC%BC%EB%A9%B8%EC%B9%98%EC%95%A1%EC%A0%93%EB%A9%B8%EC%B9%98%EC%A0%93%EA%B0%88%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0089",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(더덕정과)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%EB%8D%95%EC%A0%95%EA%B3%BC"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0104",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(팜스락 여수돌산 갓물김치 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%9C%EC%8A%A4%EB%9D%BD+%EC%97%AC%EC%88%98%EB%8F%8C%EC%82%B0+%EA%B0%93%EB%AC%BC%EA%B9%80%EC%B9%98+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0145",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강화 벌꿀 아카시아꿀,)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%ED%99%94+%EB%B2%8C%EA%BF%80+%EC%95%84%EC%B9%B4%EC%8B%9C%EC%95%84%EA%BF%80%2C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0175",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(순창 담예찬 무염생청국장 200g_5팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%9C%EC%B0%BD+%EB%8B%B4%EC%98%88%EC%B0%AC+%EB%AC%B4%EC%97%BC%EC%83%9D%EC%B2%AD%EA%B5%AD%EC%9E%A5+200g_5%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0183",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프롬가든 순수착즙 레몬즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A1%AC%EA%B0%80%EB%93%A0+%EC%88%9C%EC%88%98%EC%B0%A9%EC%A6%99+%EB%A0%88%EB%AA%AC%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0215",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(마고복본)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%88%EA%B3%A0%EB%B3%B5%EB%B3%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0219",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(위드잇 채소&해물 육수)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%84%EB%93%9C%EC%9E%87+%EC%B1%84%EC%86%8C%26%ED%95%B4%EB%AC%BC+%EC%9C%A1%EC%88%98"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0231",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(순창 담예찬 무염생청국장 500g_2개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%9C%EC%B0%BD+%EB%8B%B4%EC%98%88%EC%B0%AC+%EB%AC%B4%EC%97%BC%EC%83%9D%EC%B2%AD%EA%B5%AD%EC%9E%A5+500g_2%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0235",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단호박의 은은한 단맛,)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%ED%98%B8%EB%B0%95%EC%9D%98+%EC%9D%80%EC%9D%80%ED%95%9C+%EB%8B%A8%EB%A7%9B%2C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0253",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(옛날애 청태 양념구이)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%9B%EB%82%A0%EC%95%A0+%EC%B2%AD%ED%83%9C+%EC%96%91%EB%85%90%EA%B5%AC%EC%9D%B4"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0270",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오바다 반건조오징어 중)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%B0%94%EB%8B%A4+%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4+%EC%A4%91"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0160",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한우드소 투플 등급 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%9A%B0%EB%93%9C%EC%86%8C+%ED%88%AC%ED%94%8C+%EB%93%B1%EA%B8%89+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0237",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(싱싱한 제주 은갈치)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%B1%EC%8B%B1%ED%95%9C+%EC%A0%9C%EC%A3%BC+%EC%9D%80%EA%B0%88%EC%B9%98"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0052",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(대게김 도시락김 4g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8C%80%EA%B2%8C%EA%B9%80+%EB%8F%84%EC%8B%9C%EB%9D%BD%EA%B9%80+4g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0190",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 유기농와인 내추럴와인)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%99%80%EC%9D%B8+%EB%82%B4%EC%B6%94%EB%9F%B4%EC%99%80%EC%9D%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(영광제일수산고추장굴비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%81%EA%B4%91%EC%A0%9C%EC%9D%BC%EC%88%98%EC%82%B0%EA%B3%A0%EC%B6%94%EC%9E%A5%EA%B5%B4%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0157",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보리떡갈비)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%A6%AC%EB%96%A1%EA%B0%88%EB%B9%84"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0140",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주기상곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B8%B0%EC%83%81%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(여수돌산 나유선 삼채갓김치 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%AC%EC%88%98%EB%8F%8C%EC%82%B0+%EB%82%98%EC%9C%A0%EC%84%A0+%EC%82%BC%EC%B1%84%EA%B0%93%EA%B9%80%EC%B9%98+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0092",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼천포 어간장 -국산 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B2%9C%ED%8F%AC+%EC%96%B4%EA%B0%84%EC%9E%A5+-%EA%B5%AD%EC%82%B0+1000ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0103",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진한 남도의 맛!! 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%ED%95%9C+%EB%82%A8%EB%8F%84%EC%9D%98+%EB%A7%9B%21%21+500g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0121",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(크림치즈 가득 사평)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%81%AC%EB%A6%BC%EC%B9%98%EC%A6%88+%EA%B0%80%EB%93%9D+%EC%82%AC%ED%8F%89"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0124",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(새싹보리가 들어간 건강사과즙~)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%88%EC%8B%B9%EB%B3%B4%EB%A6%AC%EA%B0%80+%EB%93%A4%EC%96%B4%EA%B0%84+%EA%B1%B4%EA%B0%95%EC%82%AC%EA%B3%BC%EC%A6%99~"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0141",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(찹쌀유과)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B9%EC%8C%80%EC%9C%A0%EA%B3%BC"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0148",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통관자)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%EA%B4%80%EC%9E%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0162",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(와와푸드 춘천닭갈비 700g+700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%99%80%EC%99%80%ED%91%B8%EB%93%9C+%EC%B6%98%EC%B2%9C%EB%8B%AD%EA%B0%88%EB%B9%84+700g%2B700g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0238",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달곰쌀오란다 g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EA%B3%B0%EC%8C%80%EC%98%A4%EB%9E%80%EB%8B%A4+g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0262",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호라산밀)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EB%9D%BC%EC%82%B0%EB%B0%80"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0069",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주기상곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B8%B0%EC%83%81%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0198",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햅쌀 햅철원 오대쌀 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%85%EC%8C%80+%ED%96%85%EC%B2%A0%EC%9B%90+%EC%98%A4%EB%8C%80%EC%8C%80+5kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0060",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정읍농부 김대중의 찰흑미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%9D%8D%EB%86%8D%EB%B6%80+%EA%B9%80%EB%8C%80%EC%A4%91%EC%9D%98+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0071",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산벌꿀)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EB%B2%8C%EA%BF%80"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(중부시장 칠선생 동해안)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A4%91%EB%B6%80%EC%8B%9C%EC%9E%A5+%EC%B9%A0%EC%84%A0%EC%83%9D+%EB%8F%99%ED%95%B4%EC%95%88"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0214",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(안성들풀 가마솥 누룽지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%88%EC%84%B1%EB%93%A4%ED%92%80+%EA%B0%80%EB%A7%88%EC%86%A5+%EB%88%84%EB%A3%BD%EC%A7%80"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0123",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(나주명품봉황배 7.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%98%EC%A3%BC%EB%AA%85%ED%92%88%EB%B4%89%ED%99%A9%EB%B0%B0+7.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0129",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(천연갈비 한돈 목살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%9C%EC%97%B0%EA%B0%88%EB%B9%84+%ED%95%9C%EB%8F%88+%EB%AA%A9%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0047",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청다한 청송사과 홍로 4.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%8B%A4%ED%95%9C+%EC%B2%AD%EC%86%A1%EC%82%AC%EA%B3%BC+%ED%99%8D%EB%A1%9C+4.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0002",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(다복 나주배 실속세트 7.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A4%EB%B3%B5+%EB%82%98%EC%A3%BC%EB%B0%B0+%EC%8B%A4%EC%86%8D%EC%84%B8%ED%8A%B8+7.5kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농바름 real 호박고구마 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EB%B0%94%EB%A6%84+real+%ED%98%B8%EB%B0%95%EA%B3%A0%EA%B5%AC%EB%A7%88+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0233",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정선밥알 수리취떡 찹쌀떡/인절미)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%A0%EB%B0%A5%EC%95%8C+%EC%88%98%EB%A6%AC%EC%B7%A8%EB%96%A1+%EC%B0%B9%EC%8C%80%EB%96%A1%2F%EC%9D%B8%EC%A0%88%EB%AF%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0112",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수제 파베 생초콜릿)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EC%A0%9C+%ED%8C%8C%EB%B2%A0+%EC%83%9D%EC%B4%88%EC%BD%9C%EB%A6%BF"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0223",
+      "price_60d_low": 15210,
+      "price_60d_typical": 15910,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '케라시스 러블리 로맨틱 퍼퓸 샴푸 980ml' 3개 · 같은 상품 판정: 브랜드 케라시스, 규격 [980.0], 개수 3. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=12866276",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=12866276&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건강한 태안! 파도향 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EA%B0%95%ED%95%9C+%ED%83%9C%EC%95%88%21+%ED%8C%8C%EB%8F%84%ED%96%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0024",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(희나리목장의 원유로 만든 500ml*3병)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%9D%AC%EB%82%98%EB%A6%AC%EB%AA%A9%EC%9E%A5%EC%9D%98+%EC%9B%90%EC%9C%A0%EB%A1%9C+%EB%A7%8C%EB%93%A0+500ml%2A3%EB%B3%91"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0087",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무주참벌꿀)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EC%A3%BC%EC%B0%B8%EB%B2%8C%EA%BF%80"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0088",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무주참벌꿀)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EC%A3%BC%EC%B0%B8%EB%B2%8C%EA%BF%80"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0093",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한돈수제양념돼지갈비 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EB%8F%88%EC%88%98%EC%A0%9C%EC%96%91%EB%85%90%EB%8F%BC%EC%A7%80%EA%B0%88%EB%B9%84+3kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0126",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맛있고진한 천마애쌍화 80ml*30개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%9B%EC%9E%88%EA%B3%A0%EC%A7%84%ED%95%9C+%EC%B2%9C%EB%A7%88%EC%95%A0%EC%8C%8D%ED%99%94+80ml%2A30%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0110",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청양농부 저온압착 참기름)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%96%91%EB%86%8D%EB%B6%80+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%B0%B8%EA%B8%B0%EB%A6%84"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0061",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(우돈덕 오리육포100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B0%EB%8F%88%EB%8D%95+%EC%98%A4%EB%A6%AC%EC%9C%A1%ED%8F%AC100g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0026",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청양농부 저온압착 생들기름)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%96%91%EB%86%8D%EB%B6%80+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%83%9D%EB%93%A4%EA%B8%B0%EB%A6%84"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0236",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주삼백곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EC%82%BC%EB%B0%B1%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0166",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(26년햅쌀특등급 임금님표 이천쌀 10kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=26%EB%85%84%ED%96%85%EC%8C%80%ED%8A%B9%EB%93%B1%EA%B8%89+%EC%9E%84%EA%B8%88%EB%8B%98%ED%91%9C+%EC%9D%B4%EC%B2%9C%EC%8C%80+10kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0268",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(조청현미강정)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A1%B0%EC%B2%AD%ED%98%84%EB%AF%B8%EA%B0%95%EC%A0%95"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0075",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정담은홍어 국산홍어로 만든)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%8B%B4%EC%9D%80%ED%99%8D%EC%96%B4+%EA%B5%AD%EC%82%B0%ED%99%8D%EC%96%B4%EB%A1%9C+%EB%A7%8C%EB%93%A0"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0179",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청송 햇사과 부직포가방 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%86%A1+%ED%96%87%EC%82%AC%EA%B3%BC+%EB%B6%80%EC%A7%81%ED%8F%AC%EA%B0%80%EB%B0%A9+4kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0167",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기자네 수제 도라지조청 700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%9E%90%EB%84%A4+%EC%88%98%EC%A0%9C+%EB%8F%84%EB%9D%BC%EC%A7%80%EC%A1%B0%EC%B2%AD+700g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0246",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기자네 수제 생강조청 700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%9E%90%EB%84%A4+%EC%88%98%EC%A0%9C+%EC%83%9D%EA%B0%95%EC%A1%B0%EC%B2%AD+700g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0036",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(산해랑 수제 볶은 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%B0%ED%95%B4%EB%9E%91+%EC%88%98%EC%A0%9C+%EB%B3%B6%EC%9D%80+50g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0108",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가미농산 반건시 · 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EB%AF%B8%EB%86%8D%EC%82%B0+%EB%B0%98%EA%B1%B4%EC%8B%9C+%C2%B7+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0109",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보은황토대추)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EC%9D%80%ED%99%A9%ED%86%A0%EB%8C%80%EC%B6%94"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0173",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(평창축협 대관령 한우 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8F%89%EC%B0%BD%EC%B6%95%ED%98%91+%EB%8C%80%EA%B4%80%EB%A0%B9+%ED%95%9C%EC%9A%B0+600g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0176",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모로헤이아 몰로키아분말)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EB%A1%9C%ED%97%A4%EC%9D%B4%EC%95%84+%EB%AA%B0%EB%A1%9C%ED%82%A4%EC%95%84%EB%B6%84%EB%A7%90"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0250",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(디퓨저 제주허브트리향 클로리나 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%94%94%ED%93%A8%EC%A0%80+%EC%A0%9C%EC%A3%BC%ED%97%88%EB%B8%8C%ED%8A%B8%EB%A6%AC%ED%96%A5+%ED%81%B4%EB%A1%9C%EB%A6%AC%EB%82%98+50ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0256",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티트리스 늙은호박차 벌크)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%ED%8A%B8%EB%A6%AC%EC%8A%A4+%EB%8A%99%EC%9D%80%ED%98%B8%EB%B0%95%EC%B0%A8+%EB%B2%8C%ED%81%AC"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0275",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태안김명월꽃게장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EC%95%88%EA%B9%80%EB%AA%85%EC%9B%94%EA%BD%83%EA%B2%8C%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0163",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(냄새없는 구수한 청국장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%83%84%EC%83%88%EC%97%86%EB%8A%94+%EA%B5%AC%EC%88%98%ED%95%9C+%EC%B2%AD%EA%B5%AD%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0009",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연미소 복분자원액 700ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EB%AF%B8%EC%86%8C+%EB%B3%B5%EB%B6%84%EC%9E%90%EC%9B%90%EC%95%A1+700ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0012",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건지누룽지 바삭바삭/얇아)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EC%A7%80%EB%88%84%EB%A3%BD%EC%A7%80+%EB%B0%94%EC%82%AD%EB%B0%94%EC%82%AD%2F%EC%96%87%EC%95%84"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0038",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(든든한 한그릇! 얼~큰하고 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%93%A0%EB%93%A0%ED%95%9C+%ED%95%9C%EA%B7%B8%EB%A6%87%21+%EC%96%BC~%ED%81%B0%ED%95%98%EA%B3%A0+800g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0057",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해외로 수출되는 연평도 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EC%99%B8%EB%A1%9C+%EC%88%98%EC%B6%9C%EB%90%98%EB%8A%94+%EC%97%B0%ED%8F%89%EB%8F%84+2kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0066",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(표고아빠네 참나무 영지버섯)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%9C%EA%B3%A0%EC%95%84%EB%B9%A0%EB%84%A4+%EC%B0%B8%EB%82%98%EB%AC%B4+%EC%98%81%EC%A7%80%EB%B2%84%EC%84%AF"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0101",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(횡성고향축산푸드 횡성한우 정육선물세트1.2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%9A%A1%EC%84%B1%EA%B3%A0%ED%96%A5%EC%B6%95%EC%82%B0%ED%91%B8%EB%93%9C+%ED%9A%A1%EC%84%B1%ED%95%9C%EC%9A%B0+%EC%A0%95%EC%9C%A1%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B81.2kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0102",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(꽃방울증편)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%BD%83%EB%B0%A9%EC%9A%B8%EC%A6%9D%ED%8E%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0107",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(글로벌 돼지갈비로 만든 꿀맛LA식돼지갈비600g+600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%80%EB%A1%9C%EB%B2%8C+%EB%8F%BC%EC%A7%80%EA%B0%88%EB%B9%84%EB%A1%9C+%EB%A7%8C%EB%93%A0+%EA%BF%80%EB%A7%9BLA%EC%8B%9D%EB%8F%BC%EC%A7%80%EA%B0%88%EB%B9%84600g%2B600g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0130",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(남도고향수산 진품흑산도참홍어 1.7kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%A8%EB%8F%84%EA%B3%A0%ED%96%A5%EC%88%98%EC%82%B0+%EC%A7%84%ED%92%88%ED%9D%91%EC%82%B0%EB%8F%84%EC%B0%B8%ED%99%8D%EC%96%B4+1.7kg"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0131",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연미소 오미자원액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EB%AF%B8%EC%86%8C+%EC%98%A4%EB%AF%B8%EC%9E%90%EC%9B%90%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0132",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(풍기인삼 선물용 750g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%92%8D%EA%B8%B0%EC%9D%B8%EC%82%BC+%EC%84%A0%EB%AC%BC%EC%9A%A9+750g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0135",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보은황토대추)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EC%9D%80%ED%99%A9%ED%86%A0%EB%8C%80%EC%B6%94"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0142",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바담가 명태회무침 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%B4%EA%B0%80+%EB%AA%85%ED%83%9C%ED%9A%8C%EB%AC%B4%EC%B9%A8+500g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0147",
+      "price_60d_low": 33920,
+      "price_60d_typical": 35640,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '개성고려삼인 6년근 고려홍삼정 골드녹용 스틱 12g 100포' 1개 · 같은 상품 판정: 브랜드 개성고려삼인, 규격 [12.0], 개수 100. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=111117454",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=111117454&period=3"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0169",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연을 담은 조은 1,000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9D%84+%EB%8B%B4%EC%9D%80+%EC%A1%B0%EC%9D%80+1%2C000ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0170",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무공해 옹기 항아리 20리터)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EA%B3%B5%ED%95%B4+%EC%98%B9%EA%B8%B0+%ED%95%AD%EC%95%84%EB%A6%AC+20%EB%A6%AC%ED%84%B0"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0178",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(폴인허브 기프트 세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8F%B4%EC%9D%B8%ED%97%88%EB%B8%8C+%EA%B8%B0%ED%94%84%ED%8A%B8+%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0181",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(황토방)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%A9%ED%86%A0%EB%B0%A9"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0182",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(최씨네참기름국산참기름)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B5%9C%EC%94%A8%EB%84%A4%EC%B0%B8%EA%B8%B0%EB%A6%84%EA%B5%AD%EC%82%B0%EC%B0%B8%EA%B8%B0%EB%A6%84"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0188",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산산청시골농장감말랭이)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EC%82%B0%EC%B2%AD%EC%8B%9C%EA%B3%A8%EB%86%8D%EC%9E%A5%EA%B0%90%EB%A7%90%EB%9E%AD%EC%9D%B4"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0193",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개성고려삼인 고려홍삼정 시그니처)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EC%84%B1%EA%B3%A0%EB%A0%A4%EC%82%BC%EC%9D%B8+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%A0%95+%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0204",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(나주황금배)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%82%98%EC%A3%BC%ED%99%A9%EA%B8%88%EB%B0%B0"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0206",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(단백질이 풍부하고 볶아 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A8%EB%B0%B1%EC%A7%88%EC%9D%B4+%ED%92%8D%EB%B6%80%ED%95%98%EA%B3%A0+%EB%B3%B6%EC%95%84+300g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0211",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(죽향담소 한우 불고기 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BD%ED%96%A5%EB%8B%B4%EC%86%8C+%ED%95%9C%EC%9A%B0+%EB%B6%88%EA%B3%A0%EA%B8%B0+300g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0221",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청정촌 한우 꽃등심 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%A0%95%EC%B4%8C+%ED%95%9C%EC%9A%B0+%EA%BD%83%EB%93%B1%EC%8B%AC+300g"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0225",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강원나물밥 쉽게만들기)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EC%9B%90%EB%82%98%EB%AC%BC%EB%B0%A5+%EC%89%BD%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0226",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개성고려삼인 고려홍삼정 골드녹용)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EC%84%B1%EA%B3%A0%EB%A0%A4%EC%82%BC%EC%9D%B8+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%A0%95+%EA%B3%A8%EB%93%9C%EB%85%B9%EC%9A%A9"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0234",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맑은농장 석류)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%91%EC%9D%80%EB%86%8D%EC%9E%A5+%EC%84%9D%EB%A5%98"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0247",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에천어무이 참기름300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EC%B2%9C%EC%96%B4%EB%AC%B4%EC%9D%B4+%EC%B0%B8%EA%B8%B0%EB%A6%84300ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0248",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참올림 충북 음성 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EC%98%AC%EB%A6%BC+%EC%B6%A9%EB%B6%81+%EC%9D%8C%EC%84%B1+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0254",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초사랑 현미흑초 현미식초 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EC%82%AC%EB%9E%91+%ED%98%84%EB%AF%B8%ED%9D%91%EC%B4%88+%ED%98%84%EB%AF%B8%EC%8B%9D%EC%B4%88+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-epost-kgf-p6-0261",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청정촌 한우 채끝살 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%A0%95%EC%B4%8C+%ED%95%9C%EC%9A%B0+%EC%B1%84%EB%81%9D%EC%82%B4+300g"
+      ]
+    }
+  ]
+}

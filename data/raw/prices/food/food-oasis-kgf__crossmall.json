@@ -1,0 +1,4588 @@
+{
+  "category": "food",
+  "source_id": "food-oasis-kgf",
+  "collected_at": "2026-11-01T04:09:47",
+  "items": [
+    {
+      "item_id": "food-oasis-kgf-0987",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 비타풀 약산성 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%EB%B9%84%ED%83%80%ED%92%80+%EC%95%BD%EC%82%B0%EC%84%B1+120g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 화이트닝 밀키블리 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%ED%99%94%EC%9D%B4%ED%8A%B8%EB%8B%9D+%EB%B0%80%ED%82%A4%EB%B8%94%EB%A6%AC+50ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0980",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 플래티늄 트리트먼트, 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%ED%94%8C%EB%9E%98%ED%8B%B0%EB%8A%84+%ED%8A%B8%EB%A6%AC%ED%8A%B8%EB%A8%BC%ED%8A%B8%2C+1000ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0981",
+      "price_60d_low": 11800,
+      "price_60d_typical": 13700,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 플레티늄 약산성 샴푸 1000ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [1000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=117925180",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=117925180&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1027",
+      "price_60d_low": 9300,
+      "price_60d_typical": 9300,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 아쿠아 부스트 옴므 올인원 200ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [200.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=120879603",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=120879603&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1042",
+      "price_60d_low": 8360,
+      "price_60d_typical": 8550,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 익스트림 엣지 펜 아이라이너 0.5g' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [0.5], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=29667260",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=29667260&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0661",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 베리 굿 15g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%EB%B2%A0%EB%A6%AC+%EA%B5%BF+15g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0662",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 리얼 트윙클 23g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%EB%A6%AC%EC%96%BC+%ED%8A%B8%EC%9C%99%ED%81%B4+23g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0982",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 약산성 시카 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%EC%95%BD%EC%82%B0%EC%84%B1+%EC%8B%9C%EC%B9%B4+300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0693",
+      "price_60d_low": 9320,
+      "price_60d_typical": 9540,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 카렌듈라 스킨토너 150ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [150.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=118281441",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=118281441&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0787",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연을 먹은 무안 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9D%84+%EB%A8%B9%EC%9D%80+%EB%AC%B4%EC%95%88+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0272",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개성고려삼인 홍삼정 골드영지 12g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EC%84%B1%EA%B3%A0%EB%A0%A4%EC%82%BC%EC%9D%B8+%ED%99%8D%EC%82%BC%EC%A0%95+%EA%B3%A8%EB%93%9C%EC%98%81%EC%A7%80+12g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0939",
+      "price_60d_low": 9900,
+      "price_60d_typical": 11900,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 원스텝 올인원 약산성 클렌징밤 150ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [150.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=96824984",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=96824984&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1034",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 티트리 모이스쳐크림, 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%ED%8B%B0%ED%8A%B8%EB%A6%AC+%EB%AA%A8%EC%9D%B4%EC%8A%A4%EC%B3%90%ED%81%AC%EB%A6%BC%2C+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0681",
+      "price_60d_low": 7560,
+      "price_60d_typical": 7800,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 모낭 어성초비누 100g' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [100.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=7457584",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=7457584&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1012",
+      "price_60d_low": 9900,
+      "price_60d_typical": 9900,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 스네일 크림 120ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [120.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=116978485",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=116978485&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1014",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 더마 포유 150ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%EB%8D%94%EB%A7%88+%ED%8F%AC%EC%9C%A0+150ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0258",
+      "price_60d_low": 34420,
+      "price_60d_typical": 37200,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '개성고려삼인 진삼명가 6년근 홍삼정 오리진 스틱 10g 100포' 1개 · 같은 상품 판정: 브랜드 개성고려삼인, 규격 [10.0], 개수 100. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=114683395",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=114683395&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0682",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(록키스 베리 굿 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A1%9D%ED%82%A4%EC%8A%A4+%EB%B2%A0%EB%A6%AC+%EA%B5%BF+50ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1010",
+      "price_60d_low": 9320,
+      "price_60d_typical": 9540,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 카렌듈라 에멀전 150ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [150.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=113249994",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=113249994&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0289",
+      "price_60d_low": 20070,
+      "price_60d_typical": 25110,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '개성고려삼인 진삼명가 6년근 홍삼정 베이직 스틱 10g 100포' 1개 · 같은 상품 판정: 브랜드 개성고려삼인, 규격 [10.0], 개수 100. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=115006252",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=115006252&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1017",
+      "price_60d_low": 8150,
+      "price_60d_typical": 8900,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 콜라겐 퍼밍 리프트 앰플 55ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [55.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=116077237",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=116077237&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1018",
+      "price_60d_low": 9800,
+      "price_60d_typical": 13992,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 워터밤 빙하수 수딩젤 250ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [250.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122451750",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122451750&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0674",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(볶음 검정깨 흑임자가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B6%EC%9D%8C+%EA%B2%80%EC%A0%95%EA%B9%A8+%ED%9D%91%EC%9E%84%EC%9E%90%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0271",
+      "price_60d_low": 25280,
+      "price_60d_typical": 26020,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '개성고려삼인 진삼명가 6년근 홍삼정 골드녹용 홍삼 스틱 10g 100포' 1개 · 같은 상품 판정: 브랜드 개성고려삼인, 규격 [10.0], 개수 100. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=119239622",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=119239622&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0543",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연그대로 도라지배즙 x 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EA%B7%B8%EB%8C%80%EB%A1%9C+%EB%8F%84%EB%9D%BC%EC%A7%80%EB%B0%B0%EC%A6%99+x+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0422",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 야채샐러드 x 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%95%BC%EC%B1%84%EC%83%90%EB%9F%AC%EB%93%9C+x+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0656",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(민하네식탁 수제 고추 130g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%BC%ED%95%98%EB%84%A4%EC%8B%9D%ED%83%81+%EC%88%98%EC%A0%9C+%EA%B3%A0%EC%B6%94+130g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1021",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 슬라이스 양배추채 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4+%EC%96%91%EB%B0%B0%EC%B6%94%EC%B1%84+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0947",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생강품은 도라지배즙 면역력에 80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EA%B0%95%ED%92%88%EC%9D%80+%EB%8F%84%EB%9D%BC%EC%A7%80%EB%B0%B0%EC%A6%99+%EB%A9%B4%EC%97%AD%EB%A0%A5%EC%97%90+80g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0544",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연그대로 무안 자색양파즙 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EA%B7%B8%EB%8C%80%EB%A1%9C+%EB%AC%B4%EC%95%88+%EC%9E%90%EC%83%89%EC%96%91%ED%8C%8C%EC%A6%99+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(장스스파이스클럽 김치스리라차 110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%A5%EC%8A%A4%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4%ED%81%B4%EB%9F%BD+%EA%B9%80%EC%B9%98%EC%8A%A4%EB%A6%AC%EB%9D%BC%EC%B0%A8+110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1015",
+      "price_60d_low": 9300,
+      "price_60d_typical": 9300,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 더마 포유 약산성 아토로션 200ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [200.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=120737416",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=120737416&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 양배추 + 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%96%91%EB%B0%B0%EC%B6%94+%2B+2kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0782",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 야채샐러드 x 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%95%BC%EC%B1%84%EC%83%90%EB%9F%AC%EB%93%9C+x+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0613",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 건여주 + 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EA%B1%B4%EC%97%AC%EC%A3%BC+%2B+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0752",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 야채샐러드 x 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%95%BC%EC%B1%84%EC%83%90%EB%9F%AC%EB%93%9C+x+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1028",
+      "price_60d_low": 7900,
+      "price_60d_typical": 7900,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 씨 워터 모공 폼 클렌징 120ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [120.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=30712079",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=30712079&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0256",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보물유통활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%AC%BC%EC%9C%A0%ED%86%B5%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0914",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프리본 산도 엑스트라버진)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A6%AC%EB%B3%B8+%EC%82%B0%EB%8F%84+%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0658",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올리브오일 스틱 엑스트라버진 140ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%A4%EC%9D%BC+%EC%8A%A4%ED%8B%B1+%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84+140ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0023",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연이 만든 더 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9D%B4+%EB%A7%8C%EB%93%A0+%EB%8D%94+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0985",
+      "price_60d_low": 9810,
+      "price_60d_typical": 10900,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 타이트닝 포어 클린 팩 150g' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [150.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122375774",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122375774&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0646",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 건돼지감자 + 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EA%B1%B4%EB%8F%BC%EC%A7%80%EA%B0%90%EC%9E%90+%2B+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0391",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(최고급시나몬듬뿍 무설탕 저당 그래놀라400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B5%9C%EA%B3%A0%EA%B8%89%EC%8B%9C%EB%82%98%EB%AA%AC%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0392",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리얼카카오듬뿍 무설탕 저당 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%96%BC%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0393",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국산어린잎녹차듬뿍 무설탕 저당 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EC%82%B0%EC%96%B4%EB%A6%B0%EC%9E%8E%EB%85%B9%EC%B0%A8%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0394",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부드럽고달콤한 국산단호박 무설탕 그래놀라400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%EB%8B%AC%EC%BD%A4%ED%95%9C+%EA%B5%AD%EC%82%B0%EB%8B%A8%ED%98%B8%EB%B0%95+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0395",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진한고소함 흑임자서리태 무설탕 그래놀라400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%ED%95%9C%EA%B3%A0%EC%86%8C%ED%95%A8+%ED%9D%91%EC%9E%84%EC%9E%90%EC%84%9C%EB%A6%AC%ED%83%9C+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0396",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(담백고소바삭 바닐라플레인 무설탕 그래놀라400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B4%EB%B0%B1%EA%B3%A0%EC%86%8C%EB%B0%94%EC%82%AD+%EB%B0%94%EB%8B%90%EB%9D%BC%ED%94%8C%EB%A0%88%EC%9D%B8+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0845",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리얼코코넛듬뿍 무설탕 저당 그래놀라400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%96%BC%EC%BD%94%EC%BD%94%EB%84%9B%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1045",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(장스스파이스클럽 깻잎청양마요 110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%A5%EC%8A%A4%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4%ED%81%B4%EB%9F%BD+%EA%B9%BB%EC%9E%8E%EC%B2%AD%EC%96%91%EB%A7%88%EC%9A%94+110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0317",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부경식품 한우 등심 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EA%B2%BD%EC%8B%9D%ED%92%88+%ED%95%9C%EC%9A%B0+%EB%93%B1%EC%8B%AC+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0141",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(심스오가닉 ABC주스 x 120ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%AC%EC%8A%A4%EC%98%A4%EA%B0%80%EB%8B%89+ABC%EC%A3%BC%EC%8A%A4+x+120ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0614",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 무말랭이 + 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%AC%B4%EB%A7%90%EB%9E%AD%EC%9D%B4+%2B+300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0032",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 통우엉 + 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%ED%86%B5%EC%9A%B0%EC%97%89+%2B+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1032",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(장스스파이스클럽 고스트페퍼 핫소스 110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%A5%EC%8A%A4%EC%8A%A4%ED%8C%8C%EC%9D%B4%EC%8A%A4%ED%81%B4%EB%9F%BD+%EA%B3%A0%EC%8A%A4%ED%8A%B8%ED%8E%98%ED%8D%BC+%ED%95%AB%EC%86%8C%EC%8A%A4+110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0406",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연이 만든 도라지배즙 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9D%B4+%EB%A7%8C%EB%93%A0+%EB%8F%84%EB%9D%BC%EC%A7%80%EB%B0%B0%EC%A6%99+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0622",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 무청시래기 + 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%AC%B4%EC%B2%AD%EC%8B%9C%EB%9E%98%EA%B8%B0+%2B+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0663",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맘미라클 무불소 천연치약)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%98%EB%AF%B8%EB%9D%BC%ED%81%B4+%EB%AC%B4%EB%B6%88%EC%86%8C+%EC%B2%9C%EC%97%B0%EC%B9%98%EC%95%BD"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0697",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(콩국수 콩가루 서리태가루 850g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BD%A9%EA%B5%AD%EC%88%98+%EC%BD%A9%EA%B0%80%EB%A3%A8+%EC%84%9C%EB%A6%AC%ED%83%9C%EA%B0%80%EB%A3%A8+850g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0671",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 양배추 분말 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%96%91%EB%B0%B0%EC%B6%94+%EB%B6%84%EB%A7%90+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0210",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개성고려삼인 고려홍삼정 시그니처 10g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EC%84%B1%EA%B3%A0%EB%A0%A4%EC%82%BC%EC%9D%B8+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%A0%95+%EC%8B%9C%EA%B7%B8%EB%8B%88%EC%B2%98+10g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0461",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개별급속동결 간편하게 손질한 500gx2개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EB%B3%84%EA%B8%89%EC%86%8D%EB%8F%99%EA%B2%B0+%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C+%EC%86%90%EC%A7%88%ED%95%9C+500gx2%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0642",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 단호박 분말 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%8B%A8%ED%98%B8%EB%B0%95+%EB%B6%84%EB%A7%90+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0350",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프리팜 껍질째 먹는 2.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A6%AC%ED%8C%9C+%EA%BB%8D%EC%A7%88%EC%A7%B8+%EB%A8%B9%EB%8A%94+2.5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0067",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정성깃든 기장산 다시마 400ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%B1%EA%B9%83%EB%93%A0+%EA%B8%B0%EC%9E%A5%EC%82%B0+%EB%8B%A4%EC%8B%9C%EB%A7%88+400ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0652",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 케일 분말 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%BC%80%EC%9D%BC+%EB%B6%84%EB%A7%90+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0956",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(최고급시나몬듬뿍 무설탕 저당 그래놀라200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B5%9C%EA%B3%A0%EA%B8%89%EC%8B%9C%EB%82%98%EB%AA%AC%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0957",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리얼코코넛듬뿍 무설탕 저당 그래놀라200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%96%BC%EC%BD%94%EC%BD%94%EB%84%9B%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0958",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리얼카카오듬뿍 무설탕 저당 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%96%BC%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0962",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국산어린잎녹차듬뿍 무설탕 저당 그래놀라200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EC%82%B0%EC%96%B4%EB%A6%B0%EC%9E%8E%EB%85%B9%EC%B0%A8%EB%93%AC%EB%BF%8D+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%A0%80%EB%8B%B9+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0963",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부드럽고달콤한 국산단호박 무설탕 그래놀라200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B3%A0%EB%8B%AC%EC%BD%A4%ED%95%9C+%EA%B5%AD%EC%82%B0%EB%8B%A8%ED%98%B8%EB%B0%95+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0964",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(진한고소함 흑임자서리태 무설탕 그래놀라200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%84%ED%95%9C%EA%B3%A0%EC%86%8C%ED%95%A8+%ED%9D%91%EC%9E%84%EC%9E%90%EC%84%9C%EB%A6%AC%ED%83%9C+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0965",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(담백고소바삭 바닐라플레인 무설탕 그래놀라200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B4%EB%B0%B1%EA%B3%A0%EC%86%8C%EB%B0%94%EC%82%AD+%EB%B0%94%EB%8B%90%EB%9D%BC%ED%94%8C%EB%A0%88%EC%9D%B8+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%9E%98%EB%86%80%EB%9D%BC200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0380",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(민하네식탁 수제 황태껍질튀각 80g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AF%BC%ED%95%98%EB%84%A4%EC%8B%9D%ED%83%81+%EC%88%98%EC%A0%9C+%ED%99%A9%ED%83%9C%EA%BB%8D%EC%A7%88%ED%8A%80%EA%B0%81+80g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0946",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 건우엉 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EA%B1%B4%EC%9A%B0%EC%97%89+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0012",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호시절밀키트 양산맛집 리얼 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%8B%9C%EC%A0%88%EB%B0%80%ED%82%A4%ED%8A%B8+%EC%96%91%EC%82%B0%EB%A7%9B%EC%A7%91+%EB%A6%AC%EC%96%BC+400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0486",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 건표고버섯 + 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EA%B1%B4%ED%91%9C%EA%B3%A0%EB%B2%84%EC%84%AF+%2B+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0490",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기사식당돼지불백 한돈 목심 300gX2팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EC%82%AC%EC%8B%9D%EB%8B%B9%EB%8F%BC%EC%A7%80%EB%B6%88%EB%B0%B1+%ED%95%9C%EB%8F%88+%EB%AA%A9%EC%8B%AC+300gX2%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0477",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프리본 미국산 A등급 20gx14포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A6%AC%EB%B3%B8+%EB%AF%B8%EA%B5%AD%EC%82%B0+A%EB%93%B1%EA%B8%89+20gx14%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0520",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 울금분말 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%9A%B8%EA%B8%88%EB%B6%84%EB%A7%90+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0576",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(황토가마에 구운 황태실채 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%A9%ED%86%A0%EA%B0%80%EB%A7%88%EC%97%90+%EA%B5%AC%EC%9A%B4+%ED%99%A9%ED%83%9C%EC%8B%A4%EC%B1%84+150g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0610",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(황토가마에 구운 저염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%A9%ED%86%A0%EA%B0%80%EB%A7%88%EC%97%90+%EA%B5%AC%EC%9A%B4+%EC%A0%80%EC%97%BC+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0419",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 아침애 석류 75ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%95%84%EC%B9%A8%EC%95%A0+%EC%84%9D%EB%A5%98+75ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0672",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초간편 산나물반찬 밀키트 240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EA%B0%84%ED%8E%B8+%EC%82%B0%EB%82%98%EB%AC%BC%EB%B0%98%EC%B0%AC+%EB%B0%80%ED%82%A4%ED%8A%B8+240g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0673",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초간편 산나물반찬 밀키트 240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EA%B0%84%ED%8E%B8+%EC%82%B0%EB%82%98%EB%AC%BC%EB%B0%98%EC%B0%AC+%EB%B0%80%ED%82%A4%ED%8A%B8+240g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0677",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초간편 산나물반찬 밀키트 240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EA%B0%84%ED%8E%B8+%EC%82%B0%EB%82%98%EB%AC%BC%EB%B0%98%EC%B0%AC+%EB%B0%80%ED%82%A4%ED%8A%B8+240g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0261",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 황칠나무즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%ED%99%A9%EC%B9%A0%EB%82%98%EB%AC%B4%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0033",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보령 뉴 알부민 25mlX30병)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%A0%B9+%EB%89%B4+%EC%95%8C%EB%B6%80%EB%AF%BC+25mlX30%EB%B3%91"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0466",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 도라지 분말 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%8F%84%EB%9D%BC%EC%A7%80+%EB%B6%84%EB%A7%90+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1033",
+      "price_60d_low": 10030,
+      "price_60d_typical": 10260,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '록키스 워터밤 빙하수 필링젤 150ml' 1개 · 같은 상품 판정: 브랜드 록키스, 규격 [150.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=30700556",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=30700556&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0038",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 맥문동 배도라지즙 80ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%A7%A5%EB%AC%B8%EB%8F%99+%EB%B0%B0%EB%8F%84%EB%9D%BC%EC%A7%80%EC%A6%99+80ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0273",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연빛 고춧가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EB%B9%9B+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0905",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 생생야채수 x 110ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%83%9D%EC%83%9D%EC%95%BC%EC%B1%84%EC%88%98+x+110ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0049",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(퓨어초이스 엑스트라버진 아보카도오일 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%93%A8%EC%96%B4%EC%B4%88%EC%9D%B4%EC%8A%A4+%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%EB%B2%84%EC%A7%84+%EC%95%84%EB%B3%B4%EC%B9%B4%EB%8F%84%EC%98%A4%EC%9D%BC+250ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0447",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 무청시래기 + 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%AC%B4%EC%B2%AD%EC%8B%9C%EB%9E%98%EA%B8%B0+%2B+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0773",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 생생야채수 x 110ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%83%9D%EC%83%9D%EC%95%BC%EC%B1%84%EC%88%98+x+110ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0836",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 생생야채수 x 110ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%83%9D%EC%83%9D%EC%95%BC%EC%B1%84%EC%88%98+x+110ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0433",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개별급속동결 간편하고 달콤한 1kg+1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EB%B3%84%EA%B8%89%EC%86%8D%EB%8F%99%EA%B2%B0+%EA%B0%84%ED%8E%B8%ED%95%98%EA%B3%A0+%EB%8B%AC%EC%BD%A4%ED%95%9C+1kg%2B1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0459",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 슬라이스건표고 + 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EC%8A%AC%EB%9D%BC%EC%9D%B4%EC%8A%A4%EA%B1%B4%ED%91%9C%EA%B3%A0+%2B+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0605",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초간편 산나물반찬 밀키트 240g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EA%B0%84%ED%8E%B8+%EC%82%B0%EB%82%98%EB%AC%BC%EB%B0%98%EC%B0%AC+%EB%B0%80%ED%82%A4%ED%8A%B8+240g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0294",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태양활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EC%96%91%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0675",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해살이 오징어채 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EC%82%B4%EC%9D%B4+%EC%98%A4%EC%A7%95%EC%96%B4%EC%B1%84+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0608",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(초록한입 녹차 분말 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B4%88%EB%A1%9D%ED%95%9C%EC%9E%85+%EB%85%B9%EC%B0%A8+%EB%B6%84%EB%A7%90+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0513",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프리본 첨가물 없는 350gx3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A6%AC%EB%B3%B8+%EC%B2%A8%EA%B0%80%EB%AC%BC+%EC%97%86%EB%8A%94+350gx3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0011",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연이 만든 도라지배즙 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%9D%B4+%EB%A7%8C%EB%93%A0+%EB%8F%84%EB%9D%BC%EC%A7%80%EB%B0%B0%EC%A6%99+100ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0205",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 침향분말 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%B9%A8%ED%96%A5%EB%B6%84%EB%A7%90+300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0517",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바다누리 간편하게 손질한 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%8B%A4%EB%88%84%EB%A6%AC+%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C+%EC%86%90%EC%A7%88%ED%95%9C+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1039",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고소한 볶음 흑임자가루 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%86%8C%ED%95%9C+%EB%B3%B6%EC%9D%8C+%ED%9D%91%EC%9E%84%EC%9E%90%EA%B0%80%EB%A3%A8+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0378",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통영바다의 힘! 손질 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%EC%98%81%EB%B0%94%EB%8B%A4%EC%9D%98+%ED%9E%98%21+%EC%86%90%EC%A7%88+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0588",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고소한 볶음 검정깨 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%86%8C%ED%95%9C+%EB%B3%B6%EC%9D%8C+%EA%B2%80%EC%A0%95%EA%B9%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(권도령방앗간 저온압착 생들기름 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B6%8C%EB%8F%84%EB%A0%B9%EB%B0%A9%EC%95%97%EA%B0%84+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%83%9D%EB%93%A4%EA%B8%B0%EB%A6%84+350ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1007",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해내음 재래식 콩된장 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%82%B4%EC%9D%8C+%EC%9E%AC%EB%9E%98%EC%8B%9D+%EC%BD%A9%EB%90%9C%EC%9E%A5+1.5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1008",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(권도령방앗간 저온압착 참기름 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B6%8C%EB%8F%84%EB%A0%B9%EB%B0%A9%EC%95%97%EA%B0%84+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%B0%B8%EA%B8%B0%EB%A6%84+350ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0902",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달링키친 말고기)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EB%A7%81%ED%82%A4%EC%B9%9C+%EB%A7%90%EA%B3%A0%EA%B8%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0814",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(플러스디오사모레 리얼히알루로닉 플랜트 50ml*4ea)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%8C%EB%9F%AC%EC%8A%A4%EB%94%94%EC%98%A4%EC%82%AC%EB%AA%A8%EB%A0%88+%EB%A6%AC%EC%96%BC%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%9C%EB%8B%89+%ED%94%8C%EB%9E%9C%ED%8A%B8+50ml%2A4ea"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0425",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(베트남고춧가루 매운 땡초 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%A0%ED%8A%B8%EB%82%A8%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+%EB%A7%A4%EC%9A%B4+%EB%95%A1%EC%B4%88+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0627",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸레들 불리지 않는 대양발아귀리쌀600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%A0%88%EB%93%A4+%EB%B6%88%EB%A6%AC%EC%A7%80+%EC%95%8A%EB%8A%94+%EB%8C%80%EC%96%91%EB%B0%9C%EC%95%84%EA%B7%80%EB%A6%AC%EC%8C%80600g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0628",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸레들 불리지 않는 발아현미쌀750g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%A0%88%EB%93%A4+%EB%B6%88%EB%A6%AC%EC%A7%80+%EC%95%8A%EB%8A%94+%EB%B0%9C%EC%95%84%ED%98%84%EB%AF%B8%EC%8C%80750g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0629",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸레들 불리지 않는 발아찰현미쌀750g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%A0%88%EB%93%A4+%EB%B6%88%EB%A6%AC%EC%A7%80+%EC%95%8A%EB%8A%94+%EB%B0%9C%EC%95%84%EC%B0%B0%ED%98%84%EB%AF%B8%EC%8C%80750g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0630",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸레들 불리지 않는 흑광발아흑보리쌀600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%A0%88%EB%93%A4+%EB%B6%88%EB%A6%AC%EC%A7%80+%EC%95%8A%EB%8A%94+%ED%9D%91%EA%B4%91%EB%B0%9C%EC%95%84%ED%9D%91%EB%B3%B4%EB%A6%AC%EC%8C%80600g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0634",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(푸레들 불리지 않는 발아혼합쌀650g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%91%B8%EB%A0%88%EB%93%A4+%EB%B6%88%EB%A6%AC%EC%A7%80+%EC%95%8A%EB%8A%94+%EB%B0%9C%EC%95%84%ED%98%BC%ED%95%A9%EC%8C%80650g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0001",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(최상품 건고추 꼭지 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B5%9C%EC%83%81%ED%92%88+%EA%B1%B4%EA%B3%A0%EC%B6%94+%EA%BC%AD%EC%A7%80+600g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0268",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 벌나무즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EB%B2%8C%EB%82%98%EB%AC%B4%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0013",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 찹쌀고추장 340g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EC%B0%B9%EC%8C%80%EA%B3%A0%EC%B6%94%EC%9E%A5+340g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0469",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호시절족발 순살족발+막국수세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%8B%9C%EC%A0%88%EC%A1%B1%EB%B0%9C+%EC%88%9C%EC%82%B4%EC%A1%B1%EB%B0%9C%2B%EB%A7%89%EA%B5%AD%EC%88%98%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0134",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생백화고버섯 선물세트1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EB%B0%B1%ED%99%94%EA%B3%A0%EB%B2%84%EC%84%AF+%EC%84%A0%EB%AC%BC%EC%84%B8%ED%8A%B81.5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0767",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주곶감 명품건시)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%EB%AA%85%ED%92%88%EA%B1%B4%EC%8B%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0010",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇시루 쫀득쫀득 달콤한 60gx12개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%8B%9C%EB%A3%A8+%EC%AB%80%EB%93%9D%EC%AB%80%EB%93%9D+%EB%8B%AC%EC%BD%A4%ED%95%9C+60gx12%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0153",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(혈관청소부 햄프씨드 오일 30ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%88%EA%B4%80%EC%B2%AD%EC%86%8C%EB%B6%80+%ED%96%84%ED%94%84%EC%94%A8%EB%93%9C+%EC%98%A4%EC%9D%BC+30ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0615",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 고로쇠된장 340g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EA%B3%A0%EB%A1%9C%EC%87%A0%EB%90%9C%EC%9E%A5+340g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0227",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 곰보배추즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EA%B3%B0%EB%B3%B4%EB%B0%B0%EC%B6%94%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0666",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리틀앤마더 애플사이다 비니거 15g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%ED%8B%80%EC%95%A4%EB%A7%88%EB%8D%94+%EC%95%A0%ED%94%8C%EC%82%AC%EC%9D%B4%EB%8B%A4+%EB%B9%84%EB%8B%88%EA%B1%B0+15g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0367",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(물한방울 넣지 않은 100ml*30팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%BC%ED%95%9C%EB%B0%A9%EC%9A%B8+%EB%84%A3%EC%A7%80+%EC%95%8A%EC%9D%80+100ml%2A30%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0370",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(물한방울 넣지 않은 80ml*30팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%BC%ED%95%9C%EB%B0%A9%EC%9A%B8+%EB%84%A3%EC%A7%80+%EC%95%8A%EC%9D%80+80ml%2A30%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0570",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주도 감태추출물 굿나잇)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EA%B0%90%ED%83%9C%EC%B6%94%EC%B6%9C%EB%AC%BC+%EA%B5%BF%EB%82%98%EC%9E%87"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0312",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(톡쏘는 청량한 와사비오일 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%A1%EC%8F%98%EB%8A%94+%EC%B2%AD%EB%9F%89%ED%95%9C+%EC%99%80%EC%82%AC%EB%B9%84%EC%98%A4%EC%9D%BC+1000ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0080",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(파인애플)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8C%8C%EC%9D%B8%EC%95%A0%ED%94%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0648",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 한돈 냉동 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%ED%95%9C%EB%8F%88+%EB%83%89%EB%8F%99+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0418",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(현미팩토리 자연담은 현미랑 75g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%84%EB%AF%B8%ED%8C%A9%ED%86%A0%EB%A6%AC+%EC%9E%90%EC%97%B0%EB%8B%B4%EC%9D%80+%ED%98%84%EB%AF%B8%EB%9E%91+75g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0260",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 자색 돼지감자즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%9E%90%EC%83%89+%EB%8F%BC%EC%A7%80%EA%B0%90%EC%9E%90%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0123",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(충북인삼농협 황제침향환 3.75g*32환)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B6%A9%EB%B6%81%EC%9D%B8%EC%82%BC%EB%86%8D%ED%98%91+%ED%99%A9%EC%A0%9C%EC%B9%A8%ED%96%A5%ED%99%98+3.75g%2A32%ED%99%98"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0712",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청년푸줏간 냉장육 마늘닭갈비 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%85%84%ED%91%B8%EC%A4%8F%EA%B0%84+%EB%83%89%EC%9E%A5%EC%9C%A1+%EB%A7%88%EB%8A%98%EB%8B%AD%EA%B0%88%EB%B9%84+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0300",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(슈퍼푸드 A등급 미국산 1kg+1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%88%ED%8D%BC%ED%91%B8%EB%93%9C+A%EB%93%B1%EA%B8%89+%EB%AF%B8%EA%B5%AD%EC%82%B0+1kg%2B1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1029",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(귀정떡방 녹두볼떡 제주 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%80%EC%A0%95%EB%96%A1%EB%B0%A9+%EB%85%B9%EB%91%90%EB%B3%BC%EB%96%A1+%EC%A0%9C%EC%A3%BC+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1030",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(귀정떡방 크림 치즈볼떡 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%80%EC%A0%95%EB%96%A1%EB%B0%A9+%ED%81%AC%EB%A6%BC+%EC%B9%98%EC%A6%88%EB%B3%BC%EB%96%A1+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1031",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(귀정떡방 ZERO 제로꿀떡 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%80%EC%A0%95%EB%96%A1%EB%B0%A9+ZERO+%EC%A0%9C%EB%A1%9C%EA%BF%80%EB%96%A1+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0348",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 비수리 야관문즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EB%B9%84%EC%88%98%EB%A6%AC+%EC%95%BC%EA%B4%80%EB%AC%B8%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0093",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(피아골미선씨 냄새없는 무염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%BC%EC%95%84%EA%B3%A8%EB%AF%B8%EC%84%A0%EC%94%A8+%EB%83%84%EC%83%88%EC%97%86%EB%8A%94+%EB%AC%B4%EC%97%BC+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0165",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태백산 약콩으로 만든)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EB%B0%B1%EC%82%B0+%EC%95%BD%EC%BD%A9%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0295",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 두충 나무즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EB%91%90%EC%B6%A9+%EB%82%98%EB%AC%B4%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0822",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스푼타임 통통 새우 25g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%ED%91%BC%ED%83%80%EC%9E%84+%ED%86%B5%ED%86%B5+%EC%83%88%EC%9A%B0+25g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0492",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇시루 찹쌀과 재료로 45gx15입)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%8B%9C%EB%A3%A8+%EC%B0%B9%EC%8C%80%EA%B3%BC+%EC%9E%AC%EB%A3%8C%EB%A1%9C+45gx15%EC%9E%85"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0140",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수미과 사과)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EB%AF%B8%EA%B3%BC+%EC%82%AC%EA%B3%BC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0468",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맛뜰안 부산명품 어묵꼬치40g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%9B%EB%9C%B0%EC%95%88+%EB%B6%80%EC%82%B0%EB%AA%85%ED%92%88+%EC%96%B4%EB%AC%B5%EA%BC%AC%EC%B9%9840g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0148",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(우리 엄마가 인정한 2.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B0%EB%A6%AC+%EC%97%84%EB%A7%88%EA%B0%80+%EC%9D%B8%EC%A0%95%ED%95%9C+2.5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0149",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(경북 의성 고추가루 2.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%BD%EB%B6%81+%EC%9D%98%EC%84%B1+%EA%B3%A0%EC%B6%94%EA%B0%80%EB%A3%A8+2.5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0055",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(윤선애선인장 석류선인장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A4%EC%84%A0%EC%95%A0%EC%84%A0%EC%9D%B8%EC%9E%A5+%EC%84%9D%EB%A5%98%EC%84%A0%EC%9D%B8%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0654",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(잇밋 수제베이컨 삼겹살 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%87%EB%B0%8B+%EC%88%98%EC%A0%9C%EB%B2%A0%EC%9D%B4%EC%BB%A8+%EC%82%BC%EA%B2%B9%EC%82%B4+150g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0657",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무첨가 국산콩 저염)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EC%B2%A8%EA%B0%80+%EA%B5%AD%EC%82%B0%EC%BD%A9+%EC%A0%80%EC%97%BC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0202",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(백화고버섯 참나무배지 생표고버섯 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%B1%ED%99%94%EA%B3%A0%EB%B2%84%EC%84%AF+%EC%B0%B8%EB%82%98%EB%AC%B4%EB%B0%B0%EC%A7%80+%EC%83%9D%ED%91%9C%EA%B3%A0%EB%B2%84%EC%84%AF+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0759",
+      "price_60d_low": 32830,
+      "price_60d_typical": 33510,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '대한홍삼 고려 천홍삼 진액고 1000g' 1개 · 같은 상품 판정: 브랜드 대한홍삼, 규격 [1000.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=116120386",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=116120386&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0776",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 수세미즙 엑기스)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%88%98%EC%84%B8%EB%AF%B8%EC%A6%99+%EC%97%91%EA%B8%B0%EC%8A%A4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0287",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(양파장 세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%91%ED%8C%8C%EC%9E%A5+%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0293",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주 고깔 양배추즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC+%EA%B3%A0%EA%B9%94+%EC%96%91%EB%B0%B0%EC%B6%94%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0429",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태양초 고춧가루)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EC%96%91%EC%B4%88+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0637",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루베리 와인소금 천일염 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC+%EC%99%80%EC%9D%B8%EC%86%8C%EA%B8%88+%EC%B2%9C%EC%9D%BC%EC%97%BC+250g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0950",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 한돈 냉장 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%ED%95%9C%EB%8F%88+%EB%83%89%EC%9E%A5+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0346",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무료배송 지리산 아카시아 2.4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EB%A3%8C%EB%B0%B0%EC%86%A1+%EC%A7%80%EB%A6%AC%EC%82%B0+%EC%95%84%EC%B9%B4%EC%8B%9C%EC%95%84+2.4kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0626",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티바인 음료용 베버리지 520g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EB%B0%94%EC%9D%B8+%EC%9D%8C%EB%A3%8C%EC%9A%A9+%EB%B2%A0%EB%B2%84%EB%A6%AC%EC%A7%80+520g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0632",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(냄새를 줄여 더)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%83%84%EC%83%88%EB%A5%BC+%EC%A4%84%EC%97%AC+%EB%8D%94"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0325",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 헛개나무즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%ED%97%9B%EA%B0%9C%EB%82%98%EB%AC%B4%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0542",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(봉채소 아쿠아포닉스 무농약 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B4%89%EC%B1%84%EC%86%8C+%EC%95%84%EC%BF%A0%EC%95%84%ED%8F%AC%EB%8B%89%EC%8A%A4+%EB%AC%B4%EB%86%8D%EC%95%BD+600g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0763",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주곶감 특반건시)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%ED%8A%B9%EB%B0%98%EA%B1%B4%EC%8B%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0786",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 가브리살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EA%B0%80%EB%B8%8C%EB%A6%AC%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0800",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주곶감 건시)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%EA%B1%B4%EC%8B%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0801",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주곶감 반건시)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%EB%B0%98%EA%B1%B4%EC%8B%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0825",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주곶감)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0846",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(발효곤약 현미밥/렌틸콩밥/쌀눈밥 150g*10팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%9C%ED%9A%A8%EA%B3%A4%EC%95%BD+%ED%98%84%EB%AF%B8%EB%B0%A5%2F%EB%A0%8C%ED%8B%B8%EC%BD%A9%EB%B0%A5%2F%EC%8C%80%EB%88%88%EB%B0%A5+150g%2A10%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0903",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오매불망 오매 스틱 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%A7%A4%EB%B6%88%EB%A7%9D+%EC%98%A4%EB%A7%A4+%EC%8A%A4%ED%8B%B1+300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0931",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 안심 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EC%95%88%EC%8B%AC+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0935",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(다물꼬치 캠핑용 꼬치구이세트 캠핑깐부400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A4%EB%AC%BC%EA%BC%AC%EC%B9%98+%EC%BA%A0%ED%95%91%EC%9A%A9+%EA%BC%AC%EC%B9%98%EA%B5%AC%EC%9D%B4%EC%84%B8%ED%8A%B8+%EC%BA%A0%ED%95%91%EA%B9%90%EB%B6%80400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0991",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 잔두리 곰탕 350ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EC%9E%94%EB%91%90%EB%A6%AC+%EA%B3%B0%ED%83%95+350ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0491",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇시루 정겨운 할머니 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%8B%9C%EB%A3%A8+%EC%A0%95%EA%B2%A8%EC%9A%B4+%ED%95%A0%EB%A8%B8%EB%8B%88+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0894",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이스라엘 전통 피타 100gx6개입)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98+%EC%A0%84%ED%86%B5+%ED%94%BC%ED%83%80+100gx6%EA%B0%9C%EC%9E%85"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0934",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(베트남 땡초 고춧가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%A0%ED%8A%B8%EB%82%A8+%EB%95%A1%EC%B4%88+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0314",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(뚱자언니 연탄 무뼈닭발 180g*3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9A%B1%EC%9E%90%EC%96%B8%EB%8B%88+%EC%97%B0%ED%83%84+%EB%AC%B4%EB%BC%88%EB%8B%AD%EB%B0%9C+180g%2A3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0930",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하동 황금 매실 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EB%8F%99+%ED%99%A9%EA%B8%88+%EB%A7%A4%EC%8B%A4+500ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(블루베리와인식초 천연발효 블루베리 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC%EC%99%80%EC%9D%B8%EC%8B%9D%EC%B4%88+%EC%B2%9C%EC%97%B0%EB%B0%9C%ED%9A%A8+%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC+500ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0368",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(물한방울 넣지 않은 100ml*30팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%BC%ED%95%9C%EB%B0%A9%EC%9A%B8+%EB%84%A3%EC%A7%80+%EC%95%8A%EC%9D%80+100ml%2A30%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0483",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 아기이유식 테스트 케이올110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EC%95%84%EA%B8%B0%EC%9D%B4%EC%9C%A0%EC%8B%9D+%ED%85%8C%EC%8A%A4%ED%8A%B8+%EC%BC%80%EC%9D%B4%EC%98%AC110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0960",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하동 황금매실톡톡 매실액기스 600g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EB%8F%99+%ED%99%A9%EA%B8%88%EB%A7%A4%EC%8B%A4%ED%86%A1%ED%86%A1+%EB%A7%A4%EC%8B%A4%EC%95%A1%EA%B8%B0%EC%8A%A4+600g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0063",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(농부의딸 우리현미스낵)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%86%8D%EB%B6%80%EC%9D%98%EB%94%B8+%EC%9A%B0%EB%A6%AC%ED%98%84%EB%AF%B8%EC%8A%A4%EB%82%B5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0298",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고소한 참기름 들기름 1.7L~)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%86%8C%ED%95%9C+%EC%B0%B8%EA%B8%B0%EB%A6%84+%EB%93%A4%EA%B8%B0%EB%A6%84+1.7L~"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0932",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(개성고려삼인 고려홍삼정 전체식 12g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%9C%EC%84%B1%EA%B3%A0%EB%A0%A4%EC%82%BC%EC%9D%B8+%EA%B3%A0%EB%A0%A4%ED%99%8D%EC%82%BC%EC%A0%95+%EC%A0%84%EC%B2%B4%EC%8B%9D+12g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0066",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(요리 뚝딱 맛있는 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%94%EB%A6%AC+%EB%9A%9D%EB%94%B1+%EB%A7%9B%EC%9E%88%EB%8A%94+90g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0112",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(마른기침에 도움되는 이풀 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%88%EB%A5%B8%EA%B8%B0%EC%B9%A8%EC%97%90+%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94+%EC%9D%B4%ED%92%80+120g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0503",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(요리 뚝딱 맛있는 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%94%EB%A6%AC+%EB%9A%9D%EB%94%B1+%EB%A7%9B%EC%9E%88%EB%8A%94+90g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0747",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한올레 옥돔자반)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%98%AC%EB%A0%88+%EC%98%A5%EB%8F%94%EC%9E%90%EB%B0%98"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0142",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(수미과 배)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%98%EB%AF%B8%EA%B3%BC+%EB%B0%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0824",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(울릉도 와사비맛 명이나물 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B8%EB%A6%89%EB%8F%84+%EC%99%80%EC%82%AC%EB%B9%84%EB%A7%9B+%EB%AA%85%EC%9D%B4%EB%82%98%EB%AC%BC+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0347",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 고로쇠된장 950g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EA%B3%A0%EB%A1%9C%EC%87%A0%EB%90%9C%EC%9E%A5+950g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0587",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(시원하게 레몬담다 제주 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%9C%EC%9B%90%ED%95%98%EA%B2%8C+%EB%A0%88%EB%AA%AC%EB%8B%B4%EB%8B%A4+%EC%A0%9C%EC%A3%BC+150g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0812",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 삼겹살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EC%82%BC%EA%B2%B9%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0813",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 삼겹살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EC%82%BC%EA%B2%B9%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0229",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 엉겅퀴즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%97%89%EA%B2%85%ED%80%B4%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0244",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강원도산 약도라지 진청)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%EC%9B%90%EB%8F%84%EC%82%B0+%EC%95%BD%EB%8F%84%EB%9D%BC%EC%A7%80+%EC%A7%84%EC%B2%AD"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0331",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(채향원 블루베리 착즙 80ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B1%84%ED%96%A5%EC%9B%90+%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC+%EC%B0%A9%EC%A6%99+80ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0402",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정성가득 고춧가루)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%B1%EA%B0%80%EB%93%9D+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0046",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(간편하게 사용하는 얼갈이 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C+%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94+%EC%96%BC%EA%B0%88%EC%9D%B4+3kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0562",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티바인 고흥 유자청 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EB%B0%94%EC%9D%B8+%EA%B3%A0%ED%9D%A5+%EC%9C%A0%EC%9E%90%EC%B2%AD+450g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0116",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해담는집 메리골드 꽃차 50g/건조차)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%8B%B4%EB%8A%94%EC%A7%91+%EB%A9%94%EB%A6%AC%EA%B3%A8%EB%93%9C+%EA%BD%83%EC%B0%A8+50g%2F%EA%B1%B4%EC%A1%B0%EC%B0%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0530",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정성깃든 기장산 다시마 400ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EC%84%B1%EA%B9%83%EB%93%A0+%EA%B8%B0%EC%9E%A5%EC%82%B0+%EB%8B%A4%EC%8B%9C%EB%A7%88+400ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0823",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 목살 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EB%AA%A9%EC%82%B4+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0691",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(씨를 빼고 담가)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%94%A8%EB%A5%BC+%EB%B9%BC%EA%B3%A0+%EB%8B%B4%EA%B0%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0531",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(랍스터 테일 꼬리살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9E%8D%EC%8A%A4%ED%84%B0+%ED%85%8C%EC%9D%BC+%EA%BC%AC%EB%A6%AC%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0088",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해피가피 복분자)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%ED%94%BC%EA%B0%80%ED%94%BC+%EB%B3%B5%EB%B6%84%EC%9E%90"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0528",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티바인 자몽/레몬 허니 400ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EB%B0%94%EC%9D%B8+%EC%9E%90%EB%AA%BD%2F%EB%A0%88%EB%AA%AC+%ED%97%88%EB%8B%88+400ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0920",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(티바인 히비스커스 콜드브루 400ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8B%B0%EB%B0%94%EC%9D%B8+%ED%9E%88%EB%B9%84%EC%8A%A4%EC%BB%A4%EC%8A%A4+%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8+400ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0460",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연산 이지필 붉은새우)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%82%B0+%EC%9D%B4%EC%A7%80%ED%95%84+%EB%B6%89%EC%9D%80%EC%83%88%EC%9A%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0267",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 여주즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%97%AC%EC%A3%BC%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0369",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(후기 인정받은 뚱자언니 700g*3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%9B%84%EA%B8%B0+%EC%9D%B8%EC%A0%95%EB%B0%9B%EC%9D%80+%EB%9A%B1%EC%9E%90%EC%96%B8%EB%8B%88+700g%2A3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0276",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 찹쌀고추장 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EC%B0%B9%EC%8C%80%EA%B3%A0%EC%B6%94%EC%9E%A5+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0595",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통압착 방식 부안댁 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%EC%95%95%EC%B0%A9+%EB%B0%A9%EC%8B%9D+%EB%B6%80%EC%95%88%EB%8C%81+300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0257",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(특허 공법으로 만든 620g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B9%ED%97%88+%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%A0+620g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0529",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇볕에 백진미 홍진미 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EB%B3%95%EC%97%90+%EB%B0%B1%EC%A7%84%EB%AF%B8+%ED%99%8D%EC%A7%84%EB%AF%B8+300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0323",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 무알콜와인 뜨락에 750ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%EB%AC%B4%EC%95%8C%EC%BD%9C%EC%99%80%EC%9D%B8+%EB%9C%A8%EB%9D%BD%EC%97%90+750ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0590",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(검은콩 선식)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%80%EC%9D%80%EC%BD%A9+%EC%84%A0%EC%8B%9D"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0941",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(울릉허브 궁채 장아찌 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B8%EB%A6%89%ED%97%88%EB%B8%8C+%EA%B6%81%EC%B1%84+%EC%9E%A5%EC%95%84%EC%B0%8C+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0876",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 앞다리 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EC%95%9E%EB%8B%A4%EB%A6%AC+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0536",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 청양고춧가루와 땅콩버터의 핫110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8%EC%99%80+%EB%95%85%EC%BD%A9%EB%B2%84%ED%84%B0%EC%9D%98+%ED%95%AB110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0537",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 에스프레소 카카오닙스 에쏘110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C+%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%8B%99%EC%8A%A4+%EC%97%90%EC%8F%98110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0538",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 밀크잼 수제 밀크잼110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EB%B0%80%ED%81%AC%EC%9E%BC+%EC%88%98%EC%A0%9C+%EB%B0%80%ED%81%AC%EC%9E%BC110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0539",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 키토초코잼 무설탕 카카오110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%ED%82%A4%ED%86%A0%EC%B4%88%EC%BD%94%EC%9E%BC+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%B9%B4%EC%B9%B4%EC%98%A4110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0540",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 시나몬스프레드 무설탕 시나몬110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EC%8B%9C%EB%82%98%EB%AA%AC%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C+%EB%AC%B4%EC%84%A4%ED%83%95+%EC%8B%9C%EB%82%98%EB%AA%AC110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0541",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(원산지국산 녹차스프레드 무설탕 그린티110g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%90%EC%82%B0%EC%A7%80%EA%B5%AD%EC%82%B0+%EB%85%B9%EC%B0%A8%EC%8A%A4%ED%94%84%EB%A0%88%EB%93%9C+%EB%AC%B4%EC%84%A4%ED%83%95+%EA%B7%B8%EB%A6%B0%ED%8B%B0110g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0806",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청흥버섯연구소 무농약 GAP 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%ED%9D%A5%EB%B2%84%EC%84%AF%EC%97%B0%EA%B5%AC%EC%86%8C+%EB%AC%B4%EB%86%8D%EC%95%BD+GAP+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0841",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 건청국장 알)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EA%B1%B4%EC%B2%AD%EA%B5%AD%EC%9E%A5+%EC%95%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0842",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 건 청국장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EA%B1%B4+%EC%B2%AD%EA%B5%AD%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0843",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 전통한식간장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D%EA%B0%84%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0844",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 끓여먹는 생)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EB%81%93%EC%97%AC%EB%A8%B9%EB%8A%94+%EC%83%9D"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0921",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(문경쑥돈 등심 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B8%EA%B2%BD%EC%91%A5%EB%8F%88+%EB%93%B1%EC%8B%AC+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0441",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(땅끝 햇살로 만든)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%95%85%EB%81%9D+%ED%96%87%EC%82%B4%EB%A1%9C+%EB%A7%8C%EB%93%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0479",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유자 그대로)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%EC%9E%90+%EA%B7%B8%EB%8C%80%EB%A1%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0480",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(퓨어플랜 유자&생강)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%93%A8%EC%96%B4%ED%94%8C%EB%9E%9C+%EC%9C%A0%EC%9E%90%26%EC%83%9D%EA%B0%95"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0792",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통방식으로 만드는 콩알콩알)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%BD%A9%EC%95%8C%EC%BD%A9%EC%95%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0816",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 고추장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EA%B3%A0%EC%B6%94%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0817",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 황칠된장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%ED%99%A9%EC%B9%A0%EB%90%9C%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0448",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(캐나다산 자숙 랍스터)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BA%90%EB%82%98%EB%8B%A4%EC%82%B0+%EC%9E%90%EC%88%99+%EB%9E%8D%EC%8A%A4%ED%84%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0771",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(광양 김해우 수제부각)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B4%91%EC%96%91+%EA%B9%80%ED%95%B4%EC%9A%B0+%EC%88%98%EC%A0%9C%EB%B6%80%EA%B0%81"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0870",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(손질 한우 통대창 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%90%EC%A7%88+%ED%95%9C%EC%9A%B0+%ED%86%B5%EB%8C%80%EC%B0%BD+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0888",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이반촌 건돌배)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EB%B0%98%EC%B4%8C+%EA%B1%B4%EB%8F%8C%EB%B0%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0919",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고들 미스트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EB%93%A4+%EB%AF%B8%EC%8A%A4%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무농약 쌀로 만든 50gx10봉)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EB%86%8D%EC%95%BD+%EC%8C%80%EB%A1%9C+%EB%A7%8C%EB%93%A0+50gx10%EB%B4%89"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(아기이유식물로 좋은 이풀 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%84%EA%B8%B0%EC%9D%B4%EC%9C%A0%EC%8B%9D%EB%AC%BC%EB%A1%9C+%EC%A2%8B%EC%9D%80+%EC%9D%B4%ED%92%80+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0096",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(피아골미선씨 냄새없는 무염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%BC%EC%95%84%EA%B3%A8%EB%AF%B8%EC%84%A0%EC%94%A8+%EB%83%84%EC%83%88%EC%97%86%EB%8A%94+%EB%AC%B4%EC%97%BC+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0306",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(압구정본가불닭발 숯불 무뼈 250g*3팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%95%EA%B5%AC%EC%A0%95%EB%B3%B8%EA%B0%80%EB%B6%88%EB%8B%AD%EB%B0%9C+%EC%88%AF%EB%B6%88+%EB%AC%B4%EB%BC%88+250g%2A3%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0420",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(trufru 리얼생생)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=trufru+%EB%A6%AC%EC%96%BC%EC%83%9D%EC%83%9D"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0421",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생강 그대로)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EA%B0%95+%EA%B7%B8%EB%8C%80%EB%A1%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0446",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모란향가 저온압착 들기름 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EB%9E%80%ED%96%A5%EA%B0%80+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EB%93%A4%EA%B8%B0%EB%A6%84+250ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0685",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(떡볶이 소스 가득)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%96%A1%EB%B3%B6%EC%9D%B4+%EC%86%8C%EC%8A%A4+%EA%B0%80%EB%93%9D"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0741",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(광양 매실 머금은)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B4%91%EC%96%91+%EB%A7%A4%EC%8B%A4+%EB%A8%B8%EA%B8%88%EC%9D%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0775",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(제주)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%9C%EC%A3%BC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0802",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통방식으로 만드는 콩알콩알)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%BD%A9%EC%95%8C%EC%BD%A9%EC%95%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0803",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(춘천산 GAP 인증)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B6%98%EC%B2%9C%EC%82%B0+GAP+%EC%9D%B8%EC%A6%9D"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0819",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(새싹삼 누룽지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%88%EC%8B%B9%EC%82%BC+%EB%88%84%EB%A3%BD%EC%A7%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1002",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해내음 양념가득 골드 1.5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%82%B4%EC%9D%8C+%EC%96%91%EB%85%90%EA%B0%80%EB%93%9D+%EA%B3%A8%EB%93%9C+1.5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0187",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건강한 참기름180ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EA%B0%95%ED%95%9C+%EC%B0%B8%EA%B8%B0%EB%A6%84180ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0463",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(매실 왕 씨앗호떡)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%A4%EC%8B%A4+%EC%99%95+%EC%94%A8%EC%95%97%ED%98%B8%EB%96%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0464",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건강해지는 쉐이크 미숫씨)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EA%B0%95%ED%95%B4%EC%A7%80%EB%8A%94+%EC%89%90%EC%9D%B4%ED%81%AC+%EB%AF%B8%EC%88%AB%EC%94%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0465",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(곡성 자연건조 말린)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A1%EC%84%B1+%EC%9E%90%EC%97%B0%EA%B1%B4%EC%A1%B0+%EB%A7%90%EB%A6%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0521",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정남진우리김부각오리지널)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%82%A8%EC%A7%84%EC%9A%B0%EB%A6%AC%EA%B9%80%EB%B6%80%EA%B0%81%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0575",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(정남진우리김부각튀김)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%95%EB%82%A8%EC%A7%84%EC%9A%B0%EB%A6%AC%EA%B9%80%EB%B6%80%EA%B0%81%ED%8A%80%EA%B9%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0647",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(죽순이 들어간 담그루)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BD%EC%88%9C%EC%9D%B4+%EB%93%A4%EC%96%B4%EA%B0%84+%EB%8B%B4%EA%B7%B8%EB%A3%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0808",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 건 청국장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EA%B1%B4+%EC%B2%AD%EA%B5%AD%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0865",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통방식으로 만드는 콩알콩알)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%BD%A9%EC%95%8C%EC%BD%A9%EC%95%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0866",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 된장)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EB%90%9C%EC%9E%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0877",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이반촌 산돌배즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EB%B0%98%EC%B4%8C+%EC%82%B0%EB%8F%8C%EB%B0%B0%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0917",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(새싹삼 누룽지)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%88%EC%8B%B9%EC%82%BC+%EB%88%84%EB%A3%BD%EC%A7%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0382",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(퓨어플랜 유자 그대로)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%93%A8%EC%96%B4%ED%94%8C%EB%9E%9C+%EC%9C%A0%EC%9E%90+%EA%B7%B8%EB%8C%80%EB%A1%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0668",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한입쫄깃 모짜렐라 생치즈떡)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%9E%85%EC%AB%84%EA%B9%83+%EB%AA%A8%EC%A7%9C%EB%A0%90%EB%9D%BC+%EC%83%9D%EC%B9%98%EC%A6%88%EB%96%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0779",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(햇콩마루 바로먹는 생)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%96%87%EC%BD%A9%EB%A7%88%EB%A3%A8+%EB%B0%94%EB%A1%9C%EB%A8%B9%EB%8A%94+%EC%83%9D"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0815",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이조은 비파 돌김)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%EC%A1%B0%EC%9D%80+%EB%B9%84%ED%8C%8C+%EB%8F%8C%EA%B9%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0834",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(직접 재배한 약선생강차)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%81%EC%A0%91+%EC%9E%AC%EB%B0%B0%ED%95%9C+%EC%95%BD%EC%84%A0%EC%83%9D%EA%B0%95%EC%B0%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0899",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(약선 유기농볶음깨)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%BD%EC%84%A0+%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B3%B6%EC%9D%8C%EA%B9%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0512",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(담그루 대숲맑은 청정)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%B4%EA%B7%B8%EB%A3%A8+%EB%8C%80%EC%88%B2%EB%A7%91%EC%9D%80+%EC%B2%AD%EC%A0%95"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0424",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(오바다 반건조오징어 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%A4%EB%B0%94%EB%8B%A4+%EB%B0%98%EA%B1%B4%EC%A1%B0%EC%98%A4%EC%A7%95%EC%96%B4+450g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0862",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부경식품 호주산 청정우 300g+300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EA%B2%BD%EC%8B%9D%ED%92%88+%ED%98%B8%EC%A3%BC%EC%82%B0+%EC%B2%AD%EC%A0%95%EC%9A%B0+300g%2B300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0638",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저탄소 유기농쌀 보리쌀 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%ED%83%84%EC%86%8C+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%8C%80+%EB%B3%B4%EB%A6%AC%EC%8C%80+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0966",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가리비 관자 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EB%A6%AC%EB%B9%84+%EA%B4%80%EC%9E%90+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0218",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(특허 공법으로 만든 700g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8A%B9%ED%97%88+%EA%B3%B5%EB%B2%95%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%A0+700g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0277",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(경북의성 HACCP 고춧가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%BD%EB%B6%81%EC%9D%98%EC%84%B1+HACCP+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0714",
+      "price_60d_low": 5800,
+      "price_60d_typical": 5980,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '아인스 닥터밀리브 가바영양8곡 450g' 1개 · 같은 상품 판정: 브랜드 밀리브, 규격 [450.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122679410",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122679410&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0798",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(밀리브 찰현미 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%80%EB%A6%AC%EB%B8%8C+%EC%B0%B0%ED%98%84%EB%AF%B8+5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0799",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(밀리브 찰흑미 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%80%EB%A6%AC%EB%B8%8C+%EC%B0%B0%ED%9D%91%EB%AF%B8+5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0818",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(밀리브 경기미 5kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%80%EB%A6%AC%EB%B8%8C+%EA%B2%BD%EA%B8%B0%EB%AF%B8+5kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1047",
+      "price_60d_low": 7520,
+      "price_60d_typical": 7520,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '아인스 닥터밀리브 볶은렌틸콩 360g' 1개 · 같은 상품 판정: 브랜드 밀리브, 규격 [360.0], 개수 1. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122679398",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122679398&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1048",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(밀리브 볶은 병아리콩 360g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%80%EB%A6%AC%EB%B8%8C+%EB%B3%B6%EC%9D%80+%EB%B3%91%EC%95%84%EB%A6%AC%EC%BD%A9+360g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0669",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(압구정본가불닭발 숯불 무뼈 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%95%EA%B5%AC%EC%A0%95%EB%B3%B8%EA%B0%80%EB%B6%88%EB%8B%AD%EB%B0%9C+%EC%88%AF%EB%B6%88+%EB%AC%B4%EB%BC%88+250g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0345",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무배 간편하게 건강을~ 5ml*30개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EB%B0%B0+%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C+%EA%B1%B4%EA%B0%95%EC%9D%84~+5ml%2A30%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0788",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통방식으로 만드는 콩알콩알)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%BD%A9%EC%95%8C%EC%BD%A9%EC%95%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0375",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스마트바이오 락토 모유)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B0%94%EC%9D%B4%EC%98%A4+%EB%9D%BD%ED%86%A0+%EB%AA%A8%EC%9C%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0246",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해담는집 참깨 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%8B%B4%EB%8A%94%EC%A7%91+%EC%B0%B8%EA%B9%A8+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0006",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 모과포도즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%EB%AA%A8%EA%B3%BC%ED%8F%AC%EB%8F%84%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0362",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(작두콩차 볶은작두콩 말린작두 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%91%EB%91%90%EC%BD%A9%EC%B0%A8+%EB%B3%B6%EC%9D%80%EC%9E%91%EB%91%90%EC%BD%A9+%EB%A7%90%EB%A6%B0%EC%9E%91%EB%91%90+120g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0383",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(양파장 세트)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%96%91%ED%8C%8C%EC%9E%A5+%EC%84%B8%ED%8A%B8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0204",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 고로쇠된장 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EA%B3%A0%EB%A1%9C%EC%87%A0%EB%90%9C%EC%9E%A5+2kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0266",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해늘식품 HACCP 고춧가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%8A%98%EC%8B%9D%ED%92%88+HACCP+%EA%B3%A0%EC%B6%A7%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0445",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(먹어서 약이되는 약선)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A8%B9%EC%96%B4%EC%84%9C+%EC%95%BD%EC%9D%B4%EB%90%98%EB%8A%94+%EC%95%BD%EC%84%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0609",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프리본 볶음용 지리멸치 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A6%AC%EB%B3%B8+%EB%B3%B6%EC%9D%8C%EC%9A%A9+%EC%A7%80%EB%A6%AC%EB%A9%B8%EC%B9%98+300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0942",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무농약 현미로 만든)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%EB%86%8D%EC%95%BD+%ED%98%84%EB%AF%B8%EB%A1%9C+%EB%A7%8C%EB%93%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0330",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(윤선애선인장 110ml*30포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A4%EC%84%A0%EC%95%A0%EC%84%A0%EC%9D%B8%EC%9E%A5+110ml%2A30%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0557",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무화담 청무화과 키위잼 220g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%ED%99%94%EB%8B%B4+%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC+%ED%82%A4%EC%9C%84%EC%9E%BC+220g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0211",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 천년초즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%B2%9C%EB%85%84%EC%B4%88%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0716",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(조청 현미강정 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A1%B0%EC%B2%AD+%ED%98%84%EB%AF%B8%EA%B0%95%EC%A0%95+150g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0216",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(태양활전복 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%83%9C%EC%96%91%ED%99%9C%EC%A0%84%EB%B3%B5+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0760",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한올레 갈치살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%98%AC%EB%A0%88+%EA%B0%88%EC%B9%98%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0864",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(칵테일 흰다리 새우살 900g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%B5%ED%85%8C%EC%9D%BC+%ED%9D%B0%EB%8B%A4%EB%A6%AC+%EC%83%88%EC%9A%B0%EC%82%B4+900g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0694",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(조청 쌀보리강정 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A1%B0%EC%B2%AD+%EC%8C%80%EB%B3%B4%EB%A6%AC%EA%B0%95%EC%A0%95+150g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0155",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저온압착 어무이 참기름 들기름세트300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%96%B4%EB%AC%B4%EC%9D%B4+%EC%B0%B8%EA%B8%B0%EB%A6%84+%EB%93%A4%EA%B8%B0%EB%A6%84%EC%84%B8%ED%8A%B8300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0296",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모란향가 저온압착 참기름 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EB%9E%80%ED%96%A5%EA%B0%80+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%B0%B8%EA%B8%B0%EB%A6%84+250ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0794",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(the 고소한 현미/백미)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=the+%EA%B3%A0%EC%86%8C%ED%95%9C+%ED%98%84%EB%AF%B8%2F%EB%B0%B1%EB%AF%B8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0174",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 찹쌀고추장 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EC%B0%B9%EC%8C%80%EA%B3%A0%EC%B6%94%EC%9E%A5+2kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0200",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저온착유 어무이참기름+들기름세트180ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%EC%98%A8%EC%B0%A9%EC%9C%A0+%EC%96%B4%EB%AC%B4%EC%9D%B4%EC%B0%B8%EA%B8%B0%EB%A6%84%2B%EB%93%A4%EA%B8%B0%EB%A6%84%EC%84%B8%ED%8A%B8180ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0470",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(가성비 끝판왕! 심쿵 2kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%80%EC%84%B1%EB%B9%84+%EB%81%9D%ED%8C%90%EC%99%95%21+%EC%8B%AC%EC%BF%B5+2kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1070",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리조 쌀파스타 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%A1%B0+%EC%8C%80%ED%8C%8C%EC%8A%A4%ED%83%80+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1071",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리조 현미파스타 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%A1%B0+%ED%98%84%EB%AF%B8%ED%8C%8C%EC%8A%A4%ED%83%80+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1072",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리조 시금치파스타 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%A1%B0+%EC%8B%9C%EA%B8%88%EC%B9%98%ED%8C%8C%EC%8A%A4%ED%83%80+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1073",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리조 비트파스타 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%A1%B0+%EB%B9%84%ED%8A%B8%ED%8C%8C%EC%8A%A4%ED%83%80+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1074",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리조 강황파스타 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%EC%A1%B0+%EA%B0%95%ED%99%A9%ED%8C%8C%EC%8A%A4%ED%83%80+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0320",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고소미 어무이볶은참깨150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%86%8C%EB%AF%B8+%EC%96%B4%EB%AC%B4%EC%9D%B4%EB%B3%B6%EC%9D%80%EC%B0%B8%EA%B9%A8150g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0288",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저온으로 단 한 들기름300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%EC%98%A8%EC%9C%BC%EB%A1%9C+%EB%8B%A8+%ED%95%9C+%EB%93%A4%EA%B8%B0%EB%A6%84300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0161",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(전통한식 고로쇠된장 3kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%84%ED%86%B5%ED%95%9C%EC%8B%9D+%EA%B3%A0%EB%A1%9C%EC%87%A0%EB%90%9C%EC%9E%A5+3kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0878",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(현미팩토리 우리곡물 현미팡 12g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%84%EB%AF%B8%ED%8C%A9%ED%86%A0%EB%A6%AC+%EC%9A%B0%EB%A6%AC%EA%B3%A1%EB%AC%BC+%ED%98%84%EB%AF%B8%ED%8C%A1+12g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0880",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엔젤베이커리 통밀 피타 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%94%EC%A0%A4%EB%B2%A0%EC%9D%B4%EC%BB%A4%EB%A6%AC+%ED%86%B5%EB%B0%80+%ED%94%BC%ED%83%80+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0999",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(울릉도 명이 김치 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9A%B8%EB%A6%89%EB%8F%84+%EB%AA%85%EC%9D%B4+%EA%B9%80%EC%B9%98+800g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0003",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청무화과 발효 식초 220ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC+%EB%B0%9C%ED%9A%A8+%EC%8B%9D%EC%B4%88+220ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0042",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무화담 황칠 금빛황차)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%ED%99%94%EB%8B%B4+%ED%99%A9%EC%B9%A0+%EA%B8%88%EB%B9%9B%ED%99%A9%EC%B0%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0226",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(맑고 깨끗한 건강한 국산참기름300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A7%91%EA%B3%A0+%EA%B9%A8%EB%81%97%ED%95%9C+%EA%B1%B4%EA%B0%95%ED%95%9C+%EA%B5%AD%EC%82%B0%EC%B0%B8%EA%B8%B0%EB%A6%84300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0725",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한올레 특대 갈치)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%98%AC%EB%A0%88+%ED%8A%B9%EB%8C%80+%EA%B0%88%EC%B9%98"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0732",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한올레 민어)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%98%AC%EB%A0%88+%EB%AF%BC%EC%96%B4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0766",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한올레 특대 고등어살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%98%AC%EB%A0%88+%ED%8A%B9%EB%8C%80+%EA%B3%A0%EB%93%B1%EC%96%B4%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0122",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(윤선애선인장 와송추출액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A4%EC%84%A0%EC%95%A0%EC%84%A0%EC%9D%B8%EC%9E%A5+%EC%99%80%EC%86%A1%EC%B6%94%EC%B6%9C%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0830",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(약선 천연조미료)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%BD%EC%84%A0+%EC%B2%9C%EC%97%B0%EC%A1%B0%EB%AF%B8%EB%A3%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0194",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(모란향가 저온압착 참기름 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%A8%EB%9E%80%ED%96%A5%EA%B0%80+%EC%A0%80%EC%98%A8%EC%95%95%EC%B0%A9+%EC%B0%B8%EA%B8%B0%EB%A6%84+250ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0292",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 칡즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%B9%A1%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0551",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무화담 프리저브 청무화과잼 220g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%ED%99%94%EB%8B%B4+%ED%94%84%EB%A6%AC%EC%A0%80%EB%B8%8C+%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC%EC%9E%BC+220g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0193",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무화담 청무화과즙 100mlx30포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%ED%99%94%EB%8B%B4+%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC%EC%A6%99+100mlx30%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0022",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 유기농와인 뜨락에 750ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%99%80%EC%9D%B8+%EB%9C%A8%EB%9D%BD%EC%97%90+750ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0050",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이풀 말린 오디열매 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%92%80+%EB%A7%90%EB%A6%B0+%EC%98%A4%EB%94%94%EC%97%B4%EB%A7%A4+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0069",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼계탕과 찰떡궁합, GAP 60g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EA%B3%84%ED%83%95%EA%B3%BC+%EC%B0%B0%EB%96%A1%EA%B6%81%ED%95%A9%2C+GAP+60g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0070",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통으로 말려 더 60g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%EC%9C%BC%EB%A1%9C+%EB%A7%90%EB%A0%A4+%EB%8D%94+60g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0084",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이풀 채수팩)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%92%80+%EC%B1%84%EC%88%98%ED%8C%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0089",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(토종 생강을 그대로 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%A0%EC%A2%85+%EC%83%9D%EA%B0%95%EC%9D%84+%EA%B7%B8%EB%8C%80%EB%A1%9C+90g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0092",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올라브코리아 올라브카스틸 수제비누 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%9D%BC%EB%B8%8C%EC%BD%94%EB%A6%AC%EC%95%84+%EC%98%AC%EB%9D%BC%EB%B8%8C%EC%B9%B4%EC%8A%A4%ED%8B%B8+%EC%88%98%EC%A0%9C%EB%B9%84%EB%88%84+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0094",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(갱년기 건강에 도움되는 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%B1%EB%85%84%EA%B8%B0+%EA%B1%B4%EA%B0%95%EC%97%90+%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0104",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이풀 자연산 복분자 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%92%80+%EC%9E%90%EC%97%B0%EC%82%B0+%EB%B3%B5%EB%B6%84%EC%9E%90+50g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0108",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(뼈를 튼튼하게 이풀 150g()에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%BC%88%EB%A5%BC+%ED%8A%BC%ED%8A%BC%ED%95%98%EA%B2%8C+%EC%9D%B4%ED%92%80+150g%28"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0117",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(숙취해소에 도움되는 이풀 70g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%99%EC%B7%A8%ED%95%B4%EC%86%8C%EC%97%90+%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94+%EC%9D%B4%ED%92%80+70g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0118",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이풀 GAP인증 당귀 60g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%92%80+GAP%EC%9D%B8%EC%A6%9D+%EB%8B%B9%EA%B7%80+60g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0119",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이풀 약도라지 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%92%80+%EC%95%BD%EB%8F%84%EB%9D%BC%EC%A7%80+50g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0120",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(속을 평안하게, 이풀 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8D%EC%9D%84+%ED%8F%89%EC%95%88%ED%95%98%EA%B2%8C%2C+%EC%9D%B4%ED%92%80+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0154",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(명품본가 수제한우떡갈비 고급형 1.36kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%85%ED%92%88%EB%B3%B8%EA%B0%80+%EC%88%98%EC%A0%9C%ED%95%9C%EC%9A%B0%EB%96%A1%EA%B0%88%EB%B9%84+%EA%B3%A0%EA%B8%89%ED%98%95+1.36kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0157",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(경주생약 산삼공본단 3.75gx30환)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B2%BD%EC%A3%BC%EC%83%9D%EC%95%BD+%EC%82%B0%EC%82%BC%EA%B3%B5%EB%B3%B8%EB%8B%A8+3.75gx30%ED%99%98"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0169",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(발효 차전차피 식이섬유)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%9C%ED%9A%A8+%EC%B0%A8%EC%A0%84%EC%B0%A8%ED%94%BC+%EC%8B%9D%EC%9D%B4%EC%84%AC%EC%9C%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0170",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상쾌한 굿모닝 쾌변엔)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%BE%8C%ED%95%9C+%EA%B5%BF%EB%AA%A8%EB%8B%9D+%EC%BE%8C%EB%B3%80%EC%97%94"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0180",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(250gx2통 엄마애손 무농약 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=250gx2%ED%86%B5+%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EB%AC%B4%EB%86%8D%EC%95%BD+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0181",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(황제실록 장어 품은)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%A9%EC%A0%9C%EC%8B%A4%EB%A1%9D+%EC%9E%A5%EC%96%B4+%ED%92%88%EC%9D%80"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0186",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 유기농와인 뜨락에 750ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%99%80%EC%9D%B8+%EB%9C%A8%EB%9D%BD%EC%97%90+750ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0188",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(참녹용 보위골드 경북농축산영농조합)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B0%B8%EB%85%B9%EC%9A%A9+%EB%B3%B4%EC%9C%84%EA%B3%A8%EB%93%9C+%EA%B2%BD%EB%B6%81%EB%86%8D%EC%B6%95%EC%82%B0%EC%98%81%EB%86%8D%EC%A1%B0%ED%95%A9"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0189",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 와송즙 진액)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%EC%99%80%EC%86%A1%EC%A6%99+%EC%A7%84%EC%95%A1"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0197",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(명품본가 수제한우떡갈비 실속형 1.02kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AA%85%ED%92%88%EB%B3%B8%EA%B0%80+%EC%88%98%EC%A0%9C%ED%95%9C%EC%9A%B0%EB%96%A1%EA%B0%88%EB%B9%84+%EC%8B%A4%EC%86%8D%ED%98%95+1.02kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0215",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 와인초 오디차)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%EC%99%80%EC%9D%B8%EC%B4%88+%EC%98%A4%EB%94%94%EC%B0%A8"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0221",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(약국전용 오스틴제약 닥터)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%BD%EA%B5%AD%EC%A0%84%EC%9A%A9+%EC%98%A4%EC%8A%A4%ED%8B%B4%EC%A0%9C%EC%95%BD+%EB%8B%A5%ED%84%B0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0231",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청춘불판 막창 닭발)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%B6%98%EB%B6%88%ED%8C%90+%EB%A7%89%EC%B0%BD+%EB%8B%AD%EB%B0%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0241",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(지리산마천농협 마가목 침향)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%80%EB%A6%AC%EC%82%B0%EB%A7%88%EC%B2%9C%EB%86%8D%ED%98%91+%EB%A7%88%EA%B0%80%EB%AA%A9+%EC%B9%A8%ED%96%A5"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0248",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올라브코리아 천연 오렌지/버섯/레몬/바질/갈릭/칠리 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%9D%BC%EB%B8%8C%EC%BD%94%EB%A6%AC%EC%95%84+%EC%B2%9C%EC%97%B0+%EC%98%A4%EB%A0%8C%EC%A7%80%2F%EB%B2%84%EC%84%AF%2F%EB%A0%88%EB%AA%AC%2F%EB%B0%94%EC%A7%88%2F%EA%B0%88%EB%A6%AD%2F%EC%B9%A0%EB%A6%AC+250ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0249",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(사과 초모식초생초 사과/파인애플/석류 1000mL)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%AC%EA%B3%BC+%EC%B4%88%EB%AA%A8%EC%8B%9D%EC%B4%88%EC%83%9D%EC%B4%88+%EC%82%AC%EA%B3%BC%2F%ED%8C%8C%EC%9D%B8%EC%95%A0%ED%94%8C%2F%EC%84%9D%EB%A5%98+1000mL"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0251",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(엄마애손 토종 흰민들레즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%84%EB%A7%88%EC%95%A0%EC%86%90+%ED%86%A0%EC%A2%85+%ED%9D%B0%EB%AF%BC%EB%93%A4%EB%A0%88%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0255",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바우뜨락 흰민들레즙)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EC%9A%B0%EB%9C%A8%EB%9D%BD+%ED%9D%B0%EB%AF%BC%EB%93%A4%EB%A0%88%EC%A6%99"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0262",
+      "price_60d_low": 33250,
+      "price_60d_typical": 33990,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), '씨드네이처 식물성 저분자 콜라겐 젤리 20g 15포' 1개 · 같은 상품 판정: 브랜드 씨드네이처, 규격 [20.0], 개수 15. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=97355738",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=97355738&period=3"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0307",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(샤인프레시 샤인머스캣 탄산주스 230ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%A4%EC%9D%B8%ED%94%84%EB%A0%88%EC%8B%9C+%EC%83%A4%EC%9D%B8%EB%A8%B8%EC%8A%A4%EC%BA%A3+%ED%83%84%EC%82%B0%EC%A3%BC%EC%8A%A4+230ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0311",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(건당소 오븐에 두번구운)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B1%B4%EB%8B%B9%EC%86%8C+%EC%98%A4%EB%B8%90%EC%97%90+%EB%91%90%EB%B2%88%EA%B5%AC%EC%9A%B4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0316",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(통증완화 마사지크림 큐리씬)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%86%B5%EC%A6%9D%EC%99%84%ED%99%94+%EB%A7%88%EC%82%AC%EC%A7%80%ED%81%AC%EB%A6%BC+%ED%81%90%EB%A6%AC%EC%94%AC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0322",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(무화담 청무화과즙 100mlx15포)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%AC%B4%ED%99%94%EB%8B%B4+%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC%EC%A6%99+100mlx15%ED%8F%AC"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0334",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(옻가네 로얄 자연을)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%BB%EA%B0%80%EB%84%A4+%EB%A1%9C%EC%96%84+%EC%9E%90%EC%97%B0%EC%9D%84"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0335",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(옻가네 로얄 자연을)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%BB%EA%B0%80%EB%84%A4+%EB%A1%9C%EC%96%84+%EC%9E%90%EC%97%B0%EC%9D%84"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0342",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저탄소 유기농쌀 하이아미 4kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%ED%83%84%EC%86%8C+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%8C%80+%ED%95%98%EC%9D%B4%EC%95%84%EB%AF%B8+4kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0364",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(msm 플러스 /엠에스엠)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=msm+%ED%94%8C%EB%9F%AC%EC%8A%A4+%2F%EC%97%A0%EC%97%90%EC%8A%A4%EC%97%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0376",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청무화과 천연파우더 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC+%EC%B2%9C%EC%97%B0%ED%8C%8C%EC%9A%B0%EB%8D%94+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0377",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리틀앤마더 착즙 레몬생강즙 20g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%ED%8B%80%EC%95%A4%EB%A7%88%EB%8D%94+%EC%B0%A9%EC%A6%99+%EB%A0%88%EB%AA%AC%EC%83%9D%EA%B0%95%EC%A6%99+20g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0385",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(약콩흑보리차 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%BD%EC%BD%A9%ED%9D%91%EB%B3%B4%EB%A6%AC%EC%B0%A8+3g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0386",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청정 이팥차 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EC%A0%95+%EC%9D%B4%ED%8C%A5%EC%B0%A8+3g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0387",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(귤피대추씨앗차 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%A4%ED%94%BC%EB%8C%80%EC%B6%94%EC%94%A8%EC%95%97%EC%B0%A8+3g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0388",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(하얀 작두콩알차 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%98%EC%96%80+%EC%9E%91%EB%91%90%EC%BD%A9%EC%95%8C%EC%B0%A8+3g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0389",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(순수 자색돼지감자차 3g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%88%9C%EC%88%98+%EC%9E%90%EC%83%89%EB%8F%BC%EC%A7%80%EA%B0%90%EC%9E%90%EC%B0%A8+3g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0390",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(눈밝이 결명자차 2g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%88%88%EB%B0%9D%EC%9D%B4+%EA%B2%B0%EB%AA%85%EC%9E%90%EC%B0%A8+2g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0401",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(리틀앤마더 착즙 레몬자몽즙 20g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A6%AC%ED%8B%80%EC%95%A4%EB%A7%88%EB%8D%94+%EC%B0%A9%EC%A6%99+%EB%A0%88%EB%AA%AC%EC%9E%90%EB%AA%BD%EC%A6%99+20g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0412",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달콤한인생 홍도라지청 280g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%BD%A4%ED%95%9C%EC%9D%B8%EC%83%9D+%ED%99%8D%EB%8F%84%EB%9D%BC%EC%A7%80%EC%B2%AD+280g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0416",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(금빛황차 선물박스)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%88%EB%B9%9B%ED%99%A9%EC%B0%A8+%EC%84%A0%EB%AC%BC%EB%B0%95%EC%8A%A4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0439",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달콤한인생 생강청 280g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%BD%A4%ED%95%9C%EC%9D%B8%EC%83%9D+%EC%83%9D%EA%B0%95%EC%B2%AD+280g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0449",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(샤인프레시 샤인머스캣 착즙주스 120ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%A4%EC%9D%B8%ED%94%84%EB%A0%88%EC%8B%9C+%EC%83%A4%EC%9D%B8%EB%A8%B8%EC%8A%A4%EC%BA%A3+%EC%B0%A9%EC%A6%99%EC%A3%BC%EC%8A%A4+120ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0485",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(칼로리 줄인 라구 330g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B9%BC%EB%A1%9C%EB%A6%AC+%EC%A4%84%EC%9D%B8+%EB%9D%BC%EA%B5%AC+330g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0487",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(천년미인 다시마초 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%9C%EB%85%84%EB%AF%B8%EC%9D%B8+%EB%8B%A4%EC%8B%9C%EB%A7%88%EC%B4%88+300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0488",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달콤한인생 대추청 280g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%BD%A4%ED%95%9C%EC%9D%B8%EC%83%9D+%EB%8C%80%EC%B6%94%EC%B2%AD+280g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0501",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바비비 갈아만든 레몬에이드 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%B9%84%EB%B9%84+%EA%B0%88%EC%95%84%EB%A7%8C%EB%93%A0+%EB%A0%88%EB%AA%AC%EC%97%90%EC%9D%B4%EB%93%9C+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0502",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(더찬가 고추장 매실장아찌 300g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8D%94%EC%B0%AC%EA%B0%80+%EA%B3%A0%EC%B6%94%EC%9E%A5+%EB%A7%A4%EC%8B%A4%EC%9E%A5%EC%95%84%EC%B0%8C+300g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0504",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달콤한인생 수수조청 280g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%BD%A4%ED%95%9C%EC%9D%B8%EC%83%9D+%EC%88%98%EC%88%98%EC%A1%B0%EC%B2%AD+280g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0523",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생생초 자연발효한 유기농현미식초 800mL)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EC%83%9D%EC%B4%88+%EC%9E%90%EC%97%B0%EB%B0%9C%ED%9A%A8%ED%95%9C+%EC%9C%A0%EA%B8%B0%EB%86%8D%ED%98%84%EB%AF%B8%EC%8B%9D%EC%B4%88+800mL"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0547",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(베트남 고운 고추가루 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B2%A0%ED%8A%B8%EB%82%A8+%EA%B3%A0%EC%9A%B4+%EA%B3%A0%EC%B6%94%EA%B0%80%EB%A3%A8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0550",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프로폴리스 캔디 제주 114g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4+%EC%BA%94%EB%94%94+%EC%A0%9C%EC%A3%BC+114g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0553",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저탄소 유기농쌀 홍미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%ED%83%84%EC%86%8C+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%8C%80+%ED%99%8D%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0554",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(이풀 백수오 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%B4%ED%92%80+%EB%B0%B1%EC%88%98%EC%98%A4+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0561",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부안댁 참기름과 들기름 300ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EC%95%88%EB%8C%81+%EC%B0%B8%EA%B8%B0%EB%A6%84%EA%B3%BC+%EB%93%A4%EA%B8%B0%EB%A6%84+300ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0566",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(황매실청 하동 지리산 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%A9%EB%A7%A4%EC%8B%A4%EC%B2%AD+%ED%95%98%EB%8F%99+%EC%A7%80%EB%A6%AC%EC%82%B0+1L"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0568",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(생생초 자연발효한 사과식초 800mL)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%9D%EC%83%9D%EC%B4%88+%EC%9E%90%EC%97%B0%EB%B0%9C%ED%9A%A8%ED%95%9C+%EC%82%AC%EA%B3%BC%EC%8B%9D%EC%B4%88+800mL"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0577",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(스마트바이오 락토 모유)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%B0%94%EC%9D%B4%EC%98%A4+%EB%9D%BD%ED%86%A0+%EB%AA%A8%EC%9C%A0"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0579",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(저탄소 유기농쌀 찰흑미 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A0%80%ED%83%84%EC%86%8C+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%8C%80+%EC%B0%B0%ED%9D%91%EB%AF%B8+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0581",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(변산 참나무 건조 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%80%EC%82%B0+%EC%B0%B8%EB%82%98%EB%AC%B4+%EA%B1%B4%EC%A1%B0+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0582",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(변산 참나무 건표고버섯 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%80%EC%82%B0+%EC%B0%B8%EB%82%98%EB%AC%B4+%EA%B1%B4%ED%91%9C%EA%B3%A0%EB%B2%84%EC%84%AF+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0584",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(달콤한인생 현미조청 460g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%AC%EC%BD%A4%ED%95%9C%EC%9D%B8%EC%83%9D+%ED%98%84%EB%AF%B8%EC%A1%B0%EC%B2%AD+460g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0589",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(황토가마에 구운 해물맛 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%99%A9%ED%86%A0%EA%B0%80%EB%A7%88%EC%97%90+%EA%B5%AC%EC%9A%B4+%ED%95%B4%EB%AC%BC%EB%A7%9B+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0602",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(올라브코리아 천연 오렌지/버섯/레몬/바질/갈릭/칠리/커피 50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%98%AC%EB%9D%BC%EB%B8%8C%EC%BD%94%EB%A6%AC%EC%95%84+%EC%B2%9C%EC%97%B0+%EC%98%A4%EB%A0%8C%EC%A7%80%2F%EB%B2%84%EC%84%AF%2F%EB%A0%88%EB%AA%AC%2F%EB%B0%94%EC%A7%88%2F%EA%B0%88%EB%A6%AD%2F%EC%B9%A0%EB%A6%AC%2F%EC%BB%A4%ED%94%BC+50ml"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0603",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(바비비 실제로 판매하고있는 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B0%94%EB%B9%84%EB%B9%84+%EC%8B%A4%EC%A0%9C%EB%A1%9C+%ED%8C%90%EB%A7%A4%ED%95%98%EA%B3%A0%EC%9E%88%EB%8A%94+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0620",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(다솔직화구이 닭목살 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A4%EC%86%94%EC%A7%81%ED%99%94%EA%B5%AC%EC%9D%B4+%EB%8B%AD%EB%AA%A9%EC%82%B4+250g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0623",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(유기농콩으로 만든 초코콩 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%BD%A9%EC%9C%BC%EB%A1%9C+%EB%A7%8C%EB%93%A0+%EC%B4%88%EC%BD%94%EC%BD%A9+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0643",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(곰탕의정석 닭곰탕 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B0%ED%83%95%EC%9D%98%EC%A0%95%EC%84%9D+%EB%8B%AD%EA%B3%B0%ED%83%95+400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0651",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청무화과 분말 50g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC+%EB%B6%84%EB%A7%90+50g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0670",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청무화과 천연파우더 30g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%AC%B4%ED%99%94%EA%B3%BC+%EC%B2%9C%EC%97%B0%ED%8C%8C%EC%9A%B0%EB%8D%94+30g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0678",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(뚱자언니 미국산 대왕 800g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%9A%B1%EC%9E%90%EC%96%B8%EB%8B%88+%EB%AF%B8%EA%B5%AD%EC%82%B0+%EB%8C%80%EC%99%95+800g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0687",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(웰트릿 케일퀸 유기농인증 1g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%B0%ED%8A%B8%EB%A6%BF+%EC%BC%80%EC%9D%BC%ED%80%B8+%EC%9C%A0%EA%B8%B0%EB%86%8D%EC%9D%B8%EC%A6%9D+1g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0688",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(곰탕의정석 한우고기곰탕)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B0%ED%83%95%EC%9D%98%EC%A0%95%EC%84%9D+%ED%95%9C%EC%9A%B0%EA%B3%A0%EA%B8%B0%EA%B3%B0%ED%83%95"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0689",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(곰탕의정석 한우고기곰탕 400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%B0%ED%83%95%EC%9D%98%EC%A0%95%EC%84%9D+%ED%95%9C%EC%9A%B0%EA%B3%A0%EA%B8%B0%EA%B3%B0%ED%83%95+400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0698",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고소한 볶음참깨 통깨 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%86%8C%ED%95%9C+%EB%B3%B6%EC%9D%8C%EC%B0%B8%EA%B9%A8+%ED%86%B5%EA%B9%A8+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0703",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(자연산 칡뿌리를 그대로 90g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9E%90%EC%97%B0%EC%82%B0+%EC%B9%A1%EB%BF%8C%EB%A6%AC%EB%A5%BC+%EA%B7%B8%EB%8C%80%EB%A1%9C+90g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0706",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(풀빛농장제육볶음)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%92%80%EB%B9%9B%EB%86%8D%EC%9E%A5%EC%A0%9C%EC%9C%A1%EB%B3%B6%EC%9D%8C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0710",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(31 다시마 고흥 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=31+%EB%8B%A4%EC%8B%9C%EB%A7%88+%EA%B3%A0%ED%9D%A5+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0711",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(31 미역 고흥 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=31+%EB%AF%B8%EC%97%AD+%EA%B3%A0%ED%9D%A5+100g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0733",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(샤인머스캣 발사믹 식초 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%A4%EC%9D%B8%EB%A8%B8%EC%8A%A4%EC%BA%A3+%EB%B0%9C%EC%82%AC%EB%AF%B9+%EC%8B%9D%EC%B4%88+250g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0734",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(샤인머스캣 발사믹 식초 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%A4%EC%9D%B8%EB%A8%B8%EC%8A%A4%EC%BA%A3+%EB%B0%9C%EC%82%AC%EB%AF%B9+%EC%8B%9D%EC%B4%88+250g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0736",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(국내산닭 간장순살찜닭)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B5%AD%EB%82%B4%EC%82%B0%EB%8B%AD+%EA%B0%84%EC%9E%A5%EC%88%9C%EC%82%B4%EC%B0%9C%EB%8B%AD"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0743",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(상주곶감 명품건시)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%81%EC%A3%BC%EA%B3%B6%EA%B0%90+%EB%AA%85%ED%92%88%EA%B1%B4%EC%8B%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0791",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청도홍시찰떡 60g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%8F%84%ED%99%8D%EC%8B%9C%EC%B0%B0%EB%96%A1+60g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0795",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(직접 재배한 석창포로)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A7%81%EC%A0%91+%EC%9E%AC%EB%B0%B0%ED%95%9C+%EC%84%9D%EC%B0%BD%ED%8F%AC%EB%A1%9C"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0811",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(한올레 고등어살)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%9C%EC%98%AC%EB%A0%88+%EA%B3%A0%EB%93%B1%EC%96%B4%EC%82%B4"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0821",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(호주산 블랙앵거스 양념 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%98%B8%EC%A3%BC%EC%82%B0+%EB%B8%94%EB%9E%99%EC%95%B5%EA%B1%B0%EC%8A%A4+%EC%96%91%EB%85%90+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0835",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(고소소 검은콩 미숫가루 40G*5EA)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B3%A0%EC%86%8C%EC%86%8C+%EA%B2%80%EC%9D%80%EC%BD%A9+%EB%AF%B8%EC%88%AB%EA%B0%80%EB%A3%A8+40G%2A5EA"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0900",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(다물꼬치 캠핑용 꼬치구이세트 모듬꼬치400g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A4%EB%AC%BC%EA%BC%AC%EC%B9%98+%EC%BA%A0%ED%95%91%EC%9A%A9+%EA%BC%AC%EC%B9%98%EA%B5%AC%EC%9D%B4%EC%84%B8%ED%8A%B8+%EB%AA%A8%EB%93%AC%EA%BC%AC%EC%B9%98400g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0913",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(프랑스 왕의 비누 120g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%94%84%EB%9E%91%EC%8A%A4+%EC%99%95%EC%9D%98+%EB%B9%84%EB%88%84+120g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0926",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(해담는집 고추씨 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%95%B4%EB%8B%B4%EB%8A%94%EC%A7%91+%EA%B3%A0%EC%B6%94%EC%94%A8+500g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0970",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(노랑 잡채 만두 1kg)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%85%B8%EB%9E%91+%EC%9E%A1%EC%B1%84+%EB%A7%8C%EB%91%90+1kg"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0978",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(다솔직화구이 튤립닭발 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A4%EC%86%94%EC%A7%81%ED%99%94%EA%B5%AC%EC%9D%B4+%ED%8A%A4%EB%A6%BD%EB%8B%AD%EB%B0%9C+250g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-0979",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(다솔직화구이 오돌갈비 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A4%EC%86%94%EC%A7%81%ED%99%94%EA%B5%AC%EC%9D%B4+%EC%98%A4%EB%8F%8C%EA%B0%88%EB%B9%84+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1053",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(청도 감말랭이 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%B2%AD%EB%8F%84+%EA%B0%90%EB%A7%90%EB%9E%AD%EC%9D%B4+200g"
+      ]
+    },
+    {
+      "item_id": "food-oasis-kgf-1063",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(캠핑용 꼬치구이세트 소스 퐁듀소스+슈레드치즈225g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%BA%A0%ED%95%91%EC%9A%A9+%EA%BC%AC%EC%B9%98%EA%B5%AC%EC%9D%B4%EC%84%B8%ED%8A%B8+%EC%86%8C%EC%8A%A4+%ED%90%81%EB%93%80%EC%86%8C%EC%8A%A4%2B%EC%8A%88%EB%A0%88%EB%93%9C%EC%B9%98%EC%A6%88225g"
+      ]
+    }
+  ]
+}

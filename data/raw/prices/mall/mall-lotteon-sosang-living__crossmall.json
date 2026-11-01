@@ -1,0 +1,808 @@
+{
+  "category": "mall",
+  "source_id": "mall-lotteon-sosang-living",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "mall-lotteon-sosang-living-0083",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(알로에베라 모기 벌레물린데 아물디액50ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%95%8C%EB%A1%9C%EC%97%90%EB%B2%A0%EB%9D%BC+%EB%AA%A8%EA%B8%B0+%EB%B2%8C%EB%A0%88%EB%AC%BC%EB%A6%B0%EB%8D%B0+%EC%95%84%EB%AC%BC%EB%94%94%EC%95%A150ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0221",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(casavacia 더센트오브페이지 룸스프레이 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=casavacia+%EB%8D%94%EC%84%BC%ED%8A%B8%EC%98%A4%EB%B8%8C%ED%8E%98%EC%9D%B4%EC%A7%80+%EB%A3%B8%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0222",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(casavacia 소바쥬 룸스프레이 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=casavacia+%EC%86%8C%EB%B0%94%EC%A5%AC+%EB%A3%B8%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0223",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(casavacia 미모사앤카다멈 룸스프레이 250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=casavacia+%EB%AF%B8%EB%AA%A8%EC%82%AC%EC%95%A4%EC%B9%B4%EB%8B%A4%EB%A9%88+%EB%A3%B8%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4+250ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0226",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(casavacia 카모 디퓨저 125ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=casavacia+%EC%B9%B4%EB%AA%A8+%EB%94%94%ED%93%A8%EC%A0%80+125ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0227",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(casavacia 어나더 디퓨저 125ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=casavacia+%EC%96%B4%EB%82%98%EB%8D%94+%EB%94%94%ED%93%A8%EC%A0%80+125ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0228",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(casavacia 탐다오 디퓨저 125ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=casavacia+%ED%83%90%EB%8B%A4%EC%98%A4+%EB%94%94%ED%93%A8%EC%A0%80+125ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0076",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(닥터프로텍터 프로폴리스 구강스프레이 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A5%ED%84%B0%ED%94%84%EB%A1%9C%ED%85%8D%ED%84%B0+%ED%94%84%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4+%EA%B5%AC%EA%B0%95%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0371",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(닥터프로텍터 프로폴리스 구강스프레이 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%8B%A5%ED%84%B0%ED%94%84%EB%A1%9C%ED%85%8D%ED%84%B0+%ED%94%84%EB%A1%9C%ED%8F%B4%EB%A6%AC%EC%8A%A4+%EA%B5%AC%EA%B0%95%EC%8A%A4%ED%94%84%EB%A0%88%EC%9D%B4+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0082",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 송월타월 뉴컬러무지 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%EC%86%A1%EC%9B%94%ED%83%80%EC%9B%94+%EB%89%B4%EC%BB%AC%EB%9F%AC%EB%AC%B4%EC%A7%80+150g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 소독용 에탄올4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EC%86%8C%EB%8F%85%EC%9A%A9+%EC%97%90%ED%83%84%EC%98%AC4L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0093",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 세니피아 에코소닉 5L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EC%84%B8%EB%8B%88%ED%94%BC%EC%95%84+%EC%97%90%EC%BD%94%EC%86%8C%EB%8B%89+5L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0097",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 그린 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EA%B7%B8%EB%A6%B0+1L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0129",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 살균소독제 과산화수소수18L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EC%82%B4%EA%B7%A0%EC%86%8C%EB%8F%85%EC%A0%9C+%EA%B3%BC%EC%82%B0%ED%99%94%EC%88%98%EC%86%8C%EC%88%9818L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0130",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 소독용 에탄올1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EC%86%8C%EB%8F%85%EC%9A%A9+%EC%97%90%ED%83%84%EC%98%AC1L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0131",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 소독용 에탄올4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EC%86%8C%EB%8F%85%EC%9A%A9+%EC%97%90%ED%83%84%EC%98%AC4L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0165",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 하진 정제수 20L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%ED%95%98%EC%A7%84+%EC%A0%95%EC%A0%9C%EC%88%98+20L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0178",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(신신제약 에어파스 뿌리는 200ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%8B%A0%EC%8B%A0%EC%A0%9C%EC%95%BD+%EC%97%90%EC%96%B4%ED%8C%8C%EC%8A%A4+%EB%BF%8C%EB%A6%AC%EB%8A%94+200ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0179",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(그린 그린제약 소독용 1L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B7%B8%EB%A6%B0+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EC%86%8C%EB%8F%85%EC%9A%A9+1L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0209",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 그린 100ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EA%B7%B8%EB%A6%B0+100ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0258",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(cbd가구 BD 포쉬플러시 10ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=cbd%EA%B0%80%EA%B5%AC+BD+%ED%8F%AC%EC%89%AC%ED%94%8C%EB%9F%AC%EC%8B%9C+10ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0259",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(cbd가구 BD 포쉬플러시 3ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=cbd%EA%B0%80%EA%B5%AC+BD+%ED%8F%AC%EC%89%AC%ED%94%8C%EB%9F%AC%EC%8B%9C+3ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0352",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 BNG 밴드골드 12ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+BNG+%EB%B0%B4%EB%93%9C%EA%B3%A8%EB%93%9C+12ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0403",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 다나 소독용 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EB%8B%A4%EB%82%98+%EC%86%8C%EB%8F%85%EC%9A%A9+4L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0442",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 공간소독)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EA%B3%B5%EA%B0%84%EC%86%8C%EB%8F%85"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0448",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 다나 소독용 18L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EB%8B%A4%EB%82%98+%EC%86%8C%EB%8F%85%EC%9A%A9+18L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0452",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(메디록스 살균소독제 소독약 에스4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%A9%94%EB%94%94%EB%A1%9D%EC%8A%A4+%EC%82%B4%EA%B7%A0%EC%86%8C%EB%8F%85%EC%A0%9C+%EC%86%8C%EB%8F%85%EC%95%BD+%EC%97%90%EC%8A%A44L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0469",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 다나 소독용 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EB%8B%A4%EB%82%98+%EC%86%8C%EB%8F%85%EC%9A%A9+4L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0473",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(강화도토박이 건식 좌훈쑥 500g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B0%95%ED%99%94%EB%8F%84%ED%86%A0%EB%B0%95%EC%9D%B4+%EA%B1%B4%EC%8B%9D+%EC%A2%8C%ED%9B%88%EC%91%A5+500g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0183",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 협성 탈지면롤 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%ED%98%91%EC%84%B1+%ED%83%88%EC%A7%80%EB%A9%B4%EB%A1%A4+450g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0390",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 현대 남성소변기 1000ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%ED%98%84%EB%8C%80+%EB%82%A8%EC%84%B1%EC%86%8C%EB%B3%80%EA%B8%B0+1000ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0392",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 성심 LDS 23g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EC%84%B1%EC%8B%AC+LDS+23g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0471",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소프트터치 코마사 크리스탈 170g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98+%EC%BD%94%EB%A7%88%EC%82%AC+%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%83%88+170g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0476",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소프트터치 호텔용 대형 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98+%ED%98%B8%ED%85%94%EC%9A%A9+%EB%8C%80%ED%98%95+450g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0095",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 성심 일회용 27GX13mm)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EC%84%B1%EC%8B%AC+%EC%9D%BC%ED%9A%8C%EC%9A%A9+27GX13mm"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0190",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 그린제약 소독용 에탄올250ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EA%B7%B8%EB%A6%B0%EC%A0%9C%EC%95%BD+%EC%86%8C%EB%8F%85%EC%9A%A9+%EC%97%90%ED%83%84%EC%98%AC250ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0202",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 모우 환자용 400ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EB%AA%A8%EC%9A%B0+%ED%99%98%EC%9E%90%EC%9A%A9+400ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0169",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세이펜 레인 보우 온펜32G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B4%ED%8E%9C+%EB%A0%88%EC%9D%B8+%EB%B3%B4%EC%9A%B0+%EC%98%A8%ED%8E%9C32G"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0170",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세이펜 레인온펜 아기똥 32G+NEW)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B4%ED%8E%9C+%EB%A0%88%EC%9D%B8%EC%98%A8%ED%8E%9C+%EC%95%84%EA%B8%B0%EB%98%A5+32G%2BNEW"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0172",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(색상랜덤 덕신 손잡이 500ml / 세븐메디컬 덕신 손잡이 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%83%89%EC%83%81%EB%9E%9C%EB%8D%A4+%EB%8D%95%EC%8B%A0+%EC%86%90%EC%9E%A1%EC%9D%B4+500ml",
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EB%8D%95%EC%8B%A0+%EC%86%90%EC%9E%A1%EC%9D%B4+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0324",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세이펜 레인 보우 온펜32G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B4%ED%8E%9C+%EB%A0%88%EC%9D%B8+%EB%B3%B4%EC%9A%B0+%EC%98%A8%ED%8E%9C32G"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0325",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부천북하우스어린이서점 레인 보우 32G+NEW)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EC%B2%9C%EB%B6%81%ED%95%98%EC%9A%B0%EC%8A%A4%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%84%9C%EC%A0%90+%EB%A0%88%EC%9D%B8+%EB%B3%B4%EC%9A%B0+32G%2BNEW"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0326",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(부천북하우스어린이서점 레인보우세이펜 생활 32G+추피의)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B6%80%EC%B2%9C%EB%B6%81%ED%95%98%EC%9A%B0%EC%8A%A4%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%84%9C%EC%A0%90+%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0%EC%84%B8%EC%9D%B4%ED%8E%9C+%EC%83%9D%ED%99%9C+32G%2B%EC%B6%94%ED%94%BC%EC%9D%98"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0327",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세이펜 레인보우 핸드북+C타입충전기 32G+뛰뛰빵빵)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B4%ED%8E%9C+%EB%A0%88%EC%9D%B8%EB%B3%B4%EC%9A%B0+%ED%95%B8%EB%93%9C%EB%B6%81%2BC%ED%83%80%EC%9E%85%EC%B6%A9%EC%A0%84%EA%B8%B0+32G%2B%EB%9B%B0%EB%9B%B0%EB%B9%B5%EB%B9%B5"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0483",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(쟈니바이오 강아지 고양이)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9F%88%EB%8B%88%EB%B0%94%EC%9D%B4%EC%98%A4+%EA%B0%95%EC%95%84%EC%A7%80+%EA%B3%A0%EC%96%91%EC%9D%B4"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0420",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 216g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+216g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0402",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사삼마바이오텍 쑤욱 유기질 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%82%BC%EB%A7%88%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D+%EC%91%A4%EC%9A%B1+%EC%9C%A0%EA%B8%B0%EC%A7%88+4L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0338",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(투투스 오리진 / 100g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%88%AC%ED%88%AC%EC%8A%A4+%EC%98%A4%EB%A6%AC%EC%A7%84+%2F+100g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0015",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 송월타월 크러쉬 170g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%EC%86%A1%EC%9B%94%ED%83%80%EC%9B%94+%ED%81%AC%EB%9F%AC%EC%89%AC+170g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0080",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 송월타월 뱀부얀 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%EC%86%A1%EC%9B%94%ED%83%80%EC%9B%94+%EB%B1%80%EB%B6%80%EC%96%80+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0096",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 데일리컬러팝 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%BB%AC%EB%9F%AC%ED%8C%9D+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0110",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 호텔수건 데일리송월 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+%EB%8D%B0%EC%9D%BC%EB%A6%AC%EC%86%A1%EC%9B%94+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0196",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 225g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+225g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0197",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 238g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+238g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0401",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사삼마바이오텍 미생물 식물영양제 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EC%82%BC%EB%A7%88%EB%B0%94%EC%9D%B4%EC%98%A4%ED%85%8D+%EB%AF%B8%EC%83%9D%EB%AC%BC+%EC%8B%9D%EB%AC%BC%EC%98%81%EC%96%91%EC%A0%9C+250g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0412",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼현제약 붕사 원형 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%ED%98%84%EC%A0%9C%EC%95%BD+%EB%B6%95%EC%82%AC+%EC%9B%90%ED%98%95+180g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0422",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 225g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+225g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0424",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 230g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+230g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0538",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소프트터치 코마사 무형광 150g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98+%EC%BD%94%EB%A7%88%EC%82%AC+%EB%AC%B4%ED%98%95%EA%B4%91+150g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0039",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 송월타월 무지 160g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%EC%86%A1%EC%9B%94%ED%83%80%EC%9B%94+%EB%AC%B4%EC%A7%80+160g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0132",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 호텔컬렉션 미니바스 250g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%ED%98%B8%ED%85%94%EC%BB%AC%EB%A0%89%EC%85%98+%EB%AF%B8%EB%8B%88%EB%B0%94%EC%8A%A4+250g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0413",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼현제약 붕사 원형 180g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%ED%98%84%EC%A0%9C%EC%95%BD+%EB%B6%95%EC%82%AC+%EC%9B%90%ED%98%95+180g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0334",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세븐메디컬 덕신 손잡이 500ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EB%B8%90%EB%A9%94%EB%94%94%EC%BB%AC+%EB%8D%95%EC%8B%A0+%EC%86%90%EC%9E%A1%EC%9D%B4+500ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0177",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(웁티 텀블러 세정제)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9B%81%ED%8B%B0+%ED%85%80%EB%B8%94%EB%9F%AC+%EC%84%B8%EC%A0%95%EC%A0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0173",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사꼼빠네로홀딩스 스멜아웃 신발탈취제 150ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%EA%BC%BC%EB%B9%A0%EB%84%A4%EB%A1%9C%ED%99%80%EB%94%A9%EC%8A%A4+%EC%8A%A4%EB%A9%9C%EC%95%84%EC%9B%83+%EC%8B%A0%EB%B0%9C%ED%83%88%EC%B7%A8%EC%A0%9C+150ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0414",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(주식회사페어메이크 유사품주의 못난이 300gx10개)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC%ED%8E%98%EC%96%B4%EB%A9%94%EC%9D%B4%ED%81%AC+%EC%9C%A0%EC%82%AC%ED%92%88%EC%A3%BC%EC%9D%98+%EB%AA%BB%EB%82%9C%EC%9D%B4+300gx10%EA%B0%9C"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0405",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(에디슨 혀클리너 핑크,퍼플,블루,그린)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%97%90%EB%94%94%EC%8A%A8+%ED%98%80%ED%81%B4%EB%A6%AC%EB%84%88+%ED%95%91%ED%81%AC%2C%ED%8D%BC%ED%94%8C%2C%EB%B8%94%EB%A3%A8%2C%EA%B7%B8%EB%A6%B0"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0421",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 225g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+225g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0154",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼촌밥상 마라톤 러닝)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%EB%A7%88%EB%9D%BC%ED%86%A4+%EB%9F%AC%EB%8B%9D"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0198",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(퍼퓸위더스 부티크 오브제 150ml)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%ED%8D%BC%ED%93%B8%EC%9C%84%EB%8D%94%EC%8A%A4+%EB%B6%80%ED%8B%B0%ED%81%AC+%EC%98%A4%EB%B8%8C%EC%A0%9C+150ml"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0208",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(삼촌밥상 뽀바 걸이형 7L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%82%BC%EC%B4%8C%EB%B0%A5%EC%83%81+%EB%BD%80%EB%B0%94+%EA%B1%B8%EC%9D%B4%ED%98%95+7L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0333",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(일오상점 찜쿡 진공 4L)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%9D%BC%EC%98%A4%EC%83%81%EC%A0%90+%EC%B0%9C%EC%BF%A1+%EC%A7%84%EA%B3%B5+4L"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0423",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(보네르타올 유럽 호텔수건 230g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EB%B3%B4%EB%84%A4%EB%A5%B4%ED%83%80%EC%98%AC+%EC%9C%A0%EB%9F%BD+%ED%98%B8%ED%85%94%EC%88%98%EA%B1%B4+230g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0142",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(세이펜 세이톡 32G)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%84%B8%EC%9D%B4%ED%8E%9C+%EC%84%B8%EC%9D%B4%ED%86%A1+32G"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0194",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기라로쉬 클래시 코마 170g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EB%9D%BC%EB%A1%9C%EC%89%AC+%ED%81%B4%EB%9E%98%EC%8B%9C+%EC%BD%94%EB%A7%88+170g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0239",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소프트터치 코마사 선염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98+%EC%BD%94%EB%A7%88%EC%82%AC+%EC%84%A0%EC%97%BC+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0341",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(송월타올 신년 붉은말 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%A1%EC%9B%94%ED%83%80%EC%98%AC+%EC%8B%A0%EB%85%84+%EB%B6%89%EC%9D%80%EB%A7%90+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0370",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소프트터치 바스타월 대형수건 450g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98+%EB%B0%94%EC%8A%A4%ED%83%80%EC%9B%94+%EB%8C%80%ED%98%95%EC%88%98%EA%B1%B4+450g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0486",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(기라로쉬 울트라 코마사 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EA%B8%B0%EB%9D%BC%EB%A1%9C%EC%89%AC+%EC%9A%B8%ED%8A%B8%EB%9D%BC+%EC%BD%94%EB%A7%88%EC%82%AC+200g"
+      ]
+    },
+    {
+      "item_id": "mall-lotteon-sosang-living-0490",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(소프트터치 코마사 선염 200g)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=%EC%86%8C%ED%94%84%ED%8A%B8%ED%84%B0%EC%B9%98+%EC%BD%94%EB%A7%88%EC%82%AC+%EC%84%A0%EC%97%BC+200g"
+      ]
+    }
+  ]
+}

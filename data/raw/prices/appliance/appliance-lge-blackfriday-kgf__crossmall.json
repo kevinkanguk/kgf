@@ -1,0 +1,78 @@
+{
+  "category": "appliance",
+  "source_id": "appliance-lge-blackfriday-kgf",
+  "collected_at": "2026-11-01T04:10:03",
+  "items": [
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0107",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(lg전자 LG 울트라기어 32G650B)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=lg%EC%A0%84%EC%9E%90+LG+%EC%9A%B8%ED%8A%B8%EB%9D%BC%EA%B8%B0%EC%96%B4+32G650B"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0059",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(lg전자 LG 울트라기어 39GX950B)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=lg%EC%A0%84%EC%9E%90+LG+%EC%9A%B8%ED%8A%B8%EB%9D%BC%EA%B8%B0%EC%96%B4+39GX950B"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0164",
+      "price_60d_low": 881990,
+      "price_60d_typical": 1298440,
+      "confidence": "medium",
+      "price_history_note": "다나와 주간 최저가 9주(26-09-01~26-10-27), 'LG전자 스탠바이미2 Max 32LX6BPGA' 1개 · 같은 상품 판정: 브랜드 lg전자, 규격 [32000.0], 개수 6. 여러 판매처 중 최저가 기준",
+      "sources": [
+        "https://prod.danawa.com/info/?pcode=122632760",
+        "https://prod.danawa.com/info/ajax/getProductPriceList.ajax.php?productCode=122632760&period=3"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0016",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(lg전자 LG 울트라기어 52G930B)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=lg%EC%A0%84%EC%9E%90+LG+%EC%9A%B8%ED%8A%B8%EB%9D%BC%EA%B8%B0%EC%96%B4+52G930B"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0106",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(lg전자 LG 울트라기어 32G620B)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=lg%EC%A0%84%EC%9E%90+LG+%EC%9A%B8%ED%8A%B8%EB%9D%BC%EA%B8%B0%EC%96%B4+32G620B"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0108",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(lg전자 LG 울트라기어 32GX870B)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=lg%EC%A0%84%EC%9E%90+LG+%EC%9A%B8%ED%8A%B8%EB%9D%BC%EA%B8%B0%EC%96%B4+32GX870B"
+      ]
+    },
+    {
+      "item_id": "appliance-lge-blackfriday-kgf-0127",
+      "price_60d_low": null,
+      "price_60d_typical": null,
+      "confidence": "low",
+      "price_history_note": "이력 없음: 다나와 상품명 검색(lg전자 LG 울트라기어 27G411BW)에 같은 브랜드·규격·개수 상품 없음",
+      "sources": [
+        "https://search.danawa.com/dsearch.php?query=lg%EC%A0%84%EC%9E%90+LG+%EC%9A%B8%ED%8A%B8%EB%9D%BC%EA%B8%B0%EC%96%B4+27G411BW"
+      ]
+    }
+  ]
+}
